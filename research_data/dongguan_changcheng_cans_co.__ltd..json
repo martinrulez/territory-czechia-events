@@ -1,0 +1,103 @@
+{
+  "company_key": "dongguan changcheng cans co., ltd.",
+  "company_name": "Dongguan Changcheng Cans Co., Ltd.",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Dongguan Changcheng Cans Co., Ltd.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Dongguan Changcheng Cans Co., Ltd.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Rishe",
+        "last_name": "Yu",
+        "title": "Founder & Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Dongguan Changcheng Cans",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 76.0
+      },
+      {
+        "first_name": "Hui",
+        "last_name": "Li",
+        "title": "Manager, Quality Control",
+        "email": "lhli@crystal-cima.com.cn",
+        "phone": "",
+        "company": "Dongguan Changcheng Cans",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 86.0
+      },
+      {
+        "first_name": "Frank",
+        "last_name": "Liu",
+        "title": "Sales",
+        "email": "",
+        "phone": "",
+        "company": "Dongguan Changcheng Cans",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Aimee",
+        "last_name": "Lv",
+        "title": "Sales",
+        "email": "",
+        "phone": "",
+        "company": "Dongguan Changcheng Cans",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Molly",
+        "last_name": "Jiang",
+        "title": "Products Showroom",
+        "email": "jiangm@dgcctin.en.alibaba.com",
+        "phone": "",
+        "company": "Dongguan Changcheng Cans",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 82.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:36"
+}

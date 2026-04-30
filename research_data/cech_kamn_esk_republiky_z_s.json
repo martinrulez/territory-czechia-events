@@ -1,0 +1,81 @@
+{
+  "company_key": "cech_kamn_esk_republiky_z_s",
+  "company_name": "Cech kamnářů České republiky, z.s.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "LIBOR SOUKUP",
+        "firstName": "LIBOR",
+        "lastName": "SOUKUP",
+        "jobTitle": "Prezident",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "VÍT PEŠEK",
+        "firstName": "VÍT",
+        "lastName": "PEŠEK",
+        "jobTitle": "první viceprezident",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "TOMÁŠ JÍRA",
+        "firstName": "TOMÁŠ",
+        "lastName": "JÍRA",
+        "jobTitle": "člen rady",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "TOMÁŠ LOCHOVSKÝ",
+        "firstName": "TOMÁŠ",
+        "lastName": "LOCHOVSKÝ",
+        "jobTitle": "člen rady",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MARIE MYŠKOVÁ",
+        "firstName": "MARIE",
+        "lastName": "MYŠKOVÁ",
+        "jobTitle": "člen rady",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ONDŘEJ BRICHTA",
+        "firstName": "ONDŘEJ",
+        "lastName": "BRICHTA",
+        "jobTitle": "člen rady",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 6,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:07:12"
+}

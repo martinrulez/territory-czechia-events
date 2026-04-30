@@ -1,0 +1,212 @@
+{
+  "company_key": "scanware electronic gmbh",
+  "company_name": "scanware electronic GmbH",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "scanware electronic GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "scanware electronic GmbH",
+    "autodesk_products": [
+      "Autodesk Inventor",
+      "Vault Payment Solutions"
+    ],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "Autodesk"
+    ],
+    "total_technologies": 26,
+    "all_technologies": [
+      {
+        "product": "C++",
+        "vendor": "Standard C++ Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Vault Payment Solutions",
+        "vendor": "Vault Payment Solutions Group Pty Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Qt",
+        "vendor": "Qt",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Autodesk",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Linux",
+        "vendor": "Linux Kernel Organization",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Autodesk Inventor",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Strato",
+        "vendor": "Strato AG",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare Rocket Loader",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Joomla",
+        "vendor": "Joomla!",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "MooTools",
+        "vendor": "MooTools",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "scanware electronic GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 14:37"
+}

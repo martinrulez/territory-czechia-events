@@ -1,0 +1,41 @@
+{
+  "company_key": "bruko_technologie_s_r_o",
+  "company_name": "BRUKO TECHNOLOGIE s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JINDŘICH KOUBEK",
+        "firstName": "JINDŘICH",
+        "lastName": "KOUBEK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "LENKA ŠTANCLOVÁ",
+        "firstName": "LENKA",
+        "lastName": "ŠTANCLOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:48"
+}

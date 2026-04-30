@@ -1,0 +1,172 @@
+{
+  "company_key": "rynan technologies pte ltd",
+  "company_name": "RYNAN Technologies Pte Ltd",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "RYNAN Technologies Pte Ltd",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "RYNAN Technologies Pte Ltd",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 14,
+    "all_technologies": [
+      {
+        "product": "HubSpot Form Builder",
+        "vendor": "HubSpot, Inc",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "HubSpot",
+        "vendor": "HubSpot, Inc",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "SiteGround Email Hosting",
+        "vendor": "SiteGround Spain S.L.",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Squarespace Online Stores",
+        "vendor": "Squarespace, Inc.",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Amazon Web Hosting",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Adobe Typekit",
+        "vendor": "Adobe Inc.",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Squarespace",
+        "vendor": "Squarespace, Inc.",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "GlobalSign",
+        "vendor": "GMO Registry, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "RYNAN Technologies Pte Ltd",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Girish",
+        "last_name": "Tripathi",
+        "title": "Chief Executive Officer (Rynan Technologies India)",
+        "email": "",
+        "phone": "",
+        "company": "RYNAN Technologies",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "My",
+        "last_name": "Nguyen",
+        "title": "Founder & Chairman (Rynan Technologies Vietnam)",
+        "email": "",
+        "phone": "",
+        "company": "RYNAN Technologies",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Cuong",
+        "last_name": "Hong",
+        "title": "Technical Director",
+        "email": "hong@rynantech.com",
+        "phone": "",
+        "company": "RYNAN Technologies",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 14:36"
+}

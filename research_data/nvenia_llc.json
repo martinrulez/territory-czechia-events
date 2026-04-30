@@ -1,0 +1,356 @@
+{
+  "company_key": "nvenia llc",
+  "company_name": "nVenia LLC",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "nVenia LLC",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "nVenia LLC",
+    "autodesk_products": [],
+    "competitor_products": [
+      "Dassault Systemes",
+      "Solidworks"
+    ],
+    "cad_bim_other": [
+      "Assemble"
+    ],
+    "total_technologies": 65,
+    "all_technologies": [
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Microsoft Dynamics",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft Dynamics 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Grin",
+        "vendor": "Grin Technologies Inc",
+        "category": "Advocacy Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "ventiv",
+        "vendor": "Ventiv Technology Australia PTY Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Tor",
+        "vendor": "Tor Project, Inc",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Demand Planning",
+        "vendor": "Blue Yonder Group, Inc",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Assemble",
+        "vendor": "Autodesk, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Rockwell Automation",
+        "vendor": "Rockwell Automation Inc.",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "PanelView",
+        "vendor": "Rockwell Automation Inc.",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Ladder Logic",
+        "vendor": "Vital Systems",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Integra",
+        "vendor": "Integra Telecom",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Dassault Systemes",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "NTENT Hosting",
+        "vendor": "NTENT Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Angular 4",
+        "vendor": "Google LLC",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Solidworks",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "RSLogix",
+        "vendor": "Rockwell Automation Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft Word",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft PowerPoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Munchkin",
+        "vendor": "Marketo, Inc.",
+        "category": "Visitor Counters",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Adobe Photoshop",
+        "vendor": "Adobe Inc.",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Daily",
+        "vendor": "Daily.co.uk",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "GoDaddy DNS",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Sched",
+        "vendor": "SCHED LLC",
+        "category": "Event Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Epicor ERP",
+        "vendor": "Epicor Software Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Salesforce Service Cloud",
+        "vendor": "Salesforce, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Skype for Business",
+        "vendor": "Microsoft Corporation",
+        "category": "Unified Communications",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Paycom",
+        "vendor": "Paycom Payroll, LLC",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "ZipRecruiter",
+        "vendor": "ZipRecruiter, Inc.",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Mimecast",
+        "vendor": "Mimecast Services Limited",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Angular",
+        "vendor": "Google LLC",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "nVenia LLC",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 13:00"
+}

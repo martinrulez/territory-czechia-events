@@ -1,0 +1,353 @@
+{
+  "company_key": "koch pac-systeme gmbh",
+  "company_name": "KOCH Pac-Systeme GmbH",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "KOCH Pac-Systeme GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "KOCH Pac-Systeme GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 61,
+    "all_technologies": [
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft SQL Server",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Linux",
+        "vendor": "Linux Kernel Organization",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "SAP S/4HANA",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Setster",
+        "vendor": "Setster Inc",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zoho PageSense",
+        "vendor": "Zoho Corporation Private Limited",
+        "category": "A/B Testing",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Barracuda Email Security Gateway",
+        "vendor": "Barracuda Networks, Inc.",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Python",
+        "vendor": "Python Software Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Zoho (common)",
+        "vendor": "Zoho Corporation Private Limited",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Apache Kafka",
+        "vendor": "The Apache Software Foundation",
+        "category": "Big Data Processing",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Barracuda Networks",
+        "vendor": "Barracuda Networks, Inc.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Userlike",
+        "vendor": "Userlike UG",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "JQuery 1.11.1",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Hetzner",
+        "vendor": "Hetzner Online GmbH",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Ads",
+        "vendor": "LinkedIn Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "KOCH Pac-Systeme GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 12:52"
+}

@@ -1,0 +1,41 @@
+{
+  "company_key": "pap_rna_aloisov_a_s",
+  "company_name": "Papírna Aloisov a.s.",
+  "domain": "",
+  "events": "interpack 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ROBERT MELECKÝ",
+        "firstName": "ROBERT",
+        "lastName": "MELECKÝ",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ZUZANA MATUŠKOVÁ",
+        "firstName": "ZUZANA",
+        "lastName": "MATUŠKOVÁ",
+        "jobTitle": "Vice-Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:40:13"
+}

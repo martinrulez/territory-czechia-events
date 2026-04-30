@@ -1,0 +1,292 @@
+{
+  "company_key": "s_o_k_stavebn_s_r_o",
+  "company_name": "S.O.K. stavební, s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": true,
+    "company": "S.O.K. stavební, s.r.o.",
+    "autodesk_products": [
+      "Autodesk AutoCAD"
+    ],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 34,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "formy",
+        "vendor": "Leapy, Inc.",
+        "category": "Site Search",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Seznam",
+        "vendor": "Imedia",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Smartlook",
+        "vendor": "Smartlook",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cookie Consent",
+        "vendor": "Silktide Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Autodesk AutoCAD",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Plesk",
+        "vendor": "Plesk International GmbH",
+        "category": "Hosting Control Panels",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Bitly",
+        "vendor": "Bitly, Inc.",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Dynamic Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Ads",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cookie Script",
+        "vendor": "Objectis Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Marek Brabenec",
+        "firstName": "Marek",
+        "lastName": "Brabenec",
+        "jobTitle": "Obchodní řEditel",
+        "email": "brabenec@sok.cz",
+        "phone": "+420 568 838 828",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Paseka Jiří",
+        "firstName": "Paseka",
+        "lastName": "Jiří",
+        "jobTitle": "Sales Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Radek Karásek",
+        "firstName": "Radek",
+        "lastName": "Karásek",
+        "jobTitle": "Manažer Výroby PREFA",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Karel Trojan",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Ředitel systému a služeb ve společnosti S.O.K. stavební, s.r.o.",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.linkedin.com/company/s.o.k.-stavebn%C3%AD-s.r.o./"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "zoominfo",
+      "website"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:05:49",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.sok.cz",
+    "homepage": {
+      "title": "",
+      "description": "",
+      "text_excerpt": "webové stránky firmy SOK\nNabídka našich služeb\nPrefa\nOcel\nStavby\nStavby pro bydlení\nPůjčovna\n(telefon)\n+420 568 838 832\n(mobil)\n+420 724 540 753\n(e-mail)\nzakazka@sok.cz\nJsme lídry v oboru pokročilé železobetonové prefabrikace modulárních bytových domů\nvhodných pro developery i obecní a krajské samosprávy.\nVíce informací\nKatalog zdarma\nS.O.K. stavební s.r.o.\nJsme moderní stavební společnost, která byla založena v roce 1991 v Třebíči.\nMezi hlavní činnosti společnosti patří výstavba kompletních zemědělských a průmyslových staveb, výroba a montáž ocelových konstrukcí a výroba prefabrikovaných prvků do zemědělství.\nDále se zabýváme výstavbou montovaných rodinných i bytových domů v rámci celé České republiky.\nJsme stabilní společnost s pevným postavením na trhu a dobrou pověstí nejen v České republice, ale i na Slovensku.\nV současné době zaměstnáváme více než 260 pracovníků. Neustále rosteme a vyvíjíme se.\nVíce o společnosti"
+    },
+    "about": {
+      "url": "https://www.sok.cz/o-spolecnosti",
+      "text": "O společnosti\nHlavní strana\nO společnosti\nO společnosti\nO společnosti\nInovativními technologiemi měníme stavebnictví.\nPřinášíme skutečné řešení pro dostupné bydlení.\nŠpičkový dodavatel zemědělských staveb.\nPokračujeme v tradici od roku 1991.\nHistorie společnosti\n1991\nzaložena společnost Ing. Josef Netík – S.O.K.\n1994\nvýroba a montáž ocelových konstrukcí\n1995\nvýstavba a rekonstrukce zemědělských objektů\n1996\nstavby pro bydlení – bytové domy, občanská vybavenost\n1998\ntransformace na S.O.K. stavební, s.r.o.\n1999\nzahájena projekční činnost\n2001\nzahájena stavební činnost na Slovensku\n2005\nzaložena společnost S.O.K. real, a.s.\n2007\nvýstavba kruhových nádrží\n2013\nspolečnost zaměstnává 200 zaměstnanců\n2014\nvýroba prefabrikovaných prvků do stájí pro skot, prasata a drůbež\n2015\nvýroba a výstavba prefabrikovaných bytových domů\n2016\nvýroba a výstavba prefabrikovaných rodinných domů\n2021\nSpuštění inovativní linky pro výrobu prefabrikátů.\n2023\nUvedení\nna trh pro samosprávy.\nZaměření činnosti\ninovativní systém bytové výstavby\nvýroba\na montáž\nocelových konstrukcí včetně opláštění\nvýroba prefabrikovaných prvků\nkompletní stavby pro skot, prasata, drůbež\njímky (vlastní kruhové bednění), silážní žlaby, hnojiště\nbioplynové stanice\nprůmyslové a občanské stavby\nrekonstrukce\nSouvisející služby\nprojektování staveb – projektová dokumentace pro územní řízení a stavební povolení, prováděcí projektová dokumentace\nřízení projektů\nGarance\ndodržení stanovených termínů a odsouhlasených cen\nnavržení nejefektivnějších materiálů a konstrukcí\nuplatnění zkušeností z obdobného charakteru staveb"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.sok.cz/kontakty",
+      "text": "Kontakty\nHlavní strana\nKontakty\nKontakty\nKontakty\nNáš tým\nRecepce\ntelefon:\n+420 568 838 811\ne-mail:\nsok@sok.cz\nPersonální oddělení\ntelefon:\n+420 568 838 812\nmobil:\n+420 723 533 055\ne-mail:\npersonalista@sok.cz\nObchodní oddělení\ntelefon:\n+420 568 838 832\nmobil:\n+420 724 540 753\ne-mail:\nzakazka@sok.cz\nEkonomické oddělení\ntelefon:\n+420 568 838 815\nmobil:\n+420 606 608 313\ne-mail:\nuctarna@sok.cz\nŠkolící středisko\ntelefon:\n+420 568 838 812\nmobil:\n+420 723 533 055\ne-mail:\npersonalista@sok.cz\nPůjčovna nářadí\ntelefon:\n+420 568 838 821\nmobil:\n+420 724 090 787\ne-mail:\npujcovna@sok.cz\nProjekce\ntelefon:\n+420 568 838 832\nmobil:\n+420 724 540 753\ne-mail:\nzakazka\n@sok.cz"
+    }
+  }
+}

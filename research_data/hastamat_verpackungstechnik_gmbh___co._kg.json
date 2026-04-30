@@ -1,0 +1,175 @@
+{
+  "company_key": "hastamat verpackungstechnik gmbh + co. kg",
+  "company_name": "HASTAMAT Verpackungstechnik GmbH + Co. KG",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "HASTAMAT Verpackungstechnik GmbH + Co. KG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "HASTAMAT Verpackungstechnik GmbH + Co. KG",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 21,
+    "all_technologies": [
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Adobe FrameMaker",
+        "vendor": "Adobe Inc.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Adobe Illustrator",
+        "vendor": "Adobe Inc.",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Proofpoint",
+        "vendor": "Proofpoint, Inc.",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "HubSpot",
+        "vendor": "HubSpot, Inc",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "TYPO3 CMS",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "HASTAMAT Verpackungstechnik GmbH + Co. KG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:46"
+}

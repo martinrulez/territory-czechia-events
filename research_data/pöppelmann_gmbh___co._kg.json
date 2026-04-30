@@ -1,0 +1,376 @@
+{
+  "company_key": "pöppelmann gmbh & co. kg",
+  "company_name": "Pöppelmann GmbH & Co. KG",
+  "domain": "www.poeppelmann.com",
+  "domain_url": "https://www.poeppelmann.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Pöppelmann GmbH & Co. KG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 1870,
+    "revenue": 757398,
+    "zi_company_name": "Pöppelmann",
+    "zi_domain": "www.poeppelmann.com",
+    "zi_city": "Claremont",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.poeppelmann.com",
+    "homepage": {
+      "title": "Pöppelmann GmbH & Co. KG",
+      "description": "Gemeinsam. Möglich machen. Zukunft gestalten. Seit 1949 führendes Familienunternehmen der Kunststoffverarbeitung in Europa.",
+      "text_excerpt": "Pöppelmann GmbH & Co. KG\nJetzt.\nZukunft gestalten.\nWir entwickeln Kunststofflösungen für mehr echten Klimaschutz. Jeden Tag.\nFilm ansehen\nZUKUNFT. MACHEN. WIR.\nWir sind führender\nKunststoffverarbeiter -\nFokus: Qualität, wirtschaftlichkeit & nachhaltigkeit.\nPöppelmann, gegründet 1949 im niedersächsischen Lohne (Oldenburg), ist ein führendes Familienunternehmen in der Kunststoffverarbeitung. Wir entwickeln und produzieren hochwertige Standardprodukte und maßgeschneiderte Sonderanfertigungen für verschiedenste Branchen: Automotive, Medizintechnik, Lebensmittel, Kosmetik, Pharma und Gartenbau. Gemeinsam mit unseren 2.500 Mitarbeitenden, über 10.000 Kunden weltweit sowie hunderten Lieferanten und externen Partnern revolutionieren wir Märkte und gestalten aktiv die Zukunft – mit Lösungen, die das Klima schützen und wirtschaftlich überzeugen. Dabei setzen wir auf zukunftsweisende Technologien und verantwortungsbewussten Umgang mit Ressourcen. Besonders dann, wenn wir früh mit ins Boot geholt werden, können wir unser ganzes Können als Entwickler und Macher unter Beweis stellen.\n​​​​​​​\nZukunft.\nWir gestalten heute die Welt von morgen.\nNACHHALTIGKEIT\nMachen.\nSo entwickeln wir zukunftsfähige Lösungen.\nLÖSUNGEN\nWir.\nVom Hühnerstall zum weltweit agierenden Kunststoffverarbeiter.\nUNTERNEHMEN\nUnsere\nGeschäftsbereiche.\nUnsere Expertenteams für innovative Kunststoffkonzepte sind in den globalen Märkten der Automobil-, Medizintechnik-, Lebensmittel-, Kosmetik- und Pharmaindustrie sowie im Gartenbau tätig.\nKAPSTO\nKunststoffschutzelemente für alle Fälle.\nKAPSTO\nK-TECH\nHochpräzise Kunststoff-Spritzgussteile.\nK-TECH\nFAMAC\nFunktionsteile und modernste Verpackungen.\nFAMAC\nTEKU\nProdukte für den Erwerbsgartenbau.\nTEKU\nDabei sein,\nZukunft entsteht.\nDu suchst nicht nur einen Job, sondern ein Umfeld, in dem du wirklich etwas bewegen kannst? Bei Pöppelmann arbeiten wir gemeinsam an Lösungen für eine lebenswerte Zukunft - mit Verantwortung, Teamgeist und starken Perspektiven. Finde heraus, was wir möglich machen - und was dich bei uns erwartet.\nStellenangebote\nBeruflich weiterkommen.\nGemeinsam Zukuft gestalten.\nMehr erfahren\nArbeitgeber Pöppelmann\nArbeiten mit Haltung.\nIm Team, das möglich macht.\nMehr erfahren\nAusbildung mit Zukunft.\nDer Grundstein für deine Zukunft.\nMit Sinn und Perspektive.\nMehr erfahren\nAktuelle Meldungen von Pöppelmann\nALLE NEWS\n09. April 2026\nMehrweg leicht gemacht: Tiefzieh-Tray macht den Unterschied\nLeicht, stabil, innovativ: Das Tiefzieh-Tray, das Müll spart und Kunden begeistert. Wie der Familienbetrieb Plettig mit Mut und drei Generationen Know-how die Gärtnerbranche grüner macht.\nMehr lesen\n22. März 2026\nKinder werden in der Umweltwoche zu Recyclingexperten\nDas Zukunftsmobil parkte während der Umweltwoche bei der Ketteler-Schule in Lohne.  Die Grundschülerinnen und -schüler erfuhren praxisnah, wie aus Kunststoffabfällen ein neues Produkt wird.\nMehr lesen\n24. Februar 2026\nTecDay 2026: Wenn Erfahrung auf Innovation trifft\nDas war der TecDay 2026: Die"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Pöppelmann GmbH & Co. KG",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "Cimatron",
+      "InVision"
+    ],
+    "total_technologies": 59,
+    "all_technologies": [
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Varnish",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Magnolia",
+        "vendor": "Magnolia International Ltd.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Grin",
+        "vendor": "Grin Technologies Inc",
+        "category": "Advocacy Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Persona",
+        "vendor": "Persona Identities Inc",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Ryte",
+        "vendor": "Ryte GmbH",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Operative",
+        "vendor": "SintecMedia Ltd.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Adobe Creative Suite",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Windows 10",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cimatron",
+        "vendor": "3D Systems Corporation",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft Project",
+        "vendor": "Microsoft Corporation",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Nette",
+        "vendor": "Nette",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SAP Supply Chain Management",
+        "vendor": "SAP SE",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Bing Universal Event Tracking",
+        "vendor": "Microsoft Corporation",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Daily",
+        "vendor": "Daily.co.uk",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Sched",
+        "vendor": "SCHED LLC",
+        "category": "Event Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Jira",
+        "vendor": "Atlassian",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "SAP ERP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "SAP Extended Warehouse Management",
+        "vendor": "SAP SE",
+        "category": "Warehouse Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Docker",
+        "vendor": "Docker Inc",
+        "category": "Containerization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Kubernetes",
+        "vendor": "The Kubernetes Authors",
+        "category": "Containerization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Microsoft Azure",
+        "vendor": "Microsoft Corporation",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft SQL Server",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "MySQL",
+        "vendor": "Oracle Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "PetWise Marketing",
+        "vendor": "AVImark",
+        "category": "Healthcare Marketing",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Pöppelmann GmbH & Co. KG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 17:05"
+}

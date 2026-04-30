@@ -1,0 +1,274 @@
+{
+  "company_key": "kaps-all packaging systems, inc.",
+  "company_name": "KAPS-ALL Packaging Systems, Inc.",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "KAPS-ALL Packaging Systems, Inc.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "KAPS-ALL Packaging Systems, Inc.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 35,
+    "all_technologies": [
+      {
+        "product": "Mandrill",
+        "vendor": "Rocket Science Group LLC",
+        "category": "Email Delivery",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Ubuntu",
+        "vendor": "Canonical Ltd.",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Like Button",
+        "vendor": "Facebook, Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "tawk.to",
+        "vendor": "tawk.to inc.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Bullhorn",
+        "vendor": "Bullhorn, Inc",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Twitter Follow Button",
+        "vendor": "Twitter, Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "ThomasNet Web Traxs",
+        "vendor": "Pennant Group, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DNS.com",
+        "vendor": "DNS.com",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Varnish",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "PayPal",
+        "vendor": "PayPal Holdings, Inc.",
+        "category": "Payment Processing",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "AddThis",
+        "vendor": "Oracle Corporation",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigitalOcean",
+        "vendor": "DigitalOcean Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "GoCentral",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "StatCounter",
+        "vendor": "Megagroup Ltd",
+        "category": "Visitor Counters",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "AppRiver",
+        "vendor": "Appriver, LLC",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "KAPS-ALL Packaging Systems, Inc.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Barry",
+        "last_name": "Bilmes",
+        "title": "Assembly Technician",
+        "email": "",
+        "phone": "",
+        "company": "Kaps-All Packaging Systems",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 77.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 12:52"
+}

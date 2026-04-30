@@ -1,0 +1,360 @@
+{
+  "company_key": "tna solutions pty. ltd.",
+  "company_name": "tna solutions Pty. Ltd.",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "tna solutions Pty. Ltd.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "tna solutions Pty. Ltd.",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Vault Payment Solutions"
+    ],
+    "competitor_products": [
+      "Dassault Systemes"
+    ],
+    "cad_bim_other": [
+      "Assemble",
+      "Autodesk",
+      "InVision"
+    ],
+    "total_technologies": 116,
+    "all_technologies": [
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Vault Payment Solutions",
+        "vendor": "Vault Payment Solutions Group Pty Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "LiveRamp",
+        "vendor": "Acxiom LLC",
+        "category": "Data Management Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Dynamics 365 Supply Chain Management",
+        "vendor": "Microsoft Corporation",
+        "category": "Warehouse Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft Services",
+        "vendor": "Microsoft Corporation",
+        "category": "Platforms as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Branch",
+        "vendor": "Branch",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "MCS",
+        "vendor": "MCS Global Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "G-code",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Assemble",
+        "vendor": "Autodesk, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Accelerate",
+        "vendor": "Cox Automotive, Inc.",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Lean Manufacturing",
+        "vendor": "Gemba Academy LLC",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Yocto",
+        "vendor": "Yocto Project",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Rapleaf",
+        "vendor": "Rapleaf",
+        "category": "Marketing Data Providers",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft Outlook",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Dynamics 365 for Finance and Operations (Formerly Dynamics AX)",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "JavaScript",
+        "vendor": "Netscape",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Genero",
+        "vendor": "Four Js",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Dassault Systemes",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Batch",
+        "vendor": "Batch",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Autodesk",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare Rocket Loader",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Linux",
+        "vendor": "Linux Kernel Organization",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Project",
+        "vendor": "Microsoft Corporation",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "SCADA",
+        "vendor": "Inductive Automation, LLC",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Word",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft PowerPoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "tna solutions Pty. Ltd.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 14:49"
+}

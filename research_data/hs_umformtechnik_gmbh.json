@@ -1,0 +1,240 @@
+{
+  "company_key": "hs umformtechnik gmbh",
+  "company_name": "HS Umformtechnik GmbH",
+  "domain": "www.hs-umformtechnik.de",
+  "domain_url": "https://www.hs-umformtechnik.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "HS Umformtechnik GmbH",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Fusion + PowerMill",
+    "total_seats": "1",
+    "current_acv_eur": "1000.0",
+    "potential_acv_eur": "4550.0",
+    "nearest_renewal": "2026-12-31",
+    "days_to_renewal": "252",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle 1 standalone D&M tools into one collection",
+    "all_upsells": "PDMC; Flex",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Industrial Machinery",
+    "ml_domain": "www.erdrich.de",
+    "zi_done": true,
+    "employee_count": 11,
+    "revenue": 1349,
+    "zi_company_name": "HS Umformtechnik",
+    "zi_domain": "www.hs-umformtechnik.de",
+    "zi_city": "Paimar",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.hs-umformtechnik.de",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "HS Umformtechnik GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 24,
+    "all_technologies": [
+      {
+        "product": "New Relic",
+        "vendor": "New Relic, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "RequireJS",
+        "vendor": "RequireJS",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Unix",
+        "vendor": "The Open Group",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Algolia",
+        "vendor": "Algolia, Inc.",
+        "category": "Site Search",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Adobe Commerce",
+        "vendor": "Adobe Inc.",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "PayPal",
+        "vendor": "PayPal Holdings, Inc.",
+        "category": "Payment Processing",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Magento Open Source",
+        "vendor": "Magento, Inc.",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Magento 2",
+        "vendor": "Magento, Inc.",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "HS Umformtechnik GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Marius",
+        "last_name": "Göbel",
+        "title": "Vertriebsmitarbeiter",
+        "email": "",
+        "phone": "",
+        "company": "HS Umformtechnik",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 86.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 09:01"
+}

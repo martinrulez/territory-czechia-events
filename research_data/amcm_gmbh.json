@@ -1,0 +1,72 @@
+{
+  "company_key": "amcm gmbh",
+  "company_name": "AMCM GmbH",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "AMCM GmbH",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-09-09",
+    "days_to_renewal": "139",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "maturity_label": "Entry",
+    "zi_done": true,
+    "zi_error": "No company found"
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "AMCM GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Amanda",
+        "last_name": "Cey-Morrow",
+        "title": "Owner",
+        "email": "",
+        "phone": "",
+        "company": "AMCM",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 91.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 15:11"
+}

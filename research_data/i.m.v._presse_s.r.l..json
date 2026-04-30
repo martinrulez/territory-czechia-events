@@ -1,0 +1,179 @@
+{
+  "company_key": "i.m.v. presse s.r.l.",
+  "company_name": "I.M.V. PRESSE S.R.L.",
+  "domain": "www.imvpresse.com",
+  "domain_url": "https://www.imvpresse.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "I.M.V. PRESSE S.R.L.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 16,
+    "revenue": 4046,
+    "zi_company_name": "IMVPRESSE",
+    "zi_domain": "www.imvpresse.com",
+    "zi_city": "Villasanta",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.imvpresse.com",
+    "homepage": {
+      "title": "Home imvpresse | IMVPresse",
+      "description": "",
+      "text_excerpt": "Home imvpresse | IMVPresse\nSalta al contenuto principale\ntelefono +39.039.303641\nVisualizza su google map\nThe strong side of technology\nScopri di più\nPresse meccaniche. Impianti di stampaggio.\nPersonale qualificato, macchinari tecnologici e moderni, metodologie di progettazione e controllo altamente professionali, unitamente alla stretta collaborazione con fornitori scelti, garantiscono\nl’elevata qualità dei nostri prodotti, che si traduce in efficienza, sicurezza e durata nel tempo.\nInoltre la forte sinergia tra marketing e ricerca, pone al centro dell’attenzione le esigenze della clientela, ottenendo così ottimi risultati che non si fermano alla sola progettazione della pressa ma che consentono la\nrealizzazione di intere linee di produzione “chiavi in mano”.\nMercato\ninternazionale\nSicurezza\nnel tempo\nPersonale\nqualificato\nSede\n10.000 m²\nMacchinari\ndi precisione\nAssistenza\npost vendita\nVISITA VIRTUALE\ninizia\nLe presse\nI.M.V. PRESSE controlla direttamente gran parte del processo di realizzazione delle commesse, in quanto interamente svolto all’interno all’azienda.\nscopri di più\nImpianti completi\nI.M.V. PRESSE è in grado di realizzare linee complete di stampaggio “chiavi in mano”, collaborando con aziende specializzate nei diversi settori dell’automazione, dell’asservimento e della robotica in generale.\nscopri di più\nEventi\nLatest news\nFiera EUROBLECH - Hannover\n14 Ottobre 2024\nLeggi tutto\nEventi\nLatest news\nFiera EUROBLECH - Hannover\n14 Ottobre 2024\nLeggi tutto\n© 2025 IMVPresse All rights reserved. | Made by\nAPVD"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.imvpresse.com/contacts",
+      "text": "Contacts | IMVPresse\nSkip to main content\ntelefono +39.039.303641\nVisualizza su google map\nContacts\nI.M.V.PRESSE s.r.l.\nVia N. Tommaseo n° 16\n20852 Villasanta (Mb)\nItaly P.I. IT 02798580961\nFax. +39.039.304112\ne-mail:\ninfo@imvpresse.com\nPhone\n+39.039.303641\nview on google map\nPrivacy policy\nDo you want to stay updated and receive our newsletter?\nCompany name\nName\nSurname\nRole\nEmail\nI accept the terms of the privacy policy\n© 2025 IMVPresse All rights reserved. | Made by\nAPVD"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "I.M.V. PRESSE S.R.L.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 15,
+    "all_technologies": [
+      {
+        "product": "Drupal 9",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "iubenda",
+        "vendor": "iubenda s.r.l",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Drupal",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "I.M.V. PRESSE S.R.L.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Gian",
+        "last_name": "Angeli",
+        "title": "Senior Mechanical Design Engineer",
+        "email": "",
+        "phone": "",
+        "company": "IMVPRESSE",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 18:03"
+}

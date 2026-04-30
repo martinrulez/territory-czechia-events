@@ -1,0 +1,158 @@
+{
+  "company_key": "antonín tomášek & hong kong design institute",
+  "company_name": "Antonín Tomášek & Hong Kong Design Institute",
+  "domain": "www.hkdi.edu.hk",
+  "domain_url": "https://www.hkdi.edu.hk",
+  "events": "Designblok 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Antonín Tomášek & Hong Kong Design Institute",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 475,
+    "revenue": 21462,
+    "zi_company_name": "Hong Kong Design Institute",
+    "zi_domain": "www.hkdi.edu.hk",
+    "zi_city": "Hong Kong",
+    "zi_country": "China",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.hkdi.edu.hk",
+    "homepage": {
+      "title": "",
+      "description": "",
+      "text_excerpt": ""
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Antonín Tomášek & Hong Kong Design Institute",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 6,
+    "all_technologies": [
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "The USERTRUST Network",
+        "vendor": "Comodo Group, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Sectigo",
+        "vendor": "Sectigo Limited",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Red Hat Enterprise Linux",
+        "vendor": "Red Hat, Inc.",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Antonín Tomášek & Hong Kong Design Institute",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Michael",
+        "last_name": "Chan",
+        "title": "Academic Development Head",
+        "email": "",
+        "phone": "",
+        "company": "Hong Kong Design Institute",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Terence",
+        "last_name": "Wong",
+        "title": "Academic Development Head",
+        "email": "",
+        "phone": "",
+        "company": "Hong Kong Design Institute",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 82.0
+      },
+      {
+        "first_name": "Elizabeth",
+        "last_name": "McLafferty",
+        "title": "Department of Fashion & Image Design Head",
+        "email": "",
+        "phone": "",
+        "company": "Hong Kong Design Institute",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 92.0
+      },
+      {
+        "first_name": "Keith",
+        "last_name": "Tam",
+        "title": "Vice Principal and Deputy Academic Director",
+        "email": "",
+        "phone": "",
+        "company": "Hong Kong Design Institute",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 92.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 16:27"
+}

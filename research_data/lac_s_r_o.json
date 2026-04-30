@@ -1,0 +1,301 @@
+{
+  "company_key": "lac_s_r_o",
+  "company_name": "LAC, s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "LAC, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 22,
+    "all_technologies": [
+      {
+        "product": "OVRC",
+        "vendor": "Snap One, LLC",
+        "category": "IT Infrastructure Monitoring",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "BPMN",
+        "vendor": "Object Management Group",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "RawGit",
+        "vendor": "RawGit",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Kentico",
+        "vendor": "Kentico Software Llc",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Adobe Typekit",
+        "vendor": "Adobe Inc.",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "dbt",
+        "vendor": "dbt Labs, Inc",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "xink",
+        "vendor": "xink",
+        "category": "Electronic Signatures",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Jan Slunský",
+        "firstName": "Jan",
+        "lastName": "Slunský",
+        "jobTitle": "Executive Director",
+        "email": "slunsky@lac.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Radim Ledl",
+        "firstName": "Radim",
+        "lastName": "Ledl",
+        "jobTitle": "Executive Director",
+        "email": "ledl@lac.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jií Crhák",
+        "firstName": "Jií",
+        "lastName": "Crhák",
+        "jobTitle": "Executive Director",
+        "email": "crhak@lac.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Alexandr Trochta",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Ředitel provozovny | Žárobetonové tvarovky",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.lac.cz/cs/o-nas/nas-tym"
+      },
+      {
+        "fullName": "Václav Hnaníček",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Obchodní ředitel | Pece a sušárny",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.lac.cz/cs/o-nas/nas-tym"
+      },
+      {
+        "fullName": "Václav Hlaváček",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Obchodní ředitel | Žárobetonové tvarovky",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.lac.cz/cs/o-nas/nas-tym"
+      },
+      {
+        "fullName": "Václav Stupka",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Ekonomický ředitel",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.lac.cz/cs/o-nas/nas-tym"
+      },
+      {
+        "fullName": "Martin Čuma",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Vedoucí technické kanceláře | Pece a sušárny",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.lac.cz/cs/o-nas/nas-tym"
+      },
+      {
+        "fullName": "Petr Kokta",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Manažer kvality | Pece a sušárny",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.lac.cz/cs/o-nas/nas-tym"
+      },
+      {
+        "fullName": "Petr Marek",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Vedoucí servisu | Pece a sušárny",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.lac.cz/cs/o-nas/nas-tym"
+      },
+      {
+        "fullName": "Jan Deml",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Vedoucí skladu a expedice | Žárobetonové tvarovky",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.lac.cz/cs/o-nas/nas-tym"
+      },
+      {
+        "fullName": "Blanka Sladká",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Vedoucí skladu a expedice, Projektová manažerka | Pece a sušárny",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.lac.cz/cs/o-nas/nas-tym"
+      }
+    ],
+    "total_found": 12,
+    "sources_used": [
+      "zoominfo",
+      "website"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:05:41",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.lac.cz",
+    "homepage": {
+      "title": "Pece a sušárny | Žárobetonové tvarovky",
+      "description": "Potřebujete průmyslovou pec nebo tepelné zařízení na zakázku? Hledáte žárobetonové tvarovky a litou keramiku? Kontaktujte nás. V LAC plníme i náročné požadavky.",
+      "text_excerpt": "Pece a sušárny | Žárobetonové tvarovky\nE-shop\nNovinky\nKariéra\nKe stažení\nTechnická podpora\nPartnerský klub\nPece a sušárny\nVýroba pecí a sušáren na zakázku\nTypizované pece a sušárny\nEnergeticky úsporné pece a sušárny\nPrůmyslové pece\nLaboratorní pece\nPece pro aditivní technologie\nKeramické pece\nPece skladem\nServis\nTestovací centrum\nMěření a normy\nPece se slevou\nVšeobecné dodací a záruční podmínky\nŽárobetonové tvarovky\nKotle\nKrby na dřevo\nPrůmysl\nTvarovky Flamen\nPříslušenství\nO nás\nO nás\nNaše vize a mise\nNáš tým\nHistorie společnosti\nVeletrhy a výstavy\nVidea\nPolitika kvality\nZpětný odběr elektrozařízení\nProjekty spolufinancované z fondů EU\nVšeobecné nákupní podmínky\nKontakt\nPece a sušárny\nŽárobetonové tvarovky\nCzech\nEnglish\nGerman\nPolish\nRussian\nHledat:\nmenu\nPrůmyslové pece a sušárny\nStavíme na více než 30 letech zkušeností. Nabízíme přes 50 standardních modelů pecí a sušáren pro nejrůznější odvětví. Vyberte si z našeho katalogu, nebo nám svěřte úpravu zařízení a vývoj nového stroje zcela na míru. Ke všem produktům garantujeme špičkový odborný servis, a to i po uplynutí záruky.​​\nSnižte své náklady na energie.\nZjistit více o energeticky úsporných pecích\nPotřebujete novou pec ihned?\nProhlédnout pece skladem\nZajímají mě pece LAC\n6 zakázkových\nprojektů měsíčně\nTéměř 20 000\nvyrobených pecí\nDodáváme do\n35 zemí světa\nŽárobetonové tvarovky\nSpolehněte se na žárobetonové tvarovky LAC. Vyvinuli jsme je jako dokonalejší alternativu šamotových desek a cihel. Vyrobíme vám tvarovky na zakázku a také vám dodáme testovací vzorky. Naši experti vám rádi pomohou s výběrem vhodných tvarů i materiálů pro kotle, krby a průmyslová zařízení.\nKompletní sortiment tvarovek.\nStáhnout katalog Žárobetonové tvarovky\nNahlédněte do naší výroby.\nPřehrát video o tvarovkách\nZajímají mě tvarovky LAC\nPřes 20 000\nrůzných tvarů\nVyrábíme testovací\ntvarovky\nPřes 18 600 m\nvýroby a skladů\nNovinky\nVšechny novinky\nDodána sušicí pec v bezpečnostní úpravě EN 1539 pro výrobce elektrických rotačních strojů\nPřední světové společnosti, která se zaměřuje na vývoj, simulace a testování pohonných systémů, technologií mobility a přístrojové techniky v letectví a energetice, jsme dodali vozokomorovou sušicí pec do jejího výrobního závodu v České republice.\n19.04.2026\nPece a sušárny\nLAC na veletrzích v roce 2026\nV letošním roce jste nás v jarních měsících mohli navštívit na stánku LAC během veletrhů KOK a Energiesparmesse v rakouském Welsu a na veletrhu Progetto Fuoco na výstavišti v italské Veroně.\nPece pro keramiku, laboratorní pece i žárobetony jsme pak s úspěchem představili na veletrhu CERAMITEC v Mnichově.\n01.04.2026\nŽárobetonové Tvarovky\nPece skladem\nPokud se rozhodnete pořídit si novou pec nebo sušárnu, budete na ni nejspíše čekat delší dobu.\nVyberte si tedy některou z pecí skladem a můžete ji začít používat už další den od pořízení.\n19.01.2026\nPece a sušárny\nDěláme věci pořádně. Chcete i vy?\nHledáme kolegy a přátele, kteří si s námi rádi popovídají i po práci\nJsme česká firma, kde se zná každý s ka"
+    },
+    "about": {
+      "url": "https://www.lac.cz/o-nas",
+      "text": "O nás | Výrobce pecí, sušáren a žáruvzdorných materiálů.\nE-shop\nNovinky\nKariéra\nKe stažení\nTechnická podpora\nPartnerský klub\nPece a sušárny\nVýroba pecí a sušáren na zakázku\nTypizované pece a sušárny\nEnergeticky úsporné pece a sušárny\nPrůmyslové pece\nLaboratorní pece\nPece pro aditivní technologie\nKeramické pece\nPece skladem\nServis\nTestovací centrum\nMěření a normy\nPece se slevou\nVšeobecné dodací a záruční podmínky\nŽárobetonové tvarovky\nKotle\nKrby na dřevo\nPrůmysl\nTvarovky Flamen\nPříslušenství\nO nás\nO nás\nNaše vize a mise\nNáš tým\nHistorie společnosti\nVeletrhy a výstavy\nVidea\nPolitika kvality\nZpětný odběr elektrozařízení\nProjekty spolufinancované z fondů EU\nVšeobecné nákupní podmínky\nKontakt\nPece a sušárny\nŽárobetonové tvarovky\nCzech\nEnglish\nGerman\nPolish\nRussian\nHledat:\nmenu\nLAC\nO nás\nO nás\nLedl a Crhák. Dva slévači a přátelé, kteří první pece stavěli pro radost a kamarády. Dnes vlastní firmu o 230 zaměstnancích, vyrábí pece a sušárny pro firmy z celého světa a žárobetonové tvarovky pro evropský trh.\nZa 30 let v oboru jsme se naučili, co vy, zákazníci, chcete a potřebujete. Vždy se vám snažíme vyjít vstříc a svými výrobky vám pomáháme navyšovat kapacitu výroby, šetřit náklady na energie, snižovat emise kotlů a udržet vaše zařízení v co nejlepším stavu po co nejdelší dobu. Proto se LAC časem zaměřil také na zakázkovou výrobu, která nyní tvoří více než 60 % naší práce. Vlastní vývojová a konstrukční kancelář společně s týmem servisních techniků jsou zárukou kvalitních služeb pro zákazníky. Právě naše servisní služby a odborné technické poradenství jsou tím, čeho si Ledl a Crhák hodně cení. Chtějí totiž mít jistotu, že dodáváme kvalitní výrobky, které vám budou dlouho a dobře sloužit. Nikdy se nechtějí stydět za to, jak jsme odvedli svou práci.\nLAC, s.r.o. je ryze česká společnost, která se vypracovala z garáže 10x10 m až do výrobních, skladovacích a administrativních prostor o celkové ploše 25 000 m\n. Od našeho vzniku v roce 1992 jsme vyvinuli a vyrobili už téměř 20 000 pecí i sušáren a přes 50 000 různých tvarů žárobetonových tvarovek. V nabídce máme více než 50 řad standardních pecí a sušáren a měsíčně vyvíjíme v průměru 6 zakázkových projektů. A abyste získali představu o našem růstu – v roce 2000 jsme měli 114 zaměstnanců při obratu 85 milionů korun, dnes máme zaměstnanců 230 a roční obrat se šplhá k 600 milionům.\nProvozovna: Pece a sušárny\nProvozovna: Žárobetonové tvarovky\nO nás\nNaše vize a mise\nNáš tým\nHistorie společnosti\nVeletrhy a výstavy\nVidea\nPolitika kvality\nZpětný odběr elektrozařízení\nProjekty spolufinancované z fondů EU\nVšeobecné nákupní podmínky\nŘeditelství společnosti\nLAC, s.r.o.\nTopolová 933\n667 01 Židlochovice\nČeská republika\ntel:\n+420 547 230 016\ne-mail:\ninfo@lac.cz\nSídlo společnosti (fakturační adresa)\nLAC, s.r.o.\nTopolová 933\n667 01 Židlochovice\nČeská republika\nIČ: 46903470\nDIČ: CZ46903470\nRegistrace KS v Brně, oddíl C, vložka 59\nZavřít\nPece a sušárny\nŽárobetonové tvarovky\nPECE A SUŠÁRNY\nPrůmyslové pece a sušárny\nEnergeticky úsporné pece\nLaboratorní pece\nPece pro aditivní technologie\nPece pro keramiku a sklo\nZakázkové projekty\nSERVIS PECí\nTechnická podpora\nZáruční servis\nPozáruční servis\nRegulátory\nPreventivní prohlídky pecí\nRekonstrukce pecí\nŽÁROBETONOVÉ tvarovky\nKotle\nKrby\nPrůmysl\nTopné elementy\nLitá keramika\nPříslušenství\nO NÁS\nKariéra\nNovinky\nVeletrhy\nVidea\nProjekty EU\nGDPR\nKONTAKTY\nPece a sušárny\nŽárobetonové tvarovky\nFakturační adresa\nPartneři ve světě\nSledujte nás\nOcenění a certifikace\n© 2000 - 2026 LAC, s.r.o. Všechna práva vyhrazena. Publikování jakékoliv části webu povoleno pouze se souhlasem provozovatele.\nTvorba webů\n(web)design\n— PUXdesign.\nhttps://www.lac.cz/cs/o-nas | https://www.lac.cz/cs/o-nas"
+    },
+    "products": {
+      "url": "https://www.lac.cz/produkty",
+      "text": "Pece a sušárny | Žárobetonové tvarovky\nE-shop\nNovinky\nKariéra\nKe stažení\nTechnická podpora\nPartnerský klub\nPece a sušárny\nVýroba pecí a sušáren na zakázku\nTypizované pece a sušárny\nEnergeticky úsporné pece a sušárny\nPrůmyslové pece\nLaboratorní pece\nPece pro aditivní technologie\nKeramické pece\nPece skladem\nServis\nTestovací centrum\nMěření a normy\nPece se slevou\nVšeobecné dodací a záruční podmínky\nŽárobetonové tvarovky\nKotle\nKrby na dřevo\nPrůmysl\nTvarovky Flamen\nPříslušenství\nO nás\nO nás\nNaše vize a mise\nNáš tým\nHistorie společnosti\nVeletrhy a výstavy\nVidea\nPolitika kvality\nZpětný odběr elektrozařízení\nProjekty spolufinancované z fondů EU\nVšeobecné nákupní podmínky\nKontakt\nPece a sušárny\nŽárobetonové tvarovky\nCzech\nEnglish\nGerman\nPolish\nRussian\nHledat:\nmenu\nPrůmyslové pece a sušárny\nStavíme na více než 30 letech zkušeností. Nabízíme přes 50 standardních modelů pecí a sušáren pro nejrůznější odvětví. Vyberte si z našeho katalogu, nebo nám svěřte úpravu zařízení a vývoj nového stroje zcela na míru. Ke všem produktům garantujeme špičkový odborný servis, a to i po uplynutí záruky.​​\nSnižte své náklady na energie.\nZjistit více o energeticky úsporných pecích\nPotřebujete novou pec ihned?\nProhlédnout pece skladem\nZajímají mě pece LAC\n6 zakázkových\nprojektů měsíčně\nTéměř 20 000\nvyrobených pecí\nDodáváme do\n35 zemí světa\nŽárobetonové tvarovky\nSpolehněte se na žárobetonové tvarovky LAC. Vyvinuli jsme je jako dokonalejší alternativu šamotových desek a cihel. Vyrobíme vám tvarovky na zakázku a také vám dodáme testovací vzorky. Naši experti vám rádi pomohou s výběrem vhodných tvarů i materiálů pro kotle, krby a průmyslová zařízení.\nKompletní sortiment tvarovek.\nStáhnout katalog Žárobetonové tvarovky\nNahlédněte do naší výroby.\nPřehrát video o tvarovkách\nZajímají mě tvarovky LAC\nPřes 20 000\nrůzných tvarů\nVyrábíme testovací\ntvarovky\nPřes 18 600 m\nvýroby a skladů\nNovinky\nVšechny novinky\nDodána sušicí pec v bezpečnostní úpravě EN 1539 pro výrobce elektrických rotačních strojů\nPřední světové společnosti, která se zaměřuje na vývoj, simulace a testování pohonných systémů, technologií mobility a přístrojové techniky v letectví a energetice, jsme dodali vozokomorovou sušicí pec do jejího výrobního závodu v České republice.\n19.04.2026\nPece a sušárny\nLAC na veletrzích v roce 2026\nV letošním roce jste nás v jarních měsících mohli navštívit na stánku LAC během veletrhů KOK a Energiesparmesse v rakouském Welsu a na veletrhu Progetto Fuoco na výstavišti v italské Veroně.\nPece pro keramiku, laboratorní pece i žárobetony jsme pak s úspěchem představili na veletrhu CERAMITEC v Mnichově.\n01.04.2026\nŽárobetonové Tvarovky\nPece skladem\nPokud se rozhodnete pořídit si novou pec nebo sušárnu, budete na ni nejspíše čekat delší dobu.\nVyberte si tedy některou z pecí skladem a můžete ji začít používat už další den od pořízení.\n19.01.2026\nPece a sušárny\nDěláme věci pořádně. Chcete i vy?\nHledáme kolegy a přátele, kteří si s námi rádi popovídají i po práci\nJsme česká firma, kde se zná každý s ka"
+    },
+    "contact_page": {
+      "url": "https://www.lac.cz/kontakt",
+      "text": "Chcete průmyslové pece nebo žáruvzdory? Volejte LAC\nE-shop\nNovinky\nKariéra\nKe stažení\nTechnická podpora\nPartnerský klub\nPece a sušárny\nVýroba pecí a sušáren na zakázku\nTypizované pece a sušárny\nEnergeticky úsporné pece a sušárny\nPrůmyslové pece\nLaboratorní pece\nPece pro aditivní technologie\nKeramické pece\nPece skladem\nServis\nTestovací centrum\nMěření a normy\nPece se slevou\nVšeobecné dodací a záruční podmínky\nŽárobetonové tvarovky\nKotle\nKrby na dřevo\nPrůmysl\nTvarovky Flamen\nPříslušenství\nO nás\nO nás\nNaše vize a mise\nNáš tým\nHistorie společnosti\nVeletrhy a výstavy\nVidea\nPolitika kvality\nZpětný odběr elektrozařízení\nProjekty spolufinancované z fondů EU\nVšeobecné nákupní podmínky\nKontakt\nPece a sušárny\nŽárobetonové tvarovky\nCzech\nEnglish\nGerman\nPolish\nRussian\nHledat:\nmenu\nLAC\nKontakt\nPece a sušárny\nPece a sušárny\nŽárobetonové tvarovky\nKontakty\n/ Pece a sušárny\nProvozovna:\nPece a sušárny\nLAC, s.r.o.\nTopolová 933\n667 01 Židlochovice\nČeská republika\ntel:\n+420 547 230 016\ne-mail:\ninfo@lac.cz\nzobrazit na mapě\nObchodní oddělení\ntel:\n+420 547 230 016\ne-mail:\nsales@lac.cz\nServis\ntel:\n+420 547 422 619\ne-mail:\nservis@lac.cz\nSídlo společnosti:\nFakturační adresa\nLAC, s.r.o.\nTopolová 933\n667 01 Židlochovice\nČeská republika\nIČ: 46903470\nDIČ: CZ46903470\nRegistrace: KS v Brně, oddíl C, vložka 5969\ntel:\n+420 547 230 016\ne-mail:\ninfo@lac.cz\nzobrazit na mapě\nÚčtárna\ne-mail:\nuctarna@lac.cz\nPracovní příležitosti\ntel:\n+420 724 402 008\ne-mail:\nprace@lac.cz\nMarketing\ne-mail:\nmarketing@lac.cz\nNaši partneři\n- vyberte zemi -\nMatodlew\nObchodní zástupce v Polsku\nDąbrowica 140R\n21-008 Tomaszowice\nMateusz Świercz - obchodní zástupce\ntel.: +48 509 025 978\nEmail\nBartosz Świetliński - servis\ntel.: +48 577 784 500\nEmail\nwww.matodlew.pl\nPece spol. s r.o.\nObchodní zástupce na Slovensku\nNábrežná 678/7\nOčová 96223, okres Zvolen\nSlovensko\ntel. č. 1: 045/5324392\ntel. č. 2: 045/5400336 - 7\nEmail\nwww.pece.sk\nArnold Schröder Industrieöfen GmbH\nHafenstrasse 10\n65439 Flörsheim / Main\nHessen\nNěmecko\ntel.: 06145 - 600"
+    }
+  }
+}

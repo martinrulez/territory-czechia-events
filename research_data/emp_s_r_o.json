@@ -1,0 +1,93 @@
+{
+  "company_key": "emp_s_r_o",
+  "company_name": "EMP s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "EMP s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 8,
+    "all_technologies": [
+      {
+        "product": "Microsoft Word",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MICHAELA HERCÍKOVÁ",
+        "firstName": "MICHAELA",
+        "lastName": "HERCÍKOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:08:36",
+  "website_data": {
+    "success": false,
+    "domain": "https://www.empsro.sk",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

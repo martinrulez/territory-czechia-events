@@ -1,0 +1,361 @@
+{
+  "company_key": "ima industria macchine automatiche s.p.a.",
+  "company_name": "IMA Industria Macchine Automatiche S.p.A.",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "IMA Industria Macchine Automatiche S.p.A.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "IMA Industria Macchine Automatiche S.p.A.",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autodesk Inventor"
+    ],
+    "competitor_products": [
+      "Dassault Systemes",
+      "PTC Creo",
+      "PTC Windchill PLM",
+      "Solidworks"
+    ],
+    "cad_bim_other": [
+      "Assemble",
+      "Autodesk",
+      "Studio 5000"
+    ],
+    "total_technologies": 99,
+    "all_technologies": [
+      {
+        "product": "SAP Materials Resource Planning (MRP)",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Power BI",
+        "vendor": "Microsoft Corporation",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Circa",
+        "vendor": "Circa, Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Visual Basic .NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft VBA",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Avvio",
+        "vendor": "Revmac, Ltd.",
+        "category": "Tours and Activities Reservations",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft SQL Server",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "PTC Windchill PLM",
+        "vendor": "PTC Inc",
+        "category": "Product Information Management",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Microsoft Dynamics CRM",
+        "vendor": "Microsoft Corporation",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Microsoft Dynamics",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Adobe Typekit",
+        "vendor": "Adobe Inc.",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Branch",
+        "vendor": "Branch",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "ASIC",
+        "vendor": "AnySilicon",
+        "category": "Server Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "Assemble",
+        "vendor": "Autodesk, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "ABI",
+        "vendor": "Advanced Business Integrators, Inc.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Zucchetti",
+        "vendor": "Zucchetti",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Studio 5000",
+        "vendor": "Rockwell Automation Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Rockwell Automation",
+        "vendor": "Rockwell Automation Inc.",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "iFIX",
+        "vendor": "General Electric Company",
+        "category": "Data Quality Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "HTML5",
+        "vendor": "HTML5",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Dassault Systemes",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "NTENT Hosting",
+        "vendor": "NTENT Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Autodesk",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "IBM System i",
+        "vendor": "IBM",
+        "category": "Server Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "FactoryTalk",
+        "vendor": "Rockwell Automation Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "PTC Creo",
+        "vendor": "PTC Inc",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Microsoft Project",
+        "vendor": "Microsoft Corporation",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Access",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "SCADA",
+        "vendor": "Inductive Automation, LLC",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Word",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft PowerPoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "IMA Industria Macchine Automatiche S.p.A.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:48"
+}

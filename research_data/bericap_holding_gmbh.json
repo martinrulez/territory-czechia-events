@@ -1,0 +1,352 @@
+{
+  "company_key": "bericap holding gmbh",
+  "company_name": "BERICAP Holding GmbH",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "BERICAP Holding GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "BERICAP Holding GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "InVision",
+      "Sigma"
+    ],
+    "total_technologies": 61,
+    "all_technologies": [
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Gravity Forms",
+        "vendor": "Rocketgenius, Inc.",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Woo Themes",
+        "vendor": "WooCommerce",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Sigma",
+        "vendor": "Sigma Software",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Project",
+        "vendor": "Microsoft Corporation",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PANSITE",
+        "vendor": "Panvision GmbH",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Adobe Stock",
+        "vendor": "Adobe Inc.",
+        "category": "Stock Images Providers",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Daily",
+        "vendor": "Daily.co.uk",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "R",
+        "vendor": "The R Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "QAD",
+        "vendor": "QAD Inc.",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "ManageEngine",
+        "vendor": "ManageEngine",
+        "category": "Enterprise Mobility Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Hyper-V",
+        "vendor": "Microsoft Corporation",
+        "category": "Virtualization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "VMware",
+        "vendor": "Broadcom Inc.",
+        "category": "Platforms as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Proofpoint",
+        "vendor": "Proofpoint, Inc.",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Microsoft IIS",
+        "vendor": "Microsoft Corporation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "PageSpeed for Nginx",
+        "vendor": "Google LLC",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "LinkedIn Ads",
+        "vendor": "LinkedIn Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Matomo",
+        "vendor": "Matomo Software",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft SharePoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "BERICAP Holding GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:26"
+}

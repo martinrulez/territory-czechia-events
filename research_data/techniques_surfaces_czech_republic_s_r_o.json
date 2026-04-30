@@ -1,0 +1,103 @@
+{
+  "company_key": "techniques_surfaces_czech_republic_s_r_o",
+  "company_name": "Techniques Surfaces Czech Republic s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "Techniques Surfaces Czech Republic s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 8,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Matomo",
+        "vendor": "Matomo Software",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "GILBERT FORAND",
+        "firstName": "GILBERT",
+        "lastName": "FORAND",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MILOŠ KOUBA",
+        "firstName": "MILOŠ",
+        "lastName": "KOUBA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:09",
+  "website_data": {
+    "success": false,
+    "domain": "https://www.katringplus.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

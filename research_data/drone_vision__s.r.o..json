@@ -1,0 +1,82 @@
+{
+  "company_key": "drone vision, s.r.o.",
+  "company_name": "DRONE VISION, s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "URBIS Smart Cities 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "DRONE VISION, s.r.o.",
+    "opportunity_score": 22,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.62,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.62,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "04618653",
+    "official_name": "DRONE VISION, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "58",
+      "71120",
+      "731",
+      "30310",
+      "855",
+      "74200",
+      "28",
+      "741",
+      "46900",
+      "71200",
+      "18200",
+      "18200",
+      "28",
+      "303",
+      "469",
+      "58",
+      "7112",
+      "7120",
+      "731",
+      "7410",
+      "74200",
+      "855"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC",
+      "M&E"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Revoluční 658/8, 41501 Teplice, Teplice, Revoluční, 41501",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "DRONE VISION, s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:30"
+}

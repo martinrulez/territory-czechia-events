@@ -1,0 +1,97 @@
+{
+  "company_key": "spoluworks perfecta",
+  "company_name": "SPOLUWORKS PERFECTA",
+  "domain": "",
+  "domain_url": "",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SPOLUWORKS PERFECTA",
+    "opportunity_score": 23,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.65,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.65,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "26218500",
+    "official_name": "SpoluWorks Perfecta s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "25530",
+      "25620",
+      "461",
+      "G",
+      "25620",
+      "25720",
+      "461",
+      "G"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Za Humny 3306/18b, Boršov, 69701 Kyjov, Kyjov, 69701",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "TOMÁŠ PERUTKA",
+        "firstName": "TOMÁŠ",
+        "lastName": "PERUTKA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ZDENĚK VOZÁK",
+        "firstName": "ZDENĚK",
+        "lastName": "VOZÁK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ROMAN VACULA",
+        "firstName": "ROMAN",
+        "lastName": "VACULA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-23 15:24"
+}

@@ -1,0 +1,338 @@
+{
+  "company_key": "liko_s_a_s",
+  "company_name": "LIKO-S, a.s.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": true,
+    "company": "LIKO-S, a.s.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 38,
+    "all_technologies": [
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Yii",
+        "vendor": "Yii Software LLC",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Analytics",
+        "vendor": "Facebook, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Issuu",
+        "vendor": "Issuu, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Shoptet",
+        "vendor": "Shoptet s.r.o.",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Seznam",
+        "vendor": "Imedia",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Dynamics",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Facebook Page Plugin",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bitly",
+        "vendor": "Bitly, Inc.",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Dynamic Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Eventbrite",
+        "vendor": "Eventbrite, Inc.",
+        "category": "Event Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Ads",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Adobe Typekit",
+        "vendor": "Adobe Inc.",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Jiri Tomicek",
+        "firstName": "Jiri",
+        "lastName": "Tomicek",
+        "jobTitle": "Director, Operations",
+        "email": "jiri.tomicek@liko-s.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Michal Chudacek",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Key Account Manager at X Production",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://cz.linkedin.com/company/liko-s-a-s-"
+      },
+      {
+        "fullName": "Martin Bebar",
+        "firstName": "Martin",
+        "lastName": "Bebar",
+        "jobTitle": "Chief Executive Officer Divize ŽIvé Stavby",
+        "email": "martin@liko-s.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Ladislav Ravas",
+        "firstName": "Ladislav",
+        "lastName": "Ravas",
+        "jobTitle": "Chief Financial Officer",
+        "email": "ladislav.ravas@liko-s.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Orraine Williams",
+        "firstName": "Orraine",
+        "lastName": "Williams",
+        "jobTitle": "Head of Export, Interiors Division",
+        "email": "orraine.williams@liko-s.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jan Morbacher",
+        "firstName": "Jan",
+        "lastName": "Morbacher",
+        "jobTitle": "Head of Marketing",
+        "email": "jan.morbacher@liko-s.cz",
+        "phone": "+420 607 092 984",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jan Musil",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Chairman of the Board at LIKO-S, a.s. & President at Czech-Indian Chamber of Commerce",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://cz.linkedin.com/company/liko-s-a-s-"
+      }
+    ],
+    "total_found": 7,
+    "sources_used": [
+      "zoominfo",
+      "website"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:05:42",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.liko-s.com",
+    "homepage": {
+      "title": "LIKO-S – manufacturing and construction company",
+      "description": "We are LIKO-S, a Czech family business. We have a clear vision, corporate philosophy and culture. Our products are the result of our own development and manufacturing.",
+      "text_excerpt": "LIKO-S – manufacturing and construction company\nLIKO-S\nWhat we do\nAbout us\nCareers\nNews\nContacts\nMENU\nDeloitte | Czech Best Managed Company\n2020, 2021, 2023 & 2024\nPartitions, movable walls,\nacoustic, metalwork…\nInnovative leaders in partitions\nand movable walls\nWe believe that it’s\nbest to be the best\nCustom metalwork\nfor the entire world\nWe create\nLiving Buildings\nDiscover our product range\nPartitions and partition walls, ceilings, green walls, metalwork…\nWe develop, manufacture and install\npartition walls, movable walls\ninhall units\n, and we provide\nacoustic solutions\n. We assemble\ngreen walls\n. Our\ncustom metalwork\nis focused on the separation of material, machining, welding and surface finishes\nMore about our products\n30 years of innovation\nLIKO-S has been on the market for\n30-years\n. “We are among the best in the world,” stated Libor Musil, without any exaggeration. Since the company was established in 1992, it has brought out a whole range of innovations – from sophisticated system\npartitions for interiors\nto i\nnteractive multimedia\nSMART-i-WALL®\nand\nlaminated design glass\n, and most importantly, the office building of the future and the construction of the\nLIKO-Noe® development centre\nLIKO-S: Family Business\nWe are\nLIKO-S\n, a Czech family business. We have a clear vision,\ncorporate philosophy and culture\n. Our products are the\nresult of our own development and manufacturing\n. Since 1992, we have established branches in the Czech Republic, Slovakia, Hungary, Austria and India, as well as export partnerships in 20 countries around the world. That is part of the reason why we were awarded the title\nCzech\nBest Managed Companies 2020, 2021, 2023 and 2024.\nFind out more about us\nThought for the day\nEvery day we receive an inspirational thought from our Indian business partner.\nApr 24, 2026  |\nToo often we enjoy the comfort of opinion without the discomfort of thought.\nArchive\nNews\nApr 16, 2026\nAupark Bratislava with our living facade wins Building of the Year 2025\nAupark Bratislava, with our green facade featuring more than 44,000 plants, has won the main prize of the Slovak Building of the Year 2025 competition. The expert jury recognised the architectural concept of the entire building. We received the award at Bratislava Castle alongside the investor, architect, general contractor and designers.\nRead more\nMar 30, 2026\nFifteen years in India. And we still love it.\nIt started with a chance encounter at a trade fair in Brno. Today we have our own branch in Bengaluru and supply across Southeast Asia. Jan Musil on our journey, CZINCC and the Indian market in an interview for Trade News.\nRead more\nMar 30, 2026\nAupark Bratislava has a green façade by LIKO-S — and it's heading for Building of the Year 2025\nThe Aupark extension on Bratislava's Danube waterfront has been nominated for Building of the Year 2025 — Public Award. No coincidence. On the façade of the new wing, we created Central Europe's largest green façade — almost 690 m², 18 metres high"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

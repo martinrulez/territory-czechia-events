@@ -1,0 +1,74 @@
+{
+  "company_key": "coel motori",
+  "company_name": "COEL MOTORI",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "COEL MOTORI",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "zi_error": "No company found"
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "COEL MOTORI",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "D.",
+        "last_name": "Grossi",
+        "title": "",
+        "email": "d.grossi@coelmotori.it",
+        "phone": "",
+        "company": "Coel Motori",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Elisabetta",
+        "last_name": "Giovanetti",
+        "title": "",
+        "email": "e.giovanetti@coelmotori.it",
+        "phone": "",
+        "company": "Coel Motori",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 18:42"
+}

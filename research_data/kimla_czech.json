@@ -1,0 +1,204 @@
+{
+  "company_key": "kimla czech",
+  "company_name": "KIMLA Czech",
+  "domain": "www.kimla-czech.cz",
+  "domain_url": "https://www.kimla-czech.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "KIMLA Czech",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 5,
+    "revenue": 1548,
+    "zi_company_name": "KM CNC sro - KIMLA distributor Czech republic",
+    "zi_domain": "www.kimla-czech.cz",
+    "zi_city": "Brno South Moravia",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.kimla-czech.cz",
+    "homepage": {
+      "title": "Kimla | Kimla Czech",
+      "description": "",
+      "text_excerpt": "Kimla | Kimla Czech\nPřejděte se špičkovými stroji\nna efektivní výrobu\nPřejděte se špičkovými stroji\nna efektivní výrobu\nPřejděte se špičkovými stroji\nna efektivní výrobu\nPřejděte se špičkovými stroji\nna efektivní výrobu\nLaser, vodní paprsek, CNC frézka.\nNejrychlejší obráběcí stroje polské výroby.\nKIMLA vyvíjí a vyrábí výjimečně výkonné, rychlé, stabilní a uživatelsky přátelské CNC obráběcí stroje.\nSvého vedoucího postavení na trhu dosáhla díky kreativnímu přístupu, efektivitě a působivé dynamice ve vývoji. Základní charakteristikou společnosti je neustálý výzkum a vývoj nových řešení.\nVe vlastních výrobních halách v polské Čenstochové nedaleko českých hranic již vyrobila a posléze instalovala více než 3500 strojů, přičemž většina komponentů včetně lineárních motorů pochází z vlastní produkce.\nZakládáme si na přátelském a uctivém postoji ke svým klientům, jejichž spokojenost je pro nás prioritou.\nO společnosti KIMLA\nCNC v reálném provozu\nPodívejte se na video\nProces výroby strojů KIMLA\nPodívejte se na video\nKategorie strojů\nVyberte si ten pravý stroj\nNaše stroje\nProhlédněte si naši nabídku\nVláknový řezací laser\nLaserová řezačka určená pro rychlé a efektivní řezání jakéhokoli tvaru z plechu, vybavená inovativními lineárními pohony. Je k dispozici také v nestandardních velikostech. Dosahuje rychlosti až 5 m/s.\nZobrazit detail\nPrůmyslové CNC frézy\nVelkoformátové CNC obráběcí centrum je vysoce výkonné zařízení s robustní a stabilní konstrukcí, určené pro těžké výrobní práce. Spojuje funkčnost frézky, soustruhu, vrtačky, závitořezu, řezacího, rylovacího, licího zařízení aj.\nZobrazit detail\nNástrojové frézky\nLineární obráběcí centrum HSM je obráběcí stroj pro přesné a nástrojové práce. Osvědčuje se všude tam, kde je vyžadována extrémně vysoká přesnost polohování. Vhodný pro výrobu vstřikovacích forem, ocelových a hliníkových zápustek, zpracování modelů odlitků, pro tvarování za tepla atd.\nZobrazit detail\nVodní paprsek\nInovativní stroje pro řezání vodním paprskem KIMLA Streamcut s nejnovějším vysokorychlostním řídicím systémem s plně automatickým generátorem dráhy nástroje. Kompaktní design a nejnižší náklady na údržbu čerpadla a hlavy na trhu. Vhodný pro řezání téměř všech materiálů, ideální pro kamenický průmysl a pro firmy zabývající se řezáním kovů.\nZobrazit detail\nUniverzální CNC plotry\nVysoce účinná, univerzální a víceúčelová CNC řezačka. Stroj se ideálně hodí pro reklamní, oděvní a těsnící průmysl, stejně jako pro výrobu obalů a zpracování pěn a houbiček.\nZobrazit detail\nPětiosé CNC frézky\n5D frézky se používají k výrobě modelů pro tepelné tvarování, laminování a odlévání. Zpracovávají dřevo, pryskyřice, hliník a kompozitní materiály. Používají se také pro ořezávání ofsetů po laminování a tepelném tvarování.\nZobrazit detail\nKontaktujte odborného poradce\nFilip Bergmann\nTel.:\n+420 605 276 308\nbergmann@kimla-czech.cz\nKamil Suchánek\nTel.:\n+420 604 641 204\nsuchanek@kimla-czech.cz\nSledujeme trendy\nv technologiích\n22.01.2026\nCNC router pro KALINA Industr"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "KIMLA Czech",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 18,
+    "all_technologies": [
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "KIMLA Czech",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Monika",
+        "last_name": "Neubauerová",
+        "title": "Manažer Marketingu",
+        "email": "",
+        "phone": "",
+        "company": "KM CNC sro - KIMLA distributor Czech republic",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Dana",
+        "last_name": "Nováková",
+        "title": "Jednatel",
+        "email": "",
+        "phone": "",
+        "company": "KM CNC sro - KIMLA distributor Czech republic",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 17:49"
+}

@@ -1,0 +1,24 @@
+{
+  "company_key": "condat_s_a",
+  "company_name": "CONDAT S.A.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {},
+  "research_timestamp": "2026-04-24 17:07:10",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.cs-cont.cz",
+    "homepage": {
+      "title": "CS-CONT - CS-CONT (INT)",
+      "description": "",
+      "text_excerpt": "CS-CONT - CS-CONT (INT)\nCS-CONT\nint\nDeutsch\nEnglish\nSelect another language\nSelect a language\nČesko\nPolska\nInternational"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

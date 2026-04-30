@@ -1,0 +1,139 @@
+{
+  "company_key": "avdel",
+  "company_name": "AVDEL",
+  "domain": "www.avdel-global.com",
+  "domain_url": "https://www.avdel-global.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "AVDEL",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 576,
+    "revenue": 15585,
+    "zi_company_name": "Avdel",
+    "zi_domain": "www.avdel-global.com",
+    "zi_city": "Hannover",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.avdel-global.com",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "AVDEL",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 12,
+    "all_technologies": [
+      {
+        "product": "OneTrust",
+        "vendor": "OneTrust, LLC",
+        "category": "Data Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Akamai Cloud Hosting Services",
+        "vendor": "Akamai Technologies, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Network Solutions Professional Email",
+        "vendor": "Network Solutions, LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Optanon",
+        "vendor": "OneTrust, LLC",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "OneTrust Cookie Consent",
+        "vendor": "OneTrust, LLC",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Akamai DNS",
+        "vendor": "Akamai Technologies, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Akamai",
+        "vendor": "Akamai Technologies, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "AVDEL",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 18:51"
+}

@@ -1,0 +1,137 @@
+{
+  "company_key": "comprag gmbh",
+  "company_name": "Comprag GmbH",
+  "domain": "www.comprag.com",
+  "domain_url": "https://www.comprag.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Comprag GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 8,
+    "revenue": 1374,
+    "zi_company_name": "Comprag",
+    "zi_domain": "www.comprag.com",
+    "zi_city": "Wuppertal",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.comprag.com",
+    "homepage": {
+      "title": "Comprag GmbH",
+      "description": "Comprag GmbH",
+      "text_excerpt": "Comprag GmbH\nDe/De\nSelect country\nDeutschland\nInternational\nSelect language\nDeutsch\nEnglish\n0,00\nMenu\nÜber uns\nComprag\nContracor\nSchraubenkompressoren\nDruckluft Kältetrockner\nAdsorptionstrockner\nAktivkohleadsorber\nDruckluftfilter\nZyklon Kondensatabschneider\nDruckluftbehälter\nKondensat-Ablassventile\nWeitere Produkte\nSchraubenkompressoren nach Aufbau\nSchraubenkompressoren freistehend\nSchraubenkompressoren auf Druckbehälter\nSchraubenkompressoren auf Druckbehälter mit Kältetrockner\nSchraubenkompressor nach Antriebsleistung\nSchraubenkompressor mit Antriebsleistung 5.5-7.5 kW\nSchraubenkompressor mit Antriebsleistung 11-15 kW\nSchraubenkompressor mit Antriebsleistung 18.5-22 kW\nSchraubenkompressor mit Antriebsleistung 30-37 kW\nSchraubenkompressor mit Antriebsleistung 45-55 kW\nSchraubenkompressor mit Antriebsleistung 75-90 kW\nSchraubenkompressor mit Riemenantrieb und Festdrehzahl nach Leistung\nSchraubenkompressor mit Riemenantrieb und Festdrehzahl mit Leistung 0.55 - 1.1 m\n/min\nSchraubenkompressor mit Riemenantrieb und Festdrehzahl mit Leistung 1.3 - 2.3 m\n/min\nSchraubenkompressor mit Riemenantrieb und Festdrehzahl mit Leistung 2.2 - 3.6 m\n/min\nSchraubenkompressor mit Riemenantrieb und Festdrehzahl mit Leistung 3.7 - 6.5 m\n/min\nSchraubenkompressor mit Riemenantrieb und Festdrehzahl mit Leistung 5.7 - 9.0 m\n/min\nSchraubenkompressor mit Riemenantrieb und Festdrehzahl mit Leistung 9.2 - 14.7 m\n/min\nSchraubenkompressor mit Direktantrieb und Festdrehzahl nach Leistung\nSchraubenkompressor mit Direktantrieb und Festdrehzahl mit Leistung 1.3 - 2.3 m\n/min\nSchraubenkompressor mit Direktantrieb und Festdrehzahl mit Leistung 2.6 - 3.6 m\n/min\nSchraubenkompressor mit Direktantrieb und Festdrehzahl mit Leistung 4.6 - 6.2 m\n/min\nSchraubenkompressor mit Direktantrieb und Festdrehzahl mit Leistung 6.6 - 9.6 m\n/min\nSchraubenkompressor mit Direktantrieb und Festdrehzahl mit Leistung 11.3 - 15.4 m\n/min\nSchraubenkompressor mit Riemenantrieb und Frequenzregelung nach Leistung\nSchraubenkompressor mit Riemenantrieb und Frequenzregelung mit Leistung 3.7 - 6.2 m\n/min\nSchraubenkompressor mit Riemenantrieb und Frequenzregelung mit Leistung 5.7 - 9.0 m\n/min\nSchraubenkompressor mit Riemenantrieb und Frequenzregelung mit Leistung 9.2 - 14.7 m\n/min\nSchraubenkompressor mit Direktantrieb und Frequenzregelung nach Leistung\nSchraubenkompressor mit Direktantrieb und Frequenzregelung mit Leistung 1.3 - 2.3 m\n/min\nSchraubenkompressor mit Direktantrieb und Frequenzregelung mit Leistung 2.6 - 3.6 m\n/min\nSchraubenkompressor mit Direktantrieb und Frequenzregelung mit Leistung 4.6 - 6.2 m\n/min\nSchraubenkompressor mit Direktantrieb und Frequenzregelung mit Leistung 6.6 - 9.6 m\n/min\nSchraubenkompressor mit Direktantrieb und Frequenzregelung mit Leistung 11.3 - 15.4 m\n/min\nSchraubenkompressoren nach Serien\nSchraubenkompressoren F-Serie mit Riemenantrieb\nSchraubenkompressoren FV-Serie mit Riemenantrieb und Frequenzregelung\nSchraubenkompressoren D-Serie mit Direktantrieb 1:1\nSchraubenkompressoren DV-Seri"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Comprag GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 11,
+    "all_technologies": [
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Branch",
+        "vendor": "Branch",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "1&1 Hosting",
+        "vendor": "1&1 IONOS Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Comprag GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 18:42"
+}

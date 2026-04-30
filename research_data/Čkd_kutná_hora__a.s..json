@@ -1,0 +1,177 @@
+{
+  "company_key": "Čkd kutná hora, a.s.",
+  "company_name": "ČKD Kutná Hora, a.s.",
+  "domain": "www.ckdkh.cz",
+  "domain_url": "https://www.ckdkh.cz",
+  "events": "Czech Foundry Association Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ČKD Kutná Hora, a.s.",
+    "opportunity_score": 21,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.58,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.58,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "00508055",
+    "official_name": "ČKD Kutná Hora, a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "20",
+      "25620",
+      "49410",
+      "74990",
+      "00",
+      "2410",
+      "25610",
+      "69200",
+      "95310",
+      "25530",
+      "493",
+      "2452",
+      "00",
+      "20",
+      "2452",
+      "2562",
+      "2572",
+      "74901",
+      "74902",
+      "45200",
+      "2571",
+      "493",
+      "69200",
+      "2410",
+      "49410"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Karlov 197, 28401 Kutná Hora, Kutná Hora, 28401",
+    "zi_done": true,
+    "employee_count": 524,
+    "revenue": 28820,
+    "zi_company_name": "CKD Kutná Hora",
+    "zi_domain": "www.ckdkh.cz",
+    "zi_city": "Kutna Hora",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ckdkh.cz",
+    "homepage": {
+      "title": "Ckdkh",
+      "description": "",
+      "text_excerpt": "Ckdkh\nÄKD KutnÃ¡ Hora je dominantnÃ­m vÃ½robcem ocelovÃ½ch odlitkÅ¯ a svaÅencÅ¯\nVe vÃ½robÄ efektivnÄ vyuÅ¾Ã­vÃ¡me veÅ¡kerÃ© modernÃ­ technologickÃ© postupy.\npÅeÄtÄte si vÃ­ce\nÄKD KutnÃ¡ Hora je tradiÄnÃ­ vÃ½robnÃ­ spoleÄnostÃ­ jiÅ¾ 50 let\nMÃ¡me zÃ¡jem o spoleÄnÃ½ rozvoj spoluprÃ¡ce s naÅ¡imi partnery.\npÅeÄtÄte si vÃ­ce\nÄKD KutnÃ¡ Hora je vÃ½robcem s celosvÄtovou pÅ¯sobnostÃ­\nNaÅ¡Ã­m hlavnÃ­m aktivem je dÅ¯vÄra naÅ¡ich zÃ¡kaznÃ­kÅ¯.\npÅeÄtÄte si vÃ­ce"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "ČKD Kutná Hora, a.s.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ČKD Kutná Hora, a.s.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Richard",
+        "last_name": "Maier",
+        "title": "Maitenance Manager",
+        "email": "",
+        "phone": "",
+        "company": "CKD Kutná Hora",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Jiri",
+        "last_name": "Lavicky",
+        "title": "ŘEditel Pro Kvalitu",
+        "email": "jiri.lavicky@ckdkh.com",
+        "phone": "",
+        "company": "CKD Kutná Hora",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 15:38"
+}

@@ -1,0 +1,356 @@
+{
+  "company_key": "devinn_s_r_o",
+  "company_name": "DEVINN s.r.o.",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026",
+  "technographics": {
+    "success": true,
+    "company": "DEVINN s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [
+      "CATIA",
+      "Dassault Systemes",
+      "PTC Windchill PLM"
+    ],
+    "cad_bim_other": [],
+    "total_technologies": 49,
+    "all_technologies": [
+      {
+        "product": "dSPACE",
+        "vendor": "Duraspace",
+        "category": "Enterprise Content Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "NVIDIA",
+        "vendor": "NVIDIA Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CATIA",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Compose",
+        "vendor": "Casetext, Inc",
+        "category": "Legal Solutions",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Harness",
+        "vendor": "Harness Inc.",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Atlassian",
+        "vendor": "Atlassian",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "PTC Windchill PLM",
+        "vendor": "PTC Inc",
+        "category": "Product Information Management",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Altium",
+        "vendor": "Altium LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft PowerPoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Webflow",
+        "vendor": "Webflow, Inc.",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Canva",
+        "vendor": "Canva Pty Ltd",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "SmartEmailing",
+        "vendor": "SmartSelling a.s.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Daily",
+        "vendor": "Daily.co.uk",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Smartlook",
+        "vendor": "Smartlook",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Jira",
+        "vendor": "Atlassian",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Node.js",
+        "vendor": "Node.js Foundation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Python",
+        "vendor": "Python Software Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Java",
+        "vendor": "Oracle Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Confluence",
+        "vendor": "Atlassian",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Azure DevOps Server",
+        "vendor": "Microsoft Corporation",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Docker",
+        "vendor": "Docker Inc",
+        "category": "Containerization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Kubernetes",
+        "vendor": "The Kubernetes Authors",
+        "category": "Containerization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Facebook Message-Us Plugin",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Embedly",
+        "vendor": "Embedly",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "SparkPost",
+        "vendor": "Message Systems, Inc.",
+        "category": "Email Delivery",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Outlook.com",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon Web Hosting",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft SharePoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Dassault Systemes",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "LUBOŠ HAJSKÝ",
+        "firstName": "LUBOŠ",
+        "lastName": "HAJSKÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:07:24",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.devinn.cz",
+    "homepage": {
+      "title": "DEVINN: Inovacemi měníme svět automotive a energetiky",
+      "description": "Našim partnerům jako je ŠKODA AUTO pomáháme s vývojem automobilů či testováním automobilové elektroniky a světel. Jsme významným českým integrátorem vodíkových systémů v energetice a dopravě. Vyvíjíme a prodáváme i vlastní produkty, jako je mobilní vodíkový generátor H2BASE.",
+      "text_excerpt": "DEVINN: Inovacemi měníme svět automotive a energetiky\nbaví nás...\nAkreditovaná zkušební laboratoř\nVODÍKOVÉ HOSPODÁŘSTVÍ, úložiště energie a off-grid budovy\nElektrotechnika a mechanická konstrukce\nINTEGRACE PALIVOVÝCH ČLÁNKŮ, bateriové aplikace, e-MOBILITA\nSvětelná technika\nStavba prototypů a Prezentérů\nNápady budoucnosti?\nHravě.\nChceme inovacemi posunout Česko do technologické první ligy. Prací se chceme bavit a vidět za sebou výsledky. Nemáme ambice být největší, ale rozhodně chceme patřit mezi ty nejlepší v oboru.\nO čem je Devinn?\nVolné pozice u nás\nŘeditel vývoje\nZjistit více\nSensor Fusion Engineer - Automatizované funkce vozidla\nZjistit více\nPerception Engineer - ADAS/Autonomní systémy\nZjistit více\nVšechny volné pozice\nVšechny pozice\nNejnovější články z blogu\nSpolečně s Tatrou boříme mýty o emisích v nákladní dopravě\nSpojení tradice TATRA TRUCKS a vodíkového know-how DEVINNu mění tvář dopravy. Na kontě už máme 3 unikátní vozy a vodíkovou plnicí stanici. Společně boříme mýty o emisích v těžké přepravě a píšeme novou kapitolu české mobility. Je to hrdost na inovace, které staví na pevných základech partnerství.\n20.11.2025\nmin čtení\nDEVINN se stal Firmou roku 2025 Libereckého kraje\nZískali jsme titul Volkswagen Firma roku 2025 Libereckého kraje. A máme z toho radost. Nejen kvůli trofeji, ale hlavně proto, že náš přístup k technologiím, inovacím i udržitelnosti dává smysl nejen nám, ale i těm, kdo se na naši práci dívají zvenčí. Co všechno za tím stojí?\n2.10.2025\nmin čtení\nSportovní výzva: Když kilometry v nohách mění lidské osudy\nV DEVINNu jsme zvyklí měřit efektivitu palivových článků nebo výkon motorů. Jednou v roce ale přepínáme na jiné jednotky: kilometry v nohách proměňujeme v pomoc těm, kteří v životě neměli tolik štěstí.\n15.8.2025\nmin čtení\nVšechny příspěvky na blogu\nPodělíte se s námi o vaše cookies?\nAno, i náš web používá cookies. Díky povolení cookies vám budeme moct zprostředkovat nevšední zážitek při prohlížení našeho webu.\nUpravit nastavení\nOdmítnout\nPřijmout vše\nMoje cookies preference\nCookies soubory zajišťují správné fungování základních funkcí našeho webu a přispívají k tomu, abyste si váš pobyt v online prostoru užívali. Níže si můžete vybrat, jaké cookies nám chcete nebo nechcete poskytnout. Svoji volbu můžete také kdykoliv změnit.\nOdmítnout\nPovolit vše\nNezbytný\nVždy aktivní\nTento druh cookies je důležitý pro správné fungování webu a vaše pohodlí. Díky funkčním cookies souborům se vám třeba správně zobrazuje náš web na počítači a na mobilu. Tyto cookies jsou povoleny automaticky, nelze je tedy zakázat.\nAnalytika\nEssential\nTento druh cookies slouží například k analýze návštěvnosti. Analytické cookies nám slouží hlavně k tomu, abychom pochopili, jak naše webové stránky využíváte. Data o chování uživatelů jsou samozřejmě sbírány anonymně.\nMarketing\nEssential\nVáš souhlas s marketingovými cookies nám pomůže s lepším cílením reklam a s personalizací reklamních sdělení. Využijeme je k vyhodnocování marketingu, takže se vám budou zobr"
+    },
+    "about": {
+      "url": "https://www.devinn.cz/o-nas",
+      "text": "Kdo jsme • DEVINN #development #innovation\nJsme vývojáři, kteří\nmění vize v realitu\nDEVINN je mladá vývojová firma, která už ale má své startupové doby za sebou. Máme na kontě víc než 150 vývojových projektů a na poli technických inovací jsme tedy jako doma.\nMáme na kontě\n150+\ndokončených\nprojektů\n250+\nmil. Kč\nroční obrat\n10+\nlet\nzkušeností\n160\nstálých\nzaměstnanců\n2+2\npatenty\na užitné vzory\nNÁŠ PŘÍBĚH\nKdyž v roce 2013 Luboš Hajský prodal svůj podíl ve velké TIER1 automotive výrobní firmě, kde působil jako technický ředitel, rozhodl se vydat směrem vývoje a inovací. Spolu s manželkou Věrou rozjeli v roce 2014 vývojovou společnost.\nNa začátku bylo těžké v obrovské konkurenci vývojových dodavatelů uspět. Do firmy vložili srdce, úsilí i čas a sestavili skvělý tým lidí, který nám pomáhá na cestě k úspěchu. Proto dnes můžeme říci, že hrdě konkurujeme také nadnárodním firmám, které mají na trhu dlouholetou tradici.\nČasová osa\n2014\nRozjíždíme firmu\nPřijímáme první 3 zaměstnance\nRealizujeme první vývojový projekt pro ŠKODA AUTO v oblasti vývoje vozu\n2015\nNáš vývojový tým se rozrůstá na 20 lidí\nZískáváme certifikaci ISO 9001\nZačínáme hledat prostory v Mladé Boleslavi\n2016\nKupujeme objekt v Mladé Boleslavi\nRekonstruujeme a otevíráme Vývojové centrum Hračkárna\nVyvíjíme a homologujeme přídavné světlomety pro ŠKODA Motorsport\n2017\nZahajujeme sériovou výrobu přídavných světlometů pro ŠKODA Motorsport\nJsme výhradním dodavatelem zkoušek osvětlení vozu pro ŠKODA AUTO\nMáme 60 zaměstnanců\n2018\nInvestujeme 12 mil. Kč do vlastní zkušebny\nSpolupracujeme na vývoji s výzkumnými organizacemi jako je ÚJV Řež, FEL ČVUT, ZČU\nČerpáme dotace na inovační vouchery a patentujeme výsledky vývoje\nStáváme se členy HYTEP – České vodíkové technologické platformy\n2019\nUskutečnili jsme první zážeh palivového článku našeho vodíkového zařízení H2BASE\nZískali jsme certifikaci ISO27001\nPředstavili jsme 3 nové designy přídavných světel\nPosílili jsme naše technické vybavení o klimatickou SoLiSi komoru\n2020\nUvádíme na trh náš vodíkový generátor H2BASE\nTomáš Tomeček se účastní Africa Eco Race s našimi přídavnými světlomety\nZrekonstruovali jsme naše sídlo v Jablonci nad Nisou\nInvestice do vlastního certifikovaného pracoviště pro vývoj a testování H2 aplikací v Jablonci nad Nisou\n2021\nJako první na světě napájíme vodíkem stage na hudebním festivalu – Rock for People\nZískáváme akreditaci naší zkušební laboratoře\nStáváme se součástí projektu vodíkové Tatry\nNa trh uvádíme náš systém monitoringu trakčních baterií WATCHDOG\n2022\nZískáváme vojenskou certifikaci AQAP\nSpouštíme program pro zaměstnance DEVINN Wellbeing\nInvestujeme do elektrolyzéru a fotovoltaiky pro energetickou soběstačnost\nRozšiřujeme naši akreditovanou laboratoř\n2023\nSlavnostně otevíráme energeticky soběstačný areál\ns první instalací systému vodíkového hospodářství\nna průmyslové budově v Česku\nDokončujeme vodíkový nákladní speciál\nTATRA FORCE e-DRIVE\n2024\nSlavíme 10 let\nRozšiřujeme a rekonstruujeme naše zázemí v Jablonci nad Nisou\n2025\nOtevíráme nové kanceláře v Jablonci nad Nisou v nově\nzrekonstruované vile z 19. století\nPodílíme se na vývoji první plně elektrické Tatry Force\ne-Drive BEV 8×8 a vodíkové Tatry Force e-Drive FCEV 6x4 s autonomním řízením\nProbíhá realizace zátěžových zkoušek elektroinstalace nového 7místného BEV pro Fujikuru\nZískáváme zakázku od Škoda Auto na testování a vývoj jednotky BCM pro komfortní funkce vozu\nStáváme se držiteli titulu Volkswagen Firma roku 2025 Libereckého kraje\n2026\nZískali jsme certifikaci ISO 3834-2\nRozšířili jsme technické vybavení o svařovací jednotku a zřídili pracoviště pro vývoj a testování vodíkových spojů.\n2014\nRozjíždíme firmu\nPřijímáme první 3 zaměstnance\nRealizujeme první vývojový projekt pro ŠKODA AUTO v oblasti vývoje vozu\n2014\nRozjíždíme firmu\nPřijímáme první 3 zaměstnance\nRealizujeme první vývojový projekt pro ŠKODA AUTO v oblasti vývoje vozu\n2015\nNáš vývojový tým se rozrůstá na 20 lidí\nZískáváme certifikaci ISO 9001\nZačínáme hledat prostory v Mladé Boleslavi\n201"
+    },
+    "products": {
+      "url": "https://www.devinn.cz/produkty",
+      "text": "Produkty • DEVINN #development #innovation\nOzvěte se nám\nVodíkové a bateriové aplikace\nH2BASE:\nMobilní vodíkový generátor energie‍\nWatchdog: monitoring trakčních baterií\nH2BOT: VODÍKOVÁ SEMIAUTONOMNÍ NABÍJEČKA ELEKTROMOBILŮ\nH2PORT:\nmobilní vodíková plnicí stanice\nPOWERUNIT: BATERIOVÉ ÚLOŽIŠTĚ S dc/dc NABÍJEČKOU‍\ntped vodíkový svazek s redukční stanicí‍\nvodíková plnicí stanice na platformě Flat Rack\nled PŘÍDAVNÉ SVĚTLOMETY PHOTON by DEVINN\nPHOTON RALLY\nPHOTON cLASSIC\nPHOTON tRUCK"
+    },
+    "contact_page": {
+      "url": "https://www.devinn.cz/kontakt",
+      "text": "Napište nám • DEVINN #development #innovation\nOzvěte se s Vašimi dotazy,\nspojím Vás s tím správným\nčlenem našeho týmu.\n+420 735 718 195\nrecepce@devinn.cz\nKateřina Lišková\nVáš první kontakt v DEVINNu\nFakturační údaje\nDEVINN s.r.o.\nSkřivánčí 4769/38\n466 01, Jablonec nad Nisou\nIČ: 40233138\nDIČ: CZ40233138\nDUNS (Mladá Boleslav): 495738688\nDUNS (Jablonec nad Nisou): 495579849\nE-mail: fakturace@devinn.cz\nKde nás najdete\nVývojové centrum HRAČKÁRNA\nOd roku 2016 většinu našich vývojových projektů tvoříme v krásném objektu v Čejeticích u Mladé Boleslavi.\nDEVINN s.r.o.\nKoněvova 134\nČejetice\n293 01 Mladá Boleslav\nzobrazit na mapě\nNaše sídlo v Jablonci nad Nisou\nSídlo naší firmy najdete na Skřivánčí ulici v Jablonci nad Nisou. Právě tady rozvíjíme naše (nejen) vodíkové projekty.\nDEVINN s.r.o.\nSkřivánčí 4769/38\n466 01 Jablonec nad Nisou\nzobrazit na mapě\nChcete kontakt\nna někoho konkrétního?\nLuboš Hajský\nCEO\n+420 603 889 627\nlubos.hajsky@devinn.cz\nLinkedIn profil\nJana Jiránková\nHead of CEO Office\n+420 735 718 208\njana.jirankova@devinn.cz\nLinkedIn profil\nVladimír Přikryl\nCOO\n+420 731 675 782\nvladimir.prikryl@devinn.cz\nLinkedIn profil\nJan Cina\nHR Manager\n+420 603 254 333\njan.cina@devinn.cz\nLinkedIn profil\nKarel Souček\nHead of Technical Development\nLinkedIn profil\nJan Mašek\nSales Engineer – Hydrogen Technologies\n+420 606 022 534\njan.masek@devinn.cz\nLinkedIn profil\nJan Hradil\nSales Engineer - Hydrogen Technologies\n+420 737 983 459\njan.hradil@devinn.cz\nLinkedIn profil\nIrena Stupková\nMarketing a média\n+420 732 942 519\nirena.stupkova@devinn.cz\nLinkedIn profil\nPodělíte se s námi o vaše cookies?\nAno, i náš web používá cookies. Díky povolení cookies vám budeme moct zprostředkovat nevšední zážitek při prohlížení našeho webu.\nUpravit nastavení\nOdmítnout\nPřijmout vše\nMoje cookies preference\nCookies soubory zajišťují správné fungování základních funkcí našeho webu a přispívají k tomu, abyste si váš pobyt v online prostoru užívali. Níže si můžete vybrat, jaké cookies nám chcete nebo nechcete pos"
+    }
+  }
+}

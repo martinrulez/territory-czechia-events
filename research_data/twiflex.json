@@ -1,0 +1,337 @@
+{
+  "company_key": "twiflex",
+  "company_name": "TWIFLEX",
+  "domain": "www.twiflex.com",
+  "domain_url": "https://www.twiflex.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "TWIFLEX",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Fusion",
+    "total_seats": "2",
+    "current_acv_eur": "1200.0",
+    "potential_acv_eur": "8200.0",
+    "nearest_renewal": "2026-07-14",
+    "days_to_renewal": "82",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Fusion Sim Ext",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other",
+    "ml_domain": "www.dioflex.cz",
+    "zi_done": true,
+    "employee_count": 76,
+    "revenue": 18658,
+    "zi_company_name": "Twiflex",
+    "zi_domain": "www.twiflex.com",
+    "zi_city": "London",
+    "zi_country": "United Kingdom",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.twiflex.com",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "TWIFLEX",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 41,
+    "all_technologies": [
+      {
+        "product": "UserWay",
+        "vendor": "UserWay.org",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Level Access",
+        "vendor": "Level Access",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "BPMN",
+        "vendor": "Object Management Group",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "OneTrust",
+        "vendor": "OneTrust, LLC",
+        "category": "Data Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "New Relic",
+        "vendor": "New Relic, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Hammer.js",
+        "vendor": "Eight Media",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "OneTrust Cookie Consent",
+        "vendor": "OneTrust, LLC",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Workday Recruiting",
+        "vendor": "Workday, Inc.",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft Azure DNS",
+        "vendor": "Microsoft Corporation",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Proofpoint",
+        "vendor": "Proofpoint, Inc.",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Ruxit",
+        "vendor": "Dynatrace LLC",
+        "category": "Real User Monitoring",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Workday",
+        "vendor": "Workday, Inc.",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Hosting",
+        "vendor": "Microsoft Corporation",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "PayPal Braintree",
+        "vendor": "PayPal Holdings, Inc.",
+        "category": "Payment Processing",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "New Relic Browser",
+        "vendor": "New Relic, Inc.",
+        "category": "Real User Monitoring",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Sitecore Experience Platform",
+        "vendor": "Sitecore Holding II A/S",
+        "category": "Customer Experience Management",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Qualtrics",
+        "vendor": "Qualtrics, LLC",
+        "category": "Customer Experience Management",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Backbone.js",
+        "vendor": "Backbone.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Qualtrics Site Intercept",
+        "vendor": "Qualtrics, LLC",
+        "category": "Customer Feedback Management",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Siteimprove",
+        "vendor": "Siteimprove A/S",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Azure",
+        "vendor": "Microsoft Corporation",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "TWIFLEX",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 14:50",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "inventor"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

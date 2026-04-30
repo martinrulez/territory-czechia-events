@@ -1,0 +1,211 @@
+{
+  "company_key": "esi italia s.r.l.",
+  "company_name": "ESI ITALIA S.R.L.",
+  "domain": "www.esitalia.net",
+  "domain_url": "https://www.esitalia.net",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ESI ITALIA S.R.L.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 15,
+    "revenue": 3816,
+    "zi_company_name": "Esi Italia",
+    "zi_domain": "www.esitalia.net",
+    "zi_city": "Leini'",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.esitalia.net",
+    "homepage": {
+      "title": "Componenti per Veicoli Industriali | ESI Italia",
+      "description": "ESI Italia produce sospensioni pneumatiche e componenti per veicoli industriali. Soluzioni meccaniche speciali progettate internamente. Qualità Made in Italy.",
+      "text_excerpt": "Componenti per Veicoli Industriali | ESI Italia\nVai al contenuto\nELABORAZIONE SISTEMI INDUSTRIALI ITALIA\nESI Italia opera ininterrottamente\nnel mondo dell’automotive dal 1976\n, anno in cui prende forma la distribuzione di ricambi per veicoli commerciali ed industriali, evolvendo nel tempo con l’ampliamento della gamma di prodotti e l’adozione di nuove tecnologie eleggendo produzione e progettazione quali cardini della filosofia aziendale.\nIl 1991 è l’anno del lancio del marchio\nTOP DRIVE SYSTEM\n, ideato per la  linea di sospensioni ad aria per veicoli commerciali ed industriali, divenuto poi il catalogo più vasto d’Europa con versioni di prodotto adatte alle varianti e agli usi più disparati.\nL’attenzione per i dettagli e il desiderio di soddisfare un pubblico sempre più ampio, ci ha consentito di consolidare un marchio affidabile riconosciuto in Italia e all’estero.\nMotore dell’azienda:\nle idee\n. Innovazione e desiderio di adottare nuove tecnologie ci hanno consentito di rimanere al passo con i tempi e di rinnovarci con costanza, mantenendo progettazione e produzione\nitaliane al 100%\nappoggiandosi ad una rete di partner specializzati del territorio nazionale.\nI nostri valori\nMade in Italy\nProgettazione, produzione e controllo qualità interamente realizzati in Italia.\nLa forza delle idee\nLo spirito innovativo al passo con i tempi è da sempre la filosofia della nostra azienda.\nAssistenza\nSupporto tecnico costante e cura del cliente in ogni fase, dall’acquisto all’installazione.\nPrezzo Equilibrato\nQualità e affidabilità al giusto costo, perché le prestazioni non devono essere un lusso.\nDOVE OPERIAMO\nSvezia\nFinlandia\nDanimarca\nPortogallo\nEstonia\nLettonia\nLituania\nOlanda\nGermania\nPolonia\nRep.Ceca\nSlovacchia\nSpagna\nFrancia\nSvizzera\nAustria\nSlovenia\nCroazia\nSerbia\nBulgaria\nRomania\nGrecia\nesi italia\nI nostri prodotti\nComponenti speciali\nCon oltre mille progetti realizzati e più di duecentomila prodotti venduti,\nESI Italia\nsviluppa componenti su misura per esigenze fuori catalogo.\nSospensioni, ammortizzatori, sistemi di controllo e distribuzione dell’aria rappresentano il cuore del nostro know-how tecnico e della continua innovazione produttiva.\nRicambi\nESI Italia\nintegra esperienza e passione nella distribuzione di ricambi per veicoli commerciali e industriali.\nAttraverso una rete specializzata e un servizio dedicato, garantisce disponibilità costante, supporto tecnico e un eccellente rapporto qualità/prezzo, assicurando continuità e affidabilità in ogni applicazione.\nSospensioni pneumatiche\nIl catalogo\nTOP DRIVE SYSTEM\npropone una delle gamme più complete di sospensioni pneumatiche per veicoli da trasporto.\nLe diverse versioni e configurazioni consentono di rispondere a ogni esigenza di installazione, offrendo comfort di guida, sicurezza e versatilità d’uso.\nSCOPRI DI PIù\nNews ed eventi\nSCOPRI DI PIù\nI nostri numeri\narticoli\nclienti\npaesi serviti\ncertificazioni prodotto\nSCOPRI DI PIù"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "ESI ITALIA S.R.L.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 23,
+    "all_technologies": [
+      {
+        "product": "Google Docs",
+        "vendor": "Google LLC",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Aruba SpA",
+        "vendor": "Aruba S.p.A.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Hammer.js",
+        "vendor": "Eight Media",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Analytics",
+        "vendor": "Facebook, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Aruba Hosting",
+        "vendor": "Aruba S.p.A.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ESI ITALIA S.R.L.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 18:31"
+}

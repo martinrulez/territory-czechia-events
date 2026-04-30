@@ -1,0 +1,353 @@
+{
+  "company_key": "ampco pumps gmbh",
+  "company_name": "Ampco Pumps GmbH",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Ampco Pumps GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "Ampco Pumps GmbH",
+    "autodesk_products": [],
+    "competitor_products": [
+      "Solidworks"
+    ],
+    "cad_bim_other": [
+      "Assemble"
+    ],
+    "total_technologies": 51,
+    "all_technologies": [
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Umbraco CMS",
+        "vendor": "Umbraco A/S",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ventiv",
+        "vendor": "Ventiv Technology Australia PTY Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Assemble",
+        "vendor": "Autodesk, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Lob",
+        "vendor": "Lob.com, Inc",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Kanban",
+        "vendor": "",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "NTENT Hosting",
+        "vendor": "NTENT Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Adobe",
+        "vendor": "Adobe Inc.",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Solidworks",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Kestrel",
+        "vendor": "Microsoft Corporation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Intermedia Exchange Email",
+        "vendor": "Intermedia.net, Inc",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "WPForms",
+        "vendor": "WPForms LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Choopa",
+        "vendor": "Choopa, LLC",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Sched",
+        "vendor": "SCHED LLC",
+        "category": "Event Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Google Cloud Platform",
+        "vendor": "Google LLC",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Cloud Web Serving",
+        "vendor": "Google LLC",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Adobe Activation",
+        "vendor": "Adobe Inc.",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "reCAPTCHA v2.0",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Bullhorn",
+        "vendor": "Bullhorn, Inc",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Adobe Experience Manager",
+        "vendor": "Adobe Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Adobe Target",
+        "vendor": "Adobe Inc.",
+        "category": "A/B Testing",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CenturyLink Managed Services",
+        "vendor": "CenturyLink, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Adobe Analytics",
+        "vendor": "Adobe Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "ShortPixel",
+        "vendor": "ID SCOUT SRL",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Ampco Pumps GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:21"
+}

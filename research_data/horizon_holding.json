@@ -1,0 +1,169 @@
+{
+  "company_key": "horizon holding",
+  "company_name": "Horizon Holding",
+  "domain": "www.horizonholding.cz",
+  "domain_url": "https://www.horizonholding.cz",
+  "events": "Czech Green Building Council Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Horizon Holding",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "AutoCAD | AutoCAD LT",
+    "total_seats": "2",
+    "current_acv_eur": "2700.0",
+    "potential_acv_eur": "10400.0",
+    "nearest_renewal": "2026-10-04",
+    "days_to_renewal": "164",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Add Revit + Civil 3D + Navisworks for full BIM workflow",
+    "all_upsells": "AEC Collection; PDMC; Forma",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Building Products & Fabricat'n",
+    "ml_domain": "www.hholding.cz",
+    "zi_done": true,
+    "employee_count": 14,
+    "revenue": 2377,
+    "zi_company_name": "Horizon Holding",
+    "zi_domain": "www.horizonholding.cz",
+    "zi_city": "Prague",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.horizonholding.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Horizon Holding",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 8,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Comments",
+        "vendor": "Facebook, Inc.",
+        "category": "Comment Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Horizon Holding",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Yishay",
+        "last_name": "Furman",
+        "title": "Chief Executive Officer",
+        "email": "yfurman@horizonholding.cz",
+        "phone": "",
+        "company": "Horizon Holding",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 99.0
+      },
+      {
+        "first_name": "Roman",
+        "last_name": "Dymák",
+        "title": "Director, Financial",
+        "email": "rdymak@horizonholding.cz",
+        "phone": "",
+        "company": "Horizon Holding",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 15:12",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks",
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

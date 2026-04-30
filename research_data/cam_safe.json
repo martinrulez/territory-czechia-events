@@ -1,0 +1,31 @@
+{
+  "company_key": "cam_safe",
+  "company_name": "Cam-Safe",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Bev Gisborne",
+        "firstName": "Bev",
+        "lastName": "Gisborne",
+        "jobTitle": "Managing Director",
+        "email": "bev@camsafesecurity.co.uk",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:07:12"
+}

@@ -1,0 +1,125 @@
+{
+  "company_key": "f_m_t_group_s_r_o",
+  "company_name": "F.M.T. Group s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "F.M.T. Group s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 11,
+    "all_technologies": [
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP 5.6",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ROSTISLAV PIETRZYK",
+        "firstName": "ROSTISLAV",
+        "lastName": "PIETRZYK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ŠTEFAN KOŠUTH",
+        "firstName": "ŠTEFAN",
+        "lastName": "KOŠUTH",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:08:53",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.fmt-group.com",
+    "homepage": {
+      "title": "Použité a modernizované obráběcí stroje | FMT GROUP",
+      "description": "použité stroje, obráběcí stroje",
+      "text_excerpt": "Použité a modernizované obráběcí stroje | FMT GROUP\nTELEFON\n+420 558 638 901\nE-MAIL\nfm@fmt-group.com\nObráběcí a tvářecí stroje\nHlavní stránka\nNabídka strojů\nPoptat stroj\nReference\nKontakty\nHlavní stránka\nNabídka strojů\nPoptat stroj\nReference\nKontakty\nPoužité i nové\nprůmyslové\nstroje\nNové stroje\nO nás\nFMT-Group\nVážení klienti,\nDovolte nám představit naši společnost F.M.T. Group s.r.o. jako seriozního partnera v oblasti obchodu s použitými kovoobráběcími a tvářecími stroji. Několik let existence naší společnosti prokázalo, že u nás zákazníci naleznou vhodné a výhodné řešení svých požadavků v příznivém poměru užitná hodnota / cena. Na našich webových stránkách pro Vás připravujeme aktuální nabídku použitých obráběcích strojů a zařízení. V případě dalších dotazů v oblasti sortimentu či doplňkových služeb se prosím s důvěrou obracejte na tým našich spolupracovníků na dále uvedených kontaktech.\nTěšíme se na spolupráci s Vámi!\nKontakt\nAKTUÁLNĚ MÁME\nV NABÍDCE\n692\nSTROJŮ\nProfesionální přístup\nNabízíme Vám\nZkušenosti a profesionální přístup\nGaranci stabilní firmy\nNabídku na odkup souborů strojů a zařízení\nStěhování, (de)montáže, opravy a přepravy\nNabídku financování\nDodávku nových strojů\nVíce informací\nDoporučujeme\nObráběcí centrum-vertikální\nTyp : C 500 V\nLis-hydraulický\nTyp : PYE 100 N\nVodorovná vyvrtávačka-stolová\nTyp : WHN 105 CNC\nF.M.T Group © 2005 - 2026\nAll rights reserved"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "company_key": "momento",
+  "company_name": "MOMENTO",
+  "domain": "www.montkov.cz",
+  "domain_url": "https://www.montkov.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "MOMENTO",
+    "opportunity_score": 29,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.47,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.47,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "21849919",
+    "official_name": "Momento Holdings, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "47",
+      "22",
+      "46",
+      "46190",
+      "46190",
+      "47",
+      "46",
+      "22"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "U obecního dvora 794/4, Staré Město, 11000 Praha 1, Praha, U obecního dvora, 11000",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2027-03-20",
+    "days_to_renewal": "331",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Entry",
+    "industry_segment": "Building Products & Fabricat'n",
+    "ml_domain": "www.montkov.cz",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.montkov.cz",
+    "homepage": {
+      "title": "Úvodní stránka - Montkov, s.r.o.",
+      "description": "Zárubně, dveře, okna a vrata z MONTKOVU pro novostavby i rekonstrukce objektů",
+      "text_excerpt": "Úvodní stránka - Montkov, s.r.o.\nPřeskočit na hlavní obsah\nPřeskočit na zápatí\nZárubně, dveře, okna a vrata z MONTKOVU\npro novostavby i rekonstrukce objektů\nVíce informací\nVyrábíme a dodáváme\nkvalitní výplně stavebních otvorů\nPostaráme se o to, abyste měli ve svých objektech takové dveře, okna i vrata, která splňují vaše požadavky na funkčnost, design i dlouhodobý bezproblémový provoz.\nNaši zaměstnanci mají dostatečné odborné znalosti i zkušenosti a ochotně poskytnou potřebnou technickou podporu při výběru efektivního řešení.\nProč si vybrat MONTKOV?\nZavedený český výrobce\nOdbornost a technická podpora prodeje\nOperativnost a flexibilita\nZáruka kvality\nZkušenosti s realizací velkých stavebních projektů\nDodávky a montáže po celém území ČR\nNaše nabídka produktů\nOcelové zárubně\nOcelové zárubně v základních typových řadách pro přímé zdění a montované příčky, včetně rozšířené nabídky pro zazdívání či dodatečnou montáž....\nVíce informací\nOcelové dveře\nŠiroký výběr ocelových dveří pro vnitřní i venkovní použití, včetně variant s tepelnou izolací a bezpečnostní třídou BT3 pro různé...\nVíce informací\nOcelová vrata\nOcelová dvoukřídlá vrata ve dvou řadách – jednodušší VOTO s nosným rámem a propracovanější JOTO s tepelně izolačními vlastnostmi. Vrata...\nVíce informací\nPožární dveře\nNabízíme dřevěné a ocelové požární dveře, včetně kouřotěsných, s odolností EW, EI 30-90. K dispozici jsou i prosklené varianty a...\nVíce informací\nDřevěné dveře\nDřevěné dveře nabízíme jako interiérové, přechodové a venkovní. Mohou být plné, prosklené, dýhované, fóliované, lakované nebo v lazurách.\nVíce informací\nBezpečnostní dveře\nBezpečnostní dveře mohou být pro bytové účely, technické místnosti, obchodní prostory, školy, nemocnice a další instituce.\nVíce informací\nOcelová okna\nOcelová okna z profilového systému Jansen jsou vhodná pro vnitřní i vnější použití. Nabízí se v běžných i atypických rozměrech...\nVíce informací\nVýplně stavebních otvorů z profilů JANSEN\nDřevěné dveře nabízíme jako interiérové, přechodové a venkovní. Mohou být plné, prosklené, dýhované, fóliované, lakované nebo v lazurách.\nVíce informací\nRevizní dvířka\nRevizní dvířka pro zděné a sádrokartonové příčky nabízíme v provedení viditelném i neviditelném, jednokřídlá nebo dvoukřídlá. K dispozici jsou i...\nVíce informací\nOcelové prosklené stěny\nOcelové prosklené stěny z profilů Jansen jsou vhodné pro vnitřní i venkovní použití a dodávají se s finální povrchovou úpravou...\nVíce informací\nLehké ocelové poklopy\nLehké ocelové poklopy jsou vyráběny ve čtvercovém či obdélníkovém tvaru, odnímatelné nebo výklopné. Jsou určeny pro zakrytí šachet, rozvodů vody...\nVíce informací\nBezpečnostní mříže\nBezpečnostní mříže jsou určeny pro zabezpečení dveří, oken, průchodů a pasáží. Nabízíme nůžkové, pevné a pevné otevíravé mříže.\nVíce informací\nZakázkové zámečnictví a výrobní kooperace\nZakázkové zámečnictví vyrábí atypické dveře, vrata, ocelová okna, výkladce obchodů a prosklené stěny. Nabízíme také kooperační spolupráci na zprac"
+    },
+    "about": {
+      "url": "https://www.montkov.cz/o-spolecnosti",
+      "text": "O společnosti - Montkov, s.r.o.\nPřeskočit na hlavní obsah\nPřeskočit na zápatí\nVyrábíme a dodáváme kvalitní výplně stavebních otvorů\nPostaráme se o to, abyste měli ve svých objektech takové dveře, okna i vrata, která splňují vaše požadavky na funkčnost, design i dlouhodobý bezproblémový provoz. Naši zaměstnanci mají dostatečné odborné znalosti i zkušenosti a ochotně poskytnou potřebnou technickou podporu při výběru efektivního řešení.\nProč MONTKOV?\nZavedený český výrobce\nOdbornost a technická podpora prodeje\nOperativnost a flexibilita\nZáruka kvality\nZkušenosti s realizací velkých stavebních projektů\nDodávky a montáže po celém území ČR\nNapsali o nás\nOcelové zárubně - konstrukční novinky do firmy MONTKOV, spol. s r.o.\nInternetový magazín Bydlemí pro každého - www.bydleniprokazdeho.cz\nOcelové zárubně pro posuvné dveře – specialita v nabídce firmy MONTKOV, spol. s r.o.\nInternetový magazín Bydlemí pro každého - www.bydleniprokazdeho.cz\nBezpečnostní ocelové dveře pro průmyslové použití\nInternetový magazín Bydlemí pro každého - www.bydleniprokazdeho.cz\nO společnosti\nOdeslat"
+    },
+    "products": {
+      "url": "https://www.montkov.cz/produkty",
+      "text": "Produkty - Montkov, s.r.o.\nPřeskočit na hlavní obsah\nPřeskočit na zápatí\nProdukty\nOcelové zárubně\nOcelové zárubně v základních typových řadách pro přímé zdění a montované příčky, včetně rozšířené nabídky pro zazdívání či dodatečnou montáž....\nVíce informací\nOcelové dveře\nŠiroký výběr ocelových dveří pro vnitřní i venkovní použití, včetně variant s tepelnou izolací a bezpečnostní třídou BT3 pro různé...\nVíce informací\nOcelová vrata\nOcelová dvoukřídlá vrata ve dvou řadách – jednodušší VOTO s nosným rámem a propracovanější JOTO s tepelně izolačními vlastnostmi. Vrata...\nVíce informací\nPožární dveře\nNabízíme dřevěné a ocelové požární dveře, včetně kouřotěsných, s odolností EW, EI 30-90. K dispozici jsou i prosklené varianty a...\nVíce informací\nDřevěné dveře\nDřevěné dveře nabízíme jako interiérové, přechodové a venkovní. Mohou být plné, prosklené, dýhované, fóliované, lakované nebo v lazurách.\nVíce informací\nBezpečnostní dveře\nBezpečnostní dveře mohou být pro bytové účely, technické místnosti, obchodní prostory, školy, nemocnice a další instituce.\nVíce informací\nOcelová okna\nOcelová okna z profilového systému Jansen jsou vhodná pro vnitřní i vnější použití. Nabízí se v běžných i atypických rozměrech...\nVíce informací\nVýplně stavebních otvorů z profilů JANSEN\nDřevěné dveře nabízíme jako interiérové, přechodové a venkovní. Mohou být plné, prosklené, dýhované, fóliované, lakované nebo v lazurách.\nVíce informací\nRevizní dvířka\nRevizní dvířka pro zděné a sádrokartonové příčky nabízíme v provedení viditelném i neviditelném, jednokřídlá nebo dvoukřídlá. K dispozici jsou i...\nVíce informací\nOcelové prosklené stěny\nOcelové prosklené stěny z profilů Jansen jsou vhodné pro vnitřní i venkovní použití a dodávají se s finální povrchovou úpravou...\nVíce informací\nLehké ocelové poklopy\nLehké ocelové poklopy jsou vyráběny ve čtvercovém či obdélníkovém tvaru, odnímatelné nebo výklopné. Jsou určeny pro zakrytí šachet, rozvodů vody...\nVíce informací\nBezpečnostní mříže\nBezpečnostní mříže jsou určeny pro zabezpečení dveří, oken, průchodů a pasáží. Nabízíme nůžkové, pevné a pevné otevíravé mříže.\nVíce informací\nZakázkové zámečnictví a výrobní kooperace\nZakázkové zámečnictví vyrábí atypické dveře, vrata, ocelová okna, výkladce obchodů a prosklené stěny. Nabízíme také kooperační spolupráci na zpracování tenkých...\nVíce informací\nProdukty\nOdeslat"
+    },
+    "contact_page": {
+      "url": "https://www.montkov.cz/kontakt",
+      "text": "Kontakty - Montkov, s.r.o.\nPřeskočit na hlavní obsah\nPřeskočit na zápatí\nKontakty\nProvozovna a expedice\nMONTKOV, spol. s r.o.\nVyšehněvice 10\n533 41 Lázně Bohdaneč\nKontaktní údaje\nTelefon:\n+420 466 768 250\nE-mail:\ninfo@montkov.cz\nWebové stránky:\nmontkov.cz\nSídlo firmy\nMONTKOV, spol. s r.o.\nVyšehněvice 10\n533 41 Lázně Bohdaneč\nFiremní údaje\nIČO: 429 36 250\nDIČ: CZ42936250\nSpolečnost je vedená u Krajského soudu v Hradci Králové pod spisovou značkou C 867.\nDatová schránka: 5b5ni5t\nOtvírací doba\nProvozní doba expedice v provozovně : Po-Pá, 7:00-10:00 hod., 11:00-14:00 hod.\nKontaktní formulář\nJméno a příjmení\nEmail\nTelefon\nMěsto\nUlice, č.p.\nPSČ\nZpráva\nPotvrzuji seznámení s Poučením o zpracování osobních údajů\nPoučení\nOsobní údaje poskytnuté v kontaktním formuláři jsou určeny výhradně pro potřebu zpracování zaslaného požadavku a pro účely vyřízení případné objednávky produktů a služeb společnosti MONTKOV. V této souvislosti jsem informován (a) o tom, že mám právo na informaci, k jakému účelu a jakým způsobem jsou tyto informace zpracovány. Pokud zjistím nebo se domnívám, že správce provádí zpracování mých osobních údajů, v rozporu s ochranou mého soukromého a osobního života nebo v rozporu se zákonem, mohu požadovat o provedení opravy, doplnění nebo odstranění osobních údajů.\nVíce informací o ochraně osobních údajů naleznete zde.\nGoogle reCaptcha: Neplatný klíč webu.\nOdeslat\nKontaktní osoby\nManagement\nEkonomický ředitel\nMiroslav Bělský\n+420 466 768 251\nbelsky@montkov.cz\nJednatel a výrobní ředitel\nMiroslav Bělský ml.\n+420 466 736 563\nbelskyml@montkov.cz\nObchodní ředitel\nIng. Radek Fanta\n+420 466 768 268\nfanta@montkov.cz\nEkonom\nOlga Malečková\n+420 466 768 252\nmaleckova@montkov.cz\nKontrola a BOZP\nDušan Brožek\n+420 466 768 266\nbrozek@montkov.cz\nVýroba a prodej ocelových zárubní\nObchodně-technický zástupce\nLuboš Pergr\n+420 724 203 511\n+420 466 736 561\npergr@montkov.cz\nObchodně-technický zástupce\nJindřich Holub\n+420 724 851 034\n+420 466 768 256\nholub@montkov.cz\nObchodní referent"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "MOMENTO",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 29,
+    "all_technologies": [
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Leady",
+        "vendor": "Imper CZ s.r.o.",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Seznam",
+        "vendor": "Imedia",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Dynamic Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Ads",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "MOMENTO",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Vojtech",
+        "last_name": "Forejt - Montkov",
+        "title": "",
+        "email": "forejt@montkov.cz",
+        "phone": "",
+        "company": "Montkov",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 84.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:59",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "recap"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

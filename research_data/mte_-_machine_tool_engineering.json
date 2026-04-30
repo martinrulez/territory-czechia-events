@@ -1,0 +1,237 @@
+{
+  "company_key": "mte - machine tool engineering",
+  "company_name": "MTE - Machine Tool Engineering",
+  "domain": "www.mtemachine.com",
+  "domain_url": "https://www.mtemachine.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "MTE - Machine Tool Engineering",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Inventor | PDMC | Vault",
+    "total_seats": "17",
+    "current_acv_eur": "51800.0",
+    "potential_acv_eur": "138800.0",
+    "nearest_renewal": "2026-08-28",
+    "days_to_renewal": "127",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Add CAM, nesting, and generative design capabilities",
+    "all_upsells": "Fusion Mfg Ext; Moldflow; Flex",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Engineering Service Providers",
+    "ml_domain": "www.htte.eu",
+    "zi_done": true,
+    "employee_count": 65,
+    "revenue": 4046,
+    "zi_company_name": "MTE Machine Tool Engineering",
+    "zi_domain": "www.mtemachine.com",
+    "zi_city": "Deba",
+    "zi_country": "Spain",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.mtemachine.com",
+    "homepage": {
+      "title": "Fresadoras - MTE",
+      "description": "Amplio catálogo de fresadoras industriales de bancada fija y columna móvil. MTE diseña y fabrica soluciones de precisión.",
+      "text_excerpt": "Fresadoras - MTE\nSlide\nTecnologías innovadoras de fresado\nSlide\n- FRESADORA COLUMNA MÓVIL -\nFBF-X\nVer más\nSlide\n- FRESADORA  BANCADA FIJA -\nVer más\nFRESADORAS\nBancada fija\nGuías de fricción\nBancada fija\nGuías lineales\nColumna móvil\nPrecisión, versatilidad y rendimiento en cada detalle\nDamos una solución personalizada a tus necesidades\n¿Te ayudamos?\nGestión de proyectos\nAnalizamos cada necesidad junto con el cliente y proponemos la mejor solución en cuanto a máquina y configuración.\nServicios post-venta\nOfrecemos soporte técnico especializado, repuestos y piezas en stock para dar un servicio rápido e inmediato. Además, con nuestro servicio Remote Service podemos solucionar problemas de funcionamiento de forma remota y al instante.\nRed comercial\nNuestra red comercial proporciona asesoramiento técnico cercano y especializado, acompañando al cliente desde el primer contacto.\nFlexibilidad para desarrollar proyectos altamente individualizados\n¿Te ayudamos?\nSeguir\nSeguir\nSeguir\nContacto\n(+34) 943 606 383\ninfo@mtemachine.com\nMTE Machine Tool Engineering S.A.\nPolígono Industrial, Parcela M-4.1\nE – 20829 Itziar-Deba (Spain)\nCopyright © 2026 MTE Milling Machines\nPolítica de privacidad\nPolítica de cookies"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.mtemachine.com/services",
+      "text": "Services - MTE Milling Machines\nServices\nTechnical support\nOur specialists and engineers are always available to help with any needs you may have. Whether it is maintenance of our milling machines or finding a way to improve processes, we will be happy to help. Providing a customised service is our hallmark; it drives us to keep on improving and finding solutions that position us at the cutting edge of the industry. Such as our Remote Service, which we use to resolve operating issues instantly and remotely.\nSpare parts in stock\nWe have the necessary spare parts in stock to provide a fast, immediate service. Therefore our customers can keep on working with the peace of mind that comes from having their equipment performing optimally with verified parts.\nMilling head maintenance\nWe have specialists and state-of-the-art resources to maintain and repair our MTE milling heads. Once the heads have been repaired, they are tested on our test benches before being sent to our customers.\nMilling head replacement and rental\nTo avoid machine downtime as much as possible, we offer a milling head replacement and rental service. We have all the range of MTE milling heads available for if a head is being repaired or there is a one-off need.\nProject management\nHeads\nTechnologies\nFollow\nFollow\nFollow\nContact\n(+34) 943 606 383\ninfo@mtemachine.com\nMTE Machine Tool Engineering S.A.\nPolígono Industrial, Parcela M-4.1\nE – 20829 Itziar-Deba (Spain)\nCopyright © 2026 MTE Milling Machines\nPolítica de privacidad\nCookies"
+    },
+    "contact_page": {
+      "url": "https://www.mtemachine.com/contact",
+      "text": "Contact - MTE Milling Machines\nWe advise you\n(+34) 943 606 383\ninfo@mtemachine.com\nPolígono Industrial, Parcela M-4.1\nE – 20829 Itziar-Deba (Spain)\nFollow\nFollow\nFollow\nCopyright © 2026 MTE Milling Machines\nPolítica de privacidad\nCookies"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "MTE - Machine Tool Engineering",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 24,
+    "all_technologies": [
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Zoom",
+        "vendor": "Zoom Video Communications, Inc.",
+        "category": "Web Conferencing",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "reCAPTCHA v2.0",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "MTE - Machine Tool Engineering",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 08:58"
+}

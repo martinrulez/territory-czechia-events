@@ -1,0 +1,232 @@
+{
+  "company_key": "saz aerospace",
+  "company_name": "SAZ AEROSPACE",
+  "domain": "www.saz.aero",
+  "domain_url": "https://www.saz.aero",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SAZ AEROSPACE",
+    "opportunity_score": 20,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.53,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.53,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "25057570",
+    "official_name": "SAZ Aerospace s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46900",
+      "71200",
+      "461",
+      "74990",
+      "33",
+      "72100",
+      "33",
+      "461",
+      "46900",
+      "71209",
+      "72192",
+      "7490"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Pekařská 1640, 68604 Kunovice, Kunovice, Pekařská, 68604",
+    "zi_done": true,
+    "employee_count": 16,
+    "revenue": 4572,
+    "zi_company_name": "SAZ Aerospace",
+    "zi_domain": "www.saz.aero",
+    "zi_city": "Kunovice",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.saz.aero",
+    "homepage": {
+      "title": "SAZ Aerospace s.r.o.",
+      "description": "SAZ Aerospace s.r.o. has been supporting our customers since 2013. We specialize in engineering and design for both the aviation, space and defence industries.",
+      "text_excerpt": "SAZ Aerospace s.r.o.\nSkip to content\nMilitary\ndiscover more\nAviation\ndiscover more\nSpace\ndiscover more\nDesign\nEngineering\nCertification\nAbout us\nSAZ Aerospace s.r.o.\nhas been supporting our customers since 2013.\nSAZ Aerospace s.r.o. continues a rich tradition of the aerospace industry in the South Eastern Czech Region, while being an integral part of The SA Group, headquartered in Denmark, with global branches.\nWe specialize in engineering and design for both the\naviation\nspace\nand\ndefence\nindustries.\nOur team combines the latest technologies and software expertise with decades of experience, ensuring innovative and reliable solutions that meet the rigorous demands of our clients in both industries.\nAs an active member of the Czech Aerospace Cluster, we are deeply engaged with the aerospace community and committed to advancing industry standards. Additionally, we offer comprehensive support and production management, supporting seamless integration and delivery of high-quality products tailored to our clients’ needs.\nOur services\nSAZ Aerospace s.r.o. History\nAviation\nCapability list\nWe excel in engineering and design for aviation industries, delivering comprehensive services from avionics and electronic systems integration to airframe design and modifications.\nOur expertise includes power unit installations, structural analysis, and specialized evaluations essential for certification documentation.\nAvionics and Electrical System Design\nMechanical and Airframe Design\nHarness Design and Production\nAnalysis\nCertification Support\nProduction Management\nSpace\nCapability list\nWe excel in engineering and design for space industries, delivering comprehensive services from avionics and electronic systems integration, harness design to structure design.\nMechanical and Airframe Design\nHarness Design and Production\nAnalysis\nMilitary\nCapability list\nWe excel in engineering and design for military industries, delivering comprehensive services from electronic systems integration to structural design and modifications.\nMechanical and Airframe Design and Production\nHarness Design and Production\nSAZ History\nFounded in 2013, SAZ Aerospace s.r.o. became a proud member of The SA Group ApS, which also includes industry leaders such as Scandinavian Avionics A/S and SA Design GmbH. We started by providing specialized support in design, engineering, and certification, quickly establishing ourselves as a trusted partner within the group. Our breakthrough project was the integration of the advanced Garmin G3000 Avionics Suite, including autopilot, into Aircraft Industries newly developed L410NG aircraft, a milestone that highlighted our expertise in complex avionics systems.\nBuilding on this foundation, SAZ Aerospace s.r.o. expanded its capabilities with significant projects like the installation of the Pratt & Whitney PT6-52 power plant in a small transport aircraft, and a wide range of avionics modifications across various aircraft types. Our portfolio further includes hi"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.saz.aero/contact",
+      "text": "SAZ Aerospace s.r.o.\nSkip to content\nMilitary\ndiscover more\nAviation\ndiscover more\nSpace\ndiscover more\nDesign\nEngineering\nCertification\nAbout us\nSAZ Aerospace s.r.o.\nhas been supporting our customers since 2013.\nSAZ Aerospace s.r.o. continues a rich tradition of the aerospace industry in the South Eastern Czech Region, while being an integral part of The SA Group, headquartered in Denmark, with global branches.\nWe specialize in engineering and design for both the\naviation\nspace\nand\ndefence\nindustries.\nOur team combines the latest technologies and software expertise with decades of experience, ensuring innovative and reliable solutions that meet the rigorous demands of our clients in both industries.\nAs an active member of the Czech Aerospace Cluster, we are deeply engaged with the aerospace community and committed to advancing industry standards. Additionally, we offer comprehensive support and production management, supporting seamless integration and delivery of high-quality products tailored to our clients’ needs.\nOur services\nSAZ Aerospace s.r.o. History\nAviation\nCapability list\nWe excel in engineering and design for aviation industries, delivering comprehensive services from avionics and electronic systems integration to airframe design and modifications.\nOur expertise includes power unit installations, structural analysis, and specialized evaluations essential for certification documentation.\nAvionics and Electrical System Design\nMechanical and Airframe Design\nHarness Design and Production\nAnalysis\nCertification Support\nProduction Management\nSpace\nCapability list\nWe excel in engineering and design for space industries, delivering comprehensive services from avionics and electronic systems integration, harness design to structure design.\nMechanical and Airframe Design\nHarness Design and Production\nAnalysis\nMilitary\nCapability list\nWe excel in engineering and design for military industries, delivering comprehensive services from electronic systems integration to"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "SAZ AEROSPACE",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 20,
+    "all_technologies": [
+      {
+        "product": "WPML",
+        "vendor": "OnTheGoSystems Limited",
+        "category": "Translation",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "MonsterInsights",
+        "vendor": "Awesome Motive Inc",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "SAZ AEROSPACE",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Martin",
+        "last_name": "Šulc",
+        "title": "ŘEditel",
+        "email": "msulc@saz.aero",
+        "phone": "",
+        "company": "SAZ Aerospace",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 92.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:46"
+}

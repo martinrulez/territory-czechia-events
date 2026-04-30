@@ -1,0 +1,130 @@
+{
+  "company_key": "heimatec gmbh",
+  "company_name": "Heimatec GmbH",
+  "domain": "www.heimatec.com",
+  "domain_url": "https://www.heimatec.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Heimatec GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 80,
+    "revenue": 4997,
+    "zi_company_name": "heimatec",
+    "zi_domain": "www.heimatec.com",
+    "zi_city": "Renchen",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.heimatec.com",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Heimatec GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 8,
+    "all_technologies": [
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "GoDaddy DNS",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Zoom",
+        "vendor": "Zoom Video Communications, Inc.",
+        "category": "Web Conferencing",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Heimatec GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Prashant",
+        "last_name": "Khairnar",
+        "title": "Head Of Department",
+        "email": "",
+        "phone": "",
+        "company": "heimatec",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 76.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 18:10"
+}

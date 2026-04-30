@@ -1,0 +1,271 @@
+{
+  "company_key": "kubou_ek_s_r_o",
+  "company_name": "KUBOUŠEK s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "KUBOUŠEK s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 34,
+    "all_technologies": [
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Cloud Platform",
+        "vendor": "Google LLC",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Cloud Web Serving",
+        "vendor": "Google LLC",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "SharpSpring",
+        "vendor": "Sharpspring, Inc.",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cookieyes",
+        "vendor": "CookieYes",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Perfect Audience",
+        "vendor": "Marin Software Incorporated",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Ads",
+        "vendor": "LinkedIn Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PAVEL SOJKA",
+        "firstName": "PAVEL",
+        "lastName": "SOJKA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "IVAN KUBOUŠEK",
+        "firstName": "IVAN",
+        "lastName": "KUBOUŠEK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PAVEL SEDLÁK",
+        "firstName": "PAVEL",
+        "lastName": "SEDLÁK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PAVEL TUPÝ",
+        "firstName": "PAVEL",
+        "lastName": "TUPÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:22"
+}

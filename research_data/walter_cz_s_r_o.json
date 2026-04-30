@@ -1,0 +1,379 @@
+{
+  "company_key": "walter_cz_s_r_o",
+  "company_name": "WALTER CZ s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "WALTER CZ s.r.o.",
+    "autodesk_products": [
+      "Autodesk AutoCAD"
+    ],
+    "competitor_products": [
+      "Siemens",
+      "Siemens NX",
+      "Siemens PLM",
+      "Siemens Teamcenter PLM Software",
+      "Solidworks"
+    ],
+    "cad_bim_other": [
+      "Autodesk",
+      "InVision"
+    ],
+    "total_technologies": 114,
+    "all_technologies": [
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Autodesk",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Adobe Creative Suite",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Ideal",
+        "vendor": "O5 Systems Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Marketo",
+        "vendor": "Marketo, Inc.",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "G-code",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Centricity",
+        "vendor": "GE Healthcare Inc.",
+        "category": "Medical Practice Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Simon",
+        "vendor": "Institutional Capital Network, Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Affinity",
+        "vendor": "Affinity",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "3D Hubs",
+        "vendor": "HUBS B.V.",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Sunday",
+        "vendor": "Sunday",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SAP Business Technology Platform",
+        "vendor": "SAP SE",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SAP Analytics Cloud for planning",
+        "vendor": "SAP SE",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "GPS",
+        "vendor": "mbm.it",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Energy Management",
+        "vendor": "ENTOUCH Controls, Inc.",
+        "category": "Facilities Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "TDS",
+        "vendor": "TDS (Time Data Security) Limited.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Trax Retail",
+        "vendor": "Trax Technology Solutions Pte Ltd.",
+        "category": "Other Sales Software",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Lean Manufacturing",
+        "vendor": "Gemba Academy LLC",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Operative",
+        "vendor": "SintecMedia Ltd.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Visual Basic .NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "UseProof",
+        "vendor": "Proof Technologies",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Siemens",
+        "vendor": "Siemens AG",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP Integrated Business Planning",
+        "vendor": "SAP SE",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "SAP Basis",
+        "vendor": "SAP SE",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP Analytics Cloud",
+        "vendor": "SAP SE",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "OneTrust",
+        "vendor": "OneTrust, LLC",
+        "category": "Data Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "JavaScript",
+        "vendor": "Netscape",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "HR Manager",
+        "vendor": "HR Manager Talent Solutions International",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Fortinet",
+        "vendor": "Fortinet, Inc.",
+        "category": "Threat Intelligence",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Dynatrace Real User Monitoring (RUM)",
+        "vendor": "Dynatrace LLC",
+        "category": "Real User Monitoring",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Celonis",
+        "vendor": "Celonis",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Optimize with GTM",
+        "vendor": "Google LLC",
+        "category": "A/B Testing",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Solidworks",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "VLADIMÍR TOMEK",
+        "firstName": "VLADIMÍR",
+        "lastName": "TOMEK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MARTIN TOMEK",
+        "firstName": "MARTIN",
+        "lastName": "TOMEK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:39",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.walter-tools.com",
+    "homepage": {
+      "title": "Walter Tools Â» Engineering Kompetenz",
+      "description": "",
+      "text_excerpt": "Walter Tools Â» Engineering Kompetenz"
+    },
+    "about": {
+      "url": "https://www.walter-tools.com/o-nas",
+      "text": "Walter Tools Â» Engineering Kompetenz"
+    },
+    "products": {
+      "url": "https://www.walter-tools.com/produkty",
+      "text": "Walter Tools Â» Engineering Kompetenz"
+    },
+    "contact_page": {
+      "url": "https://www.walter-tools.com/kontakt",
+      "text": "Walter Tools Â» Engineering Kompetenz"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "company_key": "quantum group international, s.r.o.",
+  "company_name": "Quantum Group International, s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Quantum Group International, s.r.o.",
+    "opportunity_score": 19,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.47,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.47,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "28816684",
+    "official_name": "Quantum Group International, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "231",
+      "461",
+      "70200",
+      "711",
+      "731",
+      "46900",
+      "47",
+      "4779",
+      "52100",
+      "68200",
+      "43340",
+      "236",
+      "231",
+      "236",
+      "43341",
+      "461",
+      "46900",
+      "47",
+      "47790",
+      "52100",
+      "702",
+      "711",
+      "731",
+      "6820"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Hartigova 1819/133, Žižkov, 13000 Praha 3, Praha, Hartigova, 13000",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Quantum Group International, s.r.o.",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:49"
+}

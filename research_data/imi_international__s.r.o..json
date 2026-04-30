@@ -1,0 +1,80 @@
+{
+  "company_key": "imi international, s.r.o.",
+  "company_name": "IMI International, s.r.o.",
+  "domain": "www.imi-international.cz",
+  "domain_url": "https://www.imi-international.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "IMI International, s.r.o.",
+    "opportunity_score": 19,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.47,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.47,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "25692089",
+    "official_name": "IMI International  s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "00",
+      "461",
+      "28140",
+      "46900",
+      "28140",
+      "461",
+      "46900",
+      "00"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Evropská 852, 66442 Modřice, Modřice, Evropská, 66442",
+    "zi_done": true,
+    "employee_count": 20,
+    "revenue": 3627,
+    "zi_company_name": "IMI International",
+    "zi_domain": "www.imi-international.cz",
+    "zi_city": "Humpolec",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.imi-international.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "IMI International, s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:52"
+}

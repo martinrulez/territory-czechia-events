@@ -1,0 +1,241 @@
+{
+  "company_key": "pneumax_s_p_a",
+  "company_name": "Pneumax S.p.A.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "Pneumax S.p.A.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 26,
+    "all_technologies": [
+      {
+        "product": "All in One SEO Pack",
+        "vendor": "WordPress",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "WhatsApp",
+        "vendor": "WhatsApp",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "UIkit",
+        "vendor": "Uikit",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Lead Champion",
+        "vendor": "Leadchampion",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "C",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA v2.0",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Azure CDN",
+        "vendor": "Microsoft Corporation",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Community SMS",
+        "vendor": "Community.com, Inc",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Alfredo Saccomandi",
+        "firstName": "Alfredo",
+        "lastName": "Saccomandi",
+        "jobTitle": "Chief Financial Officer",
+        "email": "alfredo.saccomandi@pneumaxholdingspa.com",
+        "phone": "+39 035 419 2789",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Mohamadreza Mahmoudian",
+        "firstName": "Mohamadreza",
+        "lastName": "Mahmoudian",
+        "jobTitle": "General Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Luca Falcolini",
+        "firstName": "Luca",
+        "lastName": "Falcolini",
+        "jobTitle": "Director, Engineering",
+        "email": "luca.falcolini@pneumaxspa.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Giacomo Ronzulli",
+        "firstName": "Giacomo",
+        "lastName": "Ronzulli",
+        "jobTitle": "Manager, Information Technology",
+        "email": "giacomo.ronzulli@pneumaxspa.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:40:18",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.pneumaxspa.com",
+    "homepage": {
+      "title": "Pneumax Group | Smart Technologies & Human Competence",
+      "description": "Entra nel mondo Pneumax: leader per l’automazione industriale e di processo con oltre 40 anni di esperienza, 7 unità produttive in Italia e presente in 50 paesi",
+      "text_excerpt": "Pneumax Group | Smart Technologies & Human Competence\nVai al contenuto\nContattaci\nScarica i cataloghi\n3D Cadenas\nCondividi\nAUTOMAZIONE INDUSTRIALE\nLa Business Unit che produce componenti e sistemi per l’automazione industriale rappresenta il cuore di Pneumax Spa.\nEntra nella sezione automazione industriale\nAUTOMAZIONE DI PROCESSO\nUna gamma di prodotti idonei per l’utilizzo in settori legati al “processo” che risponde in modo preciso e puntuale alle specifiche esigenze del settore.\nEntra nella sezione automazione di processo\nAutomotive\nLa divisione Automotive di Pneumax progetta e produce una gamma completa di prodotti dedicati alle linee di produzione del settore automotive, con particolare attenzione alle applicazioni riguardanti il processo BIW.\nEntra nella sezione automotive\nNovità di prodotto\nTutte le novità\nCilindri oleopneumatici ISO 15552 – SERIE HP\nI cilindri oleopneumatici della serie HP, sono realizzati combinando un cilindro pneumatico...\nScopri di più\nSERIE Eco-Smart – CILINDRI ISO 15552 CON TRASDUTTORE DI POSIZIONE\nI cilindri della Serie Eco-Smart, sono attuatori pneumatici conformi alla norma ISO...\nScopri di più\nE-Range (Automotive Electric Devices)\nScopri la nuova E-Range (Automotive Electric Devices)! Per affrontare le attuali sfide...\nScopri di più\nESSICCATORE A MEMBRANA SERIE Airplus\nIl nuovo essiccatore a membrana, permette attraverso l’apposita cartuccia, di rimuovere l’umidità...\nScopri di più\nAirplus Digital Flow Sensor\nDispositivo che monitora in tempo reale portata istantanea, consumo accumulato, pressione e...\nScopri di più\nMicro regolatore di precisione\nIl nuovo Micro regolatore di precisione ha la manopola di regolazione bloccabile...\nScopri di più\nAggiornamenti cataloghi\nCatalogo assi elettrici lineari GAMMA-AW\nIl nuovo catalogo della GAMMA-AW contiene la gamma di Assi elettrici lineari con movimentazione a cinghia o a vite con...\nAUTOMOTIVE ELECTRIC DEVICES\nIl nuovo catalogo Automotive E-Range contiene la gamma completa di prodotti dedicati alle linee di produzione del settore automotive, con...\nNUOVO CATALOGO GENERALE\nSoluzioni per l’automazione pneumatica Questo catalogo contiene la gamma di prodotti e soluzioni per l’automazione pneumatica realizzati dalla Business Unit...\nNUOVO CATALOGO AUTOMOTIVE\nLa divisione Automotive di Pneumax progetta e produce una gamma completa di prodotti dedicati alla produzione... Catalogo prodotto\nCatalogo Automazione di Processo\nL’offerta di PNEUMAX S.p.A. comprende una vasta gamma di componenti e sistemi per l’automazione di processo, progettati e realizzati per...\nNUOVO CATALOGO RACCORDI “GREEN LINE”\nLa gamma Green Line comprende soluzioni per la connessione nei circuiti pneumatici realizzate in ottone, tecnopolimero o acciaio inox. Catalogo...\nSoluzioni per il controllo dell’automazione\nTutte le batterie di elettrovalvole Pneumax sono ora disponibili nella versione EVO, che integra il nuovo modulo multiprotocollo della Serie...\nComponenti e sistemi per il controllo dei fluidi\nLa g"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.pneumaxspa.com/products",
+      "text": "Pneumax Group | Prodotti\nVai al contenuto\nContattaci\nScarica i cataloghi\n3D Cadenas\nCondividi\nHome\nProdotti\nTecnologia, esperienza internazionale e ingegno\n: i nostri prodotti sono il precipitato di una visione imprenditoriale concreta e allo stesso tempo lungimirante che ci spinge a impostare flussi e processi all’insegna dell’\nefficenza\n. Alla produzione personalizzata si accompagna un catalogo ricco di\nsoluzioni tecnologiche\nche sanno fare la differenza in tutti i settori industriali:\nvalvole ed elettrovalvole, isole di elettrovalvole con connessione elettrica integrata, sistemi con bus di campo, cilindri e microcilindri, componenti per il trattamento dell’aria compressa, raccorderia ed accessori, prodotti speciali su misura del cliente.\nAutomazione industriale\nDistribuzione aria\nTrattamento aria\nAttuazione pneumatica\nAttuazione elettrica\nTecnologia del Vuoto\nRaccorderia pneumatica Green Line\nAutomazione di processo\nValvole ed Elettrovalvole per fluidi\nFRL & Booster\nValvole ed Elettrovalvole Steel line - Inox\nValvole a comando pneumatico - Alluminio\nValvole ed Elettrovalvole ad otturatore - Alluminio\nValvole ed Elettrovalvole con interfaccia NAMUR\nConfiguratore manifold\nAutomotive\nElectric Range\nAttuazione\nBloccaggio\nPressori per bloccaggi\nCentraggio\nMovimentazione Gripper\nRotazione\nProdotti Complementari\nAccessori\n3D Cadenas\nAll’interno del portale partcommunity di Cadenas è possibile configurare i prodotti del catalogo Pneumax e scaricare i relativi modelli 3D e 2D oltre ai PDF datasheet. Per poter usufruire dei servizi offerti è necessario registrarsi nell’apposita sezione.\nVai al portale Cadenas\nEPLAN\nScopri il catalogo Pneumax su EPLAN Data Portal\nCrea il tuo ID EPLAN\nVai al portale EPLAN\nPNEUFLUID\nSoftware di progettazione per gli schemi pneumatici PNEUFLUID\nVai al portale PNEUFLUID\nPer qualsiasi informazione non esitare a contattarci\nIscrizione newsletter\nAccetto l'utilizzo dei miei dati secondo la vostra\nprivacy policy"
+    },
+    "contact_page": {
+      "url": "https://www.pneumaxspa.com/contact",
+      "text": "Pneumax Group | Richiesta di contatto inviata\nVai al contenuto\nContattaci\nScarica i cataloghi\n3D Cadenas\nCondividi\nHome\nRichiesta di contatto inviata\nGrazie per averci contattato\n. La tua richiesta è stata inviata e riceverai una risposta appena possibile.\nTorna alla home\nNaviga i prodotti\nPer qualsiasi informazione non esitare a contattarci\nIscrizione newsletter\nAccetto l'utilizzo dei miei dati secondo la vostra\nprivacy policy"
+    }
+  }
+}

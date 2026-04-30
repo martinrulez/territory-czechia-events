@@ -1,0 +1,197 @@
+{
+  "company_key": "heb hydraulik-elementebau gmbh",
+  "company_name": "HEB Hydraulik-Elementebau GmbH",
+  "domain": "www.heb-zyl.com",
+  "domain_url": "https://www.heb-zyl.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "HEB Hydraulik-Elementebau GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 106,
+    "revenue": 4386,
+    "zi_company_name": "HEB Hydraulik-Elementebau",
+    "zi_domain": "www.heb-zyl.com",
+    "zi_city": "Freiburg",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.heb-zyl.com",
+    "homepage": {
+      "title": "Hydraulikzylinder von HEB Hydraulik Elementebau GmbH",
+      "description": "Hydraulikzylinder von HEB Hydraulik Elementebau GmbH in Freiburg - HEB ist einer der führenden Hersteller hochwertiger Hydraulikzylinder in einer großen Variantenvielfalt.",
+      "text_excerpt": "Hydraulikzylinder von HEB Hydraulik Elementebau GmbH\nDie HEB Hydraulik-Elementebau GmbH in Freiburg ist einer der führenden Hersteller hochwertiger\nHydraulikzylinder\n, die in unterschiedlichsten Branchen weltweit zum Einsatz kommen.\nDas Prinzip: Den hydraulischen Druck in mechanische Antriebsenergie umzuwandeln, um so Prozessabläufe effizient und sicher zu gestalten. Mit über 40 Jahren Konstruktions- und Fertigungskompetenz liefern wir ein umfassendes Spektrum langlebiger passgenauer Zylinderlösungen in bester Qualität und optimaler Verfügbarkeit. So sparen Sie Platz, Gewicht, Energie und letztendlich Kosten. Von der Serienfertigung der bewährten HEB-Standardlösungen bis hin zu individuell auf die jeweiligen Kundenbedürfnisse abgestimmten Spezialausführungen reicht das variantenreiche Produktportfolio. So finden sich HEB-Zylinder bei vielen namhaften deutschen und internationalen Unternehmen in deren Betriebsmittelvorschrift.\nInformieren Sie sich direkt hier zu den HEB-Zylinder-Ausführungen oder nehmen Sie Kontakt zu uns auf. Unsere Experten beraten Sie gerne!\nKontakt\nRundzylinder\nund\nBlockzylinder\nin großer Variantenvielfalt\nFlanschzylinder\nEinschraubzylinder\nNormzylinder\nWegmesszylinder\nVerriegelungszylinder\nMehrstellungszylinder\nviele weitere Zylindertypen\nAufgrund unserer langjährigen Expertise und der Breite unseres Produktportfolios können wir exakt die zu Ihrer Anwendung passende Lösung umsetzen – vom modifizierten Standardmodell bis zur kompletten Neukonstruktion.\nSprechen Sie uns an!\nEin starker Partner an Ihrer Seite – Rückblick und Ausblick\nmehr\nStabiler Partner – auch für internationale Projekte\nmehr\nWie ein mittelständischer Zulieferer durch einen stabilen Zylinderpartner Risiken reduziert hat\nmehr\nKeine Nachrichten verfügbar."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.heb-zyl.com/kontakt",
+      "text": "Kontakt zu HEB Hydraulik Elementebau GmbH\nHEB\nHEB Freiburg-Hochdorf\nAnsprechpartner\nVertretungen\nAdresse und Anfahrt"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "HEB Hydraulik-Elementebau GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 14,
+    "all_technologies": [
+      {
+        "product": "Flexslider",
+        "vendor": "Flexslider",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "GoDaddy DNS",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "TYPO3 CMS",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Community SMS",
+        "vendor": "Community.com, Inc",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "HEB Hydraulik-Elementebau GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Siegfried",
+        "last_name": "Kurek",
+        "title": "Managing Director",
+        "email": "",
+        "phone": "",
+        "company": "HEB Hydraulik-Elementebau",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Philipp",
+        "last_name": "Hamann",
+        "title": "Technische Leitung",
+        "email": "",
+        "phone": "",
+        "company": "HEB Hydraulik-Elementebau",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 86.0
+      },
+      {
+        "first_name": "Michael",
+        "last_name": "Schmitz",
+        "title": "Leitung Konstruktion",
+        "email": "",
+        "phone": "",
+        "company": "HEB Hydraulik-Elementebau",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 83.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 18:11"
+}

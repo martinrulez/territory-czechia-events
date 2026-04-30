@@ -1,0 +1,406 @@
+{
+  "company_key": "sony electronics",
+  "company_name": "Sony Electronics",
+  "domain": "www.sony.com",
+  "domain_url": "https://www.sony.com",
+  "events": "3DISE Conference 2026",
+  "event_count": 1,
+  "lead_class": null,
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Sony Electronics",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 113000,
+    "revenue": 91100000,
+    "zi_company_name": "Sony",
+    "zi_domain": "www.sony.com",
+    "zi_city": "Kounan(Tsuginobiruwonozoku)",
+    "zi_country": "Japan",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.sony.com",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Sony Electronics",
+    "autodesk_products": [
+      "3ds Max",
+      "Autodesk AutoCAD",
+      "Autodesk Maya",
+      "Autodesk Revit",
+      "Vault Payment Solutions"
+    ],
+    "competitor_products": [
+      "CATIA",
+      "Dassault Systemes",
+      "Siemens PLM",
+      "SketchUp",
+      "Solidworks"
+    ],
+    "cad_bim_other": [
+      "Assemble",
+      "Autodesk",
+      "Autodesk MotionBuilder",
+      "Autodesk Mudbox",
+      "Built",
+      "Cache Control",
+      "Direct3D",
+      "Fastrax",
+      "InVision",
+      "Mathematica",
+      "REST / RESTful"
+    ],
+    "total_technologies": 1183,
+    "all_technologies": [
+      {
+        "product": "OpenAI",
+        "vendor": "OpenAI",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Affinity",
+        "vendor": "Affinity",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "LinkedIn Learning",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Backblaze",
+        "vendor": "Backblaze",
+        "category": "Enterprise Data Storage",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "LangChain",
+        "vendor": "LangChain, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "dbt",
+        "vendor": "dbt Labs, Inc",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Prisma by Palo Alto",
+        "vendor": "Palo Alto Networks, Inc.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Better",
+        "vendor": "Better Mobile Security Inc.",
+        "category": "Enterprise Mobility Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Cisco ACI",
+        "vendor": "Cisco Systems, Inc",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Ideal",
+        "vendor": "O5 Systems Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Snowflake",
+        "vendor": "Snowflake Computing Inc.",
+        "category": "Data Warehousing",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Automation Anywhere",
+        "vendor": "Automation Anywhere, Inc",
+        "category": "Business Process Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "PyTorch",
+        "vendor": "PyTorch",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "GoTo",
+        "vendor": "GoTo",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "GE Healthcare Ultrasound",
+        "vendor": "GE Healthcare Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Vagrant",
+        "vendor": "HashiCorp, Inc.",
+        "category": "Containerization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Route",
+        "vendor": "Route App Inc.",
+        "category": "Inventory and Order Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Dun & Bradstreet",
+        "vendor": "Dun & Bradstreet, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "FAISS",
+        "vendor": "Meta Platforms, Inc.",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Anthropic",
+        "vendor": "Anthropic PBC",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft Fabric",
+        "vendor": "Microsoft Corporation",
+        "category": "Data Integration",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Postman",
+        "vendor": "Postman, Inc.",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Khoros",
+        "vendor": "Khoros, LLC",
+        "category": "Customer Experience Management",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "React",
+        "vendor": "Meta Open Source",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Circuit",
+        "vendor": "Circuit Routing Limited",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Playwright",
+        "vendor": "Playwright",
+        "category": "Application Security Testing",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Microsoft Teams Rooms",
+        "vendor": "Microsoft Corporation",
+        "category": "Web Conferencing",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Branch",
+        "vendor": "Branch",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Vault Payment Solutions",
+        "vendor": "Vault Payment Solutions Group Pty Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "AWS Lake Formation",
+        "vendor": "Amazon Web Services, Inc.",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Apache Iceberg",
+        "vendor": "The Apache Software Foundation",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Asc",
+        "vendor": "Assessment Systems Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Helix SIEM",
+        "vendor": "Trellix",
+        "category": "Security Information and Event Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Microsoft Entra",
+        "vendor": "Microsoft Corporation",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Enablehr",
+        "vendor": "enableHR",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft Purview",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "co:here",
+        "vendor": "co:here",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "GitHub Actions",
+        "vendor": "GitHub, Inc.",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Cloudbees Jenkins",
+        "vendor": "Cloudbees, Inc",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Craft",
+        "vendor": "Craft.io Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "GEM",
+        "vendor": "Gem Software, Inc",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft Defender for Endpoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Endpoint Protection",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Digital Signage",
+        "vendor": "Appspace Inc",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Sony Electronics",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Joseph",
+        "last_name": "Kraft",
+        "title": "Board Member",
+        "email": "",
+        "phone": "",
+        "company": "Sony",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 19:04"
+}

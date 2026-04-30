@@ -1,0 +1,245 @@
+{
+  "company_key": "viomal sa",
+  "company_name": "VIOMAL SA",
+  "domain": "www.viomal.com",
+  "domain_url": "https://www.viomal.com",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "VIOMAL SA",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 102,
+    "revenue": 8491,
+    "zi_company_name": "Viomal",
+    "zi_domain": "www.viomal.com",
+    "zi_city": "Nea Artaki",
+    "zi_country": "Greece",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.viomal.com",
+    "homepage": {
+      "title": "",
+      "description": "",
+      "text_excerpt": ""
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.viomal.com/kontakt",
+      "text": ""
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "VIOMAL SA",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 24,
+    "all_technologies": [
+      {
+        "product": "OneTrust",
+        "vendor": "OneTrust, LLC",
+        "category": "Data Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Optanon",
+        "vendor": "OneTrust, LLC",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "OneTrust Cookie Consent",
+        "vendor": "OneTrust, LLC",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft Azure DNS",
+        "vendor": "Microsoft Corporation",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Gravity Forms",
+        "vendor": "Rocketgenius, Inc.",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "MailChimp SPF",
+        "vendor": "The Rocket Science Group LLC",
+        "category": "Email Delivery",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Imperva Incapsula",
+        "vendor": "Imperva, Inc.",
+        "category": "DDoS and Bot Protection",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft Azure",
+        "vendor": "Microsoft Corporation",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "VIOMAL SA",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Vasileios",
+        "last_name": "Apostolou",
+        "title": "General Manager",
+        "email": "",
+        "phone": "",
+        "company": "Viomal",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Elias",
+        "last_name": "Zdravos",
+        "title": "Director, Commercial",
+        "email": "",
+        "phone": "",
+        "company": "Viomal",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 87.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 16:35"
+}

@@ -1,0 +1,38 @@
+{
+  "company_key": "tool_temp_cz_s_r_o",
+  "company_name": "TOOL-TEMP CZ s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PETR ČMELÍK",
+        "firstName": "PETR",
+        "lastName": "ČMELÍK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:57",
+  "website_data": {
+    "success": false,
+    "domain": "https://www.tooltechcz.com",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

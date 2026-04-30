@@ -1,0 +1,71 @@
+{
+  "company_key": "cech_parket_esk_republiky_z_s",
+  "company_name": "Cech parketářů České republiky, z.s.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JIŘÍ DVOŘÁK",
+        "firstName": "JIŘÍ",
+        "lastName": "DVOŘÁK",
+        "jobTitle": "Vice-Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PETR KROULÍK",
+        "firstName": "PETR",
+        "lastName": "KROULÍK",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "OTA VOTOČEK",
+        "firstName": "OTA",
+        "lastName": "VOTOČEK",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PAVEL MAHULÍK",
+        "firstName": "PAVEL",
+        "lastName": "MAHULÍK",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MARIANA MAHULÍKOVÁ",
+        "firstName": "MARIANA",
+        "lastName": "MAHULÍKOVÁ",
+        "jobTitle": "prezident",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:07:12"
+}

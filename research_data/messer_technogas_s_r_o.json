@@ -1,0 +1,264 @@
+{
+  "company_key": "messer_technogas_s_r_o",
+  "company_name": "Messer Technogas s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "Messer Technogas s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 31,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Web.com",
+        "vendor": "Web.com Group, Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Liferay CMS",
+        "vendor": "Liferay, Inc",
+        "category": "Enterprise Content Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Tweet Button",
+        "vendor": "Twitter, Inc.",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SoftLayer",
+        "vendor": "IBM",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Entrust",
+        "vendor": "P-soft Nanjing",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "HubSpot",
+        "vendor": "HubSpot, Inc",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Google Maps libraries",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Ads",
+        "vendor": "LinkedIn Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Java",
+        "vendor": "Oracle Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MIROSLAVA LAUEROVÁ",
+        "firstName": "MIROSLAVA",
+        "lastName": "LAUEROVÁ",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JAROMÍR KÖPPL",
+        "firstName": "JAROMÍR",
+        "lastName": "KÖPPL",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "VLADISLAV SYWALA",
+        "firstName": "VLADISLAV",
+        "lastName": "SYWALA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:18:47",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.messer.cz",
+    "homepage": {
+      "title": "Produkty & Služby - Messer Technogas s.r.o",
+      "description": "Váš specialista na technické plyny. Více než 100 let ve službách tohoto odvětví ✓ Kvalita společnosti Messer a spolehlivé dodávky. Více než 100 let ve službách tohoto odvětví! ✓ Efektivní a kvalitní služby ✓Plyny a související hardware, know-how.",
+      "text_excerpt": "Produkty & Služby - Messer Technogas s.r.o\nInternet explorer not supported - Please switch to Edge, Firefox, Chrome,\nOpera or other browser and improve the safety of your navigation\nInternet explorer not supported - Please switch to Edge, Firefox, Chrome,\nOpera or other browser and improve the safety of your navigation\nNavigační Menu\nProdukty & Služby - Messer Technogas s.r.o\nVítejte ve společnosti Messer Technogas\nVítejte ve společnosti Messer Technogas s.r.o.,\nVašeho specialisty na průmyslové, medicinální a speciální plyny.\nVíce\nVstupte\nAgregátor obsahu\nAplikace Messer4Me\nChcete zefektivnit správu tlakových lahví? S novou aplikací Messer4Me to půjde snadno.\nVíce\nNavštivte náš BLOG\nNový BLOG: Svět technických plynů na jednom místě\nVíce\nAgregátor obsahu\nUpozornění na nebezpečné tlakové lahve\nPro 15, 2025\nUpozornění ČATP na bezpečnostní rizika spojená s používáním zahraničních tlakových lahví, které nesplňují české a evropské právní a technické požadavky a mohou ohrozit zdraví osob i majetek.\nMesser Technogas partnerem prvního českého elektrolyzéru na výrobu zeleného vodíku\nDub 25, 2025\nMesser Technogas partnerem prvního českého elektrolyzéru na výrobu zeleného vodíku\nMesser Technogas zahájil provoz nového závodu na výrobu CO2 ve Vrdech, posilujeme udržitelnost a ekologické inovace\nÚno 06, 2025\nAgregátor obsahu\nO SPOLEČNOSTI\nVíce\nE-SLUŽBY MESSER\nVíce\nVýroční zprávy Messer Group\nVíce\nZPRÁVA O UDRŽITELNOSTI 2023\nVíce\nAgregátor obsahu\nŘEŠENÍ V OBLASTI DODÁVEK – 100 LET ZKUŠENOSTÍ S VYTVÁŘENÍM SPOLEHLIVÝCH A NÁKLADOVĚ EFEKTIVNÍCH ŘEŠENÍ PRO DODÁVKY PLYNŮ\nŘešení v oblasti dodávek – Instalace u zákazníků – Možnosti telemetrie – Obchodní nabídky\nAPLIKAČNÍ TECHNOLOGIE V OBLASTI PLYNŮ\nProduktivita, výrobní kapacita a ekologické zlepšování pomocí plynů, odborné znalosti a know-how, zkoušky na místě,  výzkum a vývoj, obchodní nabídky\nE-služby\nO SPOLEČNOSTI\nKARIÉRA & PŘÍLEŽITOSTI\nStaňte se součástí rodiny - staňte se součástí mezinárodní skupiny.\nPrevious\nNext\nGDPR CZ\nGDPR CZ\nGDPR CZ\nGDPR CZ\nGDPR CZ\nGDPR CZ\nFormulář\nSG-Contact form CZ\nPři zpracování vaší registrace došlo k chybě. Zkontrolujte zadané informace.\nAll fields marked with\nare required.\nJméno a příjmení\nSpolečnost\nEmail\nTelefon\nMěsto\nVáš dotaz\nSOUHLAS GDPR\nSouhlasím\nKliknutím na tlačítko \"Souhlasím\", souhlasíte s\nGDPR\nspolečnosti Messer Technogas s.r.o. Tento souhlas lze kdykoli odvolat.\nObnovit CAPTCHu\nOvěření textu\nVyžadováno\nPředchozí\nDalší\nOdešli"
+    },
+    "about": {
+      "url": "https://www.messer.cz/o-spolecnosti",
+      "text": "O společnosti - Messer Technogas s.r.o\nInternet explorer not supported - Please switch to Edge, Firefox, Chrome,\nOpera or other browser and improve the safety of your navigation\nInternet explorer not supported - Please switch to Edge, Firefox, Chrome,\nOpera or other browser and improve the safety of your navigation\nNavigační Menu\nO společnosti - Messer Technogas s.r.o\nS popisem cesty\nO SPOLEČNOSTI\nO SPOLEČNOSTI\nSpolečnost Messer je největším soukromým specialistou na průmyslové, medicinální a speciální plyny na světě. „Gases for Life“ (plyny pro život) společnosti Messer se používají v průmyslu, ochraně životního prostředí, lékařství, potravinářství, svařovací a řezací technice, 3D tisku, stavebnictví, výzkumu a vědě. Jako globální hráč nabízí společnost Messer své udržitelné produkty a služby v Evropě, Asii a Americe. Více než 11 000 zaměstnanců úspěšně spolupracuje s důrazem na rozmanitost a vzájemný respekt.\nPlyny jsou ve většině průmyslových procesů stejně důležité jako voda a elektřina a hrají významnou roli při jejich dekarbonizaci, například prostřednictvím využití zeleného vodíku. Messer nabízí jedno z největších portfolií produktů na trhu a v nejmodernějších kompetenčních centrech vyvíjí a optimalizuje technologie pro využití plynů.\nJako farmaceutická společnost dodává Messer medicinální a farmaceutické plyny a řešení na klíč a osvědčil se i jako spolehlivý dodavatel životně důležitých produktů,  například v pandemických situacích.\nSpolečnost byla založena v roce 1898 a její ústředí se nachází v Bad Sodenu u Frankfurtu nad Mohanem.\nV roce 2022 dosáhla společnost Messer očekávaného konsolidovaného obratu 4,164 miliardy eur*.\nKč * Součet společností Messer Group a Messer Industries, který zahrnuje 100 % akciového holdingu Messer Industries.\nVnořené aplikace\nMesser v České republice\nMesser v České republice\nVíce\nVstupte\nMesser ve světě\nMesser ve světě\nVíce\nVstupte\nKARIÉRA A PŘÍLEŽITOSTI\nKARIÉRA & PŘÍLEŽITOSTI\nStaňte se součástí rodiny - staňte se součástí mezinárodní skupiny.\nVíce\nVstupte\nKontakt společnosti\nKONTAKT SPOLEČNOSTI\nVíce\nVstupte\nVedení společnosti Messer Technogas s.r.o.\nVedení společnosti Messer Technogas s.r.o.\nVíce\nVstupte\nVedení společnosti Messer Group\nVedení společnosti Messer\nVíce\nVstupte\nHistorie společnosti\nHistorie společnosti\nVíce\nVstupte\nProhlášení společnosti Messer: Vize, cíl a hodnoty určují naše jednání\nProhlášení společnosti Messer: Vize, cíl a hodnoty určují naše jednání\nVíce\nVstupte"
+    },
+    "products": {
+      "url": "https://www.messer.cz/produkty",
+      "text": "Produkty - Messer Technogas s.r.o\nInternet explorer not supported - Please switch to Edge, Firefox, Chrome,\nOpera or other browser and improve the safety of your navigation\nInternet explorer not supported - Please switch to Edge, Firefox, Chrome,\nOpera or other browser and improve the safety of your navigation\nNavigační Menu\nProdukty - Messer Technogas s.r.o\nS popisem cesty\nProdukty\nProdukty\nZískejte informace o naší široké škále produktů a příslušenství\nŠiroká nabídka plynů pro více aplikací\nOd acetylenu po xenon vám Messer nabízí mnohem více než plyny, které vyhovují vašim potřebám. Naše znalosti v oblasti technických plynů jsou klíčem k optimalizaci vašich procesů z hlediska kvality, hospodárnosti a inovací.\nTypickými odvětvími odebírajícími plyny Messer jsou automobilový průmysl, metalurgie, potravinářský a nápojový průmysl, sklářství a výroba keramiky, medicína a farmacie, chemický průmysl, věda a výzkum či ochrana životního prostředí.\nNabízíme vhodný plyn pro každou aplikaci a zároveň formu dodávky, která nejlépe vyhovuje vašim individuálním potřebám.\nPLYNNÝ STAV\nStlačené plyny dodáváme v tlakových lahvích nebo ve svazcích, popř. bateriovými vozy do tlakových zásobníků. Hodí se především pro dodávky v menším množství.\nZákazníkům jsou k dispozici po celé republice v husté síti\nprodejních míst Messer Technogas s.r.o.\nKAPALNÝ STAV\nDodávky \"středních\" objemů plynů zajišťujeme formou přepravy hluboce zmražených zkapalněných  a stlačených plynů cisternovými vozy do kryogenních zásobníků instalovaných přímo u zákazníků. Při menším množství zajišťujeme dodávky v mobilních kryogenních nádobách (minitancích).\nON-SITE ZAŘÍZENÍ\nU velkého počtu odběratelů je provozně i ekonomicky výhodnější instalovat zařízení na výrobu potřebných plynů přímo na místě spotřeby (\nOn-site zařízení\nDíky nejmodernějšímu systému řízení a regulace je možné tato zařízení kontrolovat a řídit dálkově z centrálních velínů.\nV našem portfoliu produktů naleznete samozřejmě také správné vybavení a příslušenství k bezpečnému a hospodárnému používání našich produktů.\nAgregátor obsahu\nDUSÍK\nCo je dusík – Dusík v tlakových lahvích – Kapalný dusík – Výroba dusíku v místě spotřeby (On-site) – Aplikační technologie s dusíkem – Koupit dusík\nVíce\nDUSÍK\nCo je dusík – Dusík v tlakových lahvích – Kapalný dusík – Výroba dusíku v místě spotřeby (On-site) – Aplikační technologie s dusíkem – Koupit dusík\nVíce\nVODÍK\nCo je vodík – Vodík v tlakových lahvích – Zásobování vodíku v cisternách – Výroba vodíku na místě spotřeby (On-site) – Aplikační technologie s vodíkem – Koupit vodík\nVíce\nPLYNY PRO POTRAVINÁŘSTVÍ\nPlyny v potravinářské kvalitě -  řada Messer GOURMET - Oblasti použití - Služby - Obchodní nabídka\nVíce\nARGON\nCo je argon – Argon v tlakových lahvích – Kapalný argon – Aplikační technologie s argonem – Koupit argon\nVíce\nSPECIÁLNÍ PLYNY\nMáte vysoké standardy? My též!\nSpeciální plyny od firmy Messer\nVíce\nPLYNY PRO SVAŘOVÁNÍ A ŘEZÁNÍ\nPlyny pro svařování - Plyny pro řezání - Plyny pro ochrannou atmos"
+    },
+    "contact_page": {
+      "url": "https://www.messer.cz/kontakt",
+      "text": "Messer poskytuje řešení, kvalita a služby v oblasti technických plynů - Messer Technogas s.r.o\nInternet explorer not supported - Please switch to Edge, Firefox, Chrome,\nOpera or other browser and improve the safety of your navigation\nInternet explorer not supported - Please switch to Edge, Firefox, Chrome,\nOpera or other browser and improve the safety of your navigation\nNavigační Menu\nMesser poskytuje řešení, kvalita a služby v oblasti technických plynů - Messer Technogas s.r.o\nKontakt společnosti\nKONTAKT SPOLEČNOSTI\nSÍDLO SPOLEČNOSTI\nMesser Technogas s. r. o.\nZelený pruh 1560/99\n140 00  Praha 4, Braník\nTel.: +420 241 008 100\nE-mail:\ninfo.cz@messergroup.com\nID datové schránky:\nxqacf2x\nPOBOČKA PRODEJNÍ OBLASTI MORAVY\nAreál MG Odra Gas, spol. s r. o.\nNa Popinci 1088\nP.O. Box 41\n739 32  Vratimov\nTel.: +420 597 723 037\nPOBOČKA BRNO\nAreál Slatina, a.s.\nTuřanka 1222/115\n627 00  Brno\nZápis v obchodním rejstříku vedeném u Městského soudu v Praze, oddíl C, vložka 3638.\nDIČ: CZ40764788, IČ: 40764788\nRegistrace u FÚ Praha 4, č.j. 164909/04/004901/6188.\nInformace pro zákazníky 2\nInformace pro zákazníky\nMožnost zasílání faktur elektronicky na:\ndod.faktury.cz@messergroup.com\nID DATOVÉ SCHRÁNKY\nMesser Technogas s.r.o.:   xqacf2x\nDUNS číslo\nMesser Technogas s.r.o.: 364719021\nBankovní spojení\nING Bank N.V.\nčíslo účtu:\n1000448002/3500 (CZK)\n1330448005/3500 (EUR)\nIČO: 40764788\nDIČ: CZ40764788\nNouzové volání (NON-STOP)\n+420 241 008 308\nHlášení nežádoucích účinků\nE-mail:\npv.messertechnogas@messergroup.com\nKontakty a hlášení nežádoucích účinků naleznete\nZDE\nFormulář\nSG-Contact form CZ\nPři zpracování vaší registrace došlo k chybě. Zkontrolujte zadané informace.\nAll fields marked with\nare required.\nJméno a příjmení\nSpolečnost\nEmail\nTelefon\nMěsto\nVáš dotaz\nSOUHLAS GDPR\nSouhlasím\nKliknutím na tlačítko \"Souhlasím\", souhlasíte s\nGDPR\nspolečnosti Messer Technogas s.r.o. Tento souhlas lze kdykoli odvolat.\nObnovit CAPTCHu\nOvěření textu\nVyžadováno\nPředchozí\nDalší\nOdešli"
+    }
+  }
+}

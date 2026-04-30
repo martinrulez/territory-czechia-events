@@ -1,0 +1,430 @@
+{
+  "company_key": "tedom_a_s",
+  "company_name": "TEDOM a.s.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "TEDOM a.s.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 70,
+    "all_technologies": [
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "IFS",
+        "vendor": "IFS Americas, Inc.",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Woo Themes",
+        "vendor": "WooCommerce",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "HELIOS",
+        "vendor": "HELIOS Software",
+        "category": "Containerization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Twitter Embedded Timelines",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Leady",
+        "vendor": "Imper CZ s.r.o.",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Microsoft Teams",
+        "vendor": "Microsoft Office",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "WPForms",
+        "vendor": "WPForms LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Yandex Metrica Webvisor",
+        "vendor": "Yandex LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Smartlook",
+        "vendor": "Smartlook",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft Dynamics",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Shutterstock",
+        "vendor": "Shutterstock, Inc.",
+        "category": "Stock Images Providers",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "reCAPTCHA v2.0",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "TOMÁŠ SAMEŠ",
+        "firstName": "TOMÁŠ",
+        "lastName": "SAMEŠ",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MILOSLAV KUŽELA",
+        "firstName": "MILOSLAV",
+        "lastName": "KUŽELA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ATSUSHI TAKASHIMA",
+        "firstName": "ATSUSHI",
+        "lastName": "TAKASHIMA",
+        "jobTitle": "Vice-Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "YOHEI MAKIMURA",
+        "firstName": "YOHEI",
+        "lastName": "MAKIMURA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "LUKÁŠ DOBEŠ",
+        "firstName": "LUKÁŠ",
+        "lastName": "DOBEŠ",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "LADISLAV ZEMAN",
+        "firstName": "LADISLAV",
+        "lastName": "ZEMAN",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MASARU HIROSE",
+        "firstName": "MASARU",
+        "lastName": "HIROSE",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PETRUS JOHANNES AARSEN",
+        "firstName": "PETRUS JOHANNES",
+        "lastName": "AARSEN",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 8,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:51",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.tedom.com",
+    "homepage": {
+      "title": "TEDOM - kogenerace, fotovoltaika, služby v energetice",
+      "description": "TEDOM se zabývá výrobou kogeneračních jednotek, instalací fotovoltaiky a poskytováním komplexních služeb pro moderní decentrální energetiku.",
+      "text_excerpt": "TEDOM - kogenerace, fotovoltaika, služby v energetice\nNaše chytrá řešení umožňují zákazníkům stát se aktivními účastníky energetického trhu\nZOBRAZIT VÍCE INFORMACÍ\nPřípadová studie: Bioplynová stanice v Suchohrdlech s kogeneračními jednotkami TEDOM\nVÍCE INFORMACÍ\nByla spuštěna první aukce na podporu KVET – využijte tuto příležitost s TEDOM!\nVÍCE INFORMACÍ\nSpolečně s našimi zákazníky budujeme decentralizovanou energetiku založenou na udržitelných a flexibilních zdrojích energie.\nNaše inovativní řešení a služby umožňují našim zákazníkům stát se aktivními účastníky energetického trhu.\nProdej elektřiny\na plynu\nKogenerační\njednotky na bioplyn a biometan\nKogenerační\njednotky na zemní plyn\nKomplexní\nenergetická řešení\nEnergetické projekty\nna klíč\nVýroba a modifikace\nspalovacích motorů\nFotovoltaické\nelektrárny\nTepelná\nčerpadla\nStaňte se součástí decentrální energetiky!\nMám zájem o kogenerační jednotku\nMám zájem o moderní energetický systém\nMám zájem o komplexní energetické řešení\nMám zájem o dodávky  elektřiny a plynu\nMám zájem o kogenerační jednotku\nMám zájem o moderní energetický systém\nMám zájem o komplexní energetické řešení\nMám zájem o dodávky  elektřiny a plynu\nProč s námi\nLET\nZKUŠENOSTÍ\n1000\nZAMĚSTANCŮ\nTEDOM\nEXPORTNÍCH\nZEMÍ\nZAHRANIČNÍCH\nPOBOČEK\nŠIROKÉ PORTFOLIO VÝROBKŮ\nNabízíme pestrou paletu\ndecentrálních zdrojů energie.\nSPOLEHLIVÝ SERVIS\nServisní požadavky vyřizujeme\nve velmi krátké době.\nPODPORA 24/7\nNaše výrobky máme\nneustále pod dohledem.\nODBORNÉ PORADENSTVÍ\nNabízíme analýzy nasazení\ndecentrálních zdrojů energie.\nCo je u nás nového\nNovinky\nVýsledky posledního kola aukce na podporu KVET\nNovinky\nTEDOM na veletrhu AMPER\nNovinky\nKreditní seminář pro energetické auditory\nNovinky\nMPO vyhlásilo poslední aukci na podporu kogenerace\nNovinky\nPotlesk pro TEDOM v Národním divadle!\nSpravovat své soukromí\nK ukládání a/nebo přístupu k informacím o zařízení používáme technologie, jako jsou soubory cookie. Děláme to, abychom zlepšili zážitek z prohlížení a zobrazovali (ne)personalizované reklamy. Souhlas s těmito technologiemi nám umožní zpracovávat údaje, jako je chování při procházení nebo jedinečná ID na tomto webu. Nesouhlas nebo odvolání souhlasu může nepříznivě ovlivnit určité vlastnosti a funkce.\nFunkční\nFunkční\nVždy aktivní\nTechnické uložení nebo přístup je nezbytně nutný pro legitimní účel umožnění použití konkrétní služby, kterou si odběratel nebo uživatel výslovně vyžádal, nebo pouze za účelem provedení přenosu sdělení prostřednictvím sítě elektronických komunikací.\nPředvolby\nPředvolby\nTechnické uložení nebo přístup je nezbytný pro legitimní účel ukládání preferencí, které nejsou požadovány odběratelem nebo uživatelem.\nStatistiky\nStatistiky\nTechnické uložení nebo přístup, který se používá výhradně pro statistické účely.\nTechnické uložení nebo přístup, který se používá výhradně pro anonymní statistické účely. Bez předvolání, dobrovolného plnění ze strany vašeho Poskytovatele internetových služeb nebo dalších záznamů od třetí strany nelze informace, "
+    },
+    "about": {
+      "url": "https://www.tedom.com/o-nas",
+      "text": "Skupina TEDOM – TEDOM\nSkupina TEDOM\nTEDOM a.s. se více než 30 let se zabývá vývojem, výrobou a provozováním kogeneračních jednotek, vysoce účinných zdrojů pro společnou výrobu elektřiny a tepla. V oboru kogenerace patří k předním firmám. Své výrobky prodává v desítkách zemí světa od Japonska, přes Evropu až po Spojené státy a spolupracuje také s řadou zahraničních partnerů ve více než 55 zemích světa.\nTEDOM má čtyři výrobní a vývojové závody v České republice a několik mezinárodních obchodních poboček, z nichž nejvýznamnější je v Německu. Další členové skupiny pak působí v Polsku, USA, na Slovensku, ve střední Asii a Velké Británii. Celá skupina TEDOM má přes 1 000 zaměstnanců.\nPro své kogenerační jednotky TEDOM vyvíjí a vyrábí vlastní spalovací motory a současně upravuje motory renomovaných světových výrobců. V nabídce má plynové kogenerační jednotky s elektrickým výkonem od 20 kW do 4,5 MW. Za dobu své existence prodala skupina TEDOM více než 10 000 kogeneračních jednotek.\nKromě kogeneračních jednotek poskytuje TEDOM řadu dalších energetických služeb, jako jsou služby výkonové rovnováhy, nákup a prodej energií, instalace decentralizovaných zdrojů energie či komplexní dodávky energetických celků.\nHlavním akcionářem skupiny TEDOM je japonská strojírensko-energetická společnost YANMAR.\nTEDOM globálně\nLET\nZKUŠENOSTÍ\n1000\nZAMĚSTANCŮ\nVE SKUPINĚ TEDOM\nEXPORTNÍCH\nZEMÍ\nZAHRANIČNÍCH\nPOBOČEK\nHistorie TEDOM\n2024\nHlavním akcionářem skupiny TEDOM se stává japonská strojírensko-energetická společnost YANMAR.\n2023\nTEDOM prochází kompletním rebrandingem, který zahrnuje kromě úpravy loga i celkovou změnu vnímání značky na společnost poskytující širší služby v oblasti energetiky.\nGenerálním ředitelem TEDOM a.s. se stává Ladislav Zeman.\n2022\nRozšiřujeme své portfolio a naším zákazníkům začínáme nabízet komplexní energetické služby: instalaci fotovoltaických elektráren, podpůrné služby pro ČEPS, projektování, výstavbu a provozování energetických zdrojů.\n2020\nRozšiřujeme nabídku kogeneračních jednotek o novou řadu FLEXI.\nGenerálním ředitelem TEDOM a.s. se stává Vladimír Hlavinka.\n2019\nRozšiřujeme své portfolio a naším zákazníkům začínáme nabízet komplexní energetické služby: instalaci fotovoltaických elektráren.\nHlavním akcionářem skupiny TEDOM se stává fond JET 2 české společnosti Jet Investment.\n2016\nV říjnu 2016 kupujeme významného německého výrobce bioplynových kogeneračních jednotek SCHNELL Motoren. Získáváme tak další výrobní a vývojové zázemí a také rozsáhlou servisní síť v Německu.\n2015\nV každoročně pořádané soutěži firem Českých 100 nejlepších se umisťujeme se na 55. místě.\n2012\nŘadu Cento rozšiřujeme o kogenerační jednotky se švýcarskými motory Liebherr. Koncem roku představujeme prototyp plynového tepelného čerpadla TEDOM Polo 100.\n2011\nZačínáme budovat energetické centrum na letišti v australském Sydney. Ukončujeme výrobu autobusů a do třebíčského závodu přesunujeme z Hořovic výrobu jednotek Micro a Cento.\n2010\nSpolečně s ČEZ a.s. zakládáme dceřinou firmu ČEZ Energo pro provozování kogeneračních zdrojů energie.\n2008\nPočet vyrobených kogeneračních jednotek TEDOM dosahuje 2000. Dokončujeme 2. etapu projektu energetického využití důlního plynu v Ostravsko-karvínském revíru.\n2006\nV Třebíči otevíráme nový montážní závod pro výrobu městských autobusů s plynovými motory TEDOM.\n2003\nVyrábíme 1000. kogenerační jednotka TEDOM. Kupujeme motorárnu LIAZ. Tím získáváme vlastní motory pro kogenerační jednotky řady Cento.\n2002\nV lotyšské Rize stavíme energocentrum pro využití skládkového plynu.\n2000\nZahajujeme výrobu nových jednotek o výkonu 22 kW s názvem Premi.\n1996\nUvádíme na trh kogenerační jednotky s americkými motory Caterpillar.\n1995\nSpolečnosti TEDOM a VKS se kapitálově propojují. Počet vyrobených kogeneračních jednotek TEDOM dosahuje 100 kusů.\n1994\nUpravujeme naftový motor LIAZ na plynový pro použití v kogeneračních jednotkách.\n1993\nZahajujeme spolupráci s firmou VKS s.r.o. v Hořovicích, která se stává výrobcem strojní části kogeneračních je"
+    },
+    "products": {
+      "url": "https://www.tedom.com/sluzby",
+      "text": "Služby výkonové rovnováhy – TEDOM\nÚvodní strana\nEnergetický slovník\nSlužby výkonové rovnováhy\nZpět\nSlužby výkonové rovnováhy\nModerní energetika\nElektřina se nedá lehce skladovat, dochází proto k nerovnováze mezi její výrobou a spotřebou. Síťový operátor má proto v každé hodině nedostatek nebo přebytek elektřiny. Vhodný zdroj elektřiny nebo spotřebič může pomáhat takovou nerovnováhu v síti vyrovnávat. Majitel tohoto zařízení může operátorovi nabídnout část své výrobní kapacity, aby soustavu v exponovaných hodinách podpořil výrobou nebo naopak zvýšeným odběrem. Za tuto připravenost a také za samotné dodávky pak majiteli zdroje náleží odměna. Vhodnými zdroji jsou např. kogenerační jednotka, solární panel, elektrokotel, bateriový systém nebo třeba světla.\nZjistěte, jak na poskytování služeb výkonové rovnováhy a vydělávejte až 3 500 000 Kč ročně za 1 MW\nRádi vám navrhneme řešení, napište nám.\nZaslat dotaz\nSpravovat své soukromí\nK ukládání a/nebo přístupu k informacím o zařízení používáme technologie, jako jsou soubory cookie. Děláme to, abychom zlepšili zážitek z prohlížení a zobrazovali (ne)personalizované reklamy. Souhlas s těmito technologiemi nám umožní zpracovávat údaje, jako je chování při procházení nebo jedinečná ID na tomto webu. Nesouhlas nebo odvolání souhlasu může nepříznivě ovlivnit určité vlastnosti a funkce.\nFunkční\nFunkční\nVždy aktivní\nTechnické uložení nebo přístup je nezbytně nutný pro legitimní účel umožnění použití konkrétní služby, kterou si odběratel nebo uživatel výslovně vyžádal, nebo pouze za účelem provedení přenosu sdělení prostřednictvím sítě elektronických komunikací.\nPředvolby\nPředvolby\nTechnické uložení nebo přístup je nezbytný pro legitimní účel ukládání preferencí, které nejsou požadovány odběratelem nebo uživatelem.\nStatistiky\nStatistiky\nTechnické uložení nebo přístup, který se používá výhradně pro statistické účely.\nTechnické uložení nebo přístup, který se používá výhradně pro anonymní statistické účely. Bez předvolání, dobrovolného plnění ze strany vašeho Poskytovatele internetových služeb nebo dalších záznamů od třetí strany nelze informace, uložené nebo získané pouze pro tento účel, obvykle použít k vaší identifikaci.\nMarketing\nMarketing\nTechnické uložení nebo přístup je nutný k vytvoření uživatelských profilů za účelem zasílání reklamy nebo sledování uživatele na webových stránkách nebo několika webových stránkách pro podobné marketingové účely.\nSpravovat možnosti\nSpráva služeb\nSpráva {vendor_count} prodejců\nPřečtěte si více o těchto účelech\nPřijmout\nOdmítnout\nSpravovat možnosti\nUložit předvolby\nSpravovat možnosti\n{title}\n{title}\n{title}\nSpravovat své soukromí\nAbychom poskytli co nejlepší služby, používáme k ukládání a/nebo přístupu k informacím o zařízení, technologie jako jsou soubory cookies. Souhlas s těmito technologiemi nám umožní zpracovávat údaje, jako je chování při procházení nebo jedinečná ID na tomto webu. Nesouhlas nebo odvolání souhlasu může nepříznivě ovlivnit určité vlastnosti a funkce.\nFunkční\nFu"
+    },
+    "contact_page": {
+      "url": "https://www.tedom.com/kontakt",
+      "text": "Kontakt – TEDOM\nKontakt\nTEDOM Česko\nTEDOM ve světě\nVyberte si pobočku\nMemmingerberg\nRodewald\nAhaus\nMemmingerberg\nNiederlassung Süd\nTEDOM Deutschland GmbH\nTEDOM Energy Systems and Solutions GmbH\nAugsburger Straße 68\n87766 Memmingerberg\nDeutschland\n+49 7520 9661 0\nNa této pobočce zajišťujeme:\nRodewald\nNiederlassung Nord\nTEDOM Service GmbH\nAlte Celler Heerstraße 1\n31637 Rodewald\nDeutschland\n+49 5074 9618-0\ninfo@tedom.de\nNa této pobočce zajišťujeme:\nAhaus\nNiederlassung West\nTEDOM Service GmbH\nRottweg 71\n48683 Ahaus\nDeutschland\n+49 2561 69565-0\ninfo@tedom.de\nNa této pobočce zajišťujeme:\nOstatní kontakty\nVše\nVertrieb\nProjektabwicklung\nService\nService-Hotline\nErsatzteilversorgung\nService-Vertrieb\nPersonalabteilung\nVertrieb\nJochen Epp\nLeitung Vertrieb\n+49 173 5821801\nj.epp@tedom.de\nHeiko Buser\nProjektvertrieb\n+49 151 74503607\nh.buser@tedom.de\nHanshinrich Haartje\nProjektvertrieb\n+49 171 7760156\nh.haartje@tedom.de\nMalte Husmann\nProjektvertrieb\n+49 172 2890934\nm.husmann@tedom.de\nFrank Kiendl\nProjektvertrieb\n+49 173 6689193\nf.kiendl@tedom.de\nBernhard Pfefferle\nProjektvertrieb Frankreich\n+33 625 351520\nb.pfefferle@tedom.de\nTobias Scherf\nProjektvertrieb\n+49 152 54928484\nt.scherf@tedom.de\nProjektabwicklung\nBastian Hoffmeister\nLeitung Anlagenbau\n+49 5074 9618-241\nb.hoffmeister@tedom.de\nKaufmännische Projektabwicklung\nKaufmännische Projektabwicklung\n+49 5074 9618-214\na.stojek@tedom.de\nService\nDirk Siebert\nLeitung Service\n+49 5074 9618-266\nd.siebert@tedom.de\nTobias Schorfmann\nLeitung Servicegebiet 1 (Rodewald, Oldenburg, Zeven)\n+49 5074 9618-345\nt.schorfmann@tedom.de\nAndreas Boenisch\nLeitung Servicegebiet 2 (Celle, Rendsburg, Stralsund)\n+49 5074 9618-343\na.boenisch@tedom.de\nChristoph Kemp\nLeitung Servicegebiet 3 (Memmingen, Kassel, Leipzig)\n+49 7520 9661-129\nc.kemp@tedom.de\nUwe Sperlbaum\nLeitung Servicegebiet 4 (Ahaus, Meppen, BGA-Service)\n+49 2561 69565-315\nu.sperlbaum@tedom.de\nService-Hotline\nService-Hotline Nord\n+49 5074 9618-55\nService-Hotline Ost\n+49 5074 9618-66\nService-Hotline"
+    }
+  }
+}

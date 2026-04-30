@@ -1,0 +1,168 @@
+{
+  "company_key": "actual okna/bd-plus s.r.o.",
+  "company_name": "actual okna/bd-plus s.r.o.",
+  "domain": "www.gplus.sk",
+  "domain_url": "https://www.gplus.sk",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "actual okna/bd-plus s.r.o.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 11,
+    "revenue": 2015,
+    "zi_company_name": "G-Plus",
+    "zi_domain": "www.gplus.sk",
+    "zi_city": "Zilina",
+    "zi_country": "Slovakia",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.gplus.sk",
+    "homepage": {
+      "title": "G PLUS â kÃºpeÄ¾ne, inÅ¡talÃ¡cie a technickÃ© rieÅ¡enia",
+      "description": "G PLUS ponÃºka rieÅ¡enia pre kÃºpeÄ¾ne, inÅ¡talaÄnÃ© systÃ©my a technickÃ© vybavenie. ProfesionÃ¡lne sluÅ¾by a realizÃ¡cie.",
+      "text_excerpt": "G PLUS â kÃºpeÄ¾ne, inÅ¡talÃ¡cie a technickÃ© rieÅ¡enia\nPre 100% funkÄnosÅ¥ naÅ¡ej webstrÃ¡nky pouÅ¾Ã­vame aj sÃºbory cookies. SÃºbory cookies vyuÅ¾Ã­vame aj pre analÃ½zu vyuÅ¾Ã­vania webstrÃ¡nky, ale\nbez spracovania akÃ½chkoÄ¾vek osobnÃ½ch Ãºdajov\nZavrieÅ¥\nViac informÃ¡ciÃ­\nO spoloÄnosti\nVÃ­tame VÃ¡s na strÃ¡nkach\nspoloÄnosti G PLUS, s.r.o.\nSme dlhoroÄnÃ½m dodÃ¡vateÄ¾om  systÃ©mov GEBERIT na slovenskÃ½ trh. VÄaka naÅ¡Ã­m skÃºsenostiam v oblasti inÅ¡talÃ¡cii a obchodu vieme ponÃºknuÅ¥ naÅ¡Ã­m klientom odbornÃ© poradenstvo pri nachÃ¡dzanÃ­ komplexnÃ½ch rieÅ¡enÃ­ v oblasti zdravotechniky.\nPonÃºkame Å¡irokÃ½ vÃ½ber produktov rÃ´znych znaÄiek pre zariadenie kÃºpeÄ¾nÃ­.\nNaÅ¡ou vÃ½sadou je osobnÃ½ prÃ­stup. Spolu s naÅ¡imi zÃ¡kaznÃ­kmi hÄ¾adÃ¡me rieÅ¡enia spÃ¡jajÃºce  individuÃ¡lne poÅ¾iadavky s kvalitou a modernÃ½m dizajnom.\nVÅ¡etko pre VaÅ¡u stavbu\nInÅ¡taletÃ©rska a stavebnÃ¡ ÄinnosÅ¥.\nKÃºpeÄ¾novÃ© Å¡tÃºdio\nVaÅ¡a novÃ¡ kÃºpeÄ¾nÅa na mieru.\nPre firmy\na Å¾ivnostnÃ­kov\nPre inÅ¡talatÃ©rske firmy, Å¾ivnostnÃ­kov a maloobchodnÃ© firmy poskytujeme veÄ¾koobchodnÃ½ predaj a dodÃ¡vku kompletnÃ©ho sortimentu spoloÄnosti Geberit, vrÃ¡tane zapoÅ¾iÄania lisovacieho a zvÃ¡racieho nÃ¡radia, a podpory predaja nÃ¡hradnÃ½ch dielov.\n150\nm2 skladovÃ½ch priestorov\n500\nproduktov skladom\n490\nbatÃ©riÃ­ skladom\nNaÅ¡i klienti\nReferencie\nSpoloÄnosÅ¥ G PLUS, s.r.o. je na slovenskom trhu od roku 2001. Odvtedy sme boli sÃºÄasÅ¥ou mnohÃ½ch vÃ½znamnÃ½ch projektov. Nazbierali sme dÃ´leÅ¾itÃ© skÃºsenosti a zanechali veÄ¾a spokojnÃ½ch partnerov a zÃ¡kaznÃ­kov. NaÅ¡ou vizitkou sÃº komplexnÃ© realizÃ¡cie ZTI rieÅ¡enÃ­, ale aj podtlakovÃ© odvodnenia striech a ÄalÅ¡ie inÅ¡talatÃ©rske Äinnosti."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "actual okna/bd-plus s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 14,
+    "all_technologies": [
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "particles.js",
+        "vendor": "",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Customer Chat Plugin",
+        "vendor": "Facebook, Inc.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "actual okna/bd-plus s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Lubomír",
+        "last_name": "Vejrostek",
+        "title": "Projektový Manager",
+        "email": "",
+        "phone": "",
+        "company": "G-Plus",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 18:57"
+}

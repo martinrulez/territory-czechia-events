@@ -1,0 +1,93 @@
+{
+  "company_key": "fuso",
+  "company_name": "FUSO",
+  "domain": "",
+  "domain_url": "",
+  "events": "URBIS Smart Cities 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "FUSO",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.69,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.69,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "09713549",
+    "official_name": "FUSO ENERGO s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "71110",
+      "71120",
+      "00",
+      "G",
+      "K",
+      "33200",
+      "41000",
+      "71200",
+      "952",
+      "00",
+      "332",
+      "4120",
+      "71110",
+      "7112",
+      "71209",
+      "952",
+      "G",
+      "J"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Zámostní 1155/27, Slezská Ostrava, 71000 Ostrava, Ostrava, Zámostní, 71000",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "FUSO",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Md.",
+        "last_name": "Mostuk Mostuk",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "FUSO Bangladesh",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 15:14"
+}

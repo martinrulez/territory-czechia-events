@@ -1,0 +1,71 @@
+{
+  "company_key": "gmf_aquapark_prague_a_s",
+  "company_name": "GMF AQUAPARK PRAGUE, a.s.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MIROSLAV BUKVA",
+        "firstName": "MIROSLAV",
+        "lastName": "BUKVA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PAVEL SEHNAL",
+        "firstName": "PAVEL",
+        "lastName": "SEHNAL",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JAKUB KAŇKA",
+        "firstName": "JAKUB",
+        "lastName": "KAŇKA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "VLADANA MRÁZOVÁ HORÁKOVÁ",
+        "firstName": "VLADANA",
+        "lastName": "MRÁZOVÁ HORÁKOVÁ",
+        "jobTitle": "Vice-Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "NICOLE SEHNALOVÁ",
+        "firstName": "NICOLE",
+        "lastName": "SEHNALOVÁ",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:20"
+}

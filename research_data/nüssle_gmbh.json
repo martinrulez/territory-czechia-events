@@ -1,0 +1,86 @@
+{
+  "company_key": "nüssle gmbh",
+  "company_name": "Nüssle GmbH",
+  "domain": "www.nuessle-ohg.de",
+  "domain_url": "https://www.nuessle-ohg.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Nüssle GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 7,
+    "revenue": 1385,
+    "zi_company_name": "Nüssle",
+    "zi_domain": "www.nuessle-ohg.de",
+    "zi_city": "Nagold",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.nuessle-ohg.de",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Nüssle GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 1,
+    "all_technologies": [
+      {
+        "product": "1&1 Hosting",
+        "vendor": "1&1 IONOS Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Nüssle GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Frank",
+        "last_name": "Burgdorf",
+        "title": "Geschäftsführender Gesellschafter",
+        "email": "",
+        "phone": "",
+        "company": "Nüssle",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 17:18"
+}

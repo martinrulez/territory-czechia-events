@@ -1,0 +1,109 @@
+{
+  "company_key": "daikin",
+  "company_name": "Daikin",
+  "domain": "",
+  "domain_url": "",
+  "events": "Czech Green Building Council Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Daikin",
+    "opportunity_score": 21,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.58,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.58,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "26357895",
+    "official_name": "Daikin Industries Czech Republic s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "28250",
+      "68200",
+      "47",
+      "46",
+      "72",
+      "6820",
+      "72",
+      "28250",
+      "47",
+      "46"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "U Nové Hospody 1155/1, Skvrňany, 30100 Plzeň, Plzeň, U Nové Hospody, 30100",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Daikin",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Noriyuki",
+        "last_name": "Inoue",
+        "title": "Chairman Emeritus and Chief Global Group Officer",
+        "email": "",
+        "phone": "",
+        "company": "Daikin Global",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Bringham",
+        "last_name": "Dickinson",
+        "title": "President & Founder",
+        "email": "",
+        "phone": "",
+        "company": "Daikin",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 76.0
+      },
+      {
+        "first_name": "Clifford",
+        "last_name": "Adams",
+        "title": "Senior Associate Ofcr, Chairman",
+        "email": "cadams@daikin-america.com",
+        "phone": "(256) 306-5003",
+        "company": "Daikin America",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 15:39"
+}

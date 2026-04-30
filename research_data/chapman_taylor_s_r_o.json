@@ -1,0 +1,41 @@
+{
+  "company_key": "chapman_taylor_s_r_o",
+  "company_name": "Chapman Taylor s.r.o.",
+  "domain": "",
+  "events": "Czech Green Building Council Members",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "FILIP POKORNÝ",
+        "firstName": "FILIP",
+        "lastName": "POKORNÝ",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JON WILLIAM BUCKNALL HALE",
+        "firstName": "JON WILLIAM BUCKNALL",
+        "lastName": "HALE",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:07:12"
+}

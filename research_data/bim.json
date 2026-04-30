@@ -1,0 +1,121 @@
+{
+  "company_key": "bim",
+  "company_name": "BIM",
+  "domain": "",
+  "domain_url": "",
+  "events": "BIM DAY 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "BIM",
+    "opportunity_score": 20,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.53,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.53,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "01325582",
+    "official_name": "Tomáš Bím",
+    "legal_form": "101",
+    "nace_codes": [
+      "G",
+      "255",
+      "73110",
+      "855",
+      "00",
+      "28",
+      "30",
+      "14",
+      "29",
+      "93190",
+      "31000",
+      "93290",
+      "00",
+      "14",
+      "256",
+      "28",
+      "29",
+      "30",
+      "310",
+      "73110",
+      "855",
+      "93190",
+      "93290",
+      "G"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Jasmínová 521/8, 25064 Zlonín, Zlonín, Jasmínová, 25064",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "BIM",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Gareth",
+        "last_name": "William",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Bim",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Fernando",
+        "last_name": "Valda",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "BIM",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 86.0
+      },
+      {
+        "first_name": "Fernando",
+        "last_name": "Sánchez",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "BIM",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 15:41"
+}

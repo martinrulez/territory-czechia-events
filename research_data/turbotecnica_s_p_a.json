@@ -1,0 +1,215 @@
+{
+  "company_key": "turbotecnica_s_p_a",
+  "company_name": "Turbotecnica S.p.A.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "Turbotecnica S.p.A.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 26,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Analytics Event Tracking",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "iubenda",
+        "vendor": "iubenda s.r.l",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Dynamic Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Ads",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "MailChimp SPF",
+        "vendor": "The Rocket Science Group LLC",
+        "category": "Email Delivery",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Roberto Noviello",
+        "firstName": "Roberto",
+        "lastName": "Noviello",
+        "jobTitle": "Head of Sales",
+        "email": "roberto.noviello@turbotecnica.it",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Roberta Moschetto",
+        "firstName": "Roberta",
+        "lastName": "Moschetto",
+        "jobTitle": "Spare Parts Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:15",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.turbotecnica.it",
+    "homepage": {
+      "title": "Turbotecnica – Sistemi avanzati di shot blasting e sabbiatura",
+      "description": "Impianti e soluzioni di granigliatura per il trattamento delle superfici: granigliatrici a turbina, ad aria e impianti speciali industriali. Contattaci per maggiori informazioni!",
+      "text_excerpt": "Turbotecnica – Sistemi avanzati di shot blasting e sabbiatura\nImpianti e soluzioni di granigliatura per il trattamento delle superfici\nAzienda\nGranigliatrici a turbina\nGranigliatrici ad aria\nImpianti speciali\nSISTEMI AVANZATI PER LA PREPARAZIONE DELLE SUPERFICI\nKnow-how\nTurbotecnica da oltre 40 anni progetta e realizza\nsistemi avanzati per la preparazione delle superfici, con Turbina e con Aria Compressa.\nSiamo una solida impresa famigliare con una visione di lungo termine che investe in talenti per guidare l’innovazione nel rispetto di uno sviluppo sostenibile.\nLa nostra specializzazione va ben oltre alla semplice Granigliatura.\nPossiamo offrirvi la soluzione completa ed integrata con altri sistemi complementari al processo di granigliatura, inclusa la\nmovimentazione\nl'automazione\ne il\ncarico e scarico\ndei vostri prodotti. Le nostre soluzioni sono sempre orientate a soddisfare le vostre applicazioni, permettendovi di ottenere sempre il miglior ritorno dell'investimento.\nI nostri servizi\nI nostri settori\nSviluppiamo soluzioni high-tech per ogni impiego\nGranigliatrici per lamiere e carpenterie metalliche\nGranigliatrici per tubi e profili cilindrici\nGranigliatrici per trafilati, fili e barre\nGranigliatrici per bombole e serbatoi\nGranigliatrici per fonderie e acciaierie\nGranigliatrici per marmo e graniti\nImpianti di pallinatura industriale (shot peening)\nGranigliatrici per automotive e agricoltura\nImpianti di granigliatura e shot peening per aerospazio, navale e difesa\nImpianti di granigliatura e shot peening per applicazioni medicali\nNews & Eventi\n02 Apr 2026\nGlobal Industrie\nSiamo a Lione per\nGLOBAL INDUSTRIE\n2026. Insieme a Industrie-Systèmes presentiamo le nostre soluzioni di shot blasting e trattamento delle superfici.\nPassate a trovarci!\n24 Mar 2026\nSTOM-BLECH\nSaremo all'\nINDUSTRIAL SPRING Expo | STOM Tool, Blech & Cutting, Robotics, Laser | Welding | Surface | Control\n2026!\nVi aspettiamo!\nImpianti e soluzioni di granigliatura per il trattamento delle superfici.\nTurbotecnica S.p.A.\nVia Machiavelli, 19/21\n20025, Legnano (MI) - ITALY\nLINK UTILI\nAzienda\nServizi\nProduzione\nSettori\nNotizie\nContatti\nPRODUZIONE\nGranigliatrici a turbina\nGranigliatrici ad aria\nImpianti speciali\nCopyright 2025 © Turbotecnica S.p.A. Granigliatrici e Sabbiatrici Industriali – P.IVA 10493850159 – Numero R.E.A 1381730 – Capitale Sociale: 1.000.000,00\nPrivacy Policy\nCookie Policy\nCredits"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

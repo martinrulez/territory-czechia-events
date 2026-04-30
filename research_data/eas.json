@@ -1,0 +1,139 @@
+{
+  "company_key": "eas",
+  "company_name": "EAS",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "EAS",
+    "opportunity_score": 28,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.39,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.39,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "04639651",
+    "official_name": "EAS company s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "55",
+      "68200",
+      "4779",
+      "95310",
+      "46900",
+      "77220",
+      "71120",
+      "82100",
+      "00",
+      "49320",
+      "73110",
+      "74300",
+      "52",
+      "461",
+      "52260",
+      "00",
+      "45200",
+      "461",
+      "46900",
+      "47790",
+      "4939",
+      "52",
+      "52290",
+      "55",
+      "6820",
+      "7112",
+      "73110",
+      "74300",
+      "77290",
+      "82110"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Svahová 986/6, 36001 Karlovy Vary, Karlovy Vary, Svahová, 36001",
+    "is_client": true,
+    "current_products": "Fusion",
+    "total_seats": "1",
+    "current_acv_eur": "600.0",
+    "potential_acv_eur": "8200.0",
+    "nearest_renewal": "2029-02-23",
+    "days_to_renewal": "1037",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Fusion Sim Ext",
+    "maturity_label": "Foundation",
+    "industry_segment": "Construction Services",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "revenue_growth": -100.0,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "EAS",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Omran",
+        "last_name": "Fakih",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Eas",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Dave",
+        "last_name": "Dunn",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Eas",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 13:01",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "inventor"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "company_key": "bÖllhoff, s.r.o.",
+  "company_name": "BÖLLHOFF, s.r.o.",
+  "domain": "www.boellhoff.com",
+  "domain_url": "https://www.boellhoff.com",
+  "events": "MSV 2025 Exhibitor Catalog,MSV 2025 Full Exhibitor List",
+  "event_count": 2,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "BÖLLHOFF, s.r.o.",
+    "opportunity_score": 16,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.5,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "45241163",
+    "official_name": "BÖLLHOFF, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46840",
+      "46740"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Palouky 1365, 25301 Hostivice, Hostivice, Palouky, 25301",
+    "zi_done": true,
+    "employee_count": 3300,
+    "revenue": 847073,
+    "zi_company_name": "Wilhelm Böllhoff",
+    "zi_domain": "www.boellhoff.com",
+    "zi_city": "Bielefeld",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.boellhoff.com",
+    "homepage": {
+      "title": "Böllhoff Germany – Competence leader in joining technology",
+      "description": "Whenever you want to join components, we are at your side as a competent partner. Along your entire value chain. Around the globe. And always with a special focus on the specific requirements of your industry. This all-round service concept is what we call 360° joining technology.",
+      "text_excerpt": "Böllhoff Germany – Competence leader in joining technology\nCompetence leader in 360° Joining Technology\nDive into our product world\nPlease choose\nGet advice now\nExperience our product world\nWhenever you want to join components, we are at your side. As a competence leader in 360° joining technology, we understand your needs and find the joining solutions that best suit your requirements.\nOur key figures and competencies\nBuilding Sustainable Connections\nOur long-term thinking and responsibility extend beyond business to our planet and society, ensuring a successful future. This commitment forms the core of our\ncorporate philosophy\nand is reflected in our\nsustainability strategy\nAutomotive\nAerospace\nMechanical engineering\nRailway\nMedical technology\nEnergy\nConstruction and agricultural machinery\nDomestic appliances\nCommercial vehicles\nThe structural change in the automotive industry is picking up speed. Trend topics, such as lightweight construction, powertrain electrification, autonomous driving and digitalization are complex and challenging. The requirements imposed on joining technology are correspondingly high. New ideas are needed. We have the right answers for contemporary automotive engineering issues\nFind out more\nWe also take a second look and support you in meeting the requirements of current development trends in the aerospace industry. We have been a partner to the industry for decades, providing special joining solutions.\nFind out more\nMechanical and plant engineering is one of the most innovative industries. Nevertheless, or perhaps precisely for this reason, structural changes mean that this industry also needs to increase investment in its future competitive ability. We support this industry with innovative fastener solutions and assembly solutions. Whether this involves development and production of large-scale plants, machine tools or special machines.\nFind out more\nThe history of railway technology has fascinated people for centuries. Worldwide, rail traffic volume has never been so high. The requirements that railway operators impose on rail vehicle manufacturers are correspondingly demanding. Whether screws, rivets, clinching or C-Parts management – we offer innovative and reliable solutions.\nFind out more\nOften the technologies are extremely sensitive, consequently the production requirements are also extremely high. We support you with our custom joining solutions\nFind out more\nDevelopment of renewable energy is an essential component of environmental protection. This is a top priority for us; with our joining and assembly technology we do our part in shaping the energy future.\nFind out more\nDifferent weather conditions, permanent force effects through vibration and irregular capacity utilization significantly impact the individual components. These extreme influences pose a variety of challenges and requirements for the production of construction and agricultural machinery.\nFind out more\nNetworked domestic appliances, low ener"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "BÖLLHOFF, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [
+      "PTC Windchill PLM"
+    ],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 82,
+    "all_technologies": [
+      {
+        "product": "Power BI",
+        "vendor": "Microsoft Corporation",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Amazon CloudFront",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Lean Manufacturing",
+        "vendor": "Gemba Academy LLC",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SUSE",
+        "vendor": "SUSE PLC",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "REXX",
+        "vendor": "rexx systems",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Infor ION",
+        "vendor": "Infor",
+        "category": "Data Integration",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "DOS",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Computer Aid",
+        "vendor": "Computer Aid, Inc",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "BOELLHOFF",
+        "vendor": "BOELLHOFF",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Attenda",
+        "vendor": "Attenda Limited",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apache Servers",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare Rocket Loader",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "IBM AIX",
+        "vendor": "IBM",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "PTC Windchill PLM",
+        "vendor": "PTC Inc",
+        "category": "Product Information Management",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft PowerPoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Contens",
+        "vendor": "CONTENS Software GmbH",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Analytics Event Tracking",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Grafana",
+        "vendor": "Grafana Labs",
+        "category": "IT Infrastructure Monitoring",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Daily",
+        "vendor": "Daily.co.uk",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Palo Alto Firewalls",
+        "vendor": "Palo Alto Networks, Inc.",
+        "category": "Network Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Ativo",
+        "vendor": "ativo",
+        "category": "Ticketing Systems",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Sched",
+        "vendor": "SCHED LLC",
+        "category": "Event Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "R",
+        "vendor": "The R Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Python",
+        "vendor": "Python Software Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "C++",
+        "vendor": "Standard C++ Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "C#",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Java",
+        "vendor": "Oracle Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Infor (common)",
+        "vendor": "Infor",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "IBM Power Systems",
+        "vendor": "IBM",
+        "category": "Server Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "Extreme Networks",
+        "vendor": "Extreme Networks, Inc",
+        "category": "Network Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "ADP",
+        "vendor": "ADP, Inc.",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft Active Directory",
+        "vendor": "Microsoft Corporation",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "BÖLLHOFF, s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Cathrin",
+        "last_name": "Wesch-Potente",
+        "title": "Chief Digital Process Officer & Board Member",
+        "email": "",
+        "phone": "",
+        "company": "Wilhelm Böllhoff",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 16:03"
+}

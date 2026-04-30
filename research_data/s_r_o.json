@@ -1,0 +1,121 @@
+{
+  "company_key": "s_r_o",
+  "company_name": "s r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Radka Filová",
+        "firstName": "Radka",
+        "lastName": "Filová",
+        "jobTitle": "Chief Operating Officer Skupiny JON. CZ A Vedoucí Správy Nemovitostí",
+        "email": "radka.filova@jon.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Pavel Süss",
+        "firstName": "Pavel",
+        "lastName": "Süss",
+        "jobTitle": "Chief Sales Officer (CSO)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jaroslav Klein",
+        "firstName": "Jaroslav",
+        "lastName": "Klein",
+        "jobTitle": "Principal Chief Executive Officer",
+        "email": "jaroslav@baris.sk",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Pavel Švihlík",
+        "firstName": "Pavel",
+        "lastName": "Švihlík",
+        "jobTitle": "Managing Director & Chief Executive Officer",
+        "email": "svihlik@roka-teplice.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Pavol Flašík",
+        "firstName": "Pavol",
+        "lastName": "Flašík",
+        "jobTitle": "Chief Executive Officer & Managing Director",
+        "email": "p.flasik@alcar.sk",
+        "phone": "+421 32/398 91 21",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Petr Luka",
+        "firstName": "Petr",
+        "lastName": "Luka",
+        "jobTitle": "Chief Executive Officer",
+        "email": "petr@babynabytek.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Michal Strobl",
+        "firstName": "Michal",
+        "lastName": "Strobl",
+        "jobTitle": "Chief Executive Officer",
+        "email": "strobl@stigroup.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Tomas Lauer",
+        "firstName": "Tomas",
+        "lastName": "Lauer",
+        "jobTitle": "Chief Executive Officer",
+        "email": "tomas@babynabytek.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Juraj Harkabuzík",
+        "firstName": "Juraj",
+        "lastName": "Harkabuzík",
+        "jobTitle": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Pavel Fišera",
+        "firstName": "Pavel",
+        "lastName": "Fišera",
+        "jobTitle": "Chief Technical Officer",
+        "email": "fisera@inova.cz",
+        "phone": "+420 271 012 133",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 10,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:16"
+}

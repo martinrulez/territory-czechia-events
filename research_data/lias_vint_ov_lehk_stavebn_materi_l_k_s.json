@@ -1,0 +1,61 @@
+{
+  "company_key": "lias_vint_ov_lehk_stavebn_materi_l_k_s",
+  "company_name": "Lias Vintířov, lehký stavební materiál k.s.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "VÁCLAV KONOPÁČ",
+        "firstName": "VÁCLAV",
+        "lastName": "KONOPÁČ",
+        "jobTitle": "předseda VZO",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DAVID KONOPÁČ",
+        "firstName": "DAVID",
+        "lastName": "KONOPÁČ",
+        "jobTitle": "místopředseda VZO",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MARIE LAVIČKOVÁ",
+        "firstName": "MARIE",
+        "lastName": "LAVIČKOVÁ",
+        "jobTitle": "hospodář VZO",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DRAHOMÍRA OPLETALOVÁ",
+        "firstName": "DRAHOMÍRA",
+        "lastName": "OPLETALOVÁ",
+        "jobTitle": "člen VZO",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:18:23"
+}

@@ -1,0 +1,401 @@
+{
+  "company_key": "alpla werke lehner gmbh & co. kg",
+  "company_name": "ALPLA Werke Lehner GmbH & Co. KG",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ALPLA Werke Lehner GmbH & Co. KG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "ALPLA Werke Lehner GmbH & Co. KG",
+    "autodesk_products": [
+      "Autodesk AutoCAD"
+    ],
+    "competitor_products": [
+      "Siemens",
+      "Siemens NX",
+      "Siemens PLM",
+      "Siemens Teamcenter PLM Software"
+    ],
+    "cad_bim_other": [
+      "Cache Control",
+      "InVision",
+      "KUKA",
+      "Sigma",
+      "Stratasys"
+    ],
+    "total_technologies": 235,
+    "all_technologies": [
+      {
+        "product": "IBM (common)",
+        "vendor": "IBM",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Edenred",
+        "vendor": "Edenred",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Idexx Cornerstone",
+        "vendor": "IDEXX",
+        "category": "Medical Practice Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Energy Management",
+        "vendor": "ENTOUCH Controls, Inc.",
+        "category": "Facilities Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Operative",
+        "vendor": "SintecMedia Ltd.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "HR Manager",
+        "vendor": "HR Manager Talent Solutions International",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Batch",
+        "vendor": "Batch",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "SAP Materials Management",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Oracle HCM Cloud",
+        "vendor": "Oracle Corporation",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Boulevard",
+        "vendor": "Boulevard, Inc.",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Momentum",
+        "vendor": "Momentum Labs",
+        "category": "Other DevOps Software",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Affinity",
+        "vendor": "Affinity",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "product information management",
+        "vendor": "Informatica Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Digital Signage",
+        "vendor": "Appspace Inc",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "ventiv",
+        "vendor": "Ventiv Technology Australia PTY Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "cyber security",
+        "vendor": "Primenet Limited",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "3D Hubs",
+        "vendor": "HUBS B.V.",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Sunday",
+        "vendor": "Sunday",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Time and Attendance",
+        "vendor": "Workforce Control Solutions",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Persona",
+        "vendor": "Persona Identities Inc",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Circa",
+        "vendor": "Circa, Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "UKG",
+        "vendor": "UKG Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Tally",
+        "vendor": "Tally Solutions Private Limited",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Shorthand",
+        "vendor": "Shorthand Pty Ltd",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Resolver",
+        "vendor": "Resolver",
+        "category": "Governance, Risk and Compliance",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "TDS",
+        "vendor": "TDS (Time Data Security) Limited.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Lean Manufacturing",
+        "vendor": "Gemba Academy LLC",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "XSLT",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "XML Explorer",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WhatsUp Gold",
+        "vendor": "Ipswitch",
+        "category": "IT Infrastructure Monitoring",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "verloop",
+        "vendor": "Magiclane, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Trane",
+        "vendor": "Trane Technologies Company, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Sympa",
+        "vendor": "Open Source",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "SuperFish",
+        "vendor": "SuperFish",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Skype",
+        "vendor": "Microsoft Corporation",
+        "category": "Unified Communications",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Sigma",
+        "vendor": "Sigma Software",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "RIGOR",
+        "vendor": "RIGOR",
+        "category": "IT Infrastructure Monitoring",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ALPLA Werke Lehner GmbH & Co. KG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Philipp",
+        "last_name": "Lehner",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Alpla Group",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Roland",
+        "last_name": "W.",
+        "title": "Chief Executive Officer, Alpla Region (Asia Pacific)",
+        "email": "",
+        "phone": "",
+        "company": "Alpla Group",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Soumyasnato",
+        "last_name": "Das",
+        "title": "Division Chief Operating Officer, Contract Manufacturing",
+        "email": "",
+        "phone": "",
+        "company": "Alpla Group",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 12:20"
+}

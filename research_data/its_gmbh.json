@@ -1,0 +1,199 @@
+{
+  "company_key": "its gmbh",
+  "company_name": "iTS GmbH",
+  "domain": "www.iktus.cz",
+  "domain_url": "https://www.iktus.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "iTS GmbH",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Inventor | PDMC",
+    "total_seats": "3",
+    "current_acv_eur": "11200.0",
+    "potential_acv_eur": "19800.0",
+    "nearest_renewal": "2027-01-17",
+    "days_to_renewal": "269",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Add CAM, nesting, and generative design capabilities",
+    "all_upsells": "Fusion Mfg Ext; Vault; Moldflow",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Consumer Products",
+    "ml_domain": "www.iktus.cz",
+    "zi_done": true,
+    "zi_error": "No company found"
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.iktus.cz",
+    "homepage": {
+      "title": "| Nábytek IKTUS",
+      "description": "",
+      "text_excerpt": "| Nábytek IKTUS\n+ 420 554 637 621\nNA VELIKOSTI ZÁLEŽÍ\nDíly rohových lavic můžete délkově upravovat a libovolně zvolit typ a velikost stolu, typy a počet židlí.\nJdeme vstříc novým trendům v bydlení\nNový životní styl sebou nese požadavky na vizuálně odlehčený, vzdušnější nábytek v optimistických barvách\nRohové lavice\nJídelní stoly a židle\nSektorový nábytek\nKomody\nZakázková výroba\nistanbul travesti\nkadıköy travesti\nizmir konak travesti\nSORTIMENT\nRohové lavice\nJídelní stoly a židle\nSektorový nábytek\nKomody\nZakázková výroba\nINFORMACE\nO firmě\nProjekty EU\nProdejny\nEshop\nZpracování osobních údajů\nKONTAKTY\nZátor-Loučky 100,\n793 16 Zátor, CZ\ninfo@iktus.cz\n+420 554 637 621\nnovy-byt.cz"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "iTS GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 14,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Mobile",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "iTS GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Jaroslav",
+        "last_name": "Matuška",
+        "title": "Technický řEditel",
+        "email": "jaroslav.matuska@iktus.cz",
+        "phone": "",
+        "company": "Iktus",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 94.0
+      },
+      {
+        "first_name": "Zdislav",
+        "last_name": "Janca",
+        "title": "řEditel Organizace",
+        "email": "zdislav.janca@iktus.cz",
+        "phone": "",
+        "company": "Iktus",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 94.0
+      },
+      {
+        "first_name": "Kristyna",
+        "last_name": "Vichova",
+        "title": "Jednatel",
+        "email": "kristyna.vichova@iktus.cz",
+        "phone": "",
+        "company": "Iktus",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 09:00"
+}

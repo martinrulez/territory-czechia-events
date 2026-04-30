@@ -1,0 +1,71 @@
+{
+  "company_key": "rolleri_s_p_a",
+  "company_name": "ROLLERI S.P.A",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Dario Gottardo",
+        "firstName": "Dario",
+        "lastName": "Gottardo",
+        "jobTitle": "Area General Manager",
+        "email": "d.gottardo@rolleri.it",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Daniele Marzaroli",
+        "firstName": "Daniele",
+        "lastName": "Marzaroli",
+        "jobTitle": "Sales Director",
+        "email": "d.marzaroli@rolleri.it",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Irina Berdiy",
+        "firstName": "Irina",
+        "lastName": "Berdiy",
+        "jobTitle": "Director",
+        "email": "i.berdiy@rolleri.com.ua",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Giovanni Frasson",
+        "firstName": "Giovanni",
+        "lastName": "Frasson",
+        "jobTitle": "Sales Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Giacomo Palumbo",
+        "firstName": "Giacomo",
+        "lastName": "Palumbo",
+        "jobTitle": "Area Sales Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:40:45"
+}

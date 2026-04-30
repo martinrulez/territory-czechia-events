@@ -1,0 +1,197 @@
+{
+  "company_key": "ekola group, spol. s r.o.",
+  "company_name": "EKOLA group, spol. s r.o.",
+  "domain": "www.elabrno.cz",
+  "domain_url": "https://www.elabrno.cz",
+  "events": "Czech Green Building Council Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "EKOLA group, spol. s r.o.",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Fusion + EAGLE",
+    "total_seats": "1",
+    "current_acv_eur": "1000.0",
+    "potential_acv_eur": "6550.0",
+    "nearest_renewal": "2026-07-15",
+    "days_to_renewal": "83",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle 1 standalone D&M tools into one collection",
+    "all_upsells": "PDMC; Forma; Flex",
+    "maturity_label": "Foundation",
+    "industry_segment": "Buildings",
+    "ml_domain": "www.elabrno.cz",
+    "zi_done": true,
+    "zi_error": "No company found"
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.elabrno.cz",
+    "homepage": {
+      "title": "ELA – měřidla pro vodárenství",
+      "description": "",
+      "text_excerpt": "ELA – měřidla pro vodárenství\nELA - specialisté pro měření hladiny a průtoku\npůsobíme v oblastech: vodní hospodářství, strojírenství, energetika, potravinářství, zemědělství\nMagneticko - indukční průtokoměry\nPrůtokoměry do světlosti DN 10 - DN 1000\nvíce info zde\nUltrazvukové průtokoměry\nUltrazvukové průtokoměry pro otevřené měrné profily\nvíce info zde\nUltrazvukové hladinoměry\nUltrazvukové hladinoměry pro bezkontaktní spojité snímání\nvíce info zde\nMagneticko indukční průtokoměry\nUltrazvukové průtokoměry\nUltrazvukové hladinoměry\nElektrodové systémy\nParshallovy žlaby\nSoftware\nPříklady aplikací v praxi\nReference zákazníků, úspěšně vyřešené požadavky na měření ve všech průmyslových odvětvích\nNechte si zaslat aktuální ceník, například pomocí formuláře v sekci\nkontakty\n. Rádi vám poskytneme odborné poradenství a návrh technického řešení.\nKe každému projektu přistupujeme individuálně a na základě potřeb zákazníka navrhneme ideální řešení počínaje projektovou přípravou až po konečnou instalaci měřidel."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "EKOLA group, spol. s r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 20,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Smartlook",
+        "vendor": "Smartlook",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Smartsupp",
+        "vendor": "Smartsupp.com, s.r.o.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "EKOLA group, spol. s r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:06"
+}

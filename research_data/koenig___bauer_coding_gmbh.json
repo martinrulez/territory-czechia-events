@@ -1,0 +1,361 @@
+{
+  "company_key": "koenig & bauer coding gmbh",
+  "company_name": "Koenig & Bauer Coding GmbH",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Koenig & Bauer Coding GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "Koenig & Bauer Coding GmbH",
+    "autodesk_products": [
+      "Autodesk AutoCAD"
+    ],
+    "competitor_products": [
+      "Siemens",
+      "Siemens NX",
+      "Siemens PLM",
+      "Siemens Rulestream",
+      "Siemens Teamcenter PLM Software"
+    ],
+    "cad_bim_other": [
+      "Autodesk",
+      "Cache Control",
+      "InVision"
+    ],
+    "total_technologies": 159,
+    "all_technologies": [
+      {
+        "product": "Spring Boot",
+        "vendor": "Pivotal Software, Inc.",
+        "category": "Other DevOps Software",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "JUnit",
+        "vendor": "The JUnit Team",
+        "category": "Testing and QA",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Gradle",
+        "vendor": "Gradle Inc.",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Apache Maven",
+        "vendor": "The Apache Software Foundation",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "C++",
+        "vendor": "Standard C++ Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "OAuth",
+        "vendor": "OAuth",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Siemens Rulestream",
+        "vendor": "Siemens AG",
+        "category": "Other E-Commerce Software",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Sunday",
+        "vendor": "Sunday",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SAP Business Technology Platform",
+        "vendor": "SAP SE",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "glassdoor",
+        "vendor": "Glassdoor, Inc",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Yocto",
+        "vendor": "Yocto Project",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "TypeScript",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Siemens",
+        "vendor": "Siemens AG",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP Human Resources (HR)",
+        "vendor": "SAP SE",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Oracle Database (RDBMS)",
+        "vendor": "Oracle Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "ModelSim",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Windows Server 2003",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Windows OS",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "JavaScript",
+        "vendor": "Netscape",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "F5",
+        "vendor": "F5 Networks, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Dublin Core",
+        "vendor": "DCMI",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Citrix Secure Gateway",
+        "vendor": "Citrix Systems, Inc.",
+        "category": "Web Application Firewalls",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Cache Control",
+        "vendor": "Cache Control",
+        "category": "Web Design and Development Services",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Autodesk",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Apache Servers",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Adobe Creative Suite",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Flippingbook",
+        "vendor": "FlippingBook Limited",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Windows 7",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Linux",
+        "vendor": "Linux Kernel Organization",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Siemens PLM",
+        "vendor": "Siemens AG",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Koenig & Bauer Coding GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:53"
+}

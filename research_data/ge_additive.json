@@ -1,0 +1,513 @@
+{
+  "company_key": "ge additive",
+  "company_name": "GE Additive",
+  "domain": "www.ge.com/additive",
+  "domain_url": "https://www.ge.com/additive",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "GE Additive",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 29,
+    "revenue": 14906,
+    "zi_company_name": "GE Additive",
+    "zi_domain": "www.ge.com/additive",
+    "zi_city": "Boston",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ge.com/additive",
+    "homepage": {
+      "title": "Colibrium Additive a GE Aerospace Company",
+      "description": "Colibrium Additive, a GE Aerospace company, leads the additive manufacturing industry with innovative technology in metal 3D printers, additive powders, and services.",
+      "text_excerpt": "Colibrium Additive a GE Aerospace Company\nSkip to main content\nYour browser does not support the video tag."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "GE Additive",
+    "autodesk_products": [
+      "3ds Max",
+      "AlienVault",
+      "Autodesk AutoCAD",
+      "Autodesk AutoCAD Civil 3D",
+      "Autodesk Fusion 360",
+      "Autodesk Inventor",
+      "Autodesk Maya",
+      "Autodesk Moldflow",
+      "Autodesk Navisworks",
+      "Autodesk Revit",
+      "Autodesk Vault",
+      "Commvault",
+      "Dell PowerVault",
+      "Fishbowl Inventory Management",
+      "HashiCorp Vault",
+      "SAP Inventory Management (IM)",
+      "SnapVault",
+      "Vault Payment Solutions",
+      "Veeva Vault CRM",
+      "Veritas Enterprise Vault (EV)"
+    ],
+    "competitor_products": [
+      "ARCHICAD",
+      "Bentley AECOsim",
+      "Bentley AutoPlant",
+      "Bentley GEOPAK Civil Engineering Suite",
+      "Bentley Navigator",
+      "Bentley OpenRoads Designer",
+      "Bentley ProjectWise",
+      "Bentley STAAD",
+      "CATIA",
+      "CATIA V5",
+      "Dassault Systemes",
+      "DraftSight",
+      "ENOVIA",
+      "Exalead",
+      "Mastercam",
+      "Mathcad",
+      "MicroStation",
+      "PC-DMIS CMM",
+      "PTC Arbortext",
+      "PTC Co-Create",
+      "PTC Creo",
+      "PTC Creo (Pro/ENGINEER)",
+      "PTC Creo Elements/Direct",
+      "PTC Creo Parametric",
+      "PTC FlexPLM",
+      "PTC Integrity",
+      "PTC IoT Solutions",
+      "PTC PDMLink",
+      "PTC Pro/ENGINEER Wildfire",
+      "PTC Servigistics Arbortext Editor",
+      "PTC Windchill (Formerly Netregulus)",
+      "PTC Windchill PLM",
+      "Preactor",
+      "Pro/Engineer",
+      "SIMATIC IT",
+      "Servigistics",
+      "Siemens",
+      "Siemens NX",
+      "Siemens OpenScape UC",
+      "Siemens PBX",
+      "Siemens PLM",
+      "Siemens SIMATIC Automation Designer",
+      "Siemens Teamcenter PLM Software",
+      "Simulia Abaqus Unified FEA",
+      "Solidworks",
+      "Tekla",
+      "ThingWorx",
+      "Trimble GeoManager"
+    ],
+    "cad_bim_other": [
+      "12d",
+      "ANSYS",
+      "ANSYS CFX",
+      "ANSYS Fluent",
+      "ANSYS HFSS",
+      "ANSYS Mechanical",
+      "ANSYS Mechanical Enterprise",
+      "AVEVA PDMS",
+      "Adobe Streamline",
+      "Altair HyperCrash",
+      "Altair HyperWorks",
+      "Altair OptiStruct",
+      "Altair RADIOSS",
+      "AnyLogic",
+      "Assemble",
+      "Autodesk",
+      "BR&E ProMax",
+      "Built",
+      "CAESAR II",
+      "COMSOL Multiphysics",
+      "CSI SAP2000",
+      "CYME",
+      "Cache Control",
+      "Cadsoft",
+      "Captura",
+      "Chief Architect",
+      "Delcam",
+      "Direct3D",
+      "ETAP",
+      "FlexSim",
+      "FreeMat",
+      "InVision",
+      "Intergraph GT STRUDL",
+      "MESH",
+      "Mathematica",
+      "Microsoft MapPoint",
+      "Onshape",
+      "Oracle Construction and Engineering",
+      "Oracle Contract Management",
+      "PATRAN",
+      "ProContractor",
+      "REST / RESTful",
+      "RISA-3D",
+      "Red Hat JBoss SOA Platform",
+      "Rhinoceros",
+      "Robot Structural Analysis",
+      "SAP CAMS",
+      "SAP eCATT",
+      "Sigma",
+      "Site Director",
+      "SolidCAM",
+      "SpaceClaim",
+      "Stratasys",
+      "Studio 5000",
+      "TurboCAD",
+      "Vortex"
+    ],
+    "total_technologies": 3330,
+    "all_technologies": [
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Keyence",
+        "vendor": "Keyence Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Faro",
+        "vendor": "Faro",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Route",
+        "vendor": "Route App Inc.",
+        "category": "Inventory and Order Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Mazak",
+        "vendor": "Mazak Corporation",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Boulevard",
+        "vendor": "Boulevard, Inc.",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Como",
+        "vendor": "Como",
+        "category": "Loyalty and Gamification",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft Fabric",
+        "vendor": "Microsoft Corporation",
+        "category": "Data Integration",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "React",
+        "vendor": "Meta Open Source",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Sodexo uk",
+        "vendor": "Sodexo",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Circuit",
+        "vendor": "Circuit Routing Limited",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Playwright",
+        "vendor": "Playwright",
+        "category": "Application Security Testing",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Microsoft Teams Rooms",
+        "vendor": "Microsoft Corporation",
+        "category": "Web Conferencing",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Branch",
+        "vendor": "Branch",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Vault Payment Solutions",
+        "vendor": "Vault Payment Solutions Group Pty Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Fis Global",
+        "vendor": "Fidelity National Information Services Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Singular",
+        "vendor": "Singular",
+        "category": "Marketing Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Olive",
+        "vendor": "Olive",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Pearson",
+        "vendor": "Pearson",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Asc",
+        "vendor": "Assessment Systems Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "For The Record",
+        "vendor": "For the Record Group",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Remote Patient Monitoring",
+        "vendor": "TechTarget",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Momentum",
+        "vendor": "Momentum Labs",
+        "category": "Other DevOps Software",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Abs (Allied Business Systems)",
+        "vendor": "Allied Business Systems LLC",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Hes",
+        "vendor": "HES FinTech",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Kardex",
+        "vendor": "Kardex",
+        "category": "Logistics",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Robot Operating System",
+        "vendor": "Open Source Robotics Foundation, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Privlege Access Management",
+        "vendor": "ARCON",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Digital Fleet",
+        "vendor": "ABS Wavesight",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft Purview",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Source Intelligence",
+        "vendor": "Source Intelligence",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Design Manager",
+        "vendor": "Design Manager",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Dover",
+        "vendor": "Dover",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Cority",
+        "vendor": "Cority Software Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Synergi",
+        "vendor": "DNV",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "co:here",
+        "vendor": "co:here",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "GitHub Actions",
+        "vendor": "GitHub, Inc.",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Cloudbees Jenkins",
+        "vendor": "Cloudbees, Inc",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Derwent",
+        "vendor": "Clarivate",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Craft",
+        "vendor": "Craft.io Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "GEM",
+        "vendor": "Gem Software, Inc",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Juro",
+        "vendor": "Juro",
+        "category": "Other Sales Software",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Electronics Manufacturing",
+        "vendor": "Creation Technologies",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Affinity",
+        "vendor": "Affinity",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "cais",
+        "vendor": "CAIS",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "LinkedIn Learning",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft Dynamics AX 2012",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Humi",
+        "vendor": "Humi Inc",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "GE Additive",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Hary",
+        "last_name": "Monter",
+        "title": "Deputy Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "GE Additive",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 18:16"
+}

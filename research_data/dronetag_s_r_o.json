@@ -1,0 +1,163 @@
+{
+  "company_key": "dronetag_s_r_o",
+  "company_name": "Dronetag s.r.o.",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026",
+  "technographics": {
+    "success": true,
+    "company": "Dronetag s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 18,
+    "all_technologies": [
+      {
+        "product": "Amazon",
+        "vendor": "Amazon.com, Inc.",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Gatsby",
+        "vendor": "Gatsbyjs",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cookie Consent",
+        "vendor": "Silktide Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Tweet Button",
+        "vendor": "Twitter, Inc.",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Amazon Route 53",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon Web Hosting",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Starfield Technologies",
+        "vendor": "Starfield Technologies",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "LUKÁŠ BRCHL",
+        "firstName": "LUKÁŠ",
+        "lastName": "BRCHL",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:08:24",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.dronetag.cz",
+    "homepage": {
+      "title": "Dronetag | Drone Detection & Remote ID Solutions",
+      "description": "End-to-end drone detection, identification & compliance solutions. Secure airspace with real-time tracking, Remote ID transmitters & fleet coordination.",
+      "text_excerpt": "Dronetag | Drone Detection & Remote ID Solutions\nShop\nOpen App\nOpen App\nMenu\nClose\nWe Are Making Drones\nDigitally Visible\nWe offer end-to-end drone detection & identification solutions. Our technology brings control, compliance, and situational awareness to any airspace.\nSee our solutions\nThe Sky Is Getting Crowded.\nWe’re Here to Make Sense of It.\nWith 10+ millions active drones worldwide and exponential market growth, the skies are becoming increasingly complex. Whether you are detecting unauthorized drones, coordinating your fleet, or ensuring compliance with global standards, our transmitters and receivers, integrated into a user-friendly digital platform, help you take back control - instantly and reliably.\nThe Dronetag\nEcosystem\nOur hardware and software brings safety, compliance, and control to the drone world. Our solutions scale with you, from individual pilots to large-scale industrial and defense operations.\nDrone & Pilot Detection\nCreating a protective digital layer around any sensitive area. Our stationary and wearable receivers provide real-time drone detection, enabling you to secure critical infrastructure and maintain complete situational awareness.\nSee Receivers\nRemote ID Compliance\nMake any drone compliant with global regulations. We offer the world's top-selling identification modules for pilots and the smallest, most efficient OEM solutions for drone manufacturers.\nSee Transmitters\nVisualisation Platform\nTake command with the Dronetag App, the central hub of our ecosystem. Manage devices, inspect airspace, and analyze flight data from a single, intuitive interface on mobile and web.\nSee Platform\nBuilt for Every Layer\nof the Drone Ecosystem\nWe tailor our solutions to your specific needs, making digitally advanced skies an overnight possibility.\nLaw Enforcement\nDetect, identify, and respond to uncooperative flights\nFirst Responders\nOperate safely and maintain aerial awareness during missions\nCritical Infrastructure\nSecure your skies and protect high-value assets\nDefense Sector\nIntegrate tactical drone tracking into complex environments\nEvent Coordination & Security\nMaintain the airspace clear and monitored during public gatherings\nUAV Manufacturers\nEnsure your drones meet all Remote ID requirements\nSoftware Integrators\nConnect Dronetag with your existing UTM or C-UAS software\nProfessional Pilots & Drone Builders\nStay compliant and understand what’s flying near you\nNeed a Tailored Solution?\nWhatever your mission, we’ll help you build the right mix of detection, tracking, and complience tools.\nRequest a custom offer\nField-Proven. Market-Leading.\nWhy Industry Leaders\nChoose Dronetag\nAbout us\nWe Set\nthe Global Standards\nDronetag founders co-authored the technical white paper for the Remote ID protocol. We work directly with authorities in the EU, the US, and Asia to shape the future of drone regulation.\nSeamless\nIntegration\nOur hardware and software are designed to work in perfect harmony. With over 15 UTM integration partners and a"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.dronetag.cz/products",
+      "text": "Compare\nShop\nOpen App\nOpen App\nMenu\nClose\nCompare Devices\nFind the Best Fit\nAvailable in multiple versions, our devices cover everything from hobbyist setups to professional operations. Use the comparison below to quickly see what each option is built for and choose the best fit for your drone, your airspace, and the way you operate.\nCompare\nDronetag Devices\nTransmitters\nReceivers\nBeacon\nDronetag\nBeacon\n€139 / $149\nLearn more\nBeacon\nDronetag\nBeacon\n€139 / $149\nLearn more\nRemote ID Types\nSupported Regions\nMounting\nSuitable for\nCan be used for multiple drones\nWeight\nBattery life\nDimensions\nEnclosure type\nIntegration requirements\nMounting\nMini\nSlap-on module combining Network & Direct / Broadcast Remote ID.\n€299 / $329\nLearn more\nTop Pick\nBeacon\nDirect / Broadcast Remote ID slap-on module for professional pilots.\n€139 / $149\nLearn more\nDirect / Remote Remote ID made for aeromodelers & FPV pilots.\n€89 / $89\nLearn more\nDRI\nLightest Direct / Remote ID designed for drone manufacturers.\n€49 / $59\nLearn more\nRemote ID Types\nSupported Regions\nMounting\nSuitable for\nCan be used for multiple drones\nWeight\nBattery life\nDimensions\nEnclosure type\nIntegration requirements\nMounting\nNetwork RID\nDirect / Broadcast RID\nDirect / Broadcast RID\nDirect / Broadcast RID\nDirect / Broadcast RID\nFAA Approved\nEASA Compliant\nCAA Compliant\nCAAS Compliant\nFAA Approved\nEASA Compliant\nMLIT Compliant\nCAA Compliant\nCAAS Compliant\nFAA Approved\nEASA Compliant\nMLIT Compliant\nCAA Compliant\nCAAS Compliant\nFAA Approved\nEASA Compliant\nMLIT Compliant\nExternal\nExternal\nExternal / Intergated\n(both possible)\nIntegrated\nAll drones\nAll drones\nFPV models, small planes\nMAVlink flight controllers\n(further customizable)\nYes, with limitation\n32 g\n1.1 oz\n16 g\n0.6 oz\n1 g\n0.04 oz\n1.5 g\n0.05 oz\n8 - 14 hours\n(depends on configuration)\n6 - 8 hours\n(depends on configuration)\nLi-Po battery (optional)\nup to 4 hours\nDrone-powered\n15 mm\n2.1\n1.4\n0.6 in\n16 mm\n1.5\n0.6 in\n5 mm\n0.7\n0.6\n0.2 in\n22,5\n5 mm\n0.9\n0.6\n0.2 in\n3D printed\n3D printed\n3D Printed\nor shrink tube options\nExternal battery, external antenna, enclosure\nRequires direct flight controller integration\nVelcro / double-sided tape\nVelcro / double-sided tape\nVelcro / double-sided tape\nBeacon\nDronetag\nBeacon\n€139 / $149\nLearn more\nBeacon\nDronetag\nBeacon\n€139 / $149\nLearn more\nRemote ID Detecion\nSupported Regions\nOur receivers detect Remote ID-compliant drones so they're effective wherever Remote ID legislation is in effect.\nMounting\nSuitable for\nCan be used for multiple drones\nDetection range\nDetection range depends on various conditions, such as RF noise, terrain, or weather.\nSupported frequencies\nWeight\nBattery life\n3rd party integrations\nDimensions\nEnclosure type\nRIDER\nA pocket-sized, battery-powered Remote ID receiver for situational awareness in the field.\n€1,099 / $1,199\nLearn more\nScout\nA stationary, PoE-powered Remote ID receiver with superb range and multiple operating modes.\nFrom €2,499 / $2,799\nLearn more\nRemote ID Detecion\nSupported Regions\nOur rece"
+    },
+    "contact_page": {
+      "url": "https://www.dronetag.cz/contact",
+      "text": "Contact Us\nShop\nOpen App\nOpen App\nMenu\nClose\nContact Us\nWe're Ready to Help You\nCommand The Airspace\nWhether you're looking to secure critical assets, integrate our drone detection tools, or explore a partnership, we are waiting for your message.\nHow Can We\nAssist?\nSales Inquiry\nPartnership\nCareer\nPress\nSupport\nOther\nContact Information\nWhich industry best describes you?  *\nSelect an industry\nSystem Integrator\nCritical Infrastructure\nDefense or Government\nLaw Enforcement or First Responder\nUAV Manufacturer\nDrone Pilot or Operator\nOther\nCompany / Organization *\nFirst Name *\nLast Name *\nEmail *\nPhone *\nMessage\nSubject *\nMessage *\nI agree that my personal data may be processed according to the\nPrivacy Policy\n* required field\nYour submission has been received. We'll stay in touch.\nOops! Something went wrong while submitting the form.\nContact Information\nWhich industry best describes you?  *\nSelect an industry\nSystem Integrator\nCritical Infrastructure\nDefense or Government\nLaw Enforcement or First Responder\nUAV Manufacturer\nDrone Pilot or Operator\nOther\nCompany / Organization *\nFirst Name *\nLast Name *\nEmail *\nPhone *\nMessage\nSubject *\nMessage *\nI agree that my personal data may be processed according to the\nPrivacy Policy\n* required field\nYour submission has been received. We'll stay in touch.\nOops! Something went wrong while submitting the form.\nContact Information\nFirst Name *\nLast Name *\nEmail *\nPhone *\nMessage\nSubject *\nMessage *\nI agree that my personal data may be processed according to the\nPrivacy Policy\n* required field\nYour submission has been received. We'll stay in touch.\nOops! Something went wrong while submitting the form.\nContact Information\nCompany / Organization *\nFirst Name *\nLast Name *\nEmail *\nPhone *\nMessage\nSubject *\nMessage *\nI agree that my personal data may be processed according to the\nPrivacy Policy\n* required field\nYour submission has been received. We'll stay in touch.\nOops! Something went wrong while submitting the form.\nContact Information\n"
+    }
+  }
+}

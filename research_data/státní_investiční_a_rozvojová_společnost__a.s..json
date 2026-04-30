@@ -1,0 +1,72 @@
+{
+  "company_key": "státní investiční a rozvojová společnost, a.s.",
+  "company_name": "Státní investiční a rozvojová společnost, a.s.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Státní investiční a rozvojová společnost, a.s.",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.7,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.7,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "21333858",
+    "official_name": "Státní investiční a rozvojová společnost, a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "68200",
+      "81230",
+      "46190",
+      "41000",
+      "711",
+      "71120",
+      "731",
+      "6820",
+      "731",
+      "7112",
+      "46190",
+      "711",
+      "81290",
+      "4120"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Na Poříčí 1046/24, Nové Město, 11000 Praha 1, Praha, Na Poříčí, 11000",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Státní investiční a rozvojová společnost, a.s.",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:15"
+}

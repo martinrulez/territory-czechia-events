@@ -1,0 +1,71 @@
+{
+  "company_key": "eco engineering 2050 gmbh",
+  "company_name": "Eco Engineering 2050 GmbH",
+  "domain": "www.ccengineering.cz",
+  "domain_url": "https://www.ccengineering.cz",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Eco Engineering 2050 GmbH",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "PDMC",
+    "total_seats": "2",
+    "current_acv_eur": "8400.0",
+    "potential_acv_eur": "17350.0",
+    "nearest_renewal": "2029-03-10",
+    "days_to_renewal": "1052",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Advanced CAM and manufacturing capabilities",
+    "all_upsells": "Fusion Mfg Ext; Moldflow; Flex",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Other Manufacturing",
+    "ml_domain": "www.ccengineering.cz",
+    "zi_done": true,
+    "zi_error": "No company found"
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ccengineering.cz",
+    "homepage": {
+      "title": "C&C Engineering s.r.o. – Váš partner ve světě potrubí",
+      "description": "",
+      "text_excerpt": "C&C Engineering s.r.o. – Váš partner ve světě potrubí\nPřejít k obsahu\nC&C engineering s.r.o.\nVáš partner\nve světě potrubí\nO NÁS\nKONTAKT\nZabýváme se\nProjekční činnost\nZabýváme se projektováním v průmyslu a strojírenství. Specializujeme se na projektování potrubních systémů, tlakových nádob, výměníků a speciálních armatur\nVice\nMontážní činnost/realizace\nProvádíme montážní činností především potrubních a tlakových celků v rámci ČR&SR. Dbáme na vysokou kvalitu odvedené práce v oblasti kompletní dodávky montáže od začátku až do konce. Jsme schopni také zajistit NDT + tlakovou zkoušku se záznamem do 400 bar.\nVice\nVýroba tlakových nádob\nVýrobní činnost a výrobní technologie naší společnosti jdou stále vpřed, čímž se v posledních letech stáváme významným dodavatelem v oblasti dodávek hydrauliky, energetiky a petrochemie do celého světa.\nVice\nVýroba výměníků\nSpoje trubky/trubkovnice provádíme ručním svařováním, orbitálním svařováním, případě zaválcováním.\nVice\nVýroba potrubí\nVyrábíme potrubní sestavy jak na zakázku, tak i v sériové výrobě s nejvyšší přesností a vysokým standardem kvality i pro ty nejnáročnější zákazníky.\nVice\nSvařování legovaných materiálů\nAktivně se zabýváme svařováním technologicky náročných materiálů, jako např.: X10CrMoVNb9-1 (P91), 14MoV6-3, X20CrMoV11-1, 10CrMo9-10, 13CrMo4-5 a jejich heterogenními spoji.\nVice\nCertifikace\nSpolečnost C & C engineering, s.r.o. byla v roce 2018 certifikována dle:\nČSN EN ISO 9001\nČSN EN ISO 3834-2\nEN 1090-1\nČSN EN 1090-2\nO NÁS\nJsme rodinná společnost založená v roce 2017, která se zabývá především zakázkovou, malosériovou výrobou a montážemi potrubních a tlakových celků.\nV roce 2020 jsme rozšířili naši činnost o dodávky hutního materiálu zejména do oblastí: energetiky, petrochemie, papírenství a stavebního průmyslu.\nNaše hlavní komodity: trubky a jejich příslušenství, plechy, profily, výkovky a armatury.\nzabýváme se výrobou a montáží\npotrubí\ntlakové celky\nsvařence\nocelové konstrukce\nSvařované materiály\nNelegovaná ocel (uhlíková)\nLegovaná ocel\nNerezová ocel\nHistorie společnosti\n2017\nZaložení společnosti\nSpolečnost C&C engineering s.r.o. se od tohoto roku zabývala kooperační výrobou dílčích technologických celků a tlakových dílců v lokalitě Petřvald u Karviné, Ostrava\n2018\nZahájení montážní činnosti\nMontážní činnost zejména v oblasti energetiky a hydrauliky\nCertifikace společnosti\nCertifikace EN ISO 9001, EN ISO 1090-1, EN ISO 3834-2\nZahájení dodávek tlakových celků do zemí západní Evropy\n2019\nRozšíření společnosti\nRozšíření do větších výrobních prostor v lokalitě Ostrava-Přívoz, kde působíme dodnes\nNavýšení kapacit pracovníků v oblasti výroby a realizace na montáži\nRozšíření dodávek do průmyslu: Energetika, petrochemie, potravinářství, hydraulika a automotive\n2020\nZahájení činnosti nákup / prodej hutního materiálu a armatur\nRozšíření oddělení nákupu a logistiky\nZahájení projekční činnosti / vznik projekčního oddělení\nZahájení dodávek tlakových celků do arabských zemí a USA\nRozšíření portfólia výroby a mo"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Eco Engineering 2050 GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 14:43"
+}

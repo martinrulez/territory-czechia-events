@@ -1,0 +1,31 @@
+{
+  "company_key": "inova_n_centrum_steck_ho_kraje_icuk",
+  "company_name": "Inovační centrum Ústeckého kraje, ICUK",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MARTIN MATA",
+        "firstName": "MARTIN",
+        "lastName": "MATA",
+        "jobTitle": "Ředitel",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:54"
+}

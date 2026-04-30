@@ -1,0 +1,378 @@
+{
+  "company_key": "edhouse_s_r_o",
+  "company_name": "Edhouse s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "Edhouse s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 62,
+    "all_technologies": [
+      {
+        "product": "Oracle",
+        "vendor": "Oracle Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Atlassian",
+        "vendor": "Atlassian",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Application Security",
+        "vendor": "Trustwave Holdings, Inc",
+        "category": "Database Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Java",
+        "vendor": "Oracle Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Azure",
+        "vendor": "Microsoft Corporation",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Playwright",
+        "vendor": "Playwright",
+        "category": "Application Security Testing",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "OpenGL",
+        "vendor": "OpenGL",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Linux",
+        "vendor": "Linux Kernel Organization",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Word",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "NoSQL",
+        "vendor": "",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "RawGit",
+        "vendor": "RawGit",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Swift",
+        "vendor": "Apple Inc.",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Rust",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "C",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "C++",
+        "vendor": "Standard C++ Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "C#",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Discord",
+        "vendor": "Discord Inc.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Microsoft Active Directory",
+        "vendor": "Microsoft Corporation",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apple (common)",
+        "vendor": "Apple Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Power BI",
+        "vendor": "Microsoft Corporation",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "PostgreSQL",
+        "vendor": "The PostgreSQL Global Development Group",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Google Forms",
+        "vendor": "Google LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bitly",
+        "vendor": "Bitly, Inc.",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Embedly",
+        "vendor": "Embedly",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PAVEL STRŽÍNEK",
+        "firstName": "PAVEL",
+        "lastName": "STRŽÍNEK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "RADOSLAV SLOVÁK",
+        "firstName": "RADOSLAV",
+        "lastName": "SLOVÁK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JIŘÍ BAROŠ",
+        "firstName": "JIŘÍ",
+        "lastName": "BAROŠ",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:08:44",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.edhouse.cz",
+    "homepage": {
+      "title": "Home of software - vývoj software a hardware na zakázku | Edhouse",
+      "description": "Jsme špičkoví vývojáři softwaru a hardwaru pro celý svět. Specializujeme se na komplexní řešení šitých na míru vašim potřebám. Edhouse podporuje váš růst.",
+      "text_excerpt": "Home of software - vývoj software a hardware na zakázku | Edhouse\nPřejít na obsah\nPřejít k hlavnímu menu\nPřejít k vyhledávání\nedhouse-CookieGdpr-Policy-s\n6533043\n/cz/gdpr/\n754650B6B\n20 years of software\nJsme softwarová společnost, která od roku 2006 poskytuje vývojové služby pro software i hardware.\nO nás\nVývoj software a hardware\nMáte velké plány, které se neobejdou bez software a hledáte pomocnou sílu? V Edhouse najdete spolehlivé partnery, kteří pomohou ve všech fázích vývoje.\nVíce\nKonzultace a vývoj produktů\nUvědomujeme si, že software je jen jedním z mnoha stavebních kamenů vaší vize. Naší prioritou je pochopit hodnotu vašeho produktu a pomoci ji pozvednout na novou úroveň.\nVíce\nChytrá řešení pro vaše podnikání\nNabízíme inovativní a efektivní IT řešení, která vám pomohou růst. S týmem více než 100 vývojářů a zkušenostmi na českém i zahraničním trhu přinášíme firmám vývoj SW i HW na zakázku.\ndeveloperů & specialistů\npobočky v České republice\nlet na trhu\nPřípadové studie\nPosílení zabezpečení skrze Secure SW Development Lifecycle\nPro Thermo Fisher Scientific jsme nastavili bezpečnostně orientované prostředí pro vývoj webových aplikací v souladu s korporátními standardy. Projekt posílil kontrolu bezpečnosti napříč celým vývojovým procesem.\nZobrazit studii\nPřípadové studie\nReCON APS: Rychlejší plánování výroby\nPro zákazníka Tajmac-ZPS jsme v Edhouse vyvinuli modul APS, který rozšiřuje jejich výrobní software ReCON o efektivní plánování výroby.\nZobrazit studii\nPřípadové studie\nAnalýza zabezpečení webové aplikace v Microsoft Azure\nZákazník, firma 8BC, nás požádal o posouzení, jak je jeho nová webová aplikace v Azure odolná vůči kybernetickým hrozbám. Díky naší analýze získal přehled o aktuálním stavu zabezpečení a konkrétní doporučení, jak posílit cyber security a snížit riziko výpadků.\nZobrazit studii\nPřípadové studie\nVývoj klient server aplikace pro přípravu vzorků\nKdyž nás zákazník oslovil s požadavkem na vytvoření softwaru pro prototyp zařízení na naprašování, čelili jsme výzvě zajistit efektivní komunikaci mezi různými hardwarovými komponentami a zároveň zajistit snadné ovládání.\nZobrazit studii\nPřípadové studie\nAplikace pro správu dat z výroby\nVýznamným zákazníkem Edhouse je i společnost Onsemi, která vyrábí polovodičové součástky od nejmenších diod až po velmi složité čipy.\nZobrazit studii\nPřípadové studie\nIntuitivní konfigurační nástroj InteliConfig\nSoftwarový nástroj pro konfiguraci kontrolérů generátorů elektřiny.\nZobrazit studii\nPřípadové studie\nFirmware pro řízení výroby vodíku pomocí elektrolýzy pro klienta LeanCat\nVysoce kvalitní firmware vyvinutý pomocí nejmodernějších technologií.\nZobrazit studii\nPřípadové studie\nCloudové řešení pro rekuperační jednotku\nMigrace cloudového řešení pro chytrou domácnost.\nZobrazit studii\nPřípadové studie\n3D Crystal Viewer\nV Edhouse dáváme prostor šikovným stážistům, kterým předáváme naše zkušenosti.\nZobrazit studii\nPřípadové studie\nZarovnání elektronového paprsku v mikroskopu\nElektronové mikroskopy použ"
+    },
+    "about": {
+      "url": "https://www.edhouse.cz/o-nas",
+      "text": "O nás - příběh o budování úspěšné IT společnosti | Edhouse\nPřejít na obsah\nPřejít k hlavnímu menu\nPřejít k vyhledávání\nedhouse-CookieGdpr-Policy-s\n5423043\n/cz/gdpr/\n643650B6B\nO nás\nJsme technologická společnost Edhouse. Vyvíjíme špičková softwarová a hardwarová řešení. Na míru. Individuálně. Tak aby výsledek přesně naplňoval vaše potřeby.\nNaše služby\nHome of software.\nEdhouse je bezpečné místo. Je tu dobře technologiím i lidem, kteří je tvoří.\nMise a vize Edhouse _\nMise\nSvou prací posouváme hranice lidského poznání.\nMáme rádi výzvy a baví nás společně tvořit chytrá řešení – nejlépe taková, která ještě nikdo jiný nevymyslel.\nRádi vkládáme svou energii a léty načerpané vědomosti do\nprojektů se silnou vizí.\nŽádná oblast nám není cizí, ale jako\nzkušení specialisté se cítíme na poli vědy a technologií.\nJsme tu pro vás\n– ať už potřebujete oživit hardware nebo uvítáte pomoc s technologicky náročným projektem.\nPřípadové studie\nVize Edhouse 2030\nPokračujeme v\nbudování úspěšné společnosti založené na hodnotách\nudržitelnosti, výjimečnosti, otevřenosti a férovosti vůči našim zákazníkům i zaměstnancům. Naším cílem je\nudržovat a neustále zlepšovat kvalitu našich služeb\n, abychom společně vytvářeli úspěšnější budoucnost a poskytovali našim zákazníkům stále vyšší přidanou hodnotu.\nNaše cíle pro nadcházející roky\nBýt silným partnerem\nv oblasti vývoje softwaru, integrovaných a kompletních řešení, produktů a služeb.\nPatřit do TOP 10\ntechnologických firem v České republice.\nZvýšit povědomí o naší práci a společnosti\nnejen v rámci odvětví, ale také mezi širší odbornou veřejností.\nEdhouse v číslech _\ndeveloperů & specialistů\npobočky v České republice\nlet na trhu\nLidé _\nManagement\nMgr. Pavel Stržínek\nZakladatel a spoluvlastník\nMgr. Radoslav Slovák\nZakladatel a spoluvlastník\nIng. Jiří Baroš\nCEO\nMgr. Klára Vrajíková\nHR manažerka\nMgr. Juraj Benkovič\nObchodní manažer\nčasová osa _\nNáš příběh\n2006\nPavel Stržínek a Radoslav Slovák zakládají Edhouse\nProgramujeme\nv malé kanceláři uprostřed Zlína\nspolečně s Přemyslem – naším prvním zaměstnancem, který dodnes pracuje v Edhouse.\nCestujeme za zákazníky a účastníme se veletrhů.\n2007\nPrvní projekty pro společnost FEI (dnes Thermo Fisher Scientific)\nKlíčovou spolupráci, jež dodnes velkou měrou charakterizuje Edhouse, se podařilo navázat díky Radoslavovi. Úspěšně tehdy zúročil předchozí\nzkušenosti z brněnské společnosti Philips Electron Optics, která vyvíjela software pro elektronové mikroskopy\nStěhujeme se do 23. budovy bývalého areálu Svit a rozšiřujeme náš tým.\n2008\nZavádíme normu ISO 9001\nPro zvyšovaní kvality našich služeb a vyšší spokojenosti zákazníka zavádíme mezinárodní normu ISO 9001. Tento krok nám umožňuje řídit procesy efektivněji, minimalizovat chyby a snižovat náklady. Díky certifikaci se nám otevírají nové obchodní příležitosti na mezinárodních trzích a posilujeme naši důvěryhodnost jako spolehlivého partnera.\n2009\nVytváříme vlastní projekt IPFaces\nCelosvětová hospodářská krize zasáhla i nás. S odřeknutým projektem poprvé stojíme před rozhodnutím, zda propouštět. Tým se nám nakonec podaří udržet díky vlastnímu projektu:\niPFaces\n– framework, který uměl tvořit mobilní aplikace bez znalosti mobilního vývoje.\n2010\nCestujeme do Hannoveru\nPřestože jsme v roce 2009 přišli s vlastním projektem iPFaces, nepodařilo se tento produkt prodat. Časem jsme jej zveřejnili jako open source program. Rozhodli jsme se jít cestou čistého vývoje a hledat nové příležitosti. Naše úsilí se vyplatilo, jak je patrné v následujících letech.\n2011\nSlavíme 5 let\nSlavíme 5 let od založení Edhouse.\nPořádáme první workshop na Univerzitě T. Bati\na chystáme se přestěhovat do prostor Fakulty informatiky.\n2012\nProhlubujeme spolupráci s FEI a získáváme první zakázky od společnosti NCR\nNáš tým čítá už 30 vývojářů. Začínáme vyvíjet\npokladní systémy pro čerpací stanice společnosti NCR\n, která funguje po celém světě.\n2013\nZačínáme spolupracovat s firmou ComAp\nComAp je česká společnost, zabývající se výrobou kontrolérů pro záložní zdroje energi"
+    },
+    "products": {
+      "url": "https://www.edhouse.cz/sluzby",
+      "text": "Služby - vývoj software a hardware řešení | Edhouse\nPřejít na obsah\nPřejít k hlavnímu menu\nPřejít k vyhledávání\nedhouse-CookieGdpr-Policy-s\n3203043\n/cz/gdpr/\n320650B6B\nSlužby\nTěm, kteří znají svůj plán vývoje SW a HW, poskytujeme kapacity, procesy a technologické zkušenosti. Zákazníci, kteří své produkty vytvořili bez vlastního SW a HW oddělení, mohou získat komplexní analytické, vývojové a integrační služby pro zvýšení konkurenceschopnosti svých produktů.\nVývoj software a hardware\nMáte velké plány, které se neobejdou bez software a hledáte pomocnou sílu? V Edhouse najdete spolehlivé partnery, kteří pomohou ve všech fázích vývoje.\nVíce\nKonzultace a vývoj produktů\nUvědomujeme si, že software je jen jedním z mnoha stavebních kamenů vaší vize. Naší prioritou je pochopit hodnotu vašeho produktu a pomoci ji pozvednout na novou úroveň.\nVíce\nMáte projekt?\nJsme tu,\nabychom pomohli.\nKontaktujte nás\nEdhouse newsletter\nZískejte aktuální info ze světa Edhouse - novinky, setkávání, aktuální trendy softwarové i hardwarové.\nWhole name\nPřihlásit\nRegistrací vyjadřujete souhlas se\nzpracováním osobních údajů.\nPřihlášení k newsletteru se nezdařilo\nDěkujeme za váš zájem o odběr našeho newsletteru! Pro dokončení registrace je potřeba potvrdit vaše přihlášení. Na zadaný e-mail jsme vám právě zaslali potvrzovací odkaz. Klikněte prosím na tento odkaz, aby bylo vaše přihlášení dokončeno. Pokud e-mail nenajdete, zkontrolujte prosím složku nevyžádané pošty (spam) nebo složku hromadné pošty."
+    },
+    "contact_page": {
+      "url": "https://www.edhouse.cz/kontakt",
+      "text": "Kontakty - buďte s námi ve spojení | Edhouse\nPřejít na obsah\nPřejít k hlavnímu menu\nPřejít k vyhledávání\nedhouse-CookieGdpr-Policy-s\n6533043\n/cz/gdpr/\n653650B6B\nKontakt\ninfo@edhouse.cz\n+420 573 775 900\nEdhouse s.r.o.\nVavrečkova 7074\n760 01 Zlín\nCzech Republic\nIČ: 276 90 083\nDIČ: CZ27690083\nzapsána v OR vedeném KS v Brně, Oddíl C, vložka 52306\nNew business\nsales@edhouse.cz\nkariera@edhouse.cz\nOffices\nManagement\nKanceláře\nZlín\nBudova 13 Zlín\nVavrečkova 7074\n760 01 Zlín\nCzech Republic\nMapa\nVsetín\nPodnikatelský dům Maštaliska\nHorní náměstí 3\n755 01 Vsetín\nCzech Republic\nMapa\nOlomouc\nMasarykova tř. 936/50\n779 00 Olomouc\nCzech Republic\nMapa\nUherské Hradiště\nVědeckotechnický park Triangl\nStojanova 1336\n686 01 Uherské Hradiště\nCzech Republic\nMapa\n49.224592031631154, 17.65921115591502\nhttps://maps.app.goo.gl/qYZskLQVLawr5uuo6\n49.341132132104015, 17.998048913590544\nhttps://maps.app.goo.gl/uXMxoC5H4yxtmwX1A\n49.593453979857486, 17.274308169420127\nhttps://maps.app.goo.gl/MuPgHVRxXXEh4PzR7\n49.06602771870515, 17.459454727073744\nhttps://maps.app.goo.gl/TRAXux2CTsjcCAGz9\nManagement\nMgr. Pavel Stržínek\nZakladatel a spoluvlastník\nMgr. Radoslav Slovák\nZakladatel a spoluvlastník\nIng. Jiří Baroš\nCEO\nMgr. Klára Vrajíková\nHR manažerka\nMgr. Juraj Benkovič\nObchodní manažer\nEdhouse newsletter\nZískejte aktuální info ze světa Edhouse - novinky, setkávání, aktuální trendy softwarové i hardwarové.\nWhole name\nPřihlásit\nRegistrací vyjadřujete souhlas se\nzpracováním osobních údajů.\nPřihlášení k newsletteru se nezdařilo\nDěkujeme za váš zájem o odběr našeho newsletteru! Pro dokončení registrace je potřeba potvrdit vaše přihlášení. Na zadaný e-mail jsme vám právě zaslali potvrzovací odkaz. Klikněte prosím na tento odkaz, aby bylo vaše přihlášení dokončeno. Pokud e-mail nenajdete, zkontrolujte prosím složku nevyžádané pošty (spam) nebo složku hromadné pošty."
+    }
+  }
+}

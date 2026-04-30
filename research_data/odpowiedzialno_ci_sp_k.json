@@ -1,0 +1,51 @@
+{
+  "company_key": "odpowiedzialno_ci_sp_k",
+  "company_name": "odpowiedzialnością sp.k.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Mateusz Berezowski",
+        "firstName": "Mateusz",
+        "lastName": "Berezowski",
+        "jobTitle": "Chief Technology Officer",
+        "email": "mateusz.berezowski@object3.pl",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jack Swildens",
+        "firstName": "Jack",
+        "lastName": "Swildens",
+        "jobTitle": "Managing Director",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Sebastian Pituch",
+        "firstName": "Sebastian",
+        "lastName": "Pituch",
+        "jobTitle": "Business Development Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:13"
+}

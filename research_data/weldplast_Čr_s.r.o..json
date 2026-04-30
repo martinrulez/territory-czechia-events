@@ -1,0 +1,195 @@
+{
+  "company_key": "weldplast Čr s.r.o.",
+  "company_name": "WELDPLAST ČR s.r.o.",
+  "domain": "www.metalplastcz.cz",
+  "domain_url": "https://www.metalplastcz.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "WELDPLAST ČR s.r.o.",
+    "opportunity_score": 34,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.72,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.72,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "28910630",
+    "official_name": "WELDPLAST ČR s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "471",
+      "68200",
+      "33",
+      "43210",
+      "461",
+      "33",
+      "43210",
+      "461",
+      "471",
+      "6820"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Dělnická 786/38, Holešovice, 17000 Praha 7, Praha, Dělnická, 17000",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2027-02-18",
+    "days_to_renewal": "301",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "GRAITEC s.r.o",
+    "maturity_label": "Entry",
+    "industry_segment": "Buildings",
+    "ml_domain": "www.metalplastcz.cz",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "revenue_growth": 0.0,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.metalplastcz.cz",
+    "homepage": {
+      "title": "HLAVNÍ STRÁNKA – MetalPlast",
+      "description": "?",
+      "text_excerpt": "HLAVNÍ STRÁNKA – MetalPlast\nPRODUKTY A SLUŽBY\nPRODUKTY\nSERVIS\nPROJEKCE\nPRODUKTY\nMETALPLAST CZ s.r.o.\ntradiční výrobce a dodavatel systémů stínící a ventilační techniky\npro veřejné, administrativní i průmyslové budovy, bytové a rodinné domy v České republice působící na trhu od roku\n1991\n. V současné době dodává na zakázku vyrobené\nfasádní žaluzie\nze systému NEVA a\nhliníkové slunolamy,  ventilační mřížky a stěny\nze systému Duco.\nSTÍNĚNÍ\nVENTILACE\nSERVIS\nNaše firma poskytuje pro námi dodané a namontované výrobky\nzáruční a pozáruční servis\n.  Pro zajištění dlouhodobé životnosti stínicích a ventilačních žaluzií doporučujeme sjednat\nservisní smlouvu\n, která zajišťuje pravidelné odborné prohlídky výrobků naším technikem.\nDozvědět se více\nPROJEKCE\nNedílnou součástí poskytovaných služeb je\nprojekční podpora pro investory, projektanty a architekty\nPoskytujeme nejen základní technické informace o námi nabízených výrobcích, ale po dohodě také projekční podporu v řešení technických detailů a návazností na ostatní stavební prvky.\nDozvědět se více\nREFERENCE\nMAIN POINT, Karlín\nFasádní žaluzie C-80\nOC CHODOV, Praha\nDucoWall 50/75Z\nPALLADIUM, Praha\nFasádní žaluzie S-90\nNTK, Dejvice\nFasádní žaluzie C-80\nKLINIKA DR. PÍRKA\nDucoSun Linear 200\nKAVČÍ HORY, Praha\nFasádní žaluzie\nDalší reference"
+    },
+    "about": {
+      "url": "https://www.metalplastcz.cz/o-nas",
+      "text": "O NÁS – MetalPlast\nO NÁS\nMETALPLAST CZ s.r.o. je tradiční výrobce a dodavatel systémů stínící a ventilační techniky pro veřejné, administrativní i průmyslové budovy, bytové a rodinné domy v České republice působící na trhu od roku 1991.\nV současné době dodává na zakázku vyrobené fasádní žaluzie ze systému NEVA a hliníkové slunolamy,  ventilační mřížky a stěny ze systému Duco. Cílem společnosti je poskytovat optimální řešení pro  zajištění zdravého a komfortního prostředí v interiéru -  individuálně pro každý objekt  s ohledem na energetickou úspornost a zabezpečení."
+    },
+    "products": {
+      "url": "https://www.metalplastcz.cz/produkty",
+      "text": "PRODUKTY – MetalPlast\nPRODUKTY\nMETALPLAST CZ s.r.o. je tradiční výrobce a dodavatel systémů stínící a ventilační techniky pro veřejné, administrativní i průmyslové budovy, bytové a rodinné domy v České republice. V současné době dodává na zakázku vyrobené fasádní žaluzie ze systému NEVA a hliníkové slunolamy,  ventilační mřížky a stěny ze systému Duco.\nSTÍNĚNÍ\nVENTILACE"
+    },
+    "contact_page": {
+      "url": "https://www.metalplastcz.cz/kontakt",
+      "text": "KONTAKT – MetalPlast\nKONTAKT\nMetalplast CZ s.r.o.\nHradec Králové\nUlice:\nBřezová 188\nPSČ:\n500 03\nTel.:\n+420 495 543 011\ne-mail:\nhk@metalplastcz.cz\nf.: @metalplastCZ"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "WELDPLAST ČR s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 14,
+    "all_technologies": [
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Hetzner",
+        "vendor": "Hetzner Online GmbH",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "WELDPLAST ČR s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:26"
+}

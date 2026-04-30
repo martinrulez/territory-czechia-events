@@ -1,0 +1,114 @@
+{
+  "company_key": "projects 4gastronomy",
+  "company_name": "Projects 4GASTRONOMY",
+  "domain": "",
+  "domain_url": "",
+  "events": "BIM DAY 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Projects 4GASTRONOMY",
+    "opportunity_score": 32,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.59,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.59,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "21843155",
+    "official_name": "Projects 4GASTRONOMY s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "73110",
+      "00",
+      "46",
+      "741",
+      "812",
+      "43320",
+      "71200",
+      "71110",
+      "71120",
+      "82100",
+      "772",
+      "43120",
+      "46",
+      "00",
+      "712",
+      "7112",
+      "7111",
+      "821",
+      "43320",
+      "7311",
+      "74100",
+      "812",
+      "772",
+      "43120"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Náchodská 818/16, Horní Počernice, 19300 Praha 9, Praha, Náchodská, 19300",
+    "is_client": true,
+    "current_products": "PDMC",
+    "total_seats": "1",
+    "current_acv_eur": "4200.0",
+    "potential_acv_eur": "17350.0",
+    "nearest_renewal": "2026-11-25",
+    "days_to_renewal": "216",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Advanced CAM and manufacturing capabilities",
+    "all_upsells": "Fusion Mfg Ext; Moldflow; Flex",
+    "maturity_label": "Collection",
+    "industry_segment": "Construction Services",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "LUBOŠ PRÜGER",
+        "firstName": "LUBOŠ",
+        "lastName": "PRÜGER",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-23 08:42",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "moldflow"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

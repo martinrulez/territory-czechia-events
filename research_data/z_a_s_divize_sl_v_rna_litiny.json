@@ -1,0 +1,137 @@
+{
+  "company_key": "z_a_s_divize_sl_v_rna_litiny",
+  "company_name": "ČZ, a. s., Divize Slévárna litiny",
+  "domain": "www.czas.cz",
+  "events": "Czech Foundry Association Members",
+  "technographics": {
+    "success": true,
+    "company": "ČZ, a. s., Divize Slévárna litiny",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 2,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Nils Brejaart",
+        "firstName": "Nils",
+        "lastName": "Brejaart",
+        "jobTitle": "Managing Director CZ A. S. Division Turbo",
+        "email": "nbrejaart@czas.cz",
+        "phone": "+420 383 342 596",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Ing Papez",
+        "firstName": "Ing",
+        "lastName": "Papez",
+        "jobTitle": "Director, Commercial",
+        "email": "premysl.papez@czas.cz",
+        "phone": "+420 602 107 941",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Richard Kriz",
+        "firstName": "Richard",
+        "lastName": "Kriz",
+        "jobTitle": "Project Manager",
+        "email": "richard.kriz@czas.cz",
+        "phone": "+420 383 342 645",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Lukas Soukup",
+        "firstName": "Lukas",
+        "lastName": "Soukup",
+        "jobTitle": "Manager, Quality Department",
+        "email": "lukas.soukup@czas.cz",
+        "phone": "+420 383 342 667",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Pavel Procházka",
+        "firstName": "Pavel",
+        "lastName": "Procházka",
+        "jobTitle": "Manager, Financial & Controlling Department",
+        "email": "pavel.prochazka@czas.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jitka Kutláková",
+        "firstName": "Jitka",
+        "lastName": "Kutláková",
+        "jobTitle": "Division Manager, Purchasing, Turbo",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Michaela Becvarova",
+        "firstName": "Michaela",
+        "lastName": "Becvarova",
+        "jobTitle": "Manager, Purchasing",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Mach Libor",
+        "firstName": "Mach",
+        "lastName": "Libor",
+        "jobTitle": "Manager, Technical & Engineering Department",
+        "email": "libor.mach@czas.cz",
+        "phone": "+420 383 342 115",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jan Kovarovic",
+        "firstName": "Jan",
+        "lastName": "Kovarovic",
+        "jobTitle": "Manager, Commercial",
+        "email": "jkovarovic@czas.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 9,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:23",
+  "website_data": {
+    "success": false,
+    "domain": "https://www.czas.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

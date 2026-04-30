@@ -1,0 +1,142 @@
+{
+  "company_key": "jd dvořák",
+  "company_name": "JD Dvořák",
+  "domain": "",
+  "domain_url": "",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "JD Dvořák",
+    "opportunity_score": 37,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.86,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.86,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "49621815",
+    "official_name": "JD Dvořák, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "26110",
+      "26510",
+      "71200",
+      "4322",
+      "471",
+      "26110",
+      "26510",
+      "4322",
+      "471",
+      "7120"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "V Holešovičkách 1448/14, Libeň, 18000 Praha 8, Praha, V Holešovičkách, 18000",
+    "is_client": true,
+    "current_products": "AutoCAD Web",
+    "total_seats": "1",
+    "current_acv_eur": "300.0",
+    "potential_acv_eur": "350.0",
+    "nearest_renewal": "2026-09-04",
+    "days_to_renewal": "134",
+    "top_upsell": "Flex",
+    "top_upsell_reason": "Token-based access to broader Autodesk portfolio",
+    "all_upsells": "Flex",
+    "maturity_label": "Entry",
+    "industry_segment": "Consumer Products",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "JD Dvořák",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Tomas",
+        "last_name": "Dvorak",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "JD Dvořák, sro",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 76.0
+      },
+      {
+        "first_name": "Jaroslav",
+        "last_name": "Snasel",
+        "title": "Service Department Deputy Head",
+        "email": "jaroslav.snasel@testsysteme.cz",
+        "phone": "",
+        "company": "JD Dvořák, sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 93.0
+      },
+      {
+        "first_name": "Ondrej",
+        "last_name": "Horak",
+        "title": "Senior Project Manager, Product",
+        "email": "ondrej.horak@testsysteme.cz",
+        "phone": "",
+        "company": "JD Dvořák, sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Jan",
+        "last_name": "Matěásko",
+        "title": "Senior B2B Sales Product Specialist",
+        "email": "jan.mateasko@testsysteme.cz",
+        "phone": "",
+        "company": "JD Dvořák, sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 95.0
+      },
+      {
+        "first_name": "Michal",
+        "last_name": "Kadoch",
+        "title": "Produktový Specialista and Product Specialist",
+        "email": "michal.kadoch@testsysteme.cz",
+        "phone": "",
+        "company": "JD Dvořák, sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 99.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:13"
+}

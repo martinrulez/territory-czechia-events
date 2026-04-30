@@ -1,0 +1,236 @@
+{
+  "company_key": "rd_r_ma_ov_s_r_o",
+  "company_name": "RD Rýmařov s. r. o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": true,
+    "company": "RD Rýmařov s. r. o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 28,
+    "all_technologies": [
+      {
+        "product": "EZ Texting",
+        "vendor": "EZ Texting",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Lua",
+        "vendor": "UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "OpenResty",
+        "vendor": "OpenResty Inc",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Seznam",
+        "vendor": "Imedia",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Calameo",
+        "vendor": "Calaméo SAS",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cookie Consent",
+        "vendor": "Silktide Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "reCAPTCHA v2.0",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Martin Lukánek",
+        "firstName": "Martin",
+        "lastName": "Lukánek",
+        "jobTitle": "Finanční řEditel",
+        "email": "lukanek@rdrymarov.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Petr Koňárek",
+        "firstName": "Petr",
+        "lastName": "Koňárek",
+        "jobTitle": "Vedoucí Technického Týmu",
+        "email": "konarek@rdrymarov.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:05:47",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.rdrymarov.cz",
+    "homepage": {
+      "title": "Rodinné domy a dřevostavby na klíč | RD Rýmařov",
+      "description": "Rodinné domy na klíč RD Rýmařov. 55 let zkušeností stavění dřevostaveb ve formě bungalovů a patrových domů. Bydlete jako více než 26 000 rodin v domě od nás.",
+      "text_excerpt": "Rodinné domy a dřevostavby na klíč | RD Rýmařov\nUpravit stránku\nProč si vybrat dům od RD Rýmařov?\nTepelné čerpadlo\nv ceně domu\nČerpadlo vzduch - vzduch v zimě dům vyhřeje, v létě zase ochladí\nFotovoltaická elektrárna\nv ceně domu\nTřífázový fotovoltaický systém s akumulací do zásobníku TUV: využívá sluneční energii pro ohřev užitkové vody v 200 litrovém zásobníku.\nZákladová deska\nv ceně domu\nU všech našich domů ji dostanete v ceně! Ušetříte, a navíc vám odpadne spousta starostí.\nZdravé bydlení\nNaše domy jsou z přírodních materiálů. Ve zdravém prostředí se vaší rodině bude žít dobře.\nZáruka 50 let\nKvalitu a dlouhou životnost našich domů stvrzujeme padesátiletou zárukou.\nSpolehlivost a jistota\nPro naše klienty jsme synonymem spolehlivosti a jistoty, za 55 let jsme postavili domov více než 26 000 rodinám.\nKUBIS 117\nKLASIK 127\nKUBIS 99\nKUBIS 98\nBUNGALOV 83 V\nRodinné domy na klíč\nod RD RÝMAŘOV\nTvoříme domov už 26 000 rodinám\nVíce než půlstoletí špičkou mezi dřevostavbami\nNízké náklady na provoz a údržbu domu\nPřírodní materiály, ve kterých se dobře žije\nStavíme domy s 50letou zárukou\nStavba domu hotova během 1 měsíce\nCo nového v RD Rýmařov?\nJaký byl stavební veletrh v Brně? Čtyři dny plné inspirace a osobních setkání\nRD Rýmařov na Stavebním veletrhu Brno 2026\nFOR WOOD 2025: Odpovědi na otázky, které rozhodují o vašem budoucím bydlení\nStarší zprávy\nDivize\ndveře a schody\nNavštivte naše\nvzorové domy\nVše o stavbě, výrobě\na materiálech zdarma\nProč si zvolit\nRD Rýmařov?\nTento web využívá cookies\nPro chod webu jsou nezbytně aktivovány esenciální soubory cookies. Pro plnohodnotné poskytování služeb, personalizaci reklam a analýzu návštěvnosti je však nutné povolit i volitelné cookies. Kliknutím na následující tlačítko je zapnete. Děkujeme!\nZobrazit podrobnosti\nNastavení\nPovolit vše\nNastavení cookies\nVaše soukromí je důležité. Můžete si vybrat z nastavení cookies níže.\nZobrazit podrobnosti\nCookies nezbytné pro využívání webu\nToto nastavení nelze deaktivovat. Bez nezbytných cookies souborů nelze služby webu smysluplně poskytovat.\nMarketingové cookies\nTyto soubory cookies nám umožňují zlepšovat výkon webu, zobrazovat Vám relevantní reklamu na sociálních sítích a dalších reklamních plochách.\nAnalytické cookies\nTyto cookies nám pomáhají pochopit, jak web používáte. S jejích pomocí ho můžeme zlepšovat.\nPotvrdit vše\nPotvrdit moje volby"
+    },
+    "about": {
+      "url": "https://www.rdrymarov.cz/o-nas",
+      "text": "O nás\nUpravit stránku\nSpolečnost RD Rýmařov s. r. o. působí na stavebním trhu již více jak 55 let.\nS historií firmy je nedílně spojen průmyslový rozvoj moderního stavění na bázi prefabrikace dřeva.\nRealizovali jsme více jak 26 000 staveb\n, a to nejen rodinných či bytových domů, ale také celých developerských projektů.\nNa počátku bylo know-how západoněmecké firmy OKAL. Dnes se opíráme o vlastní, již\nmnohaleté zkušenosti\na jsme\nfirma se zdravým sebevědomím a potenciálem\noperovat na evropském stavebním trhu.\nRD Rýmařov\nRD Rýmařov klade důraz na zdravotní nezávadnost používaných materiálů\n. Ve všech požadavcích splňujeme tuzemské normy i přísné normy tradičních zemí Evropské unie.\nVedení společnosti podporuje trvale udržitelné hospodaření v lesích a zavazuje se uplatňovat a udržovat všechny požadavky spotřebitelského řetězce lesních produktů v rámci pravidel PEFC v souladu s dokumentem CFCS 2002:2020.\nO špičkové kvalitě svědčí také právo užívat znak kvality RAL\n, propůjčovaný Společností pro jakost německých montovaných staveb.\nPřečtěte si, co se o RD Rýmařov píše v médiích\nZískali jsme\ncertifikovaný systém řízení kvality\ndle normy ISO 9001. Dalším důkazem\nkvality výrobků je evropský certifikát ETA podle ETAG 007\n, který společnost získala jako první v České republice. Pro své domy jsme získali rovněž energetický certifikát, kterým se řadíme do kategorie energeticky úsporných domů.\nZákladní nabídka RD Rýmařov obsahuje přes tři desítky typových projektů, včetně mnoha jejich variant a různých architektonických doplňků. Je pro nás samozřejmostí vyhovět individuálním požadavkům zákazníka, aby získal dům podle svých vlastních představ - každý dům se tak stává neopakovatelným originálem.\nCílevědomá práce\nCílevědomá práce na technických parametrech, maximální přesnost při zabezpečování kvality a propracovaná logistika nám umožňují realizovat v rámci dnů to, co jiní realizují v rámci měsíců.\nJedná se o stavební systém třetího tisíciletí\n, kde spojení tradičního, v přírodě obnovitelného materiálu spolu se špičkovými současnými materiály, vytváří systém suché výstavby. Tento systém splňuje všechny parametry současných požadavků ne ekologickou stavbu v souladu s trvale udržitelným způsobem života. Veškeré materiály jsou obnovitelné a likvidovatelné bez dalších zátěží.\nVytvořením tzv.\nsendvičového systému\nlze docílit vysokých energetických parametrů bez nároků na zvětšování zastavěného prostoru nebo na úkor bytových ploch. Lehkost konstrukce umožňuje snížit spotřebu materiálu na založení stavby, a tím snížit náklady na realizaci.\nVysoká organizovanost\n, především v počátečním stadiu, nevynakládá nároky na zatížení okolí stavby stavební činností a rychlost výstavby\numožňuje naplnění našeho motta\nbydlení do měsíce\n\". Výroba panelů na automatických linkách zaručuje přesnost, která umožňuje realizovat dokončovací práce ve vysoké kvalitě.\nVýhody RD Rýmařov:\nRYCHLOST DODÁVKY\n- doba výstavby jeden kalendářní měsíc.\nGARANTOVANÁ CENA\n- konečná cena je garantována bez jakýchkoliv víceprací.\nMIMOŘÁDNĚ DLOUHÁ ZÁRUKA\n- 50 let na konstrukci domu.\nRD Rýmařov je:\nčlenem\nNadace dřevo pro život\nčlenem občanského sdružení\nNárodní dřevařský klastr\nčlenem\nAsociace dodavatelů montovaných domů\nFotogalerie\nHistorie společnosti\nCertifikáty\nKariéra\nNapsali o nás\nNaši partneři\nADMD\nNadace dřevo pro život\nNárodní dřevařský klastr\nTento web využívá cookies\nPro chod webu jsou nezbytně aktivovány esenciální soubory cookies. Pro plnohodnotné poskytování služeb, personalizaci reklam a analýzu návštěvnosti je však nutné povolit i volitelné cookies. Kliknutím na následující tlačítko je zapnete. Děkujeme!\nZobrazit podrobnosti\nNastavení\nPovolit vše\nNastavení cookies\nVaše soukromí je důležité. Můžete si vybrat z nastavení cookies níže.\nZobrazit podrobnosti\nCookies nezbytné pro využívání webu\nToto nastavení nelze deaktivovat. Bez nezbytných cookies souborů nelze služby webu smysluplně poskytovat.\nMarketingové cookies\nTyto soubory cookies nám umožňují zlepšovat výkon webu, zobrazov"
+    },
+    "products": {
+      "url": "https://www.rdrymarov.cz/produkty",
+      "text": "Katalog domů RD Rýmařov\nUpravit stránku\nBungalovy\nPatrové domy\nModulové domy\nKUBIS\nBUNGALOV\nKLASIK\nKLASIK\nROHE\nDIMENZE\nEXCLUSIVE\nFAMILY\nProvedení domu\nPatrový\nBungalov\nDispozice domu\n3 + 1\n4+kk\n4 + 1\n5 + kk\n5 + 1\n6 + 1\n3+kk\nCena domu\n0 - 3 000 000\n3 000 001 - 4 000 0000\n4 000 001 a více\nRozsah domu\nPREMIUM\nCOMFORT\nHledat\nZrušit\nBUNGALOV 38 S\n38 m²\n2+kk\n2 998 240 Kč\nZákladová deska\nBungalov\nNáš tip\nNejprodávanější\n0 - 3 000 000\nCOMFORT\nRazítko šedé 5%\nNejprodávanější_top\nNovinka\nRazítko 3% - BILE 2022\nTREND 70\n70 m²\n3+kk\n4 762 480 Kč\nNejprodávanější_top\nPatrový\n4 + 1\n3 000 001 - 4 000 0000\nCOMFORT\nNáš tip\nNejprodávanější\nRazítko šedé 5%\nNovinka\nRazítko 3% - BILE 2022\nBUNGALOV 70\n(dříve Largo 85)\n70 m²\n3+kk\n4 303 240 Kč\nNejprodávanější_top\nZákladová deska\nBungalov\n0 - 3 000 000\nNáš tip\nCOMFORT\nNejprodávanější\nRazítko šedé 5%\n3 + 1\nNovinka\nRazítko 3% - BILE 2022\nBUNGALOV 72 S\n(dříve Largo 90)\n72 m²\n3+kk\n4 109 640 Kč\nZákladová deska\nBungalov\nCOMFORT\n0 - 3 000 000\nRazítko šedé 5%\nNejprodávanější\nNejprodávanější_top\nRazítko 3% - BILE 2022\nBUNGALOV 72 R\n(dříve Rohe 90)\n72 m²\n3+kk\n4 161 400 Kč\nZákladová deska\nBungalov\nNáš tip\nCOMFORT\nNejprodávanější\n0 - 3 000 000\nRazítko šedé 5%\nRazítko 3% - BILE 2022\nBUNGALOV 83 V\n(dříve Largo 98)\n83 m²\n4+kk\n4 356 240 Kč\nZákladová deska\nBungalov\nNáš tip\nNejprodávanější\n0 - 3 000 000\nCOMFORT\nRazítko šedé 5%\nNejprodávanější_top\nNovinka\nRazítko 3% - BILE 2022\nBUNGALOV 83 S\n83 m²\n4+kk\n4 422 560 Kč\nZákladová deska\nBungalov\nNáš tip\nNejprodávanější\n0 - 3 000 000\nCOMFORT\nRazítko šedé 5%\nNejprodávanější_top\nNovinka\nRazítko 3% - BILE 2022\nBUNGALOV 83 R\n(dříve Rohe 98)\n83 m²\n4+kk\n4 402 280 Kč\nZákladová deska\nGarážové stání\nBungalov\n0 - 3 000 000\nCOMFORT\nRazítko šedé 5%\nRazítko 3% - BILE 2022\nBUNGALOV 83 R + CP\n(dříve Largo 98)\n83 m²\n4+kk+carport\n5 752 000 Kč\nZákladová deska\nGarážové stání\nBungalov\n0 - 3 000 000\nCOMFORT\nRazítko šedé 5%\nRazítko 3% - BILE 2022\nBUNGALOV 90\n(dříve Largo 110)\n90 m²\n4+1\n4 940 400 Kč\nBungalov\n4 + 1\nPREMIUM\n0 - 3 000 000\nRazítko šedé 5%\nNejprodávanější_top\nNovinka\nRazítko 3% - BILE 2022\nBUNGALOV 97\n(dříve Largo 120)\n97 m²\n5+kk\n4 857 040 Kč\nZákladová deska\nGarážové stání\nBungalov\n0 - 3 000 000\nCOMFORT\nRazítko šedé 5%\nRazítko 3% - BILE 2022\nKUBIS 98\n(dříve Kubis 632)\n98 m²\n4 / 5+kk\n4 919 000 Kč\nPatrový\nNáš tip\nNejprodávanější\n3 000 001 - 4 000 0000\nCOMFORT\nRazítko šedé 5%\nNejprodávanější_top\nNovinka\nRazítko 3% - BILE 2022\nKUBIS 99\n(dříve Kubis 631)\n99 m²\n4 / 5+kk\n4 783 880 Kč\nNejprodávanější\nPatrový\nNáš tip\n4+kk\n3 000 001 - 4 000 0000\nCOMFORT\nRazítko šedé 5%\nNovinka\nRazítko 3% - BILE 2022\nNejprodávanější_top\nKLASIK 99\n99 m²\n4+1\n6 037 920 Kč\nZákladová deska\nBungalov\nCOMFORT\n0 - 3 000 000\nRazítko šedé 5%\nNejprodávanější\nNejprodávanější_top\nRazítko 3% - BILE 2022\nBUNGALOV 112\n(dříve Bungalov 105)\n105 m²\n4+kk\n5 138 480 Kč\nBungalov\nPREMIUM\nNejprodávanější_top\nNovinka\nRazítko 3% - BILE 2022\nBUNGALOV 106\n106 m²\n4+kk\n6 117 800 Kč\nZákladová deska\nBungalov\nCOMFORT\n0 - 3 000 000\nRazítko šedé 5%\nNejprodávanější\nNejprodá"
+    },
+    "contact_page": {
+      "url": "https://www.rdrymarov.cz/kontakt",
+      "text": "Kontakt\nUpravit stránku\nSídlo společnosti\nRD Rýmařov s. r. o.\n8. května 1191/45\n795 01  Rýmařov\nČeská republika\nTel.:\n+420 554 252 111\nE-mail:\nChci kontaktovat RD Rýmařov e-mailem\nIČO:\n18953581\nDIČ:\nCZ18953581\nZápis v obchodním rejstříku u KS v Ostravě, odd. C, vložka 1783\nDomluvte schůzku či zašlete dotaz\nPodání reklamace\nObchodní centra RD Rýmařov\nT-UP 3\nObchodní centrum RÝMAŘOV\n8. května 1191/45\n795 01  Rýmařov\nTel.:\n+420 554 252 111\nE-mail:\nobchod@rdrymarov.cz\nKLASIK 117\nObchodní centrum RÝMAŘOV\n8. května 1191/45\n795 01 Rýmařov\nTel.:\n+420 554 252 111\nE-mail:\nobchod@rdrymarov.cz\nKLASIK 166\nObchodní centrum\nPRAHA\nStudánková 537\n149 00  Praha 4 - Újezd (Kateřinky)\nMobil:\n+420 603 839 373\nMobil:\n+420 733 394 641\nE-mail:\njojkova@rdrymarov.cz\nKLASIK 166\nObchodní centrum KLADNO\nTel.:\n+420 602 355 657\nE-mail:\nsoudek@rdrymarov.cz\nObchodní centrum OLOMOUC\nStupkova 413/1a 779 00 Olomouc\nMobil:\n+420 732 452 544\nMobil:\n+420 736 289 258\nE-mail:\nberan@rdrymarov.cz\nE-mail:\njaros@rdrymarov.cz\nObchodní centrum OPAVA\nMasařská 329/12\n746 01 Opava\nMobil:\n+420 733 164 595\nE-mail:\nostrava@rdrymarov.cz\nBUNGALOV 97\nObchodní centrum BRNO\n664 91 Kratochvilka 186\nMobil:\n+420 775 910 966\nE-mail:\nbrno@rdrymarov.cz\nKLASIK 113\nObchodní centrum PLZEŇ\nSládkova 649/11\n300 00  Plzeň\nMobil:\n+420 777 162 595\nE-mail:\nzahradka@rdrymarov.cz\nATYP\nObchodní centrum ČESKÉ BUDĚJOVICE\nPražská 2656/162\n370 10  České Budějovice 3\nMobil:\n+420 603 849 571\nE-mail:\ntrelka@rdrymarov.cz\nObchodní centrum ÚSTÍ NAD LABEM\nTel.:\n+420 554 252 111\nE-mail:\nobchod@rdrymarov.cz\nKLASIK 138\nObchodní centrum PRAHA\nStudánková 522\n149 00  Praha 4 - Újezd (Kateřinky)\nMobil:\n+420 603 839 373\nMobil:\n+420 733 394 641\nE-mail:\njojkova@rdrymarov.cz\nATYP\nObchodní centrum ZLÍN\nLutonina 168\n763 12  Vizovice\nMobil:\n+420 775 799 122\nE-mail:\nzlin@rdrymarov.cz\nObchodní centrum ÚSTÍ NAD LABEM\nTel.:\n+420 554 252 111\nE-mail:\nobchod@rdrymarov.cz\nObchodní centrum JIHLAVA\nZa Dvorem 922,\n588 22 Luka nad Jihlavou\nMobil:\n+420 775 064 067\nE-mail:\njihlava"
+    }
+  }
+}

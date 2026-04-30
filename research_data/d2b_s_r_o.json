@@ -1,0 +1,61 @@
+{
+  "company_key": "d2b_s_r_o",
+  "company_name": "d2B s.r.o.",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JAROMÍR PAPOUŠEK",
+        "firstName": "JAROMÍR",
+        "lastName": "PAPOUŠEK",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MARIÁN ADZIMA",
+        "firstName": "MARIÁN",
+        "lastName": "ADZIMA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "RICHARD DUDÁŠ",
+        "firstName": "RICHARD",
+        "lastName": "DUDÁŠ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JAROMÍR PAPOUŠEK",
+        "firstName": "JAROMÍR",
+        "lastName": "PAPOUŠEK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:06"
+}

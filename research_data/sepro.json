@@ -1,0 +1,447 @@
+{
+  "company_key": "sepro",
+  "company_name": "SEPRO",
+  "domain": "www.sepro.com",
+  "domain_url": "https://www.sepro.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SEPRO",
+    "opportunity_score": 30,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.53,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.53,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "62957881",
+    "official_name": "SEPRO, spol. s r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46900",
+      "461",
+      "711",
+      "461",
+      "46900",
+      "711"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Škodova 216, Kolín IV, 28002 Kolín, Kolín, Škodova, 28002",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-10-20",
+    "days_to_renewal": "180",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "TD SYNNEX Czech s.r.o. (NCR)",
+    "maturity_label": "Entry",
+    "industry_segment": "Buildings",
+    "ml_domain": "www.smero.cz",
+    "zi_done": true,
+    "employee_count": 129,
+    "revenue": 24293,
+    "zi_company_name": "SePRO",
+    "zi_domain": "www.sepro.com",
+    "zi_city": "Carmel",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.sepro.com",
+    "homepage": {
+      "title": "SePRO.com | Special Solutions. For Specialty Markets.",
+      "description": "",
+      "text_excerpt": "SePRO.com | Special Solutions. For Specialty Markets.\nHelping You Protect and Restore Water, Plants, and the Environment\nConnect With an Expert\nWho We Serve\nPro Aquatics\nAgriculture\nGolf\nLandscape\nOrnamental\nDIY Aquatics\nDedicated to Delivering Science-Based Solutions Our Partners and Consumers Can Rely On\nAt SePRO Corporation, we're dedicated to discovering and developing sustainable solutions. Our mission is to provide plant protection and water resource management products and services that meet your unique needs.\nOur 410-acre SePRO Research & Technology Campus (SRTC) in Whitakers, NC, is central to our goal of addressing the new and growing challenges facing our most precious natural resources.\nConnect with a Technical Specialist\nThe True Heroes of Water Resource Management\nLearn about the heroes that protect and restore Earth’s most precious natural resource—water.\nWatch Now\nWant Industry Insights & Updates?\nSubscribe to get information you won't find anywhere else.\nFirst Name\nEmail Address\nLast Name\nPrimary Market\nPro Aquatics\nAgriculture\nGolf\nLandscape\nOrnamental\nDIY Aquatics"
+    },
+    "about": {
+      "url": "https://www.sepro.com/about-us",
+      "text": "About Us | SePRO Corporation\nAbout Us\nPurpose. Vision. Values.\nSePRO Corporation is dedicated to discovering and developing sustainable solutions. Founded in 1994, our mission is to provide plant protection and plant management products and services that fit specialized market needs. We acquire, develop, manufacture, and market value-added products and services that satisfy the unique needs of our customers. In addition, SePRO has partnered with several of the top agriculture chemical companies to develop their chemistries for use in our key markets. Central to that product innovation is the 410-acre SePRO Research & Technology Campus (SRTC) in Whitakers, NC.\nAnd tomorrow, solid relations already forged with some of the world's leading product innovators will lead toward still more varied horizons. Wherever traditional or bio-rational chemistry can meet a small but vital need, SePRO will be looking to deliver the solution in an ultimately effective and economically viable way."
+    },
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "SEPRO",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 72,
+    "all_technologies": [
+      {
+        "product": "Microsoft IIS",
+        "vendor": "Microsoft Corporation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "LiveRamp",
+        "vendor": "Acxiom LLC",
+        "category": "Data Management Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "StackAdapt",
+        "vendor": "StackAdapt Inc.",
+        "category": "Demand Side Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Rapleaf",
+        "vendor": "Rapleaf",
+        "category": "Marketing Data Providers",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "BidSwitch",
+        "vendor": "IPONWEB GmbH",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "PubMatic",
+        "vendor": "PubMatic, Inc.",
+        "category": "Supply Side Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "OpenX Ad Exchange",
+        "vendor": "Openx Software Ltd",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Turn",
+        "vendor": "Amobee, Inc",
+        "category": "Data Management Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Tremor Video",
+        "vendor": "Tremor Video DSP Inc.",
+        "category": "Video Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "ABI",
+        "vendor": "Advanced Business Integrators, Inc.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "NTENT Hosting",
+        "vendor": "NTENT Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft PowerPoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft Azure DNS",
+        "vendor": "Microsoft Corporation",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft Dynamics",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "ADP",
+        "vendor": "ADP, Inc.",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PetWise Marketing",
+        "vendor": "AVImark",
+        "category": "Healthcare Marketing",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Mimecast",
+        "vendor": "Mimecast Services Limited",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "JQuery 2.1.1",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "SEPRO",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Tyler",
+        "last_name": "Koschnick",
+        "title": "President & Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "SePRO",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 92.0
+      },
+      {
+        "first_name": "Chad",
+        "last_name": "Albano",
+        "title": "Vice President, Accounting & Finance",
+        "email": "",
+        "phone": "",
+        "company": "SePRO",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 12:47",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

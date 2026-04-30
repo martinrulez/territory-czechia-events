@@ -1,0 +1,425 @@
+{
+  "company_key": "vortex global",
+  "company_name": "Vortex Global",
+  "domain": "www.vortexglobal.com",
+  "domain_url": "https://www.vortexglobal.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Vortex Global",
+    "opportunity_score": 23,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.68,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.68,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "23003243",
+    "official_name": "Vortex Global s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "772",
+      "46",
+      "55",
+      "68200",
+      "255",
+      "433",
+      "25110",
+      "439",
+      "46190",
+      "431",
+      "47",
+      "433",
+      "772",
+      "431",
+      "6820",
+      "439",
+      "25110",
+      "47",
+      "46",
+      "256",
+      "55",
+      "46190"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Uralská 689/7, Bubeneč, 16000 Praha 6, Praha, Uralská, 16000",
+    "zi_done": true,
+    "employee_count": 302,
+    "revenue": 78100,
+    "zi_company_name": "Vortex Global",
+    "zi_domain": "www.vortexglobal.com",
+    "zi_city": "Salina",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.vortexglobal.com",
+    "homepage": {
+      "title": "Vortex Global | Solids & Bulk Handling Components",
+      "description": "Vortex provides quality slide gates, diverters, iris valves and loading spouts designed specifically for handling dry bulk solids in gravity, vacuum, dilute, or dense phase applications. Vortex valves and spouts are engineered for dependability, durability, easy maintenance, and offer proven solutions to material handling and process efficiency problems.",
+      "text_excerpt": "Vortex Global | Solids & Bulk Handling Components\nTo Top\nIn your world there's no time for downtime.\nWe're here to keep you up and running. That's why we produce solids & bulk handling components that are designed to perform.\nValves\nVortex®\nSlide Gates, Diverters & Iris Valves\nfor handling dry bulk material in gravity flow, dilute phase or dense pneumatic conveying applications.\nSlide\nGates\nDiverter\nValves\nIris\nValves\nAdd-ons &\nAccessories\nSPOUTS\nLoading\nVortex®\nLoading Solutions\nprovide fast and steady material flow during the loading of dry/bulk solid materials in open and/or enclosed vessels.\nTruck & Rail\nLoading\nOpen\nLoading\nShip\nLoading\nAutomated\nLoading\nTRADE SHOW SCHEDULE\nINDUSTRIES SERVED\nWe can handle it.\nWhether it is the sugar for your coffee, the coffee itself,  or the salt for icy roads, there aren’t many applications we haven’t seen or provided a solution for. Our in-house team of application engineers will work with you and your Vortex sales team representative to provide a solution for your application.\nBattery Production\nLEARN MORE\nCement\nLEARN MORE\nChemicals\nLEARN MORE\nCoffee/Tea\nLEARN MORE\nEnergy & Power\nLEARN MORE\nFertilizer\nLEARN MORE\nFood & Beverage\nLEARN MORE\nGrain\nLEARN MORE\nGypsum & Limestone\nLEARN MORE\nIndustrial Sand\nLEARN MORE\nMilling\nLEARN MORE\nMining & Minerals\nLEARN MORE\nPet Food\nLEARN MORE\nPlastics\nLEARN MORE\nSalt\nLEARN MORE\nSee MORE INDUSTRIES\nTECHNICAL FOCUS\nOur Design Philosophy\nEngineered to Order\nVortex believes in offering only value-added products that are designed for purpose, rather than producing off-the-shelf, commodity components. With an in-house team of application engineers, Vortex designs equipment for even the most demanding applications.\nMaintenance Friendly\nOur priority is to keep you up and running – because in your world, there is no time for downtime. Vortex components are engineered with in-line service features that accelerate the system maintenance process, saving your team time and money.\nExtended Service Life\nEnd users are often attracted to equipment on the fallacy of low price, ignoring the cost-benefits of reliability and longevity. Vortex believes in designing products that will out-perform and outlast market alternatives – so that end users realize the full value of their investment.\nMinimal Spare Parts\nVortex approaches wear parts with simple, durable design. Doing so means maintenance procedures are also kept simple while the need to perform maintenance is infrequent. This leads to a reduction in spare part inventories – which also means a reduction in costs.\nCompensate for Wear\nVortex closely studies the characteristics of thousands of dry bulk materials and how they interact with various materials of construction. We assess the wear potential for each client’s process and make application-specific modifications to ensure reliability, durability and longevity.\nDust Free Technologies\nFacilities have an ethical obligation to protect against the hazards of manufacturing. Vortex close"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Vortex Global",
+    "autodesk_products": [],
+    "competitor_products": [
+      "Dassault Systemes"
+    ],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 73,
+    "all_technologies": [
+      {
+        "product": "Amazon S3",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Enterprise Data Storage",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Dassault Systemes",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Demandbase",
+        "vendor": "Demandbase, Inc.",
+        "category": "Account-Based Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Sunday",
+        "vendor": "Sunday",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Amazon",
+        "vendor": "Amazon.com, Inc.",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "123 Reg Email Hosting",
+        "vendor": "123 Reg Ltd.",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cascade",
+        "vendor": "Cascade Human Resources Ltd",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SeatGeek",
+        "vendor": "SeatGeek, Inc",
+        "category": "Ticketing Systems",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "MPZMail",
+        "vendor": "MPZMail LTD",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Barracuda Email Security Gateway",
+        "vendor": "Barracuda Networks, Inc.",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SellerDeck",
+        "vendor": "Sellerdeck Ltd",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "On-Site",
+        "vendor": "ON-SITE MANAGER, INC.",
+        "category": "Real Estate Property Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "iubenda",
+        "vendor": "iubenda s.r.l",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Voracio",
+        "vendor": "Chameleon Digital Media",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Empetus",
+        "vendor": "Empetus Limited",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Engage ATS",
+        "vendor": "Engage ATS",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "MySQL",
+        "vendor": "Oracle Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Eploy",
+        "vendor": "ITS Software Systems Ltd",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Barracuda Networks",
+        "vendor": "Barracuda Networks, Inc.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Embedly",
+        "vendor": "Embedly",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Vortex Global",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Michael",
+        "last_name": "Wilson",
+        "title": "Analysis & Growth Vice President, Financial Planning",
+        "email": "",
+        "phone": "",
+        "company": "Vortex Global",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 15:21"
+}

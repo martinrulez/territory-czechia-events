@@ -1,0 +1,169 @@
+{
+  "company_key": "alpha-pack enterprise ltd",
+  "company_name": "Alpha-Pack Enterprise Ltd",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Alpha-Pack Enterprise Ltd",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "Alpha-Pack Enterprise Ltd",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 20,
+    "all_technologies": [
+      {
+        "product": "Acuity Scheduling",
+        "vendor": "Acuity Scheduling, Inc.",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WhatsApp",
+        "vendor": "WhatsApp",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Baidu Analytics",
+        "vendor": "Baidu, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "WixStores",
+        "vendor": "Wix.com, Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Po.st",
+        "vendor": "RhythmOne",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "InstantSearch+",
+        "vendor": "Fast Simon Inc.",
+        "category": "Site Search",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Sentry",
+        "vendor": "Functional Software, Inc.",
+        "category": "Error and Exception Monitoring",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Varnish",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Wix",
+        "vendor": "Wix.com, Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "dbt",
+        "vendor": "dbt Labs, Inc",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "linkfluence",
+        "vendor": "Linkfluence",
+        "category": "Social Media Analytics and Monitoring",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "The USERTRUST Network",
+        "vendor": "Comodo Group, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Alpha-Pack Enterprise Ltd",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:20"
+}

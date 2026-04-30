@@ -1,0 +1,445 @@
+{
+  "company_key": "fantech europe s.r.o.",
+  "company_name": "FANTECH Europe s.r.o.",
+  "domain": "www.fastenal.com",
+  "domain_url": "https://www.fastenal.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "FANTECH Europe s.r.o.",
+    "opportunity_score": 34,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.7,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.7,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "22045333",
+    "official_name": "FANTECH Europe s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "25",
+      "77220",
+      "00",
+      "68200",
+      "29",
+      "G",
+      "255",
+      "6820",
+      "00",
+      "29",
+      "77290",
+      "256",
+      "25",
+      "G"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Podvihovská 380/12d, Komárov, 74770 Opava, Opava, Podvihovská, 74770",
+    "is_client": true,
+    "current_products": "PDMC | Vault",
+    "total_seats": "4",
+    "current_acv_eur": "14000.0",
+    "potential_acv_eur": "34700.0",
+    "nearest_renewal": "2026-09-23",
+    "days_to_renewal": "153",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Advanced CAM and manufacturing capabilities",
+    "all_upsells": "Fusion Mfg Ext; Moldflow; Flex",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Buildings",
+    "ml_domain": "www.fastenal.com",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "revenue_growth": 0.0,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.fastenal.com",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "FANTECH Europe s.r.o.",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autodesk Inventor",
+      "Commvault"
+    ],
+    "competitor_products": [
+      "Dassault Systemes",
+      "Mastercam",
+      "Solidworks"
+    ],
+    "cad_bim_other": [
+      "12d",
+      "Autodesk",
+      "Cache Control",
+      "InVision",
+      "Mathematica",
+      "REST / RESTful",
+      "Sigma"
+    ],
+    "total_technologies": 568,
+    "all_technologies": [
+      {
+        "product": "Albert",
+        "vendor": "Learn By Doing, Inc",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Lakeside",
+        "vendor": "Lakeside Software, LLC",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Redwood Software",
+        "vendor": "Redwood",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "ServiceNow",
+        "vendor": "ServiceNow, Inc.",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Oracle Cloud Infrastructure",
+        "vendor": "Oracle Corporation",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Poplar",
+        "vendor": "Share Local Media, Inc",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "OpenAI",
+        "vendor": "OpenAI",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Asc",
+        "vendor": "Assessment Systems Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Route",
+        "vendor": "Route App Inc.",
+        "category": "Inventory and Order Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Como",
+        "vendor": "Como",
+        "category": "Loyalty and Gamification",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Orion",
+        "vendor": "Orion Advisor Solutions, Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Atlas Dental Specialists",
+        "vendor": "Atlas Dental Specialists",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Kickstart",
+        "vendor": "Kickstart",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Centro",
+        "vendor": "Centro, Inc",
+        "category": "Demand Side Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Eldorado",
+        "vendor": "MPHASIS",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Amazon Glacier",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Enterprise Data Storage",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Clover",
+        "vendor": "Clover Network, Inc.",
+        "category": "Points of Sale",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "brandCDN",
+        "vendor": "brandCDN",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Hurco",
+        "vendor": "Hurco Companies, Inc.",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Mazak",
+        "vendor": "Mazak Corporation",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Pinnacle",
+        "vendor": "Pinnacle",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Boulevard",
+        "vendor": "Boulevard, Inc.",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Microsoft Fabric",
+        "vendor": "Microsoft Corporation",
+        "category": "Data Integration",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Circuit",
+        "vendor": "Circuit Routing Limited",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Branch",
+        "vendor": "Branch",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Olive",
+        "vendor": "Olive",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Dover",
+        "vendor": "Dover",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Cloudbees Jenkins",
+        "vendor": "Cloudbees, Inc",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Red Hat Clair",
+        "vendor": "Red Hat, Inc.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Craft",
+        "vendor": "Craft.io Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "MCS",
+        "vendor": "MCS Global Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Sphere technologies",
+        "vendor": "SPHERE Technology Solutions",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "VIA",
+        "vendor": "VIA Institute on Character",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Grin",
+        "vendor": "Grin Technologies Inc",
+        "category": "Advocacy Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "ventiv",
+        "vendor": "Ventiv Technology Australia PTY Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Brunswick",
+        "vendor": "BBP Investment Holdings, LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "AGS",
+        "vendor": "Applied Geographic Solutions, Inc",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "EBI",
+        "vendor": "Employment Background Investigations, Inc",
+        "category": "Pre-Employment Assessment",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Jane",
+        "vendor": "Jane Technologies, Inc",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Coq",
+        "vendor": "Coq",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Weave",
+        "vendor": "Weave Communications, Inc",
+        "category": "Medical Practice Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "AMI",
+        "vendor": "BMC Software, Inc.",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "FANTECH Europe s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Daniel",
+        "last_name": "Florness",
+        "title": "Board Member",
+        "email": "dflorness@fastenal.com",
+        "phone": "",
+        "company": "Fastenal",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 86.0
+      },
+      {
+        "first_name": "Ken",
+        "last_name": "Wong",
+        "title": "FASTCO President",
+        "email": "cwong@fastenal.com",
+        "phone": "(507) 313-7070",
+        "company": "Fastenal",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 94.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 12:25"
+}

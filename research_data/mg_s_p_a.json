@@ -1,0 +1,61 @@
+{
+  "company_key": "mg_s_p_a",
+  "company_name": "MG S.p.A.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "MG S.p.A.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 5,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "iubenda",
+        "vendor": "iubenda s.r.l",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {},
+  "research_timestamp": "2026-04-24 17:18:38",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.mggauges.com",
+    "homepage": {
+      "title": "MG",
+      "description": "",
+      "text_excerpt": "ENTRA NEL SITO\nAvvertenze legali e condizioni d'uso\nCod. IVA CEE IT 020 44980171"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

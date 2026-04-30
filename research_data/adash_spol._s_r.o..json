@@ -1,0 +1,331 @@
+{
+  "company_key": "adash spol. s r.o.",
+  "company_name": "Adash spol. s r.o.",
+  "domain": "www.adash.com",
+  "domain_url": "https://www.adash.com",
+  "events": "MSV 2025 Exhibitor Catalog,MSV 2025 Full Exhibitor List",
+  "event_count": 2,
+  "lead_class": "whitespace",
+  "matched_account_id": 1088,
+  "enrichment": {
+    "company_name": "Adash spol. s r.o.",
+    "opportunity_score": 34,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.53,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.53,
+      "event_relevance": 0.5,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "42867649",
+    "official_name": "ADASH spol. s r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "72100",
+      "471",
+      "71200",
+      "952",
+      "62",
+      "855",
+      "471",
+      "620",
+      "7120",
+      "7219",
+      "855",
+      "952"
+    ],
+    "ares_segments": [
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Hlubinská 1379/32, Moravská Ostrava, 70200 Ostrava, Ostrava, Hlubinská, 70200",
+    "is_client": true,
+    "current_products": "Fusion",
+    "total_seats": "1",
+    "current_acv_eur": "600.0",
+    "potential_acv_eur": "8200.0",
+    "nearest_renewal": "2026-12-01",
+    "days_to_renewal": "222",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Fusion Sim Ext",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Buildings",
+    "zi_done": true,
+    "employee_count": 104,
+    "revenue": 21830,
+    "zi_company_name": "Adash",
+    "zi_domain": "www.adash.com",
+    "zi_city": "Ostrava",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.adash.com",
+    "homepage": {
+      "title": "Vibration analyzers, vibration meters, data collectors",
+      "description": "Adash Ltd. wants to offer tools and software for vibration analysis to all kind of customers according to their needs and budget.",
+      "text_excerpt": "Vibration analyzers, vibration meters, data collectors\nYour browser does not support the video tag.\nMore about Advisor\nNEWS\nMarch 16, 2026\nADASH Advisor\nPhysics-based analysis. AI-powered understanding\nMarch 6, 2026\nAutomated Vibration Analysis: Complete Guide to ADASH ADVISOR\nNew video\nFebruary 5, 2026\nMeet AIDY: The Adash Virtual Assistant for Predictive Maintenance\nNew video\nall news\nUPCOMING EXHIBITIONS\n20.04. - 24.04.2026\nPredictive Maintenance & Machine Learning Pavilion (Germany)\n19.05. - 21.05.2026\nVANZ (New Zealand)\n26.05. - 28.05.2026\nInternational Industrial Forum (Ukraine)\nall exhibitions\nKEEP AN EYE ON YOUR MACHINERY\nAvoid unexpected breakdown\nVIBRIO\nPredictive Maintenance based on condition monitoring starts here.\nsee more\nVA3\nPro\nAnalyzer, Balancer, Data collector\n3 axial sensor ready\nsee more\nVA5\nPro\nEverything you need for machinery vibration analysis.\nsee more\nVibration Analysis\nWhat is it all about?\nThis section should explain you what the Vibration Diagnostics is about and\nwhy and how you should start your predictive maintenance program.\nread more\nLast Firmware & Software Releases\nBuy once pay once!\nSoftware and firmware updates as well as support is free of charge. No\nregular fees!\nApril 21, 2026\nDDS 2026 version 4.1.3 released\ndownload section\nsee release notes\nAugust 21, 2025\nA4300 VA3 Pro firmware version 1.33 released\ndownload section\nsee release notes\nMay 20, 2025\nA4500 VA5 Pro firmware version 2.84 released\ndownload section\nsee release notes\nMay 3, 2023\nA4400 - VA4 Pro (II) firmware version 2.83 released\ndownload section\nsee release notes\nJune 1, 2020\nA4900 Vibrio M firmware version 4.81 released\ndownload section\nsee release notes\nOur clients\nADASH\nAdash spol. s r.o.\nHlubinská 32/1379\nOstrava, 702 00\nCzech Republic\n+420 596 232\n670\n+420 596 232 687\n+420 596 232\n671\ninfo@adash.com\nadash.com\nLocate Your Distributor\nContact us\nWhat comes first, C or Y?\nSend\nCopyright © 2026 Adash\nAidy AI assistant"
+    },
+    "about": {
+      "url": "https://www.adash.com/o-nas",
+      "text": "Page Not Found\nPage Not Found\nThe page you requested could not be found. It is possible that the address is\nincorrect, or that the page no longer exists.\nYou can continue to our\nhomepage\nADASH\nAdash spol. s r.o.\nHlubinská 32/1379\nOstrava, 702 00\nCzech Republic\n+420 596 232\n670\n+420 596 232 687\n+420 596 232\n671\ninfo@adash.com\nadash.com\nLocate Your Distributor\nContact us\nWhat comes first, C or Y?\nSend\nCopyright © 2026 Adash\nAidy AI assistant"
+    },
+    "products": {
+      "url": "https://www.adash.com/produkty",
+      "text": "Page Not Found\nPage Not Found\nThe page you requested could not be found. It is possible that the address is\nincorrect, or that the page no longer exists.\nYou can continue to our\nhomepage\nADASH\nAdash spol. s r.o.\nHlubinská 32/1379\nOstrava, 702 00\nCzech Republic\n+420 596 232\n670\n+420 596 232 687\n+420 596 232\n671\ninfo@adash.com\nadash.com\nLocate Your Distributor\nContact us\nWhat comes first, C or Y?\nSend\nCopyright © 2026 Adash\nAidy AI assistant"
+    },
+    "contact_page": {
+      "url": "https://www.adash.com/kontakt",
+      "text": "Page Not Found\nPage Not Found\nThe page you requested could not be found. It is possible that the address is\nincorrect, or that the page no longer exists.\nYou can continue to our\nhomepage\nADASH\nAdash spol. s r.o.\nHlubinská 32/1379\nOstrava, 702 00\nCzech Republic\n+420 596 232\n670\n+420 596 232 687\n+420 596 232\n671\ninfo@adash.com\nadash.com\nLocate Your Distributor\nContact us\nWhat comes first, C or Y?\nSend\nCopyright © 2026 Adash\nAidy AI assistant"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Adash spol. s r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 31,
+    "all_technologies": [
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LinkedIn Ads",
+        "vendor": "LinkedIn Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "GreenSock",
+        "vendor": "GreenSock",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Mobile",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Apple (common)",
+        "vendor": "Apple Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Play Badges",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Adash spol. s r.o.",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Jaya",
+        "last_name": "Kumar",
+        "title": "Study Abroad Advisor",
+        "email": "",
+        "phone": "",
+        "company": "Adash",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Radomir",
+        "last_name": "Sglunda",
+        "title": "General Development, Vibration Enthusiast",
+        "email": "sglunda@adash.cz",
+        "phone": "",
+        "company": "Adash",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 95.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 08:37"
+}

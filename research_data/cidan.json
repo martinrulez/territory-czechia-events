@@ -1,0 +1,195 @@
+{
+  "company_key": "cidan",
+  "company_name": "Cidan",
+  "domain": "www.cidan.org",
+  "domain_url": "https://www.cidan.org",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Cidan",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 14,
+    "revenue": 2994,
+    "zi_company_name": "Cidan",
+    "zi_domain": "www.cidan.org",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.cidan.org",
+    "homepage": {
+      "title": "Cidan – Civisme et citoyenneté",
+      "description": "",
+      "text_excerpt": "Cidan – Civisme et citoyenneté\nAller au contenu principal\nCIDAN – Civisme Défense Armée Nation\nTransmettre les valeurs de la République et renforcer le lien Armée–Nation.\nUne association d’intérêt général\nL’association : Civisme Défense Armée Nation œuvre pour la promotion du civisme, de la citoyenneté et de l’esprit de défense. Elle contribue au renforcement du lien entre la Nation, ses citoyens et ses forces armées, dans le respect des principes républicains.\nCréée par l’Amiral Lacoste en 1999, suite à la suspension du Service National, l’Association CiDAN (Civisme Défense Armée Nation) a pour but de promouvoir et de développer le civisme ainsi que les liens entre la Nation et ses armées, dans une vision moderne du civisme, de la citoyenneté, du patriotisme, de la défense de la nation française, de la construction de l’Europe et de sa défense.\nNos missions\n• Promouvoir le civisme et la citoyenneté active\n• Développer la culture de défense\n• Renforcer le lien Armée–Nation\n• Valoriser la mémoire et les valeurs républicaines\n• Encourager l’engagement citoyen, notamment auprès des jeunes\nNos actions\n• Conférences, rencontres et actions de sensibilisation\n• Interventions auprès des publics scolaires et associatifs\n• Participation à des cérémonies et commémorations\n• Projets éducatifs, culturels et mémoriels\n• Coopérations avec les acteurs institutionnels et associatifs\nUn engagement républicain\nCIDAN agit dans un cadre apolitique, laïque et républicain. L’association s’adresse à tous les citoyens souhaitant comprendre, transmettre et faire vivre les valeurs de la République et l’esprit de défense.\nUn réseau\nD’une centaine d’acteurs de terrain, les délégués régionaux et départementaux, relaie l’action de CiDAN au niveau local.\nAu niveau national, CiDAN organise le Trophée Civisme et Défense et, au niveau européen, le Prix européen Civisme Sécurité et Défense"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.cidan.org/contact",
+      "text": "Contact – Cidan\nAller au contenu principal\nLa cotisation normale est passée à 40 euros en 2025\nElle est à adresser au trésorier\nMonsieur Tristan Lamontagne\n17 chemin de Sémial\n31450 CORRONSAC\nAucun changement pour le reste\nFORMULAIRE DE CONTACT\nVotre nom (obligatoire)\nVotre adresse de messagerie (obligatoire)\nObjet\nVotre message\nBULLETIN D’ADHÉSION\nbulletin adhésion 2026\nPOUR NOUS REJOINDRE :\nCiDAN –  9\nter\nrue Edouard Lefebvre 78000 VERSAILLES\nCourriel :\ncontact@cidan.org\nAssociation reconnue d’intérêt général pouvant bénéficier du régime du mécénat prévu aux articles 238 bis et 200-1 du Code Général des impôts, habilitée à délivrer des reçus fiscaux"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Cidan",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 12,
+    "all_technologies": [
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "OVH Email Solutions",
+        "vendor": "OVH",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "OVH Domains",
+        "vendor": "OVH",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Cidan",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Eben",
+        "last_name": "Ansong",
+        "title": "Security Officer",
+        "email": "",
+        "phone": "",
+        "company": "Cidan",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 78.0
+      },
+      {
+        "first_name": "Estefany",
+        "last_name": "Huaroc Gastulo",
+        "title": "Danza",
+        "email": "",
+        "phone": "",
+        "company": "Cidan",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Daniel",
+        "last_name": "Ciller",
+        "title": "Chirurgien-dentiste",
+        "email": "",
+        "phone": "",
+        "company": "Cidan",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 84.0
+      },
+      {
+        "first_name": "Ebenezer",
+        "last_name": "Antwi",
+        "title": "Internal Auditor",
+        "email": "",
+        "phone": "",
+        "company": "Cidan",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 79.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 18:43"
+}

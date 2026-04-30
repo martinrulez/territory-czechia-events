@@ -1,0 +1,129 @@
+{
+  "company_key": "mesit machinery",
+  "company_name": "MESIT machinery",
+  "domain": "www.pilanamachinery.cz",
+  "domain_url": "https://www.pilanamachinery.cz",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "MESIT machinery",
+    "opportunity_score": 35,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.75,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.75,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "46995242",
+    "official_name": "MESIT machinery, a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "952",
+      "245",
+      "33",
+      "68200",
+      "00",
+      "72",
+      "255",
+      "43340",
+      "855",
+      "256",
+      "68",
+      "71200",
+      "25510",
+      "G",
+      "00",
+      "245",
+      "256",
+      "25610",
+      "257",
+      "33",
+      "43342",
+      "6820",
+      "71209",
+      "72",
+      "855",
+      "952",
+      "G",
+      "68"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Sokolovská 573, Mařatice, 68601 Uherské Hradiště, Uherské Hradiště, Sokolovská, 68601",
+    "is_client": true,
+    "current_products": "AutoCAD LT | Inventor | PDMC | Vault",
+    "total_seats": "15",
+    "current_acv_eur": "42500.0",
+    "potential_acv_eur": "50400.0",
+    "nearest_renewal": "2026-06-04",
+    "days_to_renewal": "42",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; AutoCAD (full); Fusion Mfg Ext",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Other Manufacturing",
+    "ml_domain": "www.pilanamachinery.cz",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.pilanamachinery.cz",
+    "homepage": {
+      "title": "PILANA Machinery",
+      "description": "B 7982 vedená u Krajského soudu v Brně",
+      "text_excerpt": "PILANA Machinery\nP-Machinery a.s.\nP-Machinery a.s.\nNádražní 1382, 768 24 Hulín\n+420 573 328 200\ninfo@pilana.cz\n02863570\nB 7982 vedená u Krajského soudu v Brně\nGDPR\nVytvořte si webové stránky zdarma!\nPoužíváme cookies, abychom zajistili správné fungování a bezpečnost našich stránek. Tím vám můžeme zajistit tu nejlepší zkušenost při jejich návštěvě.\nPřijmout nezbytné\nPřijmout vše\nPokročilá nastavení\nZde můžete upravit své preference ohledně cookies. Následující kategorie můžete povolit či zakázat a svůj výběr uložit.\nNezbytné krátkodobé cookies\nBez nezbytných cookies se neobejde správné a bezpečné fungování našich stránek a registrační proces na nich.\nFunkční cookies\nFunkční cookies ukládají vaše preference a uzpůsobí podle nich naše stránky.\nVýkonnostní cookies\nVýkonnostní cookies monitorují výkon našich stránek.\nMarketingové cookies\nDíky marketingovým cookies můžeme měřit a analyzovat výkon našeho webu.\nUložit"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.pilanamachinery.cz/kontakt",
+      "text": "Kontakt :: PILANA Machinery\nKONTAKT\nNa prvním místě je pro nás vždy Náš Klient - Vy. Proto nás neváhejte kontaktovat s jakýmkoliv dotazem.\nArch Design\nVáclavské náměstí 1, Praha, 110 00\n+420 100 123 456\nit@tritcon.cz\nFacebook\nTwitter\nVytvořte si webové stránky zdarma!\nPoužíváme cookies, abychom zajistili správné fungování a bezpečnost našich stránek. Tím vám můžeme zajistit tu nejlepší zkušenost při jejich návštěvě.\nPřijmout nezbytné\nPřijmout vše\nPokročilá nastavení\nZde můžete upravit své preference ohledně cookies. Následující kategorie můžete povolit či zakázat a svůj výběr uložit.\nNezbytné krátkodobé cookies\nBez nezbytných cookies se neobejde správné a bezpečné fungování našich stránek a registrační proces na nich.\nFunkční cookies\nFunkční cookies ukládají vaše preference a uzpůsobí podle nich naše stránky.\nVýkonnostní cookies\nVýkonnostní cookies monitorují výkon našich stránek.\nMarketingové cookies\nDíky marketingovým cookies můžeme měřit a analyzovat výkon našeho webu.\nUložit"
+    }
+  },
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "MESIT machinery",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:23",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "inventor",
+        "civil 3d",
+        "navisworks",
+        "vault"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

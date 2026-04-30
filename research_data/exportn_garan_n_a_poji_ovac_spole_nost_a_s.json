@@ -1,0 +1,51 @@
+{
+  "company_key": "exportn_garan_n_a_poji_ovac_spole_nost_a_s",
+  "company_name": "Exportní garanční a pojišťovací společnost, a.s.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MARTIN RŮŽIČKA",
+        "firstName": "MARTIN",
+        "lastName": "RŮŽIČKA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DAVID HAVLÍČEK",
+        "firstName": "DAVID",
+        "lastName": "HAVLÍČEK",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MAREK DLOUHÝ",
+        "firstName": "MAREK",
+        "lastName": "DLOUHÝ",
+        "jobTitle": "Vice-Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:08:53"
+}

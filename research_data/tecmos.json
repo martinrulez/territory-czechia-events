@@ -1,0 +1,186 @@
+{
+  "company_key": "tecmos",
+  "company_name": "TECMOS",
+  "domain": "www.tecmos.cz",
+  "domain_url": "https://www.tecmos.cz",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "TECMOS",
+    "opportunity_score": 22,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "28340604",
+    "official_name": "TECMOS spol. s r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "461",
+      "72100",
+      "46900",
+      "461",
+      "46900",
+      "7219"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "U Dvora 217, 68751 Nivnice, Nivnice, U Dvora, 68751",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2027-04-07",
+    "days_to_renewal": "349",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "TD SYNNEX Czech s.r.o. (NCR)",
+    "maturity_label": "Entry",
+    "industry_segment": "Other",
+    "ml_domain": "www.techramo.cz",
+    "zi_done": true,
+    "employee_count": 7,
+    "revenue": 2042,
+    "zi_company_name": "Tecmos",
+    "zi_domain": "www.tecmos.cz",
+    "zi_city": "Nivnice",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.tecmos.cz",
+    "homepage": {
+      "title": "Technické (statické, únavové a dynamické) výpočty | TECMOS spol. s r.o.",
+      "description": "Společnost TECMOS se zabývá technickými výpočty ve strojírenství s důrazem na pevnostní výpočty v letectví. Provádíme pevnostní, únavové a dynamické analýzy s využitím jak metody konečných prvků (MKP, FEM), tak i klasických výpočetních postupů. Disponujeme kapacitou 20 tis. výpočetních hodin ročně a při práci využíváme: ANSA/META, FEMAP, NX/NASTRAN, ABAQUS, AFGROW a vlastní jednoúčelové programy a skripty.",
+      "text_excerpt": "Technické (statické, únavové a dynamické) výpočty | TECMOS spol. s r.o.\nTechnické (statické, únavové a dynamické) výpočty\nYour browser does not support the video tag.\nYour browser does not support the video tag.\nYour browser does not support the video tag.\nStrength Calculation\nfor General Aviation\nStrength Calculation\nfor Railway Engineering\nStrength Calculation\nfor Aircraft Cabine Equipment\nProvádíme\nstatické, únavové a dynamické výpočty\npro všeobecné letectví (primární konstrukce, vybavení kabin)\npro železniční techniku\npro strojírenství\nSpolečnost TECMOS se zabývá\ntechnickými výpočty ve strojírenství s důrazem na pevnostní výpočty v letectví\n. Provádíme pevnostní, únavové a dynamické analýzy s využitím jak metody konečných prvků (MKP, FEM), tak i klasických výpočetních postupů.\nDisponujeme kapacitou\n15 tis. výpočetních hodin\nročně a při práci využíváme:\nANSA/META, FEMAP, NX/NASTRAN, MSC/NASTRAN, AFGROW\na vlastní jednoúčelové programy a skripty.\nJsme držitelé certifikátů\nISO 9001:2015\nAS 9100D\na ctíme zásady managementu kvality dle\npolitiky kvality\nNaši zákazníci\nAircraft Industries\nBucher Leichtbau AG - Aircraft Interior Solutions\nAERO Vodochody AEROSPACE\nSafran\nSII Engineering Deutschland\nŠkoda Transportation\nAir Ambulance Technology\nSAZ Aerospace\nBrand Engineering\nNabízené služby\nPevnostní kontrola a optimalizace letadlových a jiných konstrukcí s využitím metody konečných prvků, ale i metod a postupů klasické pružnosti pevnosti.\nVýpočty zatížení.\nPříprava detailních MKP modelů součástí a sestav.\nStatické lineární a nelineární analýzy metodou konečných prvků.\nÚnavové a DT výpočty.\nŘešení stability dílců a konstrukcí.\nFrekvenční dynamické analýzy.\nZjištění vlastních frekvencí konstrukcí a jejich optimalizace.\nDokumentace výpočtů, tvorba technických zpráv.\nBěžné konstrukční výpočty součástí a spojů.\nStudie proveditelnosti a posouzení koncepce konstrukce.\nVýpočty v oblasti obranné a speciální techniky.\nVšeobecné letectví\nStanovení zatížení (FAR, CS, AP-23,…).\nPevnostní kontrola a optimalizace tenkostěnné primární konstrukce s využitím MKP a analytických metod\n(HSB, Bruhn, Niu atd.).\nÚnavové a DT analýzy letadlových konstrukcí.\nPříprava detailních MKP modelů dílců a sestav.\nPříprava pevnostních a únavových zkoušek.\nCertifikační zprávy a dokumentace.\nFuselage installations\nDesign optimisation and static strength check\nČíst více\nFuselage FE-model\nLoad capacity calculation and verification\nČíst více\nWing structure FE-model\nFatigue and DT analysis\nČíst více\nMain landing gear\nOverall strength check\nČíst více\nFuselage and wing structure FE-model\nStatic and fatigue strength check, DT analysis\nČíst více\nMain frames and landing gear beams DFEM\nStatic and fatigue strength check\nČíst více\nWing tip tank FE-model\nStrength check\nČíst více\nVybavení kabin dopravních letadel a vrtulníků\nInterface load analýzy pro vybavení kabin velkých dopravních letadel (Galley, Stowages, Racks, Stretchers, atd.).\nFrekvenční dynamické analýzy (SEI, Windmilling, RTCA DO-160G).\nPř"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "TECMOS",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 10,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "TECMOS",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Esteban",
+        "last_name": "Beronne",
+        "title": "Ejecutivo De Cuentas",
+        "email": "",
+        "phone": "",
+        "company": "Tecmos",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 87.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:28",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

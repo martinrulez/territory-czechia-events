@@ -1,0 +1,139 @@
+{
+  "company_key": "ab technologies",
+  "company_name": "AB TECHNOLOGIES",
+  "domain": "www.abmczech.cz",
+  "domain_url": "https://www.abmczech.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "AB TECHNOLOGIES",
+    "opportunity_score": 35,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.77,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.77,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "02764873",
+    "official_name": "AB Metal Technologies s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "G",
+      "255",
+      "461",
+      "28",
+      "68200",
+      "256",
+      "256",
+      "257",
+      "28",
+      "461",
+      "682",
+      "G"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Mladotická 870, 76321 Slavičín, Slavičín, Mladotická, 76321",
+    "is_client": true,
+    "current_products": "AutoCAD LT | Inventor",
+    "total_seats": "2",
+    "current_acv_eur": "3300.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-11-24",
+    "days_to_renewal": "215",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Buildings",
+    "ml_domain": "www.abmczech.cz",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.abmczech.cz",
+    "homepage": {
+      "title": "Site is undergoing maintenance",
+      "description": "Firma ABM CZECH s.r.o. - Váš partner ve světě IT. Výrobce a dodavatel značkových počítačových sestav. Dodavatel kompletního portfolia hardware, software a spotřebních materiálů. Komplexní řešení počítačových sítí, konfigurace a správy. Outsourcing, bezpečnost, tvorba internetových stránek a aplikací.",
+      "text_excerpt": "Site is undergoing maintenance\nPřipravujeme pro Vás nové stránky\nABM CZECH s.r.o.\nSládkova 2666/27, 702 00 Ostrava\nTelefon: 591130707\nEmail: obchod@abmczech.cz"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "AB TECHNOLOGIES",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 6,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "AB TECHNOLOGIES",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:23"
+}

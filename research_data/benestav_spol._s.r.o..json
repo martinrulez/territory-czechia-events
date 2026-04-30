@@ -1,0 +1,133 @@
+{
+  "company_key": "benestav spol. s.r.o.",
+  "company_name": "BENESTAV spol. s.r.o.",
+  "domain": "www.benestav.cz",
+  "domain_url": "https://www.benestav.cz",
+  "events": "HK CR Brno Chamber Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "BENESTAV spol. s.r.o.",
+    "opportunity_score": 35,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.77,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.77,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "16343778",
+    "official_name": "BENESTAV spol. s r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "711",
+      "41000",
+      "46900",
+      "4120",
+      "46900",
+      "711"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "č.p. 157, 67953 Benešov, Benešov, 67953",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-09-13",
+    "days_to_renewal": "143",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Entry",
+    "industry_segment": "Industrial Machinery",
+    "ml_domain": "www.bet-nechanice.cz",
+    "zi_done": true,
+    "employee_count": 9,
+    "revenue": 2037,
+    "zi_company_name": "Benestav",
+    "zi_domain": "www.benestav.cz",
+    "zi_city": "Boskovice",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.benestav.cz",
+    "homepage": {
+      "title": "Benestav spol. s r.o.",
+      "description": "",
+      "text_excerpt": "Benestav spol. s r.o.\nÚVOD\nSTAVEBNÍ PRÁCE\nPROJEKCE\nKONTAKTY\nREFERENCE\nStavební firma Benestav spol. s r.o. vznikla v roce 1991. Od tohoto roku se firma rozvinula na dobře prosperující společnost, která ručí za kvalitu provedené práce. Firma je schopna zabezpečit veškeré stavební práce a to včetně vypracování projektové dokumentace.\nPůsobost firmy se zaměřuje především na okresy Blansko, Prostějov, Svitavy, Brno venkov a Brno město.\nV roce 2004 firma získala certifikát jakosti ČSN EN ISO 9001:2001.\nHlavní činnosti:\n- veškeré stavební práce\n- projekční kancelář\n- odhady nemovitostí\n© 2007 Benestav spol. s r.o."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "BENESTAV spol. s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 5,
+    "all_technologies": [
+      {
+        "product": "PHP 5.3",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "BENESTAV spol. s.r.o.",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:24"
+}

@@ -1,0 +1,82 @@
+{
+  "company_key": "ateq, odštěpný závod",
+  "company_name": "ATEQ, odštěpný závod",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ATEQ, odštěpný závod",
+    "opportunity_score": 28,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.42,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.42,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "27681360",
+    "official_name": "ATEQ PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, odštěpný závod",
+    "legal_form": "421",
+    "nace_codes": [
+      "74",
+      "471",
+      "47780",
+      "461",
+      "71200",
+      "46640",
+      "461",
+      "46690",
+      "471",
+      "4778",
+      "7120",
+      "74"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Mezírka 775/1, Veveří, 60200 Brno, Brno, Mezírka, 60200",
+    "is_client": true,
+    "current_products": "PDMC",
+    "total_seats": "1",
+    "current_acv_eur": "4200.0",
+    "potential_acv_eur": "17350.0",
+    "nearest_renewal": "2026-07-06",
+    "days_to_renewal": "74",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Advanced CAM and manufacturing capabilities",
+    "all_upsells": "Fusion Mfg Ext; Moldflow; Flex",
+    "maturity_label": "Collection",
+    "industry_segment": "Other",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "ATEQ, odštěpný závod",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 13:01"
+}

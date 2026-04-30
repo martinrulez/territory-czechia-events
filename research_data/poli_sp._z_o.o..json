@@ -1,0 +1,81 @@
+{
+  "company_key": "poli sp. z o.o.",
+  "company_name": "Poli sp. z o.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Poli sp. z o.o.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Poli sp. z o.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Sebastian",
+        "last_name": "Kuczak",
+        "title": "Export Head (West)",
+        "email": "",
+        "phone": "",
+        "company": "Poli-Eco Tworzywa Sztuczne Sp z oo",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 86.0
+      },
+      {
+        "first_name": "Tomasz",
+        "last_name": "Gierat",
+        "title": "V-ce Prezes Zarządu",
+        "email": "",
+        "phone": "",
+        "company": "Poli-Eco Tworzywa Sztuczne Sp z oo",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Marcin",
+        "last_name": "Pijanowski",
+        "title": "Przedstawiciel Handlowy",
+        "email": "",
+        "phone": "",
+        "company": "Poli-Eco Tworzywa Sztuczne Sp z oo",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 14:31"
+}

@@ -1,0 +1,486 @@
+{
+  "company_key": "atas elektromotory náchod a.s.",
+  "company_name": "ATAS elektromotory Náchod a.s.",
+  "domain": "www.ametek.com",
+  "domain_url": "https://www.ametek.com",
+  "events": "MSV 2025 Exhibitor Catalog,MSV 2025 Full Exhibitor List",
+  "event_count": 2,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ATAS elektromotory Náchod a.s.",
+    "opportunity_score": 39,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.79,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.79,
+      "event_relevance": 0.5,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "45534543",
+    "official_name": "ATAS elektromotory Náchod a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "25400",
+      "25620",
+      "70200",
+      "25630",
+      "711",
+      "47",
+      "72100",
+      "71200",
+      "25530",
+      "27110",
+      "25500",
+      "25620",
+      "25720",
+      "25730",
+      "27110",
+      "47",
+      "702",
+      "711",
+      "7120",
+      "7219"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Bratří Čapků 722, 54701 Náchod, Náchod, Bratří Čapků, 54701",
+    "is_client": true,
+    "current_products": "AutoCAD LT | Inventor | PDMC",
+    "total_seats": "4",
+    "current_acv_eur": "10300.0",
+    "potential_acv_eur": "14400.0",
+    "nearest_renewal": "2026-10-16",
+    "days_to_renewal": "176",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; AutoCAD (full); Fusion Mfg Ext",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Industrial Machinery",
+    "ml_domain": "www.ametek.com",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "employee_count": 250,
+    "employee_source": "kurzy",
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ametek.com",
+    "homepage": {
+      "title": "AMETEK",
+      "description": "",
+      "text_excerpt": "AMETEK\nThe\ntechnology\nand\ninnovation\nto simplify a complex world\nOur differentiated solutions solve challenges all over the globe.\nREAD MORE\nReliable, resilient\npower\nmanagement\nfor\ndata centers\nData centers power the digital services we rely on every day. Learn how AMETEK solutions address the\ncomplex energy management\nchallenges that data center operators face.\nREAD MORE\nThe\ncareer opportunities\nto let bold talent flourish\nOur inclusive culture empowers our employees to perform at their best.\nREAD MORE\nDe-risking\ndata centers\nReal-time simulation\nis reshaping how data centers manage risk across their power systems. Learn how AMETEK is helping\ndata centers de‑risk power systems\nand accelerate deployment.\nREAD MORE\nEvery day, our technology makes a\nsafer\nsustainable\nand more\nproductive\nworld a reality.\nWe do it by bringing together and investing in passionate, talented people.\nAs a leading global provider\nof differentiated electronic instruments and electromechanical devices, we are proud to solve some of the world’s most complex challenges. Our strength comes from\nfour key areas\nOUR NICHE MARKET FOCUS\nA combined vision for success\nWe target niche markets aligned with secular growth trends that provide multiple avenues of growth.\nOUR GROWTH MODEL\nDesigned to excel\nThe AMETEK Growth Model integrates Operational Excellence, New Product Development, Global and Market Expansion, and Strategic Acquisitions with a focus on cash flow generation and disciplined capital deployment.\nOUR PEOPLE AND CULTURE\nUnited by bright prospects\nWe have a strong performance-driven and decentralized culture made of diverse high-performance teams located across the globe that execute our strategy and embrace our values by doing the right thing every day, in every interaction.\nOUR PERFORMANCE\nProud to be out in front\nOur culture is to outperform. Over the past 15, 10, and 5-year periods we have substantially outperformed the S&P 500 index and the S&P Industrials. We deliver double-digit earnings over the business cycle.\nExplore\nour products\nLife is full of complex challenges\nEach one inspires us to do what we love. To make the world a better place. Not just with our differentiated technologies that improve countless lives, but by\nempowering our people to inspire others\nacross the globe.\nAMETEK CONSISTS OF TWO DIFFERENTIATED OPERATING GROUPS\nOur electronic instruments\nAMETEK is a worldwide leader in the design and manufacturing of advanced analytical, test and measurement instrumentation for the energy, aerospace, power, research, medical and industrial markets.\nBOTH OPERATING GROUPS OCCUPY LEADING POSITIONS IN NICHE MARKETS\nOur electromechanical devices\nWe are world-renowned as a differentiated supplier of automation and precision motion control solutions, and highly engineered electrical interconnects, specialty metals and thermal management systems.\nLearn more about\nAMETEK\nSustainability\nBuilding a culture of Continuous Improvement\nREAD MORE\nAMETEK Connect\nAMETEK Connect"
+    },
+    "about": {
+      "url": "https://www.ametek.com/o-nas",
+      "text": "Custom Error\nCustom Error\nAn error occurred due to some technical issues"
+    },
+    "products": {
+      "url": "https://www.ametek.com/produkty",
+      "text": "Custom Error\nCustom Error\nAn error occurred due to some technical issues"
+    },
+    "contact_page": {
+      "url": "https://www.ametek.com/kontakt",
+      "text": "Custom Error\nCustom Error\nAn error occurred due to some technical issues"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "ATAS elektromotory Náchod a.s.",
+    "autodesk_products": [
+      "3ds Max",
+      "Autodesk AutoCAD",
+      "Autodesk AutoCAD Civil 3D",
+      "Autodesk Inventor",
+      "Autodesk Navisworks",
+      "Autodesk Revit",
+      "Autodesk Vault",
+      "PDQ Inventory",
+      "Vault Payment Solutions",
+      "Veeva Vault CRM"
+    ],
+    "competitor_products": [
+      "Bentley OpenRoads",
+      "Bentley OpenRoads Designer",
+      "Bentley PondPack",
+      "Bentley STAAD",
+      "Bentley StormCAD",
+      "CATIA",
+      "Dassault Systemes",
+      "DraftSight",
+      "ENOVIA",
+      "Mastercam",
+      "Mathcad",
+      "MicroStation",
+      "PTC Co-Create",
+      "PTC Creo",
+      "PTC Integrity",
+      "PTC Windchill PLM",
+      "Siemens",
+      "Siemens NX",
+      "Siemens PLM",
+      "SketchUp",
+      "Solidworks",
+      "Trimble"
+    ],
+    "cad_bim_other": [
+      "ANSYS",
+      "Assemble",
+      "Autodesk",
+      "Built",
+      "Cache Control",
+      "Cimatron",
+      "HEC-RAS",
+      "HydroCAD",
+      "InVision",
+      "Innovyze",
+      "Mathematica",
+      "Sigma",
+      "Site Director",
+      "SolidCAM"
+    ],
+    "total_technologies": 986,
+    "all_technologies": [
+      {
+        "product": "GitHub Copilot",
+        "vendor": "GitHub, Inc.",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PyTorch",
+        "vendor": "PyTorch",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Made2Manage",
+        "vendor": "Aptean Inc",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Aptean",
+        "vendor": "Aptean Inc",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Wrike",
+        "vendor": "Wrike, Inc.",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Alteryx",
+        "vendor": "Alteryx, Inc.",
+        "category": "Advanced Analytics and Data Science",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Operative",
+        "vendor": "SintecMedia Ltd.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Vault Payment Solutions",
+        "vendor": "Vault Payment Solutions Group Pty Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "SAP Ariba",
+        "vendor": "SAP SE",
+        "category": "Procurement",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "ServiceNow",
+        "vendor": "ServiceNow, Inc.",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Sterling",
+        "vendor": "Sterling Infosystems Inc.",
+        "category": "Pre-Employment Assessment",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "HR Manager",
+        "vendor": "HR Manager Talent Solutions International",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Adobe Creative Cloud",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Microsoft Copilot",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "TypeScript",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Defender for Endpoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Endpoint Protection",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Sentinel",
+        "vendor": "WhiteHat Security",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "AWS CloudFormation",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Azure SQL Database",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "BlueSnap",
+        "vendor": "BlueSnap, Inc.",
+        "category": "Payment Processing",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Measured",
+        "vendor": "Measured, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Altium",
+        "vendor": "Altium LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Oracle Cloud Infrastructure",
+        "vendor": "Oracle Corporation",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Dun & Bradstreet",
+        "vendor": "Dun & Bradstreet, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft Fabric",
+        "vendor": "Microsoft Corporation",
+        "category": "Data Integration",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Faro",
+        "vendor": "Faro",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Route",
+        "vendor": "Route App Inc.",
+        "category": "Inventory and Order Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Orion",
+        "vendor": "Orion Advisor Solutions, Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Sitecore Cms",
+        "vendor": "Sitecore",
+        "category": "Enterprise Content Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Asc",
+        "vendor": "Assessment Systems Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Atlas Dental Specialists",
+        "vendor": "Atlas Dental Specialists",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Dynamics Nav Erp",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "ASIC",
+        "vendor": "AnySilicon",
+        "category": "Server Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "ICP-OES",
+        "vendor": "Agilent",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "TI DSP",
+        "vendor": "Texas Instruments",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SkyBitz",
+        "vendor": "SkyBitz",
+        "category": "Transportation and Fleet Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "SAP Security",
+        "vendor": "SAP SE",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "SAP Basis",
+        "vendor": "SAP SE",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "NVIDIA",
+        "vendor": "NVIDIA Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Metadata",
+        "vendor": "Metadata",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Mathematica",
+        "vendor": "Wolfram",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Facebook Business Manager",
+        "vendor": "Facebook, Inc.",
+        "category": "Business Process Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "BackOffice Associates",
+        "vendor": "BackOffice Associates",
+        "category": "Data Quality Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "6sense",
+        "vendor": "6Sense Insights, Inc.",
+        "category": "Account-Based Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Oracle Enterprise Resource Planning",
+        "vendor": "Oracle Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Tricentis",
+        "vendor": "Tricentis GmbH",
+        "category": "Testing and QA",
+        "categoryParent": "DevOps"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ATAS elektromotory Náchod a.s.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Joanna",
+        "last_name": "Franklin",
+        "title": "Executive Assistant To the Chairman and Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "AMETEK",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 83.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 08:33"
+}

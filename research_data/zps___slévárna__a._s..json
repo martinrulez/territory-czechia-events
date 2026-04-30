@@ -1,0 +1,102 @@
+{
+  "company_key": "zps – slévárna, a. s.",
+  "company_name": "ZPS – Slévárna, a. s.",
+  "domain": "www.zps.cz",
+  "domain_url": "https://www.zps.cz",
+  "events": "Czech Foundry Association Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ZPS – Slévárna, a. s.",
+    "opportunity_score": 21,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.58,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.58,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "47908319",
+    "official_name": "ZPS - SLÉVÁRNA, a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "2451",
+      "62",
+      "72100",
+      "23",
+      "461",
+      "23",
+      "2451",
+      "461",
+      "620",
+      "7219"
+    ],
+    "ares_segments": [
+      "D&M",
+      "M&E"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "třída 3. května 1172, Malenovice, 76302 Zlín, Zlín, třída 3. května, 76302",
+    "zi_done": true,
+    "employee_count": 2,
+    "revenue": 273,
+    "zi_company_name": "Tajmac-zps",
+    "zi_domain": "www.zps.cz",
+    "zi_city": "ZlÃn",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.zps.cz",
+    "homepage": {
+      "title": "",
+      "description": "",
+      "text_excerpt": "TAJMAC-ZPS, a.s.\ntÅ. 3.kvÄtna 1180\n763 02 ZlÃ­n, Malenovice\nTel.: +420 577 532 072\nE-mail: info@tajmac-zps.cz\nhttp://www.tajmac-zps.cz\nZPS-SLÃVÃRNA, a.s.\ntÅ. 3.kvÄtna 1172\n763 02 ZlÃ­n, Malenovice\nTel.: +420 577 532 411\nE-mail: slevarna@sl.zps.cz\nhttp://www.zps-slevarna.cz\nZPS-MECHANIKA, a.s.\ntÅ. 3.kvÄtna 1180\n763 02 ZlÃ­n, Malenovice\nTel.: +420 577 533 585\nE-mail: info@zps-mechanika.cz\nhttp://www.zps-mechanika.cz\nZPS-TRANSPORT, a.s.\ntÅ. 3.kvÄtna 1174\n763 02 ZlÃ­n, Malenovice\nTel.: +420 733 783 040\nE-mail: truck@zps-transport.cz\nhttp://www.zps-transport.cz"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ZPS – Slévárna, a. s.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Michal",
+        "last_name": "Máčala",
+        "title": "Mistr Modelárna - Technolog",
+        "email": "macala.m@sl.zps.cz",
+        "phone": "",
+        "company": "Tajmac-zps",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 95.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 15:38"
+}

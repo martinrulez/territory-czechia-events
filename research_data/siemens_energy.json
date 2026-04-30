@@ -1,0 +1,482 @@
+{
+  "company_key": "siemens energy",
+  "company_name": "Siemens Energy",
+  "domain": "www.siemens-energy.com",
+  "domain_url": "https://www.siemens-energy.com",
+  "events": "Lean Summit CzechoSlovakia 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Siemens Energy",
+    "opportunity_score": 36,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.82,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.82,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "05597919",
+    "official_name": "Siemens Energy Austria GmbH - odštěpný závod Praha",
+    "legal_form": "421",
+    "nace_codes": [
+      "27900",
+      "62",
+      "26300",
+      "46900",
+      "711",
+      "471",
+      "71200",
+      "26110",
+      "282",
+      "33140",
+      "43210",
+      "461",
+      "26110",
+      "26300",
+      "27900",
+      "282",
+      "33140",
+      "43210",
+      "461",
+      "46900",
+      "471",
+      "620",
+      "711",
+      "7120"
+    ],
+    "ares_segments": [
+      "D&M",
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Siemensova 2715/1, Stodůlky, 15500 Praha 5, Praha, Siemensova, 15500",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "3",
+    "current_acv_eur": "1500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-11-20",
+    "days_to_renewal": "211",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "TD SYNNEX Czech s.r.o. (NCR)",
+    "maturity_label": "Entry",
+    "industry_segment": "Construction Services",
+    "ml_domain": "www.iceenergy.cz",
+    "zi_done": true,
+    "employee_count": 100000,
+    "revenue": 46417615,
+    "zi_company_name": "Siemens Energy",
+    "zi_domain": "www.siemens-energy.com",
+    "zi_city": "Munich",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.siemens-energy.com",
+    "homepage": {
+      "title": "Siemens Energy | Let's make tomorrow different today",
+      "description": "We support companies and countries to reduce emissions across the energy landscape – for a more reliable, affordable and sustainable energy system.",
+      "text_excerpt": "Siemens Energy | Let's make tomorrow different today\nWelcome to Siemens Energy - a global leader in energy technology\nExplore our products and services\nWe support companies and countries to reduce emissions across the energy landscape – for a more reliable, affordable and sustainable energy system.\nDiscover more about Siemens Energy\nIf you think the grid is boring, try life without it\nThe power grid is the backbone of the energy system - and we're making it stronger\nDiscover strategies for grid modernization and expansion\nLatest news\nFebruary 26, 2026\nSiemens Energy Annual General Meeting approves all agenda items and resolves to pay a dividend of €0.70\nRead more\nFebruary 11, 2026\nQ1 FY 2026: Continued market momentum drives strong start to the year\nRead more\nFebruary 3, 2026\nSiemens Energy is investing $1 billion and creating highly skilled jobs in the United States\nRead more\nMore press releases\nLearn more about a career with Siemens Energy,\nand how you can make tomorrow different, today.\nExplore careers at Siemens Energy"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Siemens Energy",
+    "autodesk_products": [
+      "3ds Max",
+      "Autodesk Inventor",
+      "Autodesk Navisworks",
+      "Autodesk Revit"
+    ],
+    "competitor_products": [
+      "Bentley OpenPlant",
+      "Bentley ProjectWise",
+      "Bentley STAAD",
+      "Dassault Dymola",
+      "Dassault Systemes",
+      "Esprit",
+      "Mastercam",
+      "Mathcad",
+      "MicroStation",
+      "PTC Creo",
+      "PTC Integrity",
+      "PTC Windchill PLM",
+      "Preactor",
+      "RecurDyn",
+      "Siemens",
+      "Siemens DCS",
+      "Siemens Healthcare",
+      "Siemens SIPROTEC 5",
+      "Siemens Teamcenter PLM Software",
+      "SimCenter",
+      "Simulia Abaqus Unified FEA",
+      "SketchUp",
+      "Solidworks"
+    ],
+    "cad_bim_other": [
+      "ANSYS",
+      "ANSYS CFX",
+      "ANSYS Mechanical",
+      "ANSYS Mechanical Enterprise",
+      "Assemble",
+      "Autodesk",
+      "Built",
+      "CAESAR II",
+      "Captura",
+      "ETABS",
+      "InVision",
+      "PATRAN",
+      "RIB iTWO",
+      "Site Director",
+      "Studio 5000"
+    ],
+    "total_technologies": 622,
+    "all_technologies": [
+      {
+        "product": "Centro",
+        "vendor": "Centro, Inc",
+        "category": "Demand Side Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft SQL Server",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Design Manager",
+        "vendor": "Design Manager",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Windows Server",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Powerplatform",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "eCounsel",
+        "vendor": "Mitratech Holdings, Inc",
+        "category": "Legal Solutions",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "FactoryTalk Optix",
+        "vendor": "Rockwell Automation Inc.",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Digital Adoption",
+        "vendor": "Whatfix Inc",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "RIB iTWO",
+        "vendor": "RIB Software SE",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Optix",
+        "vendor": "NVIDIA Corporation",
+        "category": "Facilities Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Metadata",
+        "vendor": "Metadata",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Collibra",
+        "vendor": "Collibra",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Relay",
+        "vendor": "Facebook, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SketchUp",
+        "vendor": "Trimble Inc.",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "OAuth",
+        "vendor": "OAuth",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Foreman",
+        "vendor": "Foreman",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "EventsAIR",
+        "vendor": "Centium Software",
+        "category": "Event Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Flywheel",
+        "vendor": "Fancy Chap, Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SAP Warehouse Management",
+        "vendor": "SAP SE",
+        "category": "Warehouse Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "SAP Integrated Business Planning",
+        "vendor": "SAP SE",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Classifier",
+        "vendor": "Willis Towers Watson PLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Proxmox VE",
+        "vendor": "Proxmox Server Solutions GmbH",
+        "category": "Virtualization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Resolver",
+        "vendor": "Resolver",
+        "category": "Governance, Risk and Compliance",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Sequence",
+        "vendor": "PNMsoft",
+        "category": "Blockchain",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Seeq",
+        "vendor": "Seeq Corporation",
+        "category": "Advanced Analytics and Data Science",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SAP BW/4HANA",
+        "vendor": "SAP SE",
+        "category": "Data Warehousing",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "VMware vCenter Server",
+        "vendor": "VMware, Inc",
+        "category": "Virtualization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "VMware vSphere",
+        "vendor": "VMware, Inc",
+        "category": "Virtualization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Como",
+        "vendor": "Como",
+        "category": "Loyalty and Gamification",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft Copilot",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Fis Global",
+        "vendor": "Fidelity National Information Services Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Gympass",
+        "vendor": "Gympass",
+        "category": "Fitness and Gym Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Simon",
+        "vendor": "Institutional Capital Network, Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Stardog",
+        "vendor": "Stardog Union, Inc.",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "OpenAI",
+        "vendor": "OpenAI",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Affinity",
+        "vendor": "Affinity",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Navis",
+        "vendor": "Navis LLC",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "3D Hubs",
+        "vendor": "HUBS B.V.",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Time and Attendance",
+        "vendor": "Workforce Control Solutions",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "GOM",
+        "vendor": "ZEISS Group",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "UKG",
+        "vendor": "UKG Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Demand Planning",
+        "vendor": "Blue Yonder Group, Inc",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Encompass",
+        "vendor": "Encompass Corporation",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Siemens Energy",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 12:14",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

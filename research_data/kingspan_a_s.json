@@ -1,0 +1,81 @@
+{
+  "company_key": "kingspan_a_s",
+  "company_name": "Kingspan a.s.",
+  "domain": "",
+  "events": "Czech Green Building Council Members",
+  "technographics": {
+    "success": true,
+    "company": "Kingspan a.s.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 1,
+    "all_technologies": [
+      {
+        "product": "Google AdSense",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ŠTEFAN MAKARIV",
+        "firstName": "ŠTEFAN",
+        "lastName": "MAKARIV",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JAN KRKOŠKA",
+        "firstName": "JAN",
+        "lastName": "KRKOŠKA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DAVID KAŠÍK",
+        "firstName": "DAVID",
+        "lastName": "KAŠÍK",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "THOMAS FLYNN",
+        "firstName": "THOMAS",
+        "lastName": "FLYNN",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:26",
+  "website_data": {
+    "success": false,
+    "domain": "https://www.kingpanpanels.com",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

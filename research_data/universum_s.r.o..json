@@ -1,0 +1,139 @@
+{
+  "company_key": "universum s.r.o.",
+  "company_name": "UNIVERSUM s.r.o.",
+  "domain": "www.universumsro.sk",
+  "domain_url": "https://www.universumsro.sk",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "UNIVERSUM s.r.o.",
+    "opportunity_score": 18,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.4,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.4,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "00535567",
+    "official_name": "UNIVERSUM spol. s r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "49410",
+      "95310",
+      "41000",
+      "46830",
+      "477",
+      "77220",
+      "471",
+      "4120",
+      "45200",
+      "46730",
+      "471",
+      "477",
+      "49410",
+      "77290"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Skalice 79, 73801 Frýdek-Místek, Frýdek-Místek, 73801",
+    "zi_done": true,
+    "employee_count": 15,
+    "revenue": 1817,
+    "zi_company_name": "UNIVERSUM sro",
+    "zi_domain": "www.universumsro.sk",
+    "zi_city": "",
+    "zi_country": "Slovakia",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.universumsro.sk",
+    "homepage": {
+      "title": "UNIVERSUM",
+      "description": "",
+      "text_excerpt": "UNIVERSUM\nPrístupové systémy\nČítaj viac\nElektroinštalácie\nČítaj viac\nKamerové systémy\nČítaj viac\nZabezpečovacie systémy\nČítaj viac\nNaše projekty"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "UNIVERSUM s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "UNIVERSUM s.r.o.",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:55"
+}

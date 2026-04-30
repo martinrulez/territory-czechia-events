@@ -1,0 +1,209 @@
+{
+  "company_key": "sensority",
+  "company_name": "Sensority",
+  "domain": "www.sensority.net",
+  "domain_url": "https://www.sensority.net",
+  "events": "URBIS Smart Cities 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Sensority",
+    "opportunity_score": 30,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.53,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.53,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "06084206",
+    "official_name": "Sensority, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46900",
+      "26110",
+      "47",
+      "2611",
+      "46900",
+      "47"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "náměstí 14. října 1307/2, Smíchov, 15000 Praha 5, Praha, náměstí 14. října, 15000",
+    "is_client": true,
+    "current_products": "PDMC",
+    "total_seats": "1",
+    "current_acv_eur": "4200.0",
+    "potential_acv_eur": "17350.0",
+    "nearest_renewal": "2027-10-21",
+    "days_to_renewal": "546",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Advanced CAM and manufacturing capabilities",
+    "all_upsells": "Fusion Mfg Ext; Moldflow; Flex",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Industrial Machinery",
+    "ml_domain": "www.sensit.cz",
+    "zi_done": true,
+    "employee_count": 23,
+    "revenue": 5487,
+    "zi_company_name": "Sensority",
+    "zi_domain": "www.sensority.net",
+    "zi_city": "Ashdod",
+    "zi_country": "Israel",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "revenue_growth": 0.0,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.sensority.net",
+    "homepage": {
+      "title": "Запрещенное место",
+      "description": "",
+      "text_excerpt": "Запрещенное место\n⚙️⚙️⚙️\nIt looks like you're accessing our website from a restricted location.\nLocal regulations prevent us from allowing you to log in to our website."
+    },
+    "about": {
+      "url": "https://www.sensority.net/o-nas",
+      "text": "Запрещенное место\n⚙️⚙️⚙️\nIt looks like you're accessing our website from a restricted location.\nLocal regulations prevent us from allowing you to log in to our website."
+    },
+    "products": {
+      "url": "https://www.sensority.net/produkty",
+      "text": "Запрещенное место\n⚙️⚙️⚙️\nIt looks like you're accessing our website from a restricted location.\nLocal regulations prevent us from allowing you to log in to our website."
+    },
+    "contact_page": {
+      "url": "https://www.sensority.net/kontakt",
+      "text": "Запрещенное место\n⚙️⚙️⚙️\nIt looks like you're accessing our website from a restricted location.\nLocal regulations prevent us from allowing you to log in to our website."
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Sensority",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 6,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Amazon Web Hosting",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Endurance International Group",
+        "vendor": "Endurance International Group Holdings, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Sensority",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Jan",
+        "last_name": "Palan",
+        "title": "Co-Founder & Chief Financial Officer & Chief Operating Officer",
+        "email": "jan.palan@sensority.eu",
+        "phone": "",
+        "company": "Sensority",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 99.0
+      },
+      {
+        "first_name": "Alexey",
+        "last_name": "Emilyanov",
+        "title": "Full Stack Engineer (Node Js)",
+        "email": "",
+        "phone": "",
+        "company": "Sensority",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Jana",
+        "last_name": "Dvořáčková",
+        "title": "Junior PHP Developer",
+        "email": "",
+        "phone": "",
+        "company": "Sensority",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Samuel",
+        "last_name": "Andrade",
+        "title": "Sales",
+        "email": "",
+        "phone": "",
+        "company": "Sensority",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 08:46",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "moldflow"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "company_key": "regloplas",
+  "company_name": "REGLOPLAS",
+  "domain": "www.creoplan.cz",
+  "domain_url": "https://www.creoplan.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "REGLOPLAS",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "AutoCAD LT | Revit LT",
+    "total_seats": "4",
+    "current_acv_eur": "2000.0",
+    "potential_acv_eur": "18800.0",
+    "nearest_renewal": "2026-10-07",
+    "days_to_renewal": "167",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Entry",
+    "industry_segment": "Architecture Services",
+    "ml_domain": "www.creoplan.cz",
+    "zi_done": true,
+    "zi_error": "No company found"
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.creoplan.cz",
+    "homepage": {
+      "title": "CreoPlan s.r.o. – Projekční kancelář – Projekční kancelář",
+      "description": "",
+      "text_excerpt": "CreoPlan s.r.o. – Projekční kancelář – Projekční kancelář\nSkip to content\nDomů\nO nás\nNaše služby\nReference\nKontakt\nDomů\nO nás\nNaše služby\nReference\nKontakt\nProjekční a inženýrská kancelář\nRodinné a bytové domy, občanská vybavenost i průmysl\nO nás\nNaše společnost se zabývá projekční činností ve výstavbě, zajišťujeme kompletní přípravu projektové dokumentace od studie přes územní a stavební řízení až po prováděcí dokumentaci. Zajistíme veškeré potřebné podklady a doklady k vydání stavebního povolení. Dále nabízíme autorský, technický a stavební dozor.\nNaše služby\nProjektové dokumentace\nZpracováváme kompletní projektové dokumentace pro pozemní stavby dle vyhlášky č. 405/2017 Sb..\n• Architektonické studie\n• Dokumentace k územnímu a stavebnímu řízení\n• Prováděcí projektová dokumentace\n• Projektová dokumentace pro výběr zhotovitele\n• Projektová dokumentace bouracích prací\n• Projektová dokumentace změny užívání stavby\n• Pasporty staveb\nDílčí části projektové dokumentace\n• Architektonické studie\n• Stavební část projektové dokumentace\n• Statika\n• Projekt vnitřní kanalizace a kanalizační přípojky\n• Projekt vnitřního vodovodu a vodovodní              přípojky\n• Projekt plynovodu a plynovodní přípojky\n• Projekt vytápění a vzduchotechniky\n• Projekt elektroinstalace a hromosvodu\n• Požárně bezpečnostní řešení\n• A další…\nA dále zajistíme\n• Geodetické práce\n• Radonový průzkum\n• Geologický a hydrogeologický průzkum\n• Návrh oplocení a zahrad\n• Zajištění technického dozoru stavby\n• Zajištění technického dozoru investora\n• Autorský dozor\nReference\nZákladní škola Živanice\nBytový dům, třída Míru, Pardubice\nDecathlon Pardubice\nVíce referencí\nSjednejte si s námi schůzku\nKontaktujte nás\nVaše jméno*\nVáš e-mail*\nPředmět\nVaše zpráva\nCreoPlan s.r.o.\nPardubice - Zelené Předměstí, 17. listopadu 400, PSČ 530 02\nIČO: 05209072\nDIČ: CZ05209072\nDatová schránka: uu7xy4y\nBankovní spojení:\nFio banka a.s. 2701024987/2010\ninfo@creoplan.cz\n+420 776 532 378\n© 2026\nCreoPlan s.r.o."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "REGLOPLAS",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 14:54",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [],
+      "competitor": [
+        "creo"
+      ],
+      "generic_cad": []
+    }
+  }
+}

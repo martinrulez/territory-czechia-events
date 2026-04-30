@@ -1,0 +1,41 @@
+{
+  "company_key": "aeroterm_a_s",
+  "company_name": "AEROTERM, a.s.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "SVATOPLUK CHAMRAD",
+        "firstName": "SVATOPLUK",
+        "lastName": "CHAMRAD",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "LIBOR KRHUT",
+        "firstName": "LIBOR",
+        "lastName": "KRHUT",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:18"
+}

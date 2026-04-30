@@ -1,0 +1,78 @@
+{
+  "company_key": "imi_international_s_r_o",
+  "company_name": "IMI International, s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JAROSLAV DVOŘÁK",
+        "firstName": "JAROSLAV",
+        "lastName": "DVOŘÁK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "IVAN MOKRÝ",
+        "firstName": "IVAN",
+        "lastName": "MOKRÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "VLADISLAV STARÝ",
+        "firstName": "VLADISLAV",
+        "lastName": "STARÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DUŠAN HEJNA",
+        "firstName": "DUŠAN",
+        "lastName": "HEJNA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "RADIM ZÁRUBA",
+        "firstName": "RADIM",
+        "lastName": "ZÁRUBA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:41",
+  "website_data": {
+    "success": false,
+    "domain": "https://www.imi-international.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

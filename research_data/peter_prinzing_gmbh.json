@@ -1,0 +1,121 @@
+{
+  "company_key": "peter prinzing gmbh",
+  "company_name": "Peter Prinzing GmbH",
+  "domain": "www.prinzing-online.de",
+  "domain_url": "https://www.prinzing-online.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Peter Prinzing GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 5,
+    "revenue": 990,
+    "zi_company_name": "Peter Prinzing",
+    "zi_domain": "www.prinzing-online.de",
+    "zi_city": "Lonsee",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.prinzing-online.de",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Peter Prinzing GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Marc",
+        "last_name": "Hambrecht",
+        "title": "Vertriebstechniker",
+        "email": "",
+        "phone": "",
+        "company": "Peter Prinzing",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Oliver",
+        "last_name": "Prinzing",
+        "title": "Geschäftsführer",
+        "email": "",
+        "phone": "",
+        "company": "Peter Prinzing",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 93.0
+      },
+      {
+        "first_name": "Julian",
+        "last_name": "Hochstatter",
+        "title": "Leitung Konstruktion",
+        "email": "",
+        "phone": "",
+        "company": "Peter Prinzing",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Nadine",
+        "last_name": "Eckhardt",
+        "title": "Vertriebsassistentin Maschinenbau",
+        "email": "",
+        "phone": "",
+        "company": "Peter Prinzing",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Andreas",
+        "last_name": "Kohn",
+        "title": "Servicetechniker",
+        "email": "",
+        "phone": "",
+        "company": "Peter Prinzing",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 17:11"
+}

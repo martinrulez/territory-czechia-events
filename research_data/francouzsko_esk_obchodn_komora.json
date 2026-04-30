@@ -1,0 +1,71 @@
+{
+  "company_key": "francouzsko_esk_obchodn_komora",
+  "company_name": "FRANCOUZSKO-ČESKÁ OBCHODNÍ KOMORA",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Roland Bourgeois",
+        "firstName": "Roland",
+        "lastName": "Bourgeois",
+        "jobTitle": "President",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Lenka Lesová",
+        "firstName": "Lenka",
+        "lastName": "Lesová",
+        "jobTitle": "Senior Business Consultant and Project Manager and Interpreter (FR-CZ)",
+        "email": "lenka@chambre.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jolana Kolovrátníková",
+        "firstName": "Jolana",
+        "lastName": "Kolovrátníková",
+        "jobTitle": "Manager, Communications",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Martina Pitrunová",
+        "firstName": "Martina",
+        "lastName": "Pitrunová",
+        "jobTitle": "Event Specialist & Manager, Office",
+        "email": "martina@chambre.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Milena Dytrychová",
+        "firstName": "Milena",
+        "lastName": "Dytrychová",
+        "jobTitle": "Office Manager",
+        "email": "milena@chambre.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:06"
+}

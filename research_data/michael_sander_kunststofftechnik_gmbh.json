@@ -1,0 +1,162 @@
+{
+  "company_key": "michael sander kunststofftechnik gmbh",
+  "company_name": "Michael Sander Kunststofftechnik GmbH",
+  "domain": "www.sander-kunststofftechnik.de",
+  "domain_url": "https://www.sander-kunststofftechnik.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Michael Sander Kunststofftechnik GmbH",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Fusion + PowerMill",
+    "total_seats": "1",
+    "current_acv_eur": "1000.0",
+    "potential_acv_eur": "4550.0",
+    "nearest_renewal": "2028-06-22",
+    "days_to_renewal": "791",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle 1 standalone D&M tools into one collection",
+    "all_upsells": "PDMC; Flex",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Consumer Products",
+    "ml_domain": "www.sktech.cz",
+    "zi_done": true,
+    "employee_count": 6,
+    "revenue": 984,
+    "zi_company_name": "Michael Sander Kunststofftechnik",
+    "zi_domain": "www.sander-kunststofftechnik.de",
+    "zi_city": "Dresden",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.sander-kunststofftechnik.de",
+    "homepage": {
+      "title": "Sander Kunststofftechnik Dresden | Pforzheimer Straße 29, 01189 Dresden-Plauen, Germany",
+      "description": "Rapid Prototyping Kunststoff, Prototypenfertigung Kunststoff, Kleinserienfertigung Kunststoff, CNC 5-Achs Fräsen Kunststoff, Vakuumguss, Kunststoff Prototypen Hersteller, Kunststoff Musterteile, Rapid Prototyping Dienstleister Deutschland Kleinserie Kunststoff, Stereolithographie, Additive Manufacturing, Baugruppen Kleinserie, Kunststoff Oberflächenveredelung, 3D-Messen Bauteile, Kunststoff Spritzguss Prototyp, Kunststoff Prototypenbau Deutschland, Sander Kunststofftechnik Dresden, Kundenwunsch",
+      "text_excerpt": "Sander Kunststofftechnik Dresden | Pforzheimer Straße 29, 01189 Dresden-Plauen, Germany\ntop of page\nMit Leidenschaft\nzum Erfolg.\nRAPID PROTOTYPING\nADDITIVE MANUFACTURING\nKLEINSERIEN IN KUNSTSTOFF\nCNC-FRÄSEN\nDRAHTERODIEREN\nOBERFLÄCHENVEREDELUNG\n3D-MESSEN\nDOWNLOAD\nPRODuktion von Prototypen und kleinserien\nSie benötigen Einzelstücke oder Kleinserien?\nSie suchen Konstruktionsmuster oder\nAnschauungsstücke? Wir fertigen dies nach\nIhren Vorgaben ab Stückzahl eins.\nSchnell, flexibel, hochwertig, termintreu. Sie haben eine\nBaugruppe, die Sie kostengünstiger in Kleinserie herstellen\nwollen? Wir haben die Erfahrung und die Verfahren, um Sie rundum unterstützen zu können.\nbottom of page"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.sander-kunststofftechnik.de/kontakt",
+      "text": "Kontakt | Sander Kunststofftechnik\ntop of page\nKONTAKT\nSendeN SIE uns eine Nachricht und wir melden uns in Kürze.\nName\nVorname\nE-Mail-Adresse\nTelefonnummer\nBetreff\nNachricht\nSenden\nVielen Dank!\nKontaktformular\nbottom of page"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Michael Sander Kunststofftechnik GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 12,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookie Consent",
+        "vendor": "Silktide Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Hetzner",
+        "vendor": "Hetzner Online GmbH",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Sectigo",
+        "vendor": "Sectigo Limited",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Adobe Typekit",
+        "vendor": "Adobe Inc.",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Michael Sander Kunststofftechnik GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 08:58"
+}

@@ -1,0 +1,51 @@
+{
+  "company_key": "wilo_cs_s_r_o",
+  "company_name": "WILO CS, s.r.o.",
+  "domain": "",
+  "events": "Czech Green Building Council Members",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JAN MATĚJOVSKÝ",
+        "firstName": "JAN",
+        "lastName": "MATĚJOVSKÝ",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "TOMÁŠ KLÍMA",
+        "firstName": "TOMÁŠ",
+        "lastName": "KLÍMA",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JAN CIDLINSKÝ",
+        "firstName": "JAN",
+        "lastName": "CIDLINSKÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:41"
+}

@@ -1,0 +1,98 @@
+{
+  "company_key": "x-metal s.r.l.",
+  "company_name": "X-Metal S.r.l.",
+  "domain": "www.x-metal.it",
+  "domain_url": "https://www.x-metal.it",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "X-Metal S.r.l.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 4,
+    "revenue": 2691,
+    "zi_company_name": "Xmetal",
+    "zi_domain": "www.x-metal.it",
+    "zi_city": "Milano",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.x-metal.it",
+    "homepage": {
+      "title": "X-Metal",
+      "description": "Think Make Insert",
+      "text_excerpt": "X-Metal\nVai al contenuto\nINSERTI\nin METALLO DURO\nStandard ISO e Speciali\nINSERTI\nin METALLO DURO\nStandard ISO e Speciali\nLE NOSTRE SOLUZIONI\nPER LE LAVORAZIONI CON ASPORTAZIONE DEL TRUCIOLO\nX-Metal\nè specializzata nella produzione di\ninserti standard e speciali in metallo duro\nNel nostro catalogo HMW troverai l’inserto in metallo duro perfetto\nper le tue  applicazioni, materiali da lavorare e parametri di taglio.\nAPPLICAZIONI\nMATERIALI\nPARAMETRI DI TAGLIO\nTi invitiamo a consultare la nostra vasta gamma di prodotti standard nel nostro catalogo.\nScarica i cataloghi\nHai una richiesta particolare?\nSiamo leader nella produzione di inserti specialI con geometrie create ad hoc.\nContattaci\nINSERTI ISO\nSCOPRI I NOSTRI PRODOTTI\nCHI SIAMO\nX-Metal è una azienda italiana a conduzione familiare in cui tradizione, valori e qualità si intrecciano saldamente nel marchio HMW.\nMuoviamo i primi passi nel mercato italiano circa 40 anni fa come\npartner produttivo\ndi grandi aziende del settore.\nNel 2014 nasce il marchio registrato HMW e cominciamo a produrre i nostri\ninserti in metallo duro\nContestualmente alla crescita aziendale in termini di parco macchine e personale, si allarga il mercato di riferimento con la collaborazione con nuovi\npartner europei\ne la partecipazione a\nprogetti sempre più complessi\ned articolati\nSCOPRI DI PIÙ\nNEWS\nCompila il modulo per ricevere i nostri cataloghi\nRichiesta cataloghi\nSubscribe\nNome\nEmail\nSeleziona il catalogo che vuoi ricevere\nCatalogo Tornitura\nCatalogo fresatura\nCatalogo troncatura\nMessaggio\nHo preso visione della\nPrivacy Policy\nInvia"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.x-metal.it/contact",
+      "text": "Contatti - X-Metal\nVai al contenuto\nContatti\nvendite@x-metal.it\n+39 0331 454829\nVia S. Caboto, 5 - 20025 Legnano (MI)\nContatti generico IT\nUpdates\nNome\nCognome\nEmail\nAzienda\nMessaggio\nHo preso visione della\nPrivacy Policy\nInvia\nIl network di X-Metal\nVuoi diventare nostro distributore?\nContatti nuovo distributore\nContact\nNome\nEmail\nAzienda\nMessaggio\nHo preso visione della\nPrivacy Policy\nInvia\nCompila il modulo per ricevere i nostri cataloghi\nRichiesta cataloghi\nNewsletter\nNome\nEmail\nSeleziona il catalogo che vuoi ricevere\nCatalogo Tornitura\nCatalogo fresatura\nCatalogo troncatura\nMessaggio\nHo preso visione della\nPrivacy Policy\nInvia"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "X-Metal S.r.l.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 4,
+    "all_technologies": [
+      {
+        "product": "Google Cloud Platform",
+        "vendor": "Google LLC",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Cloud Web Serving",
+        "vendor": "Google LLC",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "1&1 Hosting",
+        "vendor": "1&1 IONOS Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "X-Metal S.r.l.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 16:31"
+}

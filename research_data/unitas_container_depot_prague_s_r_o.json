@@ -1,0 +1,41 @@
+{
+  "company_key": "unitas_container_depot_prague_s_r_o",
+  "company_name": "Unitas Container Depot (Prague) s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "SAMUEL MATTHEW CARL PONNIAH",
+        "firstName": "SAMUEL MATTHEW CARL",
+        "lastName": "PONNIAH",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MIROSLAV HOJKA",
+        "firstName": "MIROSLAV",
+        "lastName": "HOJKA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:23"
+}

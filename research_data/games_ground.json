@@ -1,0 +1,205 @@
+{
+  "company_key": "games ground",
+  "company_name": "Games Ground",
+  "domain": "www.mesgroup.cz",
+  "domain_url": "https://www.mesgroup.cz",
+  "events": "Game Access Conference '26",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Games Ground",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "PDMC",
+    "total_seats": "2",
+    "current_acv_eur": "8400.0",
+    "potential_acv_eur": "17350.0",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Advanced CAM and manufacturing capabilities",
+    "all_upsells": "Fusion Mfg Ext; Moldflow; Flex",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Building Products & Fabricat'n",
+    "ml_domain": "www.mesgroup.cz",
+    "zi_done": true,
+    "zi_error": "No company found"
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.mesgroup.cz",
+    "homepage": {
+      "title": "MESgroup Czech | CNC frézování a soustružení | elektro-mechanické montáže | svařence – –",
+      "description": "",
+      "text_excerpt": "MESgroup Czech | CNC frézování a soustružení | elektro-mechanické montáže | svařence – –\nPřeskočit na obsah\nPOMŮŽEME VÁM S VÝROBOU VAŠICH PRODUKTŮ\nJsme\nvýrobně-obchodní firmou\na pomáháme svým zákazníkům realizovat dodávky v oblasti\nstrojírenství\nZaměřujeme se na\nfrézované, soustružené, broušené, přesné obráběné díly a veškeré zpracování plechů a zámečnické práce\nSamozřejmostí je pro nás zajištění\ndoplňkových služeb\nv podobě konzultací se zákazníkem, přechodného skladování výrobků, kontroly kvality, smontování celků a kompletní logistiky.\nSLUŽBY\nKONTAKT\nZaměřujeme se na zakázkovou výrobu strojních dílů v těchto oblastech\nCNC FRÉZOVÁNÍ\n3-osé frézování s max. rozjezdem 1260x660x610 mm, dávky 1 ks až 5000 ks\n5-osé frézování s maximální hmotností obrobku 100kg, dávky 1 ks až 5000 ks\nPrecizní CAD/CAM příprava výroby, simulace výroby, široká škála obráběcích nástrojů\nObrábíme ocel, slitiny hliníku, nerez, mosaz, bronz, technické plasty\nDílce dodáváme včetně tepelných úprav, broušení a povrchových úprav\nCNC SOUSTRUŽENÍ\nHrotové soustruhy a soustružnické centrum s poháněnými nástroji\nPříruby do průměru 350 mm, hřídele do délky 1600 mm\nVýrobní dávky od 1 ks až po série 10 000 ks\nDílce dodáváme včetně tepelných úprav, broušení a povrchových úprav\nZPRACOVÁNÍ PLECHŮ A VÝROBA SVAŘENCŮ\nVeškeré zpracování plechů a zámečnické práce z ocelí, nerezu a slitin hliníku\nZajišťujeme svařování metodami MIG/MAG/TIG\nDle požadavků obrábíme svařence\nZámečnické výroby dodáváme včetně povrchových úprav, kartáčování nebo leštění\nMONTÁŽ ELEKTRO-MECHANICKÝCH CELKŮ\nSestavujeme obráběné a zámečnické díly do funkčních celků do 100 kg\nDokážeme zajistit standardizované a nakupované montážní díly\nSestavy a celky dodáváme včetně kalibrace, testování a oživení\nSdílíme zkušenosti se zákazníky a tím se podílíme na dalším vývoji celků\nNĚCO MÁLO\nO NÁS\nJsme procesně řízená výrobně-obchodní firma a pomáháme našim zákazníkům z různých průmyslových oborů realizovat dodávky mechanických a elektromechanických dílů a sestav. Nebojíme se nových výzev a jdeme cestou neustálého zlepšování a digitalizace výroby. Naše procesy jsou v rámci ERP systému dokumentovány a zpětně dohledatelné. Společnost má čtyři majitele, kteří se podílejí na jednotné vizi společnosti strategickými rozhodnutími i každodenním operativním řízením profesionálního týmu zaměstnanců. Ve společnosti dbáme na vzájemnou spolupráci a komunikaci, plnění společných cílů a jejich vyhodnocování.\nVize a poslání\nNaším nejvyšším záměrem je poskytovat kvalitní a spolehlivá řešení, která pomáhají naplňovat cíle a potřeby našich zákazníků a zároveň jim významně usnadňují jejich práci. Vytváříme dlouhodobé pevné vztahy jak se zákazníky, tak s dodavateli a zaměstnanci.\nIndividuální řešení\nSlužby vždy přizpůsobujeme konkrétním potřebám zákazníka a neustále nacházíme nová řešení a výrobní možnosti. Snažíme se trvale rozvíjet vztahy se stávajícími dodavateli.\nLidé a prostředí\nPro své zaměstnance vytváříme kvalitní a čisté pracovní prostředí. Celá naše"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Games Ground",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 20,
+    "all_technologies": [
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WPForms",
+        "vendor": "WPForms LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DataTables",
+        "vendor": "SpryMedia",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Games Ground",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:03",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "moldflow"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

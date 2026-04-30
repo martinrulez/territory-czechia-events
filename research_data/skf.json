@@ -1,0 +1,521 @@
+{
+  "company_key": "skf",
+  "company_name": "SKF",
+  "domain": "www.skf.com",
+  "domain_url": "https://www.skf.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SKF",
+    "opportunity_score": 23,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.65,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.65,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "00006548",
+    "official_name": "SKF CZ, a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "22",
+      "3317",
+      "471",
+      "68200",
+      "81230",
+      "33140",
+      "26110",
+      "282",
+      "82920",
+      "8559",
+      "62",
+      "25",
+      "26300",
+      "46900",
+      "71200",
+      "90390",
+      "52100",
+      "72100",
+      "772",
+      "95310",
+      "255",
+      "27900",
+      "461",
+      "70200",
+      "711",
+      "731",
+      "82100",
+      "38110",
+      "22",
+      "25",
+      "256",
+      "26110",
+      "26300",
+      "27900",
+      "282",
+      "33140",
+      "3317",
+      "38110",
+      "45200",
+      "461",
+      "46900",
+      "471",
+      "52100",
+      "620",
+      "6820",
+      "70220",
+      "711",
+      "7120",
+      "7219",
+      "731",
+      "772",
+      "81290",
+      "821",
+      "82920",
+      "8559",
+      "90020"
+    ],
+    "ares_segments": [
+      "AEC",
+      "D&M",
+      "M&E"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Dělnická 1628/9, Holešovice, 17000 Praha 7, Praha, Dělnická, 17000",
+    "zi_done": true,
+    "employee_count": 36286,
+    "revenue": 9640824,
+    "zi_company_name": "SKF",
+    "zi_domain": "www.skf.com",
+    "zi_city": "Goeteborg",
+    "zi_country": "Sweden",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.skf.com",
+    "homepage": {
+      "title": "SKF",
+      "description": "",
+      "text_excerpt": "SKF"
+    },
+    "about": {
+      "url": "https://www.skf.com/o-nas",
+      "text": "SKF"
+    },
+    "products": {
+      "url": "https://www.skf.com/produkty",
+      "text": "SKF"
+    },
+    "contact_page": {
+      "url": "https://www.skf.com/kontakt",
+      "text": "SKF"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "SKF",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autodesk Inventor",
+      "Autodesk Maya",
+      "Autodesk Revit",
+      "Autodesk Vault",
+      "SnapVault",
+      "inFlow Inventory"
+    ],
+    "competitor_products": [
+      "ARCHICAD",
+      "CATIA",
+      "CATIA V5",
+      "Dassault Dymola",
+      "Dassault Systemes",
+      "ENOVIA",
+      "Edgecam",
+      "Mastercam",
+      "Mathcad",
+      "PC-DMIS CMM",
+      "PTC Creo",
+      "PTC Creo (Pro/ENGINEER)",
+      "PTC Creo Parametric",
+      "PTC Integrity",
+      "PTC PDMLink",
+      "PTC Pro/ENGINEER Wildfire",
+      "PTC Pro/Intralink",
+      "PTC Servigistics Arbortext Editor",
+      "PTC Windchill (Formerly Netregulus)",
+      "PTC Windchill PLM",
+      "Pro/ENGINEER Mechanica",
+      "Pro/Engineer",
+      "Quintiq",
+      "Servigistics",
+      "Siemens",
+      "Siemens I-DEAS",
+      "Siemens Industrial Automation Systems SIMATIC",
+      "Siemens NX",
+      "Siemens PLM",
+      "Siemens SIMATIC Automation Designer",
+      "Siemens SIMATIC WinCC",
+      "Siemens Teamcenter PLM Software",
+      "Simulia Abaqus Unified FEA",
+      "Solidworks"
+    ],
+    "cad_bim_other": [
+      "ANSYS",
+      "ANSYS Fluent",
+      "ANSYS Mechanical",
+      "ANSYS Mechanical Enterprise",
+      "Altair HyperWorks",
+      "Altair OptiStruct",
+      "Altair RADIOSS",
+      "Assemble",
+      "Autodesk",
+      "Autodesk Showcase",
+      "Built",
+      "Cache Control",
+      "KUKA",
+      "MESH",
+      "MSC Adams",
+      "Microsoft MapPoint",
+      "Onshape",
+      "PATRAN",
+      "REST / RESTful",
+      "Red Hat JBoss SOA Platform",
+      "SAPUI5",
+      "Sigma",
+      "SpaceClaim",
+      "Stratasys",
+      "Tebis"
+    ],
+    "total_technologies": 1322,
+    "all_technologies": [
+      {
+        "product": "Simon",
+        "vendor": "Institutional Capital Network, Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "UKG",
+        "vendor": "UKG Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "SAP Transportation Management",
+        "vendor": "SAP SE",
+        "category": "Transportation and Fleet Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Centricity",
+        "vendor": "GE Healthcare Inc.",
+        "category": "Medical Practice Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cadence",
+        "vendor": "Cadence Design Systems",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Better",
+        "vendor": "Better Mobile Security Inc.",
+        "category": "Enterprise Mobility Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Time and Attendance",
+        "vendor": "Workforce Control Solutions",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Here",
+        "vendor": "HERE",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Powerplatform",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "GPS",
+        "vendor": "mbm.it",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Energy Management",
+        "vendor": "ENTOUCH Controls, Inc.",
+        "category": "Facilities Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Accelerate",
+        "vendor": "Cox Automotive, Inc.",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Ideal",
+        "vendor": "O5 Systems Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "ServiceNow Configuration Management Database (CMDB)",
+        "vendor": "ServiceNow, Inc.",
+        "category": "Database Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "SAP Integrated Business Planning",
+        "vendor": "SAP SE",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Group Policy",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "AutoStar Solutions",
+        "vendor": "AutoStar Solutions",
+        "category": "Automotive Marketing",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "CircleCI",
+        "vendor": "Circle Internet Services, Inc.",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "HashiCorp Terraform",
+        "vendor": "Terraform",
+        "category": "Configuration Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "IBM (common)",
+        "vendor": "IBM",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Snowflake",
+        "vendor": "Snowflake Computing Inc.",
+        "category": "Data Warehousing",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "SAP APO",
+        "vendor": "SAP SE",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Quintiq",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Miro",
+        "vendor": "Miro Technologies",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "SAP Process Orchestration",
+        "vendor": "SAP SE",
+        "category": "Business Process Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Dayforce",
+        "vendor": "Dayforce, Inc.",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Como",
+        "vendor": "Como",
+        "category": "Loyalty and Gamification",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "React",
+        "vendor": "Meta Open Source",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Circuit",
+        "vendor": "Circuit Routing Limited",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Branch",
+        "vendor": "Branch",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Gympass",
+        "vendor": "Gympass",
+        "category": "Fitness and Gym Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Design Manager",
+        "vendor": "Design Manager",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "OpenAI",
+        "vendor": "OpenAI",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "co:here",
+        "vendor": "co:here",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "GitHub Actions",
+        "vendor": "GitHub, Inc.",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Craft",
+        "vendor": "Craft.io Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Affinity",
+        "vendor": "Affinity",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "product information management",
+        "vendor": "Informatica Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "MCS",
+        "vendor": "MCS Global Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "dbt",
+        "vendor": "dbt Labs, Inc",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "MTech",
+        "vendor": "MTech Systems USA LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Safran",
+        "vendor": "Safran",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Grin",
+        "vendor": "Grin Technologies Inc",
+        "category": "Advocacy Marketing",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "SKF",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 15:22"
+}

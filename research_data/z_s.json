@@ -1,0 +1,391 @@
+{
+  "company_key": "z_s",
+  "company_name": "z.s.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "z.s.",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autonomy LiveVault",
+      "Commvault",
+      "Vault Payment Solutions",
+      "Veeva Vault",
+      "Veeva Vault CRM",
+      "Veritas Enterprise Vault (EV)"
+    ],
+    "competitor_products": [
+      "Dassault Systemes",
+      "Opcenter",
+      "PTC Integrity"
+    ],
+    "cad_bim_other": [
+      "Autodesk",
+      "Built",
+      "Cache Control"
+    ],
+    "total_technologies": 648,
+    "all_technologies": [
+      {
+        "product": "Opcenter",
+        "vendor": "Siemens AG",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Mosaic",
+        "vendor": "Mosaic.tech",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Boomi",
+        "vendor": "Boomi, LP",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Batch",
+        "vendor": "Batch",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Varicent",
+        "vendor": "Varicent",
+        "category": "Sales Performance Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Chroma",
+        "vendor": "Chroma",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Cognite",
+        "vendor": "Cognite",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft Outlook",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "AWS Backup",
+        "vendor": "Amazon Web Services, Inc.",
+        "category": "Backup and Recovery",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Salesforce Life Sciences Cloud",
+        "vendor": "Salesforce, Inc.",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "LangChain",
+        "vendor": "LangChain, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Vault Payment Solutions",
+        "vendor": "Vault Payment Solutions Group Pty Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Elastic",
+        "vendor": "Elastic",
+        "category": "Enterprise Search",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "EDC",
+        "vendor": "Medrio",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Salesforce Experience Cloud",
+        "vendor": "Salesforce, Inc.",
+        "category": "Customer Experience Management",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Hugging Face",
+        "vendor": "Hugging Face, Inc",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Endpoint Detection and Response",
+        "vendor": "VMware, Inc",
+        "category": "Endpoint Protection",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Sentinel",
+        "vendor": "WhiteHat Security",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Salesforce Health Cloud",
+        "vendor": "Salesforce, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Figma",
+        "vendor": "Figma, Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Visual Basic .NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP SuccessFactors Performance & Goals",
+        "vendor": "SAP SE",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "PyTorch",
+        "vendor": "PyTorch",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "OAuth",
+        "vendor": "OAuth",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "NVIDIA",
+        "vendor": "NVIDIA Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Metadata",
+        "vendor": "Metadata",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "GraphQL",
+        "vendor": "The GraphQL Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Application Security",
+        "vendor": "Trustwave Holdings, Inc",
+        "category": "Database Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "AppExchange",
+        "vendor": "Salesforce, Inc.",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Apache Airflow",
+        "vendor": "The Apache Software Foundation",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Agility",
+        "vendor": "Agility",
+        "category": "Product Information Management",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "MadCap Flare",
+        "vendor": "MadCap Software, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "SAP S/4HANA",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Snagit",
+        "vendor": "TechSmith Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Salesforce Lightning Platform",
+        "vendor": "Salesforce, Inc.",
+        "category": "Platforms as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apache Tomcat",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Snowflake",
+        "vendor": "Snowflake Computing Inc.",
+        "category": "Data Warehousing",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Amazon CloudFront",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Asc",
+        "vendor": "Assessment Systems Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft PowerPoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Web.com",
+        "vendor": "Web.com Group, Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LiveRamp",
+        "vendor": "Acxiom LLC",
+        "category": "Data Management Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "JFrog",
+        "vendor": "JFrog",
+        "category": "Source Code Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Demandbase",
+        "vendor": "Demandbase, Inc.",
+        "category": "Account-Based Marketing",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Pratap Khedkar",
+        "firstName": "Pratap",
+        "lastName": "Khedkar",
+        "jobTitle": "Chief Executive Officer",
+        "email": "pratap.khedkar@zsassociates.com",
+        "phone": "(267) 402-5432",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Sandra Forero",
+        "firstName": "Sandra",
+        "lastName": "Forero",
+        "jobTitle": "Chief Operating Officer",
+        "email": "sandra.forero@zs.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Justyna Sienkiewicz",
+        "firstName": "Justyna",
+        "lastName": "Sienkiewicz",
+        "jobTitle": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:19",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.zs.com",
+    "homepage": {
+      "title": "ZS: Global management consulting and technology firm",
+      "description": "ZS is a global management consulting and technology firm that partners with companies to improve life and how we live it.",
+      "text_excerpt": "ZS: Global management consulting and technology firm\nGlobal consulting and technology firm\nfalse\nA consulting and technology firm improving life and how we live it\nPartner with a global consulting and technology firm that helps you transform your ideas into impact. We connect data, science, technology and human ingenuity to deliver better outcomes for your business, your customers and the world.\ntrue\nwhite\nWelcome to ZS\ntrue\nAbout us\n/content/zs/en/about\nprimary\nasset\n/content/dam/global/homepage/homepagehero-video.mp4\nhttps://www.youtube.com/watch?v=wjc-6IOHIx8&t=10s\nStandard video description\nsectionTheme\nlight-grey\ngridBackground\nfalse\nimage\nWhere speed meets strategy for faster time to value\nZS brings together deep consulting experience, a network of technology partners and our own ready-to-use products and digital accelerators to help you turn plans into progress.\nAbout us\n/content/zs/en/about\nsectionTheme\ndefault\nimage\nIndustries we serve\nLearn more\n/content/zs/en/industry-insights\nOur capabilities\nLearn more\n/content/zs/en/capabilities\nOur products\nLearn more\n/content/zs/en/products\nOur partnerships\nLearn more\n/content/zs/en/about/partnerships\nsectionTheme\ndark\ndefault\nExplore our work\nSee how we turn complex challenges into real-world impact.\nleft\ntrue\ngrey\nCase studies\nButton CTA Text\nprimary\ndefault\nlight\nmanual\ntrue\n/content/zs/en/about/case-studies/qsr-restaurant-loyalty-engagement-personalization-case-study\n/content/zs/en/about/case-studies/gen-ai-unlocks-customer-sentiment-insights-for-national-bakery\n/content/zs/en/about/case-studies/amgen-leads-a-digital-transformation-to-accelerate-the-speed-to-market-of-new-therapies\n/content/zs/en/about/case-studies/gilead-operational-excellence-program-transforms-culture\n/content/zs/en/about/case-studies/zaidyn-data-and-analytics-helps-theratechnologies-grow\nsectionTheme\ndefault\ndefault\nTrusted by clients, recognized by independent experts\nZS is recognized globally for excellence in consulting, innovation and culture. Our continued industry leadership reflects the impact we create for our clients, our people and the world around us.\nleft\ntrue\nwhite\nRecognized for impact\nButton CTA Text\nprimary\ndefault\nsquare\nForbes top consulting firm\nZS is a top consulting firm and one of Forbes’ 2025 America’s Best Management Consulting Firms.\n/content/zs/en/about/awards-and-recognition\nAwards and recognition\nThis link takes you somewhere..\nAI & analytics leader\nZS is the highest-designated Leader in the 2025 Everest Group Life Sciences AI and Analytics Services PEAK Matrix®\n/content/zs/en/insights/zs-named-commercial-life-sciences-ai-leader-everest-group\nRead more\nRead more about AI & analytics\nRecognized for sustainability\nZS is recognized for its workplace culture and ranks in the top 5% globally for sustainability by EcoVadis.\n/content/zs/en/about/awards-and-recognition\nAwards and recognition\nThis link takes you ZS's recognition page.\nsectionTheme\nlight-grey\ndefault\nBring precision to your go-to-market m"
+    },
+    "about": {
+      "url": "https://www.zs.com/about",
+      "text": "About ZS | Global Management Consulting & Technology | ZS\nAbout ZS\nImproving life and how we live it.\nZS is a management consulting and technology firm that partners with companies to improve life and how we live it. We transform ideas into impact by bringing together data, science, technology and human ingenuity to deliver better outcomes for all. Founded in 1983, ZS has more than 15,000 employees in 40-plus offices worldwide.\nEverything we do is designed to strengthen your business strategy and product portfolio, turning insight into action and unlocking new opportunities for growth.\nwhite\nHero Eyebrow Text\nfalse\nButton CTA Text\nprimary\nasset\n/content/dam/global/about-zs/multimedia/about-zs-a1-1.mp4\nsectionTheme\ndefault\ndefault\nOur focus areas\nZS advances the way organizations work\nleft\nfalse\nwhite\nEyebrow Text\nButton CTA Text\nprimary\ndefault\nEnd-to-end solutions and perspectives\nFrom products to people, we help you use AI and insights to connect data and drive better decisions.\nConnecting complex ecosystems\nWe sync technology, data and human expertise to yield new insights and better approaches.\nModernizing commercial models to maximize impact\nWe blend the human touch with digital precision to help you drive scalable growth.\nsectionTheme\ndefault\ndefault\nImpact by the numbers\ncenter\nwhite\nEyebrow Text\nButton CTA Text\nprimary\ndefault\n1,700+\nCustomers in 170+ countries\nLearn More\nLearn more about hours spent on learning and development in 2024\n15,000+\nProfessionals united by a passion to change lives\nLearn More\nLearn more about hours spent on learning and development in 2024\n40+\nOffices across North and South America, Europe and Asia\nLearn More\nLearn more about hours spent on learning and development in 2024\nsectionTheme\ndark\ndefault\nStrategize, build, launch and scale\nZS is your end-to-end partner\nWe partner with you across every stage of your journey, from defining the right strategy and use cases to building, deploying and scaling solutions and products across the enterprise. We help you ensure the right data, technology, governance and talent are in place to create both practical and transformative success.\nBecause we know true transformation isn’t just about what’s next, it’s about what’s meaningful and lasts.\nleft\ntrue\ngrey\nWHAT WE DO\ntrue\nOur industry expertise\n/content/zs/en/industry-insights\nprimary\nright\nConsumer Goods & Retail:\nConsumer expectations have never been higher or more personalized. Is your demand generation function keeping pace?\n/content/zs/en/industry-insights/consumer-goods-and-retail\nFinancial Services:\nWhile balancing regulatory and operational challenges you need to meet customer expectations and deliver value.\n/content/zs/en/industry-insights/financial-services\nHealthcare:\nThe healthcare ecosystem has been transformed by technology and AI solutions. Are your teams delivering?\n/content/zs/en/industry-insights/healthcare\nTechnology & Telecomms:\nCompanies must update their infrastructure or risk falling behind. We can help.\n/content/zs/en/industry-insights/technology-and-telecommunications\nTravel & Hospitality:\nExpectations for personalization and tight margins are driving you to optimize your commercial functions.\n/content/zs/en/industry-insights/travel-and-hospitality\nsectionTheme\ndefault\ndefault\nWhat it’s like to work with us\nOur values\nTreat people right. Get it right. Do the right thing. These principles were set by our founders,\nAndy Zoltners\nand\nPrabha Sinha\n, and are the foundation for every decision we make.\nleft\nwhite\nEyebrow Text\nButton CTA Text\nprimary\ndefault\nTreat people right\nWe believe in treating others with dignity and respect, providing a supportive, collective culture that inspires action.\nGet it right\nWe apply industry expertise, leading-edge analytics, technology and strategy to bring bold ideas to life.\nDo the right thing\nOur commitment to ethics empowers our people to act with integrity and confidence.\nsectionTheme\nlight-grey\ndefault\nExplore our work\nSee how we help clients dr"
+    },
+    "products": {
+      "url": "https://www.zs.com/products",
+      "text": "Enterprise AI Platforms and Products | ZS\nHero banner image\nsplit-image\nfirst\nApply AI at scale, across your business\nThe right platform can redefine how your business connects, scales and delivers results—whether you’re supporting patients, engaging customers or bringing new products and offers to market.\nZS’s products and platforms are powered by AI, built for complex data and delivered by teams who understand your industry and your business area. The result? Intelligence that fits your goals, connects your ecosystem and delivers impact that matters.\ntrue\nwhite\nProducts and platforms\ntrue\nRequest a demo\n/content/zs/en/products/zaidyn-platform/product-request-form\nprimary\nSecond Button CTA Text\nsecondary\nsectionTheme\nlight-grey\nmedia-first\nEYEBROW/TEXT\nAI you can trust. Insight you can act on.\nWe don’t just deliver accurate models—we deliver AI you can trust. Every insight is grounded in enterprise-grade data and rich industry context and built to support—not replace—your team’s decisions. With trusted intelligence guided by people, your teams can move faster, with confidence and control.\nfalse\nCall to action\nPlaceholder Aria Title\nprimary\narrow-right\nimage\nProducts Intro Hub Card\nasset\n/content/dam/global/products/multimedia/products-intro-hub-3-1.mov\nProducts intro hub\nsectionTheme\ndefault\ndefault\nExplore ZS’s AI product suite\nPlatforms with purpose\nEach of our platforms is built to conquer real-world complexity with precision and speed while building trust and confidence. Our solutions are backed by deep domain expertise and brought to life by experts who understand your industry, challenges and needs.\nleft\nfalse\nwhite\nSubhead / Eyebrow Title\nfalse\nCall to action\nprimary\nright\nimage\nZAIDYN®\nZAIDYN overview banner\nUnify data, analytics and workflows across commercial, medical and patient teams on one AI-powered life sciences intelligence platform. ZAIDYN connects insight to execution—at global scale.\nExplore ZAIDYN\n/content/zs/en/products/zaidyn-platform\nPersonalize.AI™\nPersonalize.AI\nUse AI to personalize every interaction and help your brands drive loyalty, conversion and revenue.\nExplore Personalize.AI\n/content/zs/en/products/personalize-ai\nAtlas Intelligence™\nAtlas Intelligence banner image\nTransform unstructured customer reviews and conversations into insights you can act on—faster than traditional research.\nExplore Atlas Intelligence\n/content/zs/en/products/atlas-intelligence\nTrials.AI™\nTrials.AI banner image\nDigitize and optimize clinical trials with intelligent design, faster data flow and automation that keeps studies on track.\nExplore Trials.AI\n/content/zs/en/products/zs-trials-ai\nsectionTheme\nlight-grey\ndefault\nPlatforms designed for your world\nFind your solution\nWhether you’re transforming trials, scaling field teams or delivering personalized customer experiences, our platforms are built for your industry, your business goals—and your ambition.\nleft\ntrue\ngrey\nIndustry fluency\nButton CTA Text\nprimary\ndefault\nimage\nPharmaceutical co"
+    },
+    "contact_page": {}
+  }
+}

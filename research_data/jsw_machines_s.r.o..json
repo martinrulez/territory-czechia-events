@@ -1,0 +1,233 @@
+{
+  "company_key": "jsw machines s.r.o.",
+  "company_name": "JSW Machines s.r.o.",
+  "domain": "www.jswmachines.cz",
+  "domain_url": "https://www.jswmachines.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "JSW Machines s.r.o.",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.72,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.72,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "04326580",
+    "official_name": "JSW Machines s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "261",
+      "265",
+      "43120",
+      "32",
+      "52100",
+      "62",
+      "46900",
+      "77220",
+      "29",
+      "461",
+      "71120",
+      "74990",
+      "68200",
+      "28",
+      "63",
+      "261",
+      "265",
+      "28",
+      "29",
+      "32",
+      "43120",
+      "461",
+      "4690",
+      "52100",
+      "620",
+      "63",
+      "6820",
+      "7112",
+      "7490",
+      "77290"
+    ],
+    "ares_segments": [
+      "D&M",
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Přadlácká 599/26, Zábrdovice, 60200 Brno, Brno, Přadlácká, 60200",
+    "zi_done": true,
+    "employee_count": 11,
+    "revenue": 3592,
+    "zi_company_name": "JSW Machines sro",
+    "zi_domain": "www.jswmachines.cz",
+    "zi_city": "",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.jswmachines.cz",
+    "homepage": {
+      "title": "Hlavní stránka - JSW Machines",
+      "description": "",
+      "text_excerpt": "Hlavní stránka - JSW Machines\nGRAVIMETRICKÉ DÁVKOVÁNÍ\nVSTŘIKOVACÍ LISY\nVYFUKOVAČKY\nSpolupracujeme s nejlepšími\nO FIRMĚ\nZobrazit více\nKONTAKT\nZobrazit více\nAKTUALITY\nZobrazit více\nScroll"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.jswmachines.cz/kontakt",
+      "text": "Kontakt - JSW Machines\nProdej:\nZbyněk Petrla\n+420 605 206 593\ninfo@jswmachines.cz\nServis:\n+420 605 206 593\nservis@jswmachines.cz\nKontaktujte nás\nElektrické vstřikolisy JSW jsou spolehlivé, bezpečné, rychlé, precizní a cenově výhodné. Zakoupením našeho lisu získáváte také možnost využít špičkových servisních a poradenských služeb, které nabízíme.\nJSW Machines s.r.o.       IČO: 04326580\nPřadlácká 599/26, 602 00 Brno-Zábrdovice\n+420 549 243 939\ninfo@jswmachines.cz\nNapište nám\nJméno a přijmení*\nE-mail*\nPředmět\nZprava\nOdesláním formuláře souhlasíte se spracováním osobních údajů.\nScroll"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "JSW Machines s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 17,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Leady",
+        "vendor": "Imper CZ s.r.o.",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "JSW Machines s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Zbynek",
+        "last_name": "Petrla",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "JSW Machines sro",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 77.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:15"
+}

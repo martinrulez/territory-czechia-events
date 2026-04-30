@@ -1,0 +1,139 @@
+{
+  "company_key": "noxmat gmbh",
+  "company_name": "NOXMAT GmbH",
+  "domain": "www.noxmat.com",
+  "domain_url": "https://www.noxmat.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "NOXMAT GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 21,
+    "revenue": 4118,
+    "zi_company_name": "NOXMAT",
+    "zi_domain": "www.noxmat.com",
+    "zi_city": "Oederan",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.noxmat.com",
+    "homepage": {
+      "title": "NOXMAT – Industrielle Beheizungstechnik made in Germany",
+      "description": "Wir fertigen Industriebrenner, elektrische Heizelemente, Strahlrohre und kundenspezifische Schaltschränke sowie Zubehör rund um die Beheizungstech",
+      "text_excerpt": "NOXMAT – Industrielle Beheizungstechnik made in Germany\nIndustrial Heating Technology\nWir sind die Experten für Industrielle Beheizungstechnik\nMehr >>\nWiedemann Brenner\nJetzt bei NOXMAT!\nMehr >>\nvorheriges\nNächstes\nNOXMAT - Ihr Spezialist für industrielle Beheizungstechnik\nWir fertigen Industriebrenner, elektrische Heizelemente, Strahlrohre und kundenspezifische Schaltschränke sowie Zubehör rund um die Beheizungstechnik von industriellen Thermoprozessanlagen. Unsere Produkte werden weltweit in mehr als 35 Länder verkauft und u. a. in Anlagen zur Wärmebehandlung von Eisen- und Nichteisenmetallen eingesetzt.\nMehr >>\nUnsere Philosophie ist unser Antrieb: „Reliability at work“.\nWir leben Zuverlässigkeit und beweisen dies unseren Kunden und Partnern jeden Tag. Dafür setzen wir auch auf eine langfristige, gute und vertrauensvolle Zusammenarbeit mit unseren Mitarbeiterinnen und Mitarbeitern. In diesem Video lernen Sie einige Persönlichkeiten bei NOXMAT kennen.\nUnser Produkt- und Serviceangebot\nEntwicklung und Fertigung maßgeschneiderter\nIndustriegasbrenner sowie elektrischer Heizsysteme\nSteuergeräte für die Brennertechnik\nMantelstrahlrohre in verschiedenen Ausführungen\nGasregelstrecken, Verbrennungsluftventilatoren sowie weiteres Zubehör für industrielle Beheizungseinrichtungen\nKundenspezifischer Schaltschrankbau\nModernisierung von Brennern und Komponenten\nWartung und Optimierung von industriellen Beheizungsanlagen\nUmfassender Service für industrielle Thermoprozessanlagen\nNews\nJuni 29, 2023\nNOXMAT CEO im Interview mit 'The Monty'\n\"The Monty Heat Treat News” sind für Experten im Bereich der Wärmebehandlung eine gute Quelle für aktuelle News zu Technologien, Unternehmen, Projekten und mehr. Im Interview mit dem Herausgeber Gord Montgomery spricht der NOXMAT CEO Matthias Wolf u. a. ü [...]\nMai 17, 2023\nNOXMAT expandiert mit Tochtergesellschaft in den USA\nDie NOXMAT GmbH mit Sitz in Oederan/Sachsen hat Ende 2022 eine Tochtergesellschaft in den USA gegründet. NOXMAT USA, Inc., in Sterling Heights, Michigan, unterstützt ab sofort US-Kunden sowie europäische Kunden mit Niederlassungen in den USA. Unter der Le [...]\nJanuar 1, 2026\n- Dezember 31, 2026\nNOXMAT Brennerschulungen 2026"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "NOXMAT GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 11,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "eZ Platform",
+        "vendor": "eZ Systems AS",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "NOXMAT GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 17:18"
+}

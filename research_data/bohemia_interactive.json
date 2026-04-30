@@ -1,0 +1,466 @@
+{
+  "company_key": "bohemia interactive",
+  "company_name": "Bohemia Interactive",
+  "domain": "www.bohemia.net",
+  "domain_url": "https://www.bohemia.net",
+  "events": "Game Access Conference '26",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Bohemia Interactive",
+    "opportunity_score": 31,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.58,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.58,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "25764730",
+    "official_name": "BOHEMIA INTERACTIVE STUDIO s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46900",
+      "461",
+      "731",
+      "62",
+      "26510",
+      "461",
+      "46900",
+      "620",
+      "731",
+      "26510"
+    ],
+    "ares_segments": [
+      "D&M",
+      "M&E"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Křížová 2598/4, Smíchov, 15000 Praha 5, Praha, Křížová, 15000",
+    "is_client": true,
+    "current_products": "AutoCAD LT | AutoCAD Web | Fusion",
+    "total_seats": "3",
+    "current_acv_eur": "1400.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-05-01",
+    "days_to_renewal": "8",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "maturity_label": "Foundation",
+    "industry_segment": "Buildings",
+    "ml_domain": "www.fortesinteractive.com",
+    "zi_done": true,
+    "employee_count": 344,
+    "revenue": 42534,
+    "zi_company_name": "Bohemia Interactive",
+    "zi_domain": "www.bohemia.net",
+    "zi_city": "Mníšek pod Brdy",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.bohemia.net",
+    "homepage": {
+      "title": "Bohemia Interactive",
+      "description": "Bohemia Interactive is an independent game development studio, known for the Arma series, DayZ, Take On Mars, Ylands, and more.",
+      "text_excerpt": "Bohemia Interactive\nWEBSITE\nTRAILER\nBUY NOW\nBATTLE FOR SUPREMACY IN AN AUTHENTIC MILITARY SANDBOX\nSET DURING COLD WAR ERA\nWEBSITE\nTRAILER\nBUY NOW\nSURVIVE IN A HARSH POST-APOCALYPTIC MULTIPLAYER LANDSCAPE\nTHIS IS YOUR STORY\nWEBSITE\nPLAY FREE NOW\nTRAILER\nFREE-TO-PLAY SHOOT 'N' LOOT GAME WHERE\nYOU BUILD THE SHELTER IN POST-WAR NORWAY\nWEBSITE\nTRAILER\nBUY NOW\nSTRATEGIZE, STRIKE,\nHARVEST!\nWEBSITE\nTRAILER\nBUY NOW\nEXPERIENCE TRUE COMBAT GAMEPLAY\nIN A MASSIVE MILITARY SANDBOX\nWEBSITE\nTRAILER\nBUY NOW\nEXPLORE YOUR CREATIVITY\nWEBSITE\nTRAILER\nBUY NOW\nHOW FAR WOULD YOU GO\nIF YOUR DAUGHTER DIDN'T COME HOME\nFebruary 20, 2026\nDecember 17, 2025\nSeptember 18, 2025\nAugust 28, 2025"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.bohemia.net/contact",
+      "text": "Contacts | Bohemia Interactive\nCustomer support\nsupport@bohemia.net\nIf you experience an issue with any of our games, please get in touch with our customer support team via this email address.\nPR & Marketing Inquiries\nmarketing@bohemia.net\nBusiness & Licensing\nsales@bohemia.net\nJob Opportunities\njobs@bohemia.net\nStříbrná Lhota 747\nMníšek pod Brdy\n252 10\nID. No.: 272 18 864\nregistered in the Commercial register kept by the Municipal Court in Prague, Section B, Insert No. 9791\nDanzigerkade 223D\n1013 AP Amsterdam\nThe Netherlands\nRSIN: 8561.47.199\nVAT: NL856147199B01\nregistered with the Chamber of Commerce (KvK) in The Netherlands (number 65524535)\n378/80-81\nMoo 12\nPattaya City, Bang Lamung District\nChon Buri, 201 50\nThailand\nVAT: 0205556034000\nregistered with Chon Buri Provincial Company Registration Office, Department of Business Development, ministry of Commerce, Thailand"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Bohemia Interactive",
+    "autodesk_products": [
+      "Autodesk Fusion 360"
+    ],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "Autodesk",
+      "InVision"
+    ],
+    "total_technologies": 79,
+    "all_technologies": [
+      {
+        "product": "Enfusion",
+        "vendor": "Enfusion Ltd. LLC",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Autodesk",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "ZBrush",
+        "vendor": "Pixologic, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Autodesk Fusion 360",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "aaa",
+        "vendor": "American Automobile Association, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Mautic",
+        "vendor": "Mautic, Inc.",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Apache JMeter",
+        "vendor": "The Apache Software Foundation",
+        "category": "Testing and QA",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "GitLab",
+        "vendor": "GitLab Inc.",
+        "category": "Source Code Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Git",
+        "vendor": "Software Freedom Conservancy, Inc.",
+        "category": "Source Code Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Rust",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Couchbase",
+        "vendor": "Couchbase, Inc",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Docker",
+        "vendor": "Docker Inc",
+        "category": "Containerization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Kubernetes",
+        "vendor": "The Kubernetes Authors",
+        "category": "Containerization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Ruby on Rails",
+        "vendor": "Ruby on Rails",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "React",
+        "vendor": "Meta Open Source",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Cloudbees Jenkins",
+        "vendor": "Cloudbees, Inc",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "TypeScript",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "JavaScript",
+        "vendor": "Netscape",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Linux",
+        "vendor": "Linux Kernel Organization",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Adobe Photoshop",
+        "vendor": "Adobe Inc.",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "NoSQL",
+        "vendor": "",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Jira",
+        "vendor": "Atlassian",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Node.js",
+        "vendor": "Node.js Foundation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Python",
+        "vendor": "Python Software Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Confluence",
+        "vendor": "Atlassian",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Jenkins",
+        "vendor": "Jenkins",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Bohemia Interactive",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Veronika",
+        "last_name": "Brožek",
+        "title": "Chief Operating Officer",
+        "email": "",
+        "phone": "",
+        "company": "Bohemia Interactive",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Slavomír",
+        "last_name": "Pavlíček",
+        "title": "Chief Financial Officer & Co-founder",
+        "email": "pavlicek@bistudio.com",
+        "phone": "",
+        "company": "Bohemia Interactive",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 92.0
+      },
+      {
+        "first_name": "Jiatong",
+        "last_name": "Gu",
+        "title": "Partner",
+        "email": "",
+        "phone": "",
+        "company": "Bohemia Interactive",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 87.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 12:46",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

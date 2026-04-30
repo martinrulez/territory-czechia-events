@@ -1,0 +1,51 @@
+{
+  "company_key": "delso_interi_ry_s_r_o",
+  "company_name": "DELSO INTERIÉRY, s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MICHAL ŠNOBL",
+        "firstName": "MICHAL",
+        "lastName": "ŠNOBL",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MONIKA ŠNOBLOVÁ",
+        "firstName": "MONIKA",
+        "lastName": "ŠNOBLOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MARTIN ŠNOBL",
+        "firstName": "MARTIN",
+        "lastName": "ŠNOBL",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:07:20"
+}

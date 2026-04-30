@@ -1,0 +1,404 @@
+{
+  "company_key": "tornos sa",
+  "company_name": "TORNOS SA",
+  "domain": "www.tornos.com",
+  "domain_url": "https://www.tornos.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "TORNOS SA",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 700,
+    "revenue": 211388,
+    "zi_company_name": "Tornos",
+    "zi_domain": "www.tornos.com",
+    "zi_city": "Moutier",
+    "zi_country": "Switzerland",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.tornos.com",
+    "homepage": {
+      "title": "Tornos | Tornos",
+      "description": "",
+      "text_excerpt": "Tornos | Tornos\nSwiss machine-tool manufacturer\nTornos uses a range of machining technologies with swarf removal capabilities to produce parts requiring extreme precision and quality.\nWhether machining simple or highly complex parts, in small or large runs, Tornos machines can offer you a solution guaranteed to meet your needs!\nThe Tornos Group has been part of StarragTornos Group Ltd. since December 8, 2023. Current information for investors can now be found at\nstarragtornos.com\n. The archive with information from Tornos Holding Ltd., up to December 8, 2023, can be found at\ninvestors.tornos.com\nSwiss DT 7 & Swiss DT 10 : Start simple. Scale effortlessly. Stay ahead.\nInvest in performance that grows with your business. The Swiss DT 7 & 10 can slash your machining time while ensuring impeccable precision for Electronics, Automotive, Medical & Dental and Micromechanics. The modular design and adaptable configurations can ensure a long-term competitive advantage in our fast-changing industry.\nLearn more\nMultiSwiss\nTornos introduces two variants of the MultiSwiss – the MultiSwiss 8x26 and the MultiSwiss 6x32- based on the philosophy and the technology which proved so successful on the MultiSwiss 6x14 and MultiSwiss 6x16. These machines mark a departure from conventional multi-spindle machines, providing the link between multi-spindle and single-spindle turning machines. The machines’ on-board technology means they can deliver cycle times equal to those of cam-operated multi-spindle turning machines.\nLearn more\nSwissNano 10 : The Perfect 10\nTake your part production the next level with the new SwissNano 10\nLearn more\nSwissNano Experience\nOur range\nOur machines cover from 1 mm to 36 mm. Fast to set, quick to changeover and easy to use, our technology represents a sound investment. We invite you to take a look at our range.\nLearn more\nService\nAt Tornos, we understand that our customers need to maintain the highest level of productivity. Our engineers are trained to provide uncompromising customer service and support.\nLearn more\nGet social\nCheck out our community\non this page\nThe Tornos digital universe\nDiscover our videos\nEMO LIVE reporting 2021\nLatest news\n30/03/2026\nDecomag Special issue Medical & dental\nRead it online!\nDecomag Special issue Medical & dental\n22/12/2025\nDecomag #113\nRead it online!\nDecomag #113\n30/06/2025\nDecomag #112\nRead it online!\nDecomag #112\nTrade show calendar\nSIAMS\n21/04/2026 - 24/04/2026\n– Moutier, Switzerland\nWebsite\nCCMT\n21/04/2026 - 25/04/2026\n– Shanghai, China\nWebsite\nFEIMEC\n05/05/2026 - 09/05/2026\n– Sao Paulo, Brazil\nWebsite\nPlease see the\noverall schedule\nfor trade shows.\nSupport\nAlgeria\nAngola\nArgentina\nArmenia\nAustralia\nAustria\nAzerbaijan\nBahrain\nBelgium\nBenin\nBosnia and Herzegovina\nBotswana\nBrazil\nBulgaria\nBurkina Faso\nBurundi\nCameroon\nCape Verde\nCentral African Republic\nChad\nChile\nChina\nColumbia\nComoros\nCongo\nCosta Rica\nCote d'Ivoire\nCroatia\nCzech Republic\nDenmark\nDjibouti\nEgypt\nEl Salvador\nEquatorial Guinea\nEritrea\nE"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "TORNOS SA",
+    "autodesk_products": [],
+    "competitor_products": [
+      "CATIA",
+      "Dassault Systemes"
+    ],
+    "cad_bim_other": [
+      "Assemble",
+      "InVision"
+    ],
+    "total_technologies": 85,
+    "all_technologies": [
+      {
+        "product": "Microsoft OneDrive",
+        "vendor": "Microsoft Corporation",
+        "category": "File Sharing",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Tor",
+        "vendor": "Tor Project, Inc",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Salesforce B2B Commerce",
+        "vendor": "Salesforce, Inc.",
+        "category": "Other E-Commerce Software",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Assemble",
+        "vendor": "Autodesk, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Lean Manufacturing",
+        "vendor": "Gemba Academy LLC",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Swisscom",
+        "vendor": "Swisscom",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP Materials Management",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Onesignal",
+        "vendor": "OneSignal, Inc.",
+        "category": "Push Notifications",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Jira",
+        "vendor": "Atlassian",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "R",
+        "vendor": "The R Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP ERP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "C",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "ADP",
+        "vendor": "ADP, Inc.",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Share Button",
+        "vendor": "Facebook, Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Tweet Button",
+        "vendor": "Twitter, Inc.",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "TORNOS SA",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Anne",
+        "last_name": "Hirtzlin",
+        "title": "Assistante Chief Executive Officer and Chief Operating Officer, Project Manager",
+        "email": "",
+        "phone": "",
+        "company": "Tornos",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 75.0
+      },
+      {
+        "first_name": "Philippe",
+        "last_name": "Jacot",
+        "title": "Chief Technology Officer",
+        "email": "",
+        "phone": "",
+        "company": "Tornos",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 16:42"
+}

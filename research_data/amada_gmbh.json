@@ -1,0 +1,87 @@
+{
+  "company_key": "amada gmbh",
+  "company_name": "AMADA GmbH",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "AMADA GmbH",
+    "opportunity_score": 22,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "28418638",
+    "official_name": "AMADA WELD TECH GmbH, odštěpný závod",
+    "legal_form": "421",
+    "nace_codes": [
+      "47780",
+      "46900",
+      "46900",
+      "4778"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Václavské náměstí 795/40, Nové Město, 11000 Praha 1, Praha, Václavské náměstí, 11000",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2027-01-07",
+    "days_to_renewal": "259",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "maturity_label": "Entry",
+    "industry_segment": "Consumer Products",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "AMADA GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Hiroyuki",
+        "last_name": "Ono",
+        "title": "General Manager",
+        "email": "",
+        "phone": "",
+        "company": "AMADA AUSTRIA",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 15:28"
+}

@@ -1,0 +1,231 @@
+{
+  "company_key": "sms-služby s.r.o.",
+  "company_name": "SMS-služby s.r.o.",
+  "domain": "www.sms-sluzby.cz",
+  "domain_url": "https://www.sms-sluzby.cz",
+  "events": "URBIS Smart Cities 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SMS-služby s.r.o.",
+    "opportunity_score": 22,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "06784771",
+    "official_name": "SMS-služby s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "00",
+      "74",
+      "00",
+      "74"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Národní 973/41, Staré Město, 11000 Praha 1, Praha, Národní, 11000",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-09-16",
+    "days_to_renewal": "146",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "maturity_label": "Entry",
+    "industry_segment": "Construction Services",
+    "ml_domain": "www.tomosluzby.sk",
+    "zi_done": true,
+    "employee_count": 18,
+    "revenue": 3144,
+    "zi_company_name": "SMS-sluby sro",
+    "zi_domain": "www.sms-sluzby.cz",
+    "zi_city": "",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.sms-sluzby.cz",
+    "homepage": {
+      "title": "Úvodní stránka | SMS-služby s.r.o.",
+      "description": "Oficiální webové stránky společnosti SMS-služby s.r.o.",
+      "text_excerpt": "Úvodní stránka | SMS-služby s.r.o.\nSMS-služby s.r.o.\nStručně o nás\nSpolečnost SMS-služby s.r.o. vznikla jako stoprocentní dceřiná společnost Sdružení místních samospráv České republiky. Smyslem její existence je poskytovat profesionální a cenově výhodné služby členské základně SMS ČR, a to nejen obcím, ale i jejich příspěvkovým organizacím. Řadu našich služeb nabízíme i obcím nečlenským.\nObcím, městům a školám na území celé České republiky se prostřednictvím našich služeb snažíme ulehčit od časově a odborně náročných činností, se kterými se musejí nevyhnutelně potýkat. V současné době se zaměřujeme na problematiku ochrany osobních údajů, administrace veřejných zakázek a dotací, strategické plánování, administraci autorských práv nebo na problematiku auditu webových stránek.\nSetkání týmu pověřenců pro ochranu osobních údajů a koordinátorů jednotlivých služeb SMS-služeb a krajských manažerů SMS ČR, červen 2021\naktuální LETÁK služeb sms-služeb (2022)\nNaším zřizovatelem je SMS ČR, které sdružuje dva a půl tisíce obcí, měst a neziskových organizací z celé České republiky a hájí jejich zájmy.\nNaše služby\nVzdělávací kurzy\npro obce a školy\nHledání\nhledaný text:\nrozšířené hledání »\nZavřít\nHledat\nNa začátek stránky\nTyto webové stránky používají ke svému fungování soubory cookies.\nKliknutím na tlačítko \"Povolit všechny cookies\" nám umožníte použití cookies pro analytické a\nmarketingové účely. Pokud chcete přijmout používání pouze nezbytně nutných cookies, klikněte na tlačítko \"Odmítnout volitelné cookies\". Kliknutím na odkaz \"Podrobné nastavení\" máte možnost si cookies nastavit\npodle sebe a případně vybrat souhlas k těm typům cookies, které nejsou nezbytné pro fungování\nwebu.\nPovolit všechny cookies\nOdmítnout volitelné cookies\nPodrobné nastavení"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "SMS-služby s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 12,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Flippingbook",
+        "vendor": "FlippingBook Limited",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Facebook Analytics",
+        "vendor": "Facebook, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Forms",
+        "vendor": "Google LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Meet",
+        "vendor": "Google LLC",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "SMS-služby s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Blanka",
+        "last_name": "Bezinov",
+        "title": "Manager",
+        "email": "blanka.brezinova@sms-sluzby.cz",
+        "phone": "+420 606 084 855",
+        "company": "SMS-sluby sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Kristýna",
+        "last_name": "Vodrážková",
+        "title": "Pověřenec Osobních úDajů",
+        "email": "kristyna.vodrazkova@sms-sluzby.cz",
+        "phone": "",
+        "company": "SMS-sluby sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Karel",
+        "last_name": "Petýrek",
+        "title": "Analytik Strategického Plánování A Místních Energetických Koncepcí",
+        "email": "karel.petyrek@sms-sluzby.cz",
+        "phone": "",
+        "company": "SMS-sluby sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Ivana",
+        "last_name": "Řehořová",
+        "title": "Pověřenec Pro Ochranu Osobních úDajů",
+        "email": "ivana.rehorova@sms-sluzby.cz",
+        "phone": "",
+        "company": "SMS-sluby sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Monika",
+        "last_name": "Hrušková",
+        "title": "Administrátor Dotačního Servisu",
+        "email": "monika.hruskova@sms-sluzby.cz",
+        "phone": "",
+        "company": "SMS-sluby sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 97.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:26"
+}

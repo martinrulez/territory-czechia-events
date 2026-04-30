@@ -1,0 +1,401 @@
+{
+  "company_key": "urma ag",
+  "company_name": "Urma AG",
+  "domain": "www.urma-group.com",
+  "domain_url": "https://www.urma-group.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Urma AG",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-09-09",
+    "days_to_renewal": "139",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "maturity_label": "Entry",
+    "industry_segment": "Architecture Services",
+    "zi_done": true,
+    "employee_count": 90,
+    "revenue": 13571,
+    "zi_company_name": "Urma AG",
+    "zi_domain": "www.urma-group.com",
+    "zi_city": "Rupperswil",
+    "zi_country": "Switzerland",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.urma-group.com",
+    "homepage": {
+      "title": "Toolmaking - Mechanical Engineering - 3D Metal Printing – Urma AG",
+      "description": "URMA develops and manufactures precision tooling systems which are respected and used worldwide when it comes to boring operations. Get advice from us now!",
+      "text_excerpt": "Toolmaking - Mechanical Engineering - 3D Metal Printing – Urma AG\nSearch\nDrilling\nBoring\nReaming\nMilling\n16.02.2026\nOpening of the URMA Experience Center in Mägenwil\nAll News\nHoning\nHigh-precision honing on CNC machines\nLearn more\nMilling\nURMA milling – precise, reliable, and efficient\nLearn more\nReaming\nURMA Reaming - high-performance reamers\nFind out more\nBoring / Pre-Machining\nURMA Boring System - modular boring tools\nFind out more\nFine Boring\nFind out more\nSpecial Tools\nFind out more\nBurnishing and Deep Rolling\nFind out more\nDrilling\nURMA Drilling - high-performance drills\nFind out more"
+    },
+    "about": {
+      "url": "https://www.urma-group.com/o-nas",
+      "text": "Seite konnte nicht gefunden werden – Urma AG\nSuche\nSeite konnte nicht gefunden werden\nLeider konnte die angeforderte Seite nicht gefunden werden.\nzurück zur Startseite"
+    },
+    "products": {
+      "url": "https://www.urma-group.com/produkty",
+      "text": "Seite konnte nicht gefunden werden – Urma AG\nSuche\nSeite konnte nicht gefunden werden\nLeider konnte die angeforderte Seite nicht gefunden werden.\nzurück zur Startseite"
+    },
+    "contact_page": {
+      "url": "https://www.urma-group.com/kontakt",
+      "text": "Seite konnte nicht gefunden werden – Urma AG\nSuche\nSeite konnte nicht gefunden werden\nLeider konnte die angeforderte Seite nicht gefunden werden.\nzurück zur Startseite"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Urma AG",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 47,
+    "all_technologies": [
+      {
+        "product": "PayPal",
+        "vendor": "PayPal Holdings, Inc.",
+        "category": "Payment Processing",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Markforged",
+        "vendor": "Markforged",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Claritas",
+        "vendor": "Claritas, LLC",
+        "category": "Marketing Data Providers",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Genius Sports",
+        "vendor": "Genius Sports Group",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Nium",
+        "vendor": "Nium Pte. Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Docs",
+        "vendor": "Google LLC",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Mediavine",
+        "vendor": "Mediavine, Inc.",
+        "category": "Ad Verification and Optimization",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "iubenda",
+        "vendor": "iubenda s.r.l",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "smartclip",
+        "vendor": "smartclip Holding AG",
+        "category": "Video Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LinkedIn Ads",
+        "vendor": "LinkedIn Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Id5",
+        "vendor": "Id5",
+        "category": "Demand Side Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Notion Software",
+        "vendor": "Notion Labs, Inc",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Web.com",
+        "vendor": "Web.com Group, Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Adtelligent",
+        "vendor": "Adtelligent Inc.",
+        "category": "Supply Side Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Hostpoint",
+        "vendor": "Hostpoint AG",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Urma AG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Urma",
+        "last_name": "Tandil",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Urma AG",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 86.0
+      },
+      {
+        "first_name": "Aleksandra",
+        "last_name": "Belcheva Atanasovska",
+        "title": "Co-Founder",
+        "email": "",
+        "phone": "",
+        "company": "Urma AG",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 14:50"
+}

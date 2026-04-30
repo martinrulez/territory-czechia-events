@@ -1,0 +1,152 @@
+{
+  "company_key": "lpw reinigungssysteme gmbh",
+  "company_name": "LPW Reinigungssysteme GmbH",
+  "domain": "www.lpw-reinigungssysteme.de",
+  "domain_url": "https://www.lpw-reinigungssysteme.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "LPW Reinigungssysteme GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 25,
+    "revenue": 4653,
+    "zi_company_name": "LPW Reinigungssysteme",
+    "zi_domain": "www.lpw-reinigungssysteme.de",
+    "zi_city": "Riederich",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.lpw-reinigungssysteme.de",
+    "homepage": {
+      "title": "LPW - Industrielle Teilereinigung",
+      "description": "",
+      "text_excerpt": "LPW - Industrielle Teilereinigung\nWelcome ...\n... to LPW Reinigungssysteme GmbH. We are among the leading providers of high quality systems and process engineering technologies in industrial component cleaning with water-based media. Inter alia, our systems are used in the mechanical engineering,\nautomotive\n, and aerospace sectors, as well as in\ngeneral industry\n. With the company’s\nHigh Purity Division\nwe are also a desirable partner in sectors with delicate and very delicate cleaning tasks such as medical systems, the optical and semiconductor industries.\nThe LPW range of services includes standard and individual solutions for optimizing production processes in energy efficiency, availability and quality terms.\nWe configure established cleaning and drying methods with modular sections consistent with the relevant process requirements. We also develop and refine new methods and process solutions continuously.\nNeu von LPW: Anlage PowerPulse CNp mit Ultraschall\nHigh Performance im Produktionsumfeld. Sie benötigt minimale Stellfläche und bietet maximale High ...\nweiter ...\nBorer zu Gast bei LPW: echte Partnerschaft, professionelle Prozesse.\nPartnerschaft ist kein „Nice-to-have“. Sie ist erfolgsrelevant. Gerade bei anspruchsvollen ...\nweiter ...\nInterview mit LPW Geschäftsführer Gerhard Koblenzer\nTrends und Aussichten in der industriellen Teilereinigung für 2026: Gerhard Koblenzer, CEO der LPW ...\nweiter ...\nFolgen Sie uns auf\nLinkedIn\nTest- und Lohnreinigungszentrum\nUnser 300 m² großes, rein­raum­basier­tes Kundencenter, bietet die Möglichkeit, Versuche durchzuführen sowie das Angebot der Lohn­reinigung in der Präzisions­reinigung.\nmore ...\nAuszubildende gesucht\nWir bieten interessante Entwicklungsmöglichkeiten als mittelständisches Unternehmen mit internationalem Hintergrund, sowie ein vielseitiges und interessantes Aufgabengebiet im technischen Vertrieb.\nmore ...\nPress\nRead here what the (trade) press says about LPW. Furthermore, here is the download area for journalists, which contains our current press releases as well as printable image material.\nmore ...\nVideo \"cleaning methods\"\nAn easy to understand introduction to the basics of industrial component cleaning and the various cleaning methods.\nmore ...\nSpray cleaning method\nSpritzreinigungsverfahren kommen für Bauteile mit geringer Komplexität/einfacher Geometrie und mittlerem Anforderungsgrad in Bezug auf die Sauberkeit zum Einsatz.\nmore ...\nNews\nRegelmäßig halten wir Sie auf unserer Seite News auf dem Laufenden mit Infos über unser Unternehmen, unsere Dienstleistungen und unsere Maschinen.\nmore ...\nAsk the Developer\nMit unserem Technikum, der eigenen Sauberkeitsanalytik, und unserem eigenständigen Entwicklungslabor stehen wir jederzeit für Neues rund um die Industrielle Reinigungstechnik zur Verfügung.\nmore ...\nTrade Fairs and Events\nThe LPW team is available to you worldwide at numerous trade fairs and events to answer any questions about your processes, drawing on many years of expertise, "
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "LPW Reinigungssysteme GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 11,
+    "all_technologies": [
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "GoDaddy DNS",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Starfield Technologies",
+        "vendor": "Starfield Technologies",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "LPW Reinigungssysteme GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Hans",
+        "last_name": "Hauger",
+        "title": "Chief Technology Officer",
+        "email": "",
+        "phone": "",
+        "company": "LPW Reinigungssysteme",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 17:37"
+}

@@ -1,0 +1,52 @@
+{
+  "company_key": "kaitrade_spol_s_r_o",
+  "company_name": "KAITRADE spol. s r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "IVAN KAITMANN",
+        "firstName": "IVAN",
+        "lastName": "KAITMANN",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JAROSLAV HLAVÁČEK",
+        "firstName": "JAROSLAV",
+        "lastName": "HLAVÁČEK",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:09",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.avilatrade.cz",
+    "homepage": {
+      "title": "Kontakt - Avilatrade",
+      "description": "Technical Advisory",
+      "text_excerpt": "Kontakt - Avilatrade\nAvilatrade s.r.o.\nÃhlednÃ¡ 96/5\n621 00 Brno ÅeÄkovice\nIÄ:  044 59 920\nDIÄ:  CZ04459920\nspoleÄnost zapsÃ¡na v ObchodnÃ­m rejstÅÃ­ku u KrajskÃ©ho soudu v BrnÄ, oddÃ­l C, vloÅ¾ka 90012"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

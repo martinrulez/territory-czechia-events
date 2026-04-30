@@ -1,0 +1,190 @@
+{
+  "company_key": "kimessa ag",
+  "company_name": "KIMESSA AG",
+  "domain": "www.kimessa.com",
+  "domain_url": "https://www.kimessa.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "KIMESSA AG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 25,
+    "revenue": 6993,
+    "zi_company_name": "Kimessa",
+    "zi_domain": "www.kimessa.com",
+    "zi_city": "Zürich",
+    "zi_country": "Switzerland",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.kimessa.com",
+    "homepage": {
+      "title": "Stationary gas detection systems Gas detection systems - KIMESSA",
+      "description": "Leading gas warning systems, gas monitoring, gas monitoring, control systems - Innovative safety solutions for industry - KIMESSA.",
+      "text_excerpt": "Stationary gas detection systems Gas detection systems - KIMESSA\nKIMESSA AG\nStationary gas detection systems\nfrom Switzerland\nContact us\nAbout us\nKIMESSA is your owner-managed Swiss full-service provider for durable, functional, and customized gas monitoring equipment and systems at an excellent price-performance ratio. We value personal consultation and innovative technology.\nGuaranteed Swiss origin. Don't hesitate to\ncontact\nus.\nProducts\nAll products\nAreas of application\nAll applications\nServices\nAll services\nWhy we are the right partner\nOur customer-oriented approach, combined with technical expertise, makes us your ideal partner. We look for a solution to meet your individual requirements.\nGas warning systems\nGas detection systems are indispensable safety components that play an important role in a wide range of areas. Various measuring principles ensure that selective measurement of a wide variety of gases is possible. They are used in industrial environments, laboratories, storage facilities and other work areas where the protection of people, systems and the environment from potential hazards caused by gas leaks is a high priority.\nThe main function of gas warning systems is to detect the presence of harmful gases in the air and to trigger a warning if safety limits are exceeded. These warnings can be visual, audible or via automatic controls to enable a rapid response of countermeasures, such as the activation of ventilation.\nKimessa AG has been active in the field of gas monitoring since 1985 and will be happy to answer any further questions you may have.\nPlease do not hesitate to contact us.\nYour safety is our priority!\nLatest News\nGet the latest KIMESSA news and product launches.\nCelebrating our 40th anniversary\n40 years of KIMESSA AG Together for a secure future Since 1985, our heart has been beating for...\nread more\nAnnouncement Jose Padula\nDear partners and customers of KIMESSA AG We would like to inform you about an important...\nread more\nVisit us at the Chillventa trade fair in Nuremberg in Hall 5, Stand 217\nVisit us at Chillventa 2024! We are pleased to inform you that...\nread more\nAll news\nHave we aroused YOUR interest?\nWe are ready\nName\ne-mail\nCompany\nMessage / Questions\nSend"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.kimessa.com/kontakt",
+      "text": "Contact - KIMESSA\nYour experts for gas detection solutions\nKIMESSA AG\ncontact\nContact us\nThank you for your interest in our company! If you have any questions or require further information, please do not hesitate to contact us. You can reach us by phone, e-mail or via the contact form. We look forward to hearing from you!\nKIMESSA\nRautistrasse 12\nCH-8047 Zurich\n41 (0)44 404 38 38\nE-mail: info@kimessa.com\nYou are currently viewing a placeholder content from\nDefault\nTo access the actual content, click the button below. Please note that doing so will share data with third-party providers.\nUnblock content\nAccept required service and unblock content\nMore Information\nKIMESSA International\nShow all countries\nHave we aroused YOUR interest?\nWe are ready\nName\ne-mail\nCompany\nMessage / Questions\nSend"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "KIMESSA AG",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 19,
+    "all_technologies": [
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Leaflet",
+        "vendor": "LeafletJS",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "ShareThis",
+        "vendor": "ShareThis, Inc.",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Hostpoint",
+        "vendor": "Hostpoint AG",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "KIMESSA AG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 17:49"
+}

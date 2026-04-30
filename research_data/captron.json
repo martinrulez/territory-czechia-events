@@ -1,0 +1,275 @@
+{
+  "company_key": "captron",
+  "company_name": "CAPTRON",
+  "domain": "www.captron.com",
+  "domain_url": "https://www.captron.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "CAPTRON",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "2",
+    "current_acv_eur": "1000.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-05-06",
+    "days_to_renewal": "13",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "maturity_label": "Entry",
+    "industry_segment": "Construction Services",
+    "zi_done": true,
+    "employee_count": 97,
+    "revenue": 19670,
+    "zi_company_name": "CAPTRON",
+    "zi_domain": "www.captron.com",
+    "zi_city": "Olching",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.captron.com",
+    "homepage": {
+      "title": "CAPTRON world market leader for capacitive touch buttons - CAPTRON",
+      "description": "CAPTRON is the world market leader for capacitive touch buttons and manufacturer of high-quality sensors and sensor solutions.",
+      "text_excerpt": "CAPTRON world market leader for capacitive touch buttons - CAPTRON\nPick-by-Light solutions\nIncrease your picking performance by up to 50% with our pick-by-light systems.\nLearn more\nDiscover our highlights for the future of public transport!\nBarrier-free and robust push buttons for buses.\nLearn more\nFor industrial robots and cobots\nHardware and software solutions for precise and automatic processes in robotics.\nLearn more\nAutomatic calibration of tool center points\nPrecise tool positioning with the URCap software\nLearn more\nNew generation of stop request buttons\nThe seriesSR, which conforms to ECE-R107.8 and TSI-PRM, is a stop request button and door opener in one.\nMore\nCUSTOMIZED CONFIGURATION\nWe produce probes within a millimeter of your tolerance\nMore\nHome\nCompany\nCAPTRON is the world market leader for capacitive sensor switches and manufacturer of high-quality sensors for level measurement, optical object detection and LED signaling.\nCAPTRON sensors and sensor systems are used in a wide variety of industries and have been shaping the future between man-machine and machine-machine interface since 1983. Our customers benefit from more than four decades of experience, best service and reliable products - true to our motto:\nQuality made in Bavaria.\nProducts\nCANEO series with IO-Link\nThe revolution in HMI technologies\nProducts\nSENSORswitches\nWith capacitive touch function\nProducts\nTwo-Hand control safeCAP\nSafe and ergonomic\nProducts\nLevel Sensors\nCAPselect - free configuration of your probe\nProducts\nOptical sensors\nCustomized to your application\nProducts\nLED signalling units\nLong-lasting and robust\nProducts\nNews\nSmart displays for automated manufacturing processes\nFebruary 20, 2026 | Reading time: 4 minutes | CAPTRON Editorial Team\nLearn more about the project\nPickCart as a smart picking cart for multi-order picking\nJanuary 21, 2026 | Reading time: 2 minutes | CAPTRON Editorial Team\nLearn more\nIncrease your efficiency in the warehouse with pick-by-light\nJune 27, 2024 | Reading time: 6 minutes | CAPTRON Editorial Team\nRead more\nAbout CAPTRON\nWatch now!"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.captron.com/products",
+      "text": "Capacitive and Optical Sensors - CAPTRON\nHome\nProducts\nCAPTRON sensors and systems\nInnovative sensor technology and customized solutions\nCAPTRON offers its customers sensors and sensor systems with superb user and requirements knowledge, technical expertise and tailor-made solutions.\nAt the customer's request, the design of our products can be modified not just in terms of their materials, symbols and labelling, but also specifically in terms of their technology and functionality.\nThe CAPTRON team is constantly growing its expertise in order to assist our customers and partners with the introduction of new sensor technologies through automation and security technology solution concepts as well as professional consultancy services.\nCAPTRON - QUALITY MADE IN BAVARIA.\nTo our Product Lines\nQuicklinks\nProduct Lines\nDownloads\nService\nTrade shows and exhibitions\nNew: CANEO series with IO-Link\nThe revolution in HMI technologies\nThe new HMI standard capacitive switch combines innovative design with the possibility to freely configure all function parameters via IO-Link – from switch sensitivity, actuation type, minimum actuation time, to choosing the right fluorescent colors from 16 million options.\nLearn more\nSENSORswitches\nWith capacitive touch function\nSince 1994, CAPTRON has successfully been developing and producing capacitive switches for the opening of doors and the actuation and control of machinery and systems.\nLearn more\nTwo-Hand control safeCAP\nSafe and ergonomical\nsafeCAP is CAPTRON’s solution for maximum safety and ergonomics when operating heavy machinery with a high risk of injury such as presses, shears and punches.\nLearn more\nLevel Sensors\nCAPselect - free configuration of your probe\nWith the CAPselect system for level sensors, you are able to freely configure the probe of your choice depending on the application, container type and sensor properties.\nLearn more\nOptical sensors\nCustomised to your application\nCAPTRON produces customised light barriers with red light, infra-red and laser light as well as laser TCP measuring units for maximum-precision tool calibration by industrial robots.\nLearn more\nLED signalling units\nLong-lasting and robust\nMaximum reliability - even under the most adverse conditions - is needed for intuitive orientation in buildings, in public transport or the control of machinery.\nLearn more\noneGRID Pick-by-Light system\nFatigue-free order picking\nPick-by-Light with touch optimizes paperless order picking and increases picking performance by up to 50%.\nLearn more\nPeripheral equipment\nThe ideal add-on\nFrom the ideal holder to dismantling and assembly tools. Our accessories offer an extensive range of add-on products for our sensors and systems for virtually all applications.\nLearn more"
+    },
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "CAPTRON",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 29,
+    "all_technologies": [
+      {
+        "product": "Figma",
+        "vendor": "Figma, Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Adobe Creative Cloud",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Shopify",
+        "vendor": "Shopify Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Confluence",
+        "vendor": "Atlassian",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "HubSpot",
+        "vendor": "HubSpot, Inc",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Adobe InDesign",
+        "vendor": "Adobe Inc.",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "jQuery Mobile",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Jira",
+        "vendor": "Atlassian",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Varnish",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Starfield Technologies",
+        "vendor": "Starfield Technologies",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "TYPO3 CMS",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Atlassian",
+        "vendor": "Atlassian",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Varnish 6.0",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Varnish 4",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "CAPTRON",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 15:07",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks",
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

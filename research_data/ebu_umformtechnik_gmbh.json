@@ -1,0 +1,108 @@
+{
+  "company_key": "ebu umformtechnik gmbh",
+  "company_name": "ebu Umformtechnik GmbH",
+  "domain": "www.ebu-umformtechnik.de",
+  "domain_url": "https://www.ebu-umformtechnik.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ebu Umformtechnik GmbH",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Fusion + PowerMill",
+    "total_seats": "1",
+    "current_acv_eur": "1000.0",
+    "potential_acv_eur": "4550.0",
+    "nearest_renewal": "2026-12-31",
+    "days_to_renewal": "252",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle 1 standalone D&M tools into one collection",
+    "all_upsells": "PDMC; Flex",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Industrial Machinery",
+    "ml_domain": "www.erdrich.de",
+    "zi_done": true,
+    "employee_count": 30,
+    "revenue": 3515,
+    "zi_company_name": "ebu Umformtechnik",
+    "zi_domain": "www.ebu-umformtechnik.de",
+    "zi_city": "Bayreuth",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.ebu-umformtechnik.de",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "ebu Umformtechnik GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 2,
+    "all_technologies": [
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ebu Umformtechnik GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Erik",
+        "last_name": "Vetter",
+        "title": "The Field Service Technician",
+        "email": "",
+        "phone": "",
+        "company": "ebu Umformtechnik",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 76.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 14:43"
+}

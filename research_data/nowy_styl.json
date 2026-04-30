@@ -1,0 +1,106 @@
+{
+  "company_key": "nowy styl",
+  "company_name": "Nowy Styl",
+  "domain": "",
+  "domain_url": "",
+  "events": "Designblok 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Nowy Styl",
+    "opportunity_score": 17,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.37,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.37,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "04641388",
+    "official_name": "NOWY STYL CZ, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "461",
+      "70200",
+      "74300",
+      "46900",
+      "71120",
+      "731",
+      "82100",
+      "32",
+      "47",
+      "772",
+      "32",
+      "461",
+      "46900",
+      "47",
+      "702",
+      "7112",
+      "731",
+      "74300",
+      "772",
+      "821"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Boudníkova 2506/1, Libeň, 18000 Praha 8, Praha, Boudníkova, 18000",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Nowy Styl",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Pawel",
+        "last_name": "Makowski",
+        "title": "General Manager",
+        "email": "",
+        "phone": "",
+        "company": "Nowy Styl Group",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Lukasz",
+        "last_name": "Sztuka",
+        "title": "Lead Business Architect & Owner",
+        "email": "",
+        "phone": "",
+        "company": "Nowy Styl Group",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 75.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 16:00"
+}

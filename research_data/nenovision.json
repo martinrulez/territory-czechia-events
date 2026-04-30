@@ -1,0 +1,288 @@
+{
+  "company_key": "nenovision",
+  "company_name": "NenoVision",
+  "domain": "www.nenovision.com",
+  "domain_url": "https://www.nenovision.com",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": 3816,
+  "enrichment": {
+    "company_name": "NenoVision",
+    "opportunity_score": 31,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.58,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.58,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "04525671",
+    "official_name": "NenoVision s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "461",
+      "71120",
+      "74990",
+      "71200",
+      "00",
+      "46",
+      "26",
+      "331",
+      "47",
+      "72",
+      "00",
+      "26",
+      "331",
+      "46",
+      "461",
+      "47",
+      "7112",
+      "71209",
+      "72",
+      "7490"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Purkyňova 649/127, Medlánky, 61200 Brno, Brno, Purkyňova, 61200",
+    "is_client": true,
+    "current_products": "Inventor",
+    "total_seats": "1",
+    "current_acv_eur": "2800.0",
+    "potential_acv_eur": "9000.0",
+    "nearest_renewal": "2026-07-02",
+    "days_to_renewal": "70",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle with AutoCAD Mechanical, Vault, Fusion for full D&M workflow",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Vault",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Industrial Machinery",
+    "zi_done": true,
+    "employee_count": 21,
+    "revenue": 4410,
+    "zi_company_name": "NenoVision",
+    "zi_domain": "www.nenovision.com",
+    "zi_city": "Brno",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "revenue_growth": 352.0,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.nenovision.com",
+    "homepage": {
+      "title": "NenoVision - we develop and produce AFM-in-SEM LiteScope",
+      "description": "We are NenoVision. We are pushing forward the boundaries of correlative microscopy.",
+      "text_excerpt": "NenoVision - we develop and produce AFM-in-SEM LiteScope\nSemiconductor Failure Analysis\nIn-situ, site-specific, electrical and topographical characterization of semiconductor components at the nanoscale.\nLearn more\nLiteScope AFM-in-SEM\nMerge the power of AFM and SEM in a single tool to explore the secrets of nanoworld.\nLearn more\nBattery Component Materials Analyses\nIntroducing our Battery Component Materials research solution.\nLearn more\nNext level of imaging\nContact us to discuss your own application!\nLearn more\nLiteScope 2.5\nThis award-winning tool within the field of\nIn-Situ Correlative Microscopy\nhas the potential to revolutionize the way you perform correlative analysis.\nIn-situ multimodal & correlative analysis\nOptimized & time-efficient workflow\nUltimate performance inside SEM\nOpen-hardware design for easy customization\nThe new generation of\nLiteScope AFM-in-SEM\nis built on the completely new state-of-the-art\ncontrol unit NenoBox\nleveraging the performance and capabilities of the AFM-in-SEM to the new level.\nCheck our introduction video by our CEO Jan Neuman below. Do you want to know more details? Then click the contact us button!\nContact us\nPlay video\nBenefits of AFM-in-SEM solution\nCombining the strengths of Atomic force microscope and Scanning electron microscope opens a wide range of possibilities. Thanks to seamless integration and one click operations is possible to correlate various measurements in real time.\nSee the unique benefits of the\nAFM-in-SEM solution\n, which assure you measurement results impossible to reach by separate AFM and SEM techniques. Check the biggest advantages of in-situ analysis by using them simultaneously!\nCorrelative multimodal sample analysis\nCutting-edge CPEM technology allows the simultaneous acquisition of AFM and SEM data and their seamless correlation.\nLearn more\nIn-situ sample characterization\nIn-situ conditions inside the SEM ensure sample analysis at the same time, in the same place and under the same conditions.\nLearn more\nPrecise localization of the region of interest\nExtremely precise and timesaving approach uses SEM to navigate the AFM tip to the region of interest, enabling its fast & easy localization.\nLearn more\nMerge the forces of AFM and SEM\nApplications\nAFM-in-SEM\noffers a broad field of sample analysis. Simultaneous utilization of Scanning electron microscope and Atomic force microscope is indispensable for advanced 3D\ncorrelative analysis\nwhile reducing overal image acquisition time.\nThe easy & efficient workflow assures fast and quality measurement results. With the ultra-high resolution and unparalleled accuracy of image alignment, the versatility of\nLiteScope\nbrings the new possibilities into variety of application areas:\nMaterial science\nBattery & Energy materials\nSemiconductors\nLife science\nProducts\nWe develop and produce\nAFM-in-SEM LiteScope,\nused for correlative and multimodal in-situ analysis of microscopic samples.\nLearn about our unique AFM-in-SEM solution and its capabilites"
+    },
+    "about": {
+      "url": "https://www.nenovision.com/about-us",
+      "text": "About NenoVision company\nAbout NenoVision company\nWe are NenoVision. We are pushing forward the boundaries of correlative microscopy.\nMore about us\nOur mission is to create unique tools on the top technological level which are used by the scientific community and which drive new discoveries with\nsignificant impact\n. Since the beginning we strive to advance science by implementing academic knowledge to our\ninnovative solutions\n, so customers have the freedom to focus on pushing the boundaries of correlative microscopy in their\nreal-world use cases\nOur enthusiasm for Science and Nanotechnology brought us to develop a compact technological solution that will bring new light to this perspective and exciting field of knowledge. We are committed to constantly think about our customers and their needs, our goal is to provide\ncutting edge technology\nwith seamless integration in easy-to-use, yet powerful „NenoVision experience“.\nCompany\nDistributors\nProjects\nReferences\nCollaborations\nCareer\nWant to know even more about NenoVision and its people? Just contact us via the button below. We will be glad to get in contact with you!\nGet in touch with us...\nContact us\nVáš prohlížeč není podporován\nNainstalujte si prosím některý z podporovaných prohlížečů\nChrome\nFirefox\nPokračovat na web"
+    },
+    "products": {
+      "url": "https://www.nenovision.com/products",
+      "text": "Products of NenoVision company\nProduct overview\nFind out what is the setup & possibilities of the AFM-in-SEM solution.\nSee our products\nNenoVision provides instruments, technology and services to substantiate scientists on their journey to solve\ncomplex analytical challenges\nin material and life science, semiconductor and nanostructural features and failure analysis.\nOur products address a need for multimodal imaging via\nin-situ AFM and SEM\nmeasurements for\ntrue correlative analysis\n. Learn more about seamless integration, wide range of accessories and measure modes in slick \"NenoVision experience\".\nAFM-in-SEM LiteScope\nPrincipal benefits\nMeasurement modes\nModules & Accessories\nProbes\nAre you interested?\nFeel free to...\nContact us\nVáš prohlížeč není podporován\nNainstalujte si prosím některý z podporovaných prohlížečů\nChrome\nFirefox\nPokračovat na web"
+    },
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "NenoVision",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 17,
+    "all_technologies": [
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Altium",
+        "vendor": "Altium LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft Teams",
+        "vendor": "Microsoft Office",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Adobe Typekit",
+        "vendor": "Adobe Inc.",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "NenoVision",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Jan",
+        "last_name": "Neuman",
+        "title": "Chief Executive Officer & Co-Founder",
+        "email": "jan.neuman@nenovision.com",
+        "phone": "",
+        "company": "NenoVision",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 99.0
+      },
+      {
+        "first_name": "David",
+        "last_name": "Novák",
+        "title": "Managing Director",
+        "email": "david.novak@nenovision.com",
+        "phone": "+420 773 219 566",
+        "company": "NenoVision",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 99.0
+      },
+      {
+        "first_name": "Rosalinda",
+        "last_name": "Ring",
+        "title": "Director, Applications Development & Engineering",
+        "email": "rosalinda.ring@nenovision.com",
+        "phone": "",
+        "company": "NenoVision",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 94.0
+      },
+      {
+        "first_name": "Michal",
+        "last_name": "Pavera",
+        "title": "Manager, Research & Development",
+        "email": "michal.pavera@nenovision.com",
+        "phone": "",
+        "company": "NenoVision",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 08:44",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "inventor",
+        "vault"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

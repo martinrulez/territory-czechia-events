@@ -1,0 +1,118 @@
+{
+  "company_key": "landschaft id gmbh",
+  "company_name": "landschaft ID GmbH",
+  "domain": "www.landschaft-id.de",
+  "domain_url": "https://www.landschaft-id.de",
+  "events": "Digi/BIM Day CKA 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "landschaft ID GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 8,
+    "revenue": 1902,
+    "zi_company_name": "landschaft ID",
+    "zi_domain": "www.landschaft-id.de",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.landschaft-id.de",
+    "homepage": {
+      "title": "landschaft ID | BIM für Freianlagen",
+      "description": "Unser Schwerpunkt ist die Planung von Freianlagen mit der BIM-Methode sowie digitales Design. Wir sind die landschaft ID.",
+      "text_excerpt": "landschaft ID | BIM für Freianlagen\ntop of page\nWir vereinen Informationen und Design in der Landschaftsarchitektur.\nBuilding Information Modeling\nDigitales Design\nInnovation\nIn Zeiten der Digitalisierung beschreibt die Bauwerksinformations-modellierung (engl. Building Information Modelling, kurz BIM) eine Projektabwicklungsmethode, in der digitale Modelle erstellt und ausgetauscht werden.\nWir erstellen das Fachmodell der Freianlagen.\n___________________________________\nDrehen und zoomen um die Treppe anzusehen\nWir bieten maßgeschneiderte Lösungen für Ihre Entwurfsaufgaben, indem wir sowohl BIM- als auch Herstellungsprozesse berücksichtigen und digitale sowie analoge Modelle nutzen. Unsere Expertise in computergestützten Fertigungsmethoden wie\n3D-Druck ermöglicht es uns, konventionelle Prozesse zu optimieren und einzigartige Objekte im Außenraum zu schaffen.\nUnsere Ambition ist es, auf innovative Weise zu arbeiten, sowohl mit Virtual Reality (VR) und Augmented Reality (AR) als auch mit einer fortschrittlichen Arbeitsweise, die künstliche Intelligenz (KI) einschließt. Wir streben danach, einzigartige Lösungen zu entwickeln und neue Maßstäbe in der Gestaltung und Umsetzung Ihrer Projekte zu setzen.\nUnsere Leistungen\nBearbeitung\nWir bearbeiten vollumfänglich Projekte mit der BIM-Methode und darüber hinaus - von der Grundlagenermittlung bis zum CAFM.\nUnterstützung\nWir unterstützen Sie im modellbasierten Planungsprozess mit unserer Expertise im Bereich BIM, Landschaftsarchitektur und digitales Design.\nDigitales Design\nSicher die richtige Lösung für ihre Entwurfsaufgabe finden und dabei gleichzeitig sowohl BIM- als auch Herstellungsprozesse mitdenken. Wir fördern individuelle Lösungen.\nFAQ\nWas macht die landschaft ID?\nUnser Schwerpunkt liegt auf der Bearbeitung von Landschaftsarchitekturprojekten mit der BIM-Methode. Zudem beschäftigen wir uns mit innovativen und unkonventionellen Entwurfsmethoden und Technologien. Dazu zählen zum Beispiel Virtual Reality, parametrisches Design oder KI.\nAuf LinkedIn teilen wir Einblicke in unsere Arbeit! Gerne vorbeischauen!\nWie und wo arbeiten die Mitarbeitenden der landschaft ID?\nWir arbeiten Remote.\nDas heißt, jede:r unserer Mitarbeiter:innen kann arbeiten wo er oder sie es möchte - solange das Internet läuft :)\nMit welchen Softwares arbeitet die landschaft ID?\nNeben den üblichen Office Anwendungen nutzen wir für unsere Projektbearbeitung hauptsächlich Archicad, Solibri, Rhino, Grasshopper und FreeCAD.\nFür die Zusammenarbeit ist es allerdings unerheblich, welche Softwares genutzt werden. Wir arbeiten stets im Sinne des open BIM.\nbottom of page"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.landschaft-id.de/kontakt",
+      "text": "Kontakt | landschaft ID GmbH\ntop of page\nKontakt\nKontakt aufnehmen\nTelefonnummer\n+49 911/23 08 97-0\nE-Mail-Adresse\nkontakt@landschaft-id.de\nSocial Media\nVorname\nNachname\nEmail\nNachricht\nSenden\nWir melden uns!\nFür spezifische Anfragen ↓\nDigitales\nDesign\nAnsprechpartner\nDaniel Theidel\n+49 911 / 23 0897 - 42\ndaniel.theidel@landschaft-id.de\nLandschafts\nInformations\nManagement\nAnsprechpartner\nSven-Marvin Sommer\n+49 911 / 23 0897 - 32\nsven-marvin.sommer@landschaft-id.de\nIntelligente\nSysteme\nAnsprechpartner\nFriedrich von Roth\n+49 911 / 23 0897 - 41\nfriedrich.roth@landschaft-id.de\nbottom of page"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "landschaft ID GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Varnish",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "PayPal",
+        "vendor": "PayPal Holdings, Inc.",
+        "category": "Payment Processing",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Wix",
+        "vendor": "Wix.com, Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "landschaft ID GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 17:42"
+}

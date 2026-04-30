@@ -1,0 +1,254 @@
+{
+  "company_key": "ruko gmbh präzisionswerkzeuge",
+  "company_name": "RUKO GmbH Präzisionswerkzeuge",
+  "domain": "www.ruko.de",
+  "domain_url": "https://www.ruko.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "RUKO GmbH Präzisionswerkzeuge",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 437,
+    "revenue": 24035,
+    "zi_company_name": "RUKO",
+    "zi_domain": "www.ruko.de",
+    "zi_city": "Holzgerlingen",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ruko.de",
+    "homepage": {
+      "title": "RUKO - Präzisionswerkzeuge für die Metallbearbeitung",
+      "description": "Entdecken Sie Präzisionswerkzeuge von RUKO für höchste Ansprüche in der Metallbearbeitung.",
+      "text_excerpt": "RUKO - Präzisionswerkzeuge für die Metallbearbeitung\nMehr Tempo. Mehr Ausdauer.\nJetzt neu: Der Kernbohrer HSS PerforMAX.\nJetzt informieren\nBohrmaschine. Sogar ohne Maschine.\nJetzt neu: Der ULTIMATECUT Multidrill mit FLOWSTEP® Spitze.\nJetzt informieren\nWeil jeder Millimeter zählt.\nJetzt neu: Der ULTIMATECUT Spiralbohrer jetzt bis Ø 20 mm.\nJetzt informieren\nWechsle deine Arbeitsweise. Nicht dein Werkzeug.\nJetzt neu: Der ULTIMATECUT Kombi-Maschinengewindebohrer.\nJetzt informieren\nDein Experte für hochwertige Bohrer-, Senk- und Schneidwerkzeuge für die Metallzerspanung\nSeit 1974 steht der Name RUKO für hochwertige Bohr-, Senk- und Schneidwerkzeuge, die speziell für die Metallzerspanung entwickelt werden. Dank unserer erfahrenen Mitarbeitenden und deren Leidenschaft für Präzisionswerkzeuge setzen wir kontinuierlich neue Maßstäbe. Mit einer hochmodernen Fertigung, innovativen Hochleistungsbohrern und ständigen Produktoptimierungen hat sich RUKO als führender Anbieter in der Werkzeugindustrie etabliert. Unsere Produkte, darunter die ULTIMATECUT Premiumlinie, sind weltweit bekannt für Präzision und Langlebigkeit.\nStep by step zum perfekten Ergebnis\nJetzt neu: Unser ULTIMATECUT Stufenbohrer jetzt auch in HSSE-Co 5 für höchste Ansprüche in der Metallzerspanung.\nJetzt informieren\nCOME to RUKO! Top Bohrer. Top Job.\nLeidenschaft trifft Innovation\nBei RUKO finden Sie nicht nur einen Job, sondern eine Berufung, in der Ihre Talente und Ihr Eifer wirklich zum Tragen kommen. Wir glauben an kontinuierliches Lernen und persönliches Wachstum und bieten daher viele Möglichkeiten zur Weiterbildung und Karriereentwicklung.\nMit modernsten Technologien und einer Leidenschaft für Präzisionswerkzeuge treiben wir die Grenzen des Möglichen ständig voran.\nHier bauen wir gemeinsam an einer Handwerker-Welt, die smarter, präziser und nachhaltiger ist – und Ihre Karriere ist ein wesentlicher Teil dieser Vision.\nZur Karriereseite\nErfunden, um deine Arbeit jeden Tag noch ein Stück besser zu machen.\nEntdecke jetzt die Premiumlinie\nWas gibt es Neues?\nBleiben Sie auf dem Laufenden mit den neuesten Innovationen von RUKO! Hier finden Sie spannende Updates zu unseren Präzisionswerkzeugen, Einblicke in unsere Entwicklungen wie die ULTIMATECUT Premiumlinie und aktuelle Nachrichten für die Welt der Metallzerspanung.\nWissen - RUKO-Stories\nIndividuelle Drinks auf Knopfdruck\nWeiterlesen >>\nWissen - Know-How\nStufenbohrer vs. Blechschälbohrer: Vorteile und Einsatzbereiche\nWeiterlesen >>\nWissen - Know-How\nWelcher Bohrer für welchen Stahl? HSS-Co 5 und HSS-Co 8 im Vergleich\nWeiterlesen >>\nWissen - RUKO-Stories\nIndividuelle Drinks auf Knopfdruck\nWeiterlesen >>\nWissen - Know-How\nStufenbohrer vs. Blechschälbohrer: Vorteile und Einsatzbereiche\nWeiterlesen >>\nWissen - Know-How\nWelcher Bohrer für welchen Stahl? HSS-Co 5 und HSS-Co 8 im Vergleich\nWeiterlesen >>"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "RUKO GmbH Präzisionswerkzeuge",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 28,
+    "all_technologies": [
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Storyblok",
+        "vendor": "Storyblok GmbH",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Gatsby",
+        "vendor": "Gatsbyjs",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Packet",
+        "vendor": "Packet Host, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Analytics Event Tracking",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "CSC Corporate Domains",
+        "vendor": "CSC group",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Amazon Web Hosting",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Play Badges",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Apple App Store links",
+        "vendor": "Apple Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "CSC",
+        "vendor": "CSC",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "RUKO GmbH Präzisionswerkzeuge",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Seong",
+        "last_name": "Choi",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "RUKO",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 92.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 16:59"
+}

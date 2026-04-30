@@ -1,0 +1,282 @@
+{
+  "company_key": "sm",
+  "company_name": "SM",
+  "domain": "www.shm-cz.cz",
+  "domain_url": "https://www.shm-cz.cz",
+  "events": "Connected Construction Days 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SM",
+    "opportunity_score": 33,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.65,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.65,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "01628526",
+    "official_name": "Sm produkt business s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "00",
+      "222",
+      "00",
+      "222"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Rižská 1580/5, Hostivař, 10200 Praha 10, Praha, Rižská, 10200",
+    "is_client": true,
+    "current_products": "AutoCAD LT | Inventor | PDMC | Vault",
+    "total_seats": "5",
+    "current_acv_eur": "13100.0",
+    "potential_acv_eur": "14400.0",
+    "nearest_renewal": "2027-01-21",
+    "days_to_renewal": "273",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; AutoCAD (full); Fusion Mfg Ext",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Other Manufacturing",
+    "ml_domain": "www.shm-cz.cz",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "revenue_growth": -99.9,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.shm-cz.cz",
+    "homepage": {
+      "title": "Home – SHM",
+      "description": "PVD coatings PVD coatings bring many economic and ecological effects in industrial production and applications. Research & Development SHM’s business vision has been based on its own research and development from the beginning. Surface technologies The coating process itself is preceded by modern surface treatments and preparations of the tools. Services The Services segment is...",
+      "text_excerpt": "Home – SHM\nSkip to content\nIndustrial\nPVD coatings\nBacterial inhibition\nBiocompatibility\nDiffusion properties\nFriction\nAbrasion resistance\nOptical properties\nWettability – Surface free energy\nHardness\nInternal tension\nHigh specific surface area\nPVD coatings\nPVD coatings bring many economic and ecological effects in industrial production and applications.\nMore information\nResearch & Development\nSHM’s business vision has been based on its own research and development from the beginning.\nMore information\nSurface technologies\nThe coating process itself is preceded by modern surface treatments and preparations of the tools.\nMore information\nServices\nThe Services segment is the added value of our comprehensive offer.\nMore information\nIndustrial PVD coatings\nndustrial PVD\ncoatings\n– Physical Vapour Deposition\ncoatings\nare thin\nlayers with a thickness of 1-30 µm\n(about 0.000 000 001 km) applied to the base material by technology using the\nphysical\nprinciples of\ndeposition\nvacuum apparatuses\nat elevated temperatures. The coatings are characterized by unique properties, the combination of which gives them an extraordinary breadth of application.\nOptimized versions\nare used for tools intended for difficult machining and forming conditions, where despite their micron thickness they significantly\nincrease their performance\n. They are also indispensable in the world of components for optics, electronics, consumer industry, architecture, healthcare and others.\nDeposition technologies used for applying industrial PVD coatings are very sophisticated. They mainly use\nlow-voltage arc evaporation\nand\nmagnetron sputtering\ntechniques. The\nflexibility\nof PVD technology for depositing PVD coatings with different elemental compositions and in various structural modifications is\nenormous\nWelcome to the world of industrial PVD coatings and their\nunique properties.\nPVD coatings by SHM\nPVD coatings bring many economic and environmental benefits to industrial production and applications. PVD coatings provide improved resistance to wear, corrosion, high temperatures and other adverse effects. PVD technology allows the deposition of layers of very hard materials such as nitrides, oxides and metal carbides.\nMore information\nResearch & Development\nDevelopment of PVD coatings and technologies:\nvariations of existing coatings, development of new PVD concepts, laboratory and industrial application testing of coatings.\nCustomer modifications of coatings:\n“tailor-made” modification of standard coatings, development and testing of new coatings according to customer requirements, construction of specialized holders for atypical tools and components, consultations, assessment and design of technical solutions, customer training and presentations.\nLaboratory analyses:\nanalyses of coatings and base materials, evaluation of tools and components.\nDesign and construction of coating equipment:\ndesign and implementation of commercial equipment, production of laboratory equipment, upgrade of com"
+    },
+    "about": {
+      "url": "https://www.shm-cz.cz/o-nas",
+      "text": "O nás – SHM\nPřeskočit na obsah\nJsme česká společnost, která se od roku 1993 specializuje na průmyslovou přípravu PVD povlaků. Díky dlouholetému výzkumu a vývoji „supertvrdých“ tenkých vrstev jsme se stali průkopníky v aplikaci těchto povlaků na nástroje, dílce i komponenty napříč mnoha průmyslovými obory. Naše inovativní PVD technologie, založené na principech odpařování materiálu pomocí nízkonapěťového oblouku a magnetronového naprašování z rotačních katod, patří k nejpokročilejším na světě.\nNaše nabídka PVD povlaků se postupem času rozrostla o řadu zákaznicky orientovaných služeb zahrnujících vzorkování, různé analýzy materiálů, přívětivou logistiku, ale především širokou škálu úprav povrchů. Intenzivně zkoumáme možnosti aditivních či laserových úprav nebo renovací povrchů. Naším cílem je vždy dokonale porozumět potřebám zákazníka a přinášet technická a ekonomická řešení, která vylepší jeho procesy nebo produkty.\nNa našem portálu můžete zjistit více o naší vizi, hodnotách, historii, unikátních patentech i certifikátech, které potvrzují naši společenskou odpovědnost, kvalitu podle norem ISO a environmentální závazky.\nSídlíme ve vlastním moderním objektu v Šumperku a své služby poskytujeme také na pobočce SHM Slovakia v Rajci. Od počátku klademe důraz na odpovědné podnikání a udržitelnost ve všech oblastech naší činnosti. Budujeme tým kvalifikovaných a zapálených profesionálů, dnes nás je téměř 130, a zároveň dbáme na rodinnou a přátelskou atmosféru ve firmě. Věříme, že se tento přístup pozitivně odráží v inspirativních a dlouhodobých vztazích s našimi zákazníky a partnery, ať už v obchodních aktivitách, ve vývojových projektech, nebo v rámci našeho krásného šumperského regionu.\nNaše motto\nSlušnost v podnikatelské činnosti musí být součástí naší kultury a nesmí být chápána jako slabost. Odpovědné podnikání nebereme jako úkol, ale jako cestu, která přirozeně zapadá do našeho každodenního profesního i osobního života.\nAtributy vize SHM\norientace na potřeby zákazníků,\nvytváření individuálně orientované technické podpory zákazníků,\npráce se zajímavými technologiemi,\ngenerování dostatečného zisku na trvalý a dlouhodobý rozvoj firmy s uplatněním vysokého podílu vlastního výzkumu a vývoje,\nodpovědnost vůči společnosti a krajině v širokém slova smyslu = odpovědné podnikání,\nuspokojení kvalitních životních potřeb všech zaměstnanců,\npodílení se na tvorbě pozitivního regionálního prostředí.\nSpravovat Souhlas\nAbychom poskytli co nejlepší služby, používáme k ukládání a/nebo přístupu k informacím o zařízení, technologie jako jsou soubory cookies. Souhlas s těmito technologiemi nám umožní zpracovávat údaje, jako je chování při procházení nebo jedinečná ID na tomto webu. Nesouhlas nebo odvolání souhlasu může nepříznivě ovlivnit určité vlastnosti a funkce.\nFunkční\nFunkční\nVždy aktivní\nTechnické uložení nebo přístup je nezbytně nutný pro legitimní účel umožnění použití konkrétní služby, kterou si odběratel nebo uživatel výslovně vyžádal, nebo pouze za účelem provedení přenosu sdělení prostřednictvím sítě elektronických komunikací.\nPředvolby\nPředvolby\nTechnické uložení nebo přístup je nezbytný pro legitimní účel ukládání preferencí, které nejsou požadovány odběratelem nebo uživatelem.\nStatistiky\nStatistiky\nTechnické uložení nebo přístup, který se používá výhradně pro statistické účely.\nTechnické uložení nebo přístup, který se používá výhradně pro anonymní statistické účely. Bez předvolání, dobrovolného plnění ze strany vašeho Poskytovatele internetových služeb nebo dalších záznamů od třetí strany nelze informace, uložené nebo získané pouze pro tento účel, obvykle použít k vaší identifikaci.\nMarketing\nMarketing\nTechnické uložení nebo přístup je nutný k vytvoření uživatelských profilů za účelem zasílání reklamy nebo sledování uživatele na webových stránkách nebo několika webových stránkách pro podobné marketingové účely.\nSpravovat možnosti\nSpravovat služby\nSpráva {vendor_count} prodejců\nPřečtěte si více o těchto účelech\nPříjmout\nOdmítnout\nZobrazit"
+    },
+    "products": {
+      "url": "https://www.shm-cz.cz/sluzby",
+      "text": "Služby – SHM\nPřeskočit na obsah\nSlužby výrobní:\nRektifikace řezných hran nástrojů\nKompletní renovace lisovacích nástrojů\nProduktový list [PDF]\nSlužba zahrnuje odstranění starých povlaků, leštění diamantovou pastou, povlakování a leštění po povlaku.\nSlužby obchodní a logistické:\nSystém pravidelných svozů z/do určených destinací\nOdborné poradenství v oblasti PVD povlaků a jejich aplikací\nPravidelné návštěvy obchodně-technických zástupců\nDIALOG\nPořádání seminářů zaměřených na prohlubování znalostí o PVD povlacích, technologiích a aplikacích.\nTurbo Termín\nJako jediné povlakovací centrum v ČR nabízíme již řadu let expresní povlakování osových nástrojů. Expresní povlakování osových nástrojů do 12 hodin za následujících podmínek:\n– pouze osové HM nástroje,\n– povlaky MARWIN a ALWIN,\n– předchozí domluva nutná,\n– služba za příplatek.\nElektronické zasílání dokladů v momentě příjmu a expedice zakázek\nDoručování nástrojů cílovým odběratelům našich zákazníků\nDokážeme zkoordinovat vaše zakázky u nás s vaším cílovým zákazníkem.\nSlužby vývojové a laboratorní:\nVývoj zákaznických variant povlaků\nNabízíme možnost modifikovat náš „běžný“ povlak pro vaši aplikaci tak, aby bylo dosaženo co nejlepších výsledků. V případě optimalizace povlaků je třeba počítat s delší dobou vývoje (týdny až měsíce) a s vaší aktivní spoluprací při vyhodnocování výsledků testů.\nVývoj technologií úprav povrchů\nLaboratorní analýzy povlaků\nMůžeme pro vás měřit a analyzovat mikrotvrdost, tloušťku, adhezi, prvkové složení, drsnost a strukturu PVD povlaků.\nAnalýzy mikrogeometrie nástrojů\nV laboratoři provádíme analýzy mikrogeometrií nástrojů pomocí elektronového mikroskopu (SEM) a optické analýzy na přístrojích ALICONA a GFM.\nMetalografické rozbory tvrdokovů\nPro další informace kontaktujte naše obchodní oddělení\nRoman Janků\nobchodní ředitel\njanku@shm-cz.cz\n+420 736 627 244\nSpravovat Souhlas\nAbychom poskytli co nejlepší služby, používáme k ukládání a/nebo přístupu k informacím o zařízení, technologie jako jsou soubory cookies. Souhlas s těmito technologiemi nám umožní zpracovávat údaje, jako je chování při procházení nebo jedinečná ID na tomto webu. Nesouhlas nebo odvolání souhlasu může nepříznivě ovlivnit určité vlastnosti a funkce.\nFunkční\nFunkční\nVždy aktivní\nTechnické uložení nebo přístup je nezbytně nutný pro legitimní účel umožnění použití konkrétní služby, kterou si odběratel nebo uživatel výslovně vyžádal, nebo pouze za účelem provedení přenosu sdělení prostřednictvím sítě elektronických komunikací.\nPředvolby\nPředvolby\nTechnické uložení nebo přístup je nezbytný pro legitimní účel ukládání preferencí, které nejsou požadovány odběratelem nebo uživatelem.\nStatistiky\nStatistiky\nTechnické uložení nebo přístup, který se používá výhradně pro statistické účely.\nTechnické uložení nebo přístup, který se používá výhradně pro anonymní statistické účely. Bez předvolání, dobrovolného plnění ze strany vašeho Poskytovatele internetových služeb nebo dalších záznamů od třetí strany nelze informace, uložené "
+    },
+    "contact_page": {
+      "url": "https://www.shm-cz.cz/kontakt",
+      "text": "Kontakte – SHM\nZum Inhalt springen\nSHM, s.r.o.\nPrůmyslová 3020/3\n787 01 Šumperk\nTschechische Republik\nIN: 479 76 519\nEU VAT: CZ47976519\n+420 583 241 176\nshm@shm-cz.cz\nHandelsabteilung\nRoman Janků\nHandelsleiter\njanku@shm-cz.cz\n+420 736 627 244\nSylva Kesslerová\nAssistent\nkesslerova@shm-cz.cz\n+420 737 215 230\nMichal Fišer\nHandelsvertreter\nfiser@shm-cz.cz\n+420 773 044 138\nDalibor Sangeta\nHandelsvertreter\nsangeta@shm-cz.cz\n+420 737 215 232\nRichard Švanda\nHandelsvertreter\nsvanda@shm-cz.cz\n+420 604 284 713\nProduktion und Technologie\nZbyněk Holický\nProduktionsleiter\nholicky@shm-cz.cz\nBc. Jan John\nProduktionstechnologe\njohn@shm-cz.cz\n+420 775 435 484\nIng. Josef Dědic\nTechnologe für Investitionsprojekte\ndedic@shm-cz.cz\n+420 775 446 623\nForschung und Entwicklung\nMgr. Vjačeslav Sochora, Ph.D.\nLeiter\nsochora@shm-cz.cz\n+420 778 726 564\nUnternehmensführung\nIng. Petr Mrkos, MBA\nDirektor\nmrkos@shm-cz.cz\n+420 731 505 696\nIng. Petr Kuba\nÖkonom\nkuba@shm-cz.cz\n+420 737 215 231\nMojmír Jílek\nEigentümer\njilek@shm-cz.cz\nPersonalwesen\nIng. Andrea Adámková\nPersonalreferent\nadamkova@shm-cz.cz\n+420 604 956 149\nSHM Slovakia, s.r.o.\nNádražná 329\n015 01 Rajec\nSlowakei\nIN: 36441791\nEU VAT: SK2022154552\n+421 911 090 179\nmartinkova@shm-sk.sk\nMartina Martinková\nFilialleiter\nmartinkova@shm-sk.sk\n+421 911 090 179\nRoman Janků\nDirektor (SK)\njanku@shm-cz.cz\n+420 736 627 244\nSpravovat Souhlas\nAbychom poskytli co nejlepší služby, používáme k ukládání a/nebo přístupu k informacím o zařízení, technologie jako jsou soubory cookies. Souhlas s těmito technologiemi nám umožní zpracovávat údaje, jako je chování při procházení nebo jedinečná ID na tomto webu. Nesouhlas nebo odvolání souhlasu může nepříznivě ovlivnit určité vlastnosti a funkce.\nFunkční\nFunkční\nImmer aktiv\nTechnické uložení nebo přístup je nezbytně nutný pro legitimní účel umožnění použití konkrétní služby, kterou si odběratel nebo uživatel výslovně vyžádal, nebo pouze za účelem provedení přenosu sdělení prostřednictvím sítě elektronických komunikací."
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "SM",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 19,
+    "all_technologies": [
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "SM",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Mojmir",
+        "last_name": "Jilek",
+        "title": "Researcher",
+        "email": "jilek.jr@shm-cz.cz",
+        "phone": "+420 731 654 660",
+        "company": "SHM umperk",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 94.0
+      },
+      {
+        "first_name": "Roman",
+        "last_name": "Jank",
+        "title": "Obchodní řEditel",
+        "email": "janku@shm-cz.cz",
+        "phone": "+420 736 627 244",
+        "company": "SHM umperk",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 95.0
+      },
+      {
+        "first_name": "Dalibor",
+        "last_name": "Sangeta",
+        "title": "Obchodník",
+        "email": "sangeta@shm-cz.cz",
+        "phone": "",
+        "company": "SHM umperk",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Zdenk",
+        "last_name": "Rous",
+        "title": "Sales",
+        "email": "rous@shm-cz.cz",
+        "phone": "",
+        "company": "SHM umperk",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 08:40",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "inventor",
+        "civil 3d",
+        "navisworks",
+        "vault",
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

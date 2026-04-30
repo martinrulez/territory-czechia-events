@@ -1,0 +1,13 @@
+streamlit>=1.40.0
+openai>=1.58.0
+python-dotenv>=1.0.1
+requests>=2.32.0
+Pillow>=11.0.0
+pandas>=2.2.0
+beautifulsoup4>=4.12.0
+thefuzz>=0.22.0
+python-Levenshtein>=0.26.0
+zi-api-auth-client>=2.0.0
+plotly>=5.24.0
+openpyxl>=3.1.0
+dnspython>=2.6.0

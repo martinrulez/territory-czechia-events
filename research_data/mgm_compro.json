@@ -1,0 +1,300 @@
+{
+  "company_key": "mgm compro",
+  "company_name": "MGM COMPRO",
+  "domain": "www.mgm-compro.com",
+  "domain_url": "https://www.mgm-compro.com",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "MGM COMPRO",
+    "opportunity_score": 22,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.62,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.62,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "03093212",
+    "official_name": "MGM COMPRO s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "33",
+      "47",
+      "331",
+      "27900",
+      "62",
+      "855",
+      "72",
+      "71200",
+      "00",
+      "46",
+      "461",
+      "71120",
+      "74990",
+      "00",
+      "279",
+      "33",
+      "331",
+      "46",
+      "461",
+      "47",
+      "62",
+      "7112",
+      "71209",
+      "72",
+      "749",
+      "855"
+    ],
+    "ares_segments": [
+      "D&M",
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Růžová 307, Louky, 76302 Zlín, Zlín, Růžová, 76302",
+    "zi_done": true,
+    "employee_count": 17,
+    "revenue": 4338,
+    "zi_company_name": "MGM COMPRO",
+    "zi_domain": "www.mgm-compro.com",
+    "zi_city": "Zlin",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.mgm-compro.com",
+    "homepage": {
+      "title": "Home | MGM COMPRO",
+      "description": "Complete range of our off-the-shelf types of electric motors, inverters / ESCs / speed controllers 3kW up to 400kW, BMSs, electronic contactors, chargers and",
+      "text_excerpt": "Home | MGM COMPRO\nElectric Propulsion\nComponents and Systems\nMOTORS | INVERTERS | BATTERY | BMS | EPS | ESS\nEnter the world of MGM COMPRO.\nUnique solutions for your projects.\nshow more\nProducts\nEPS | Electric Propulsion Systems\nIn range 3kW up to 400kW, meeting highest demands of most advanced applications, e.g. eVTOLs, UAVs, UGVs, marine, defence and other industries, from large series of systems ready for in-building to special tailor-made units.\ngo to category\nESS | Batteries\nEnergy Storage Systems designed according to the customers’ requirements with the most sophisticated technology focusing on the best use of energy, intelligent BMS, active & passive safety systems, effective mass production and certification.\ngo to category\nControllers | Inverters | ESCs\nHBCi controllers represent state of the art technology of electric motor control. Ranging from 3kW up to 400kW, manufactured in many variants to completely fulfill customers’ needs. Unrivalled performance, power density ratio, redundancy, safety and innovation.\ngo to category\nElectric motors\nThe all new generation of MGM COMPRO electric motors (BLDC / PMSM) brings enhanced potential to electric applications. Based on the innovative topology of the motor magnetic field and winding design, we have achieved higher power density than ever before.\ngo to category\nGearbox Systems\nGearbox systems for high performance in-runner electric motors offer functionality for the control of single action hydraulic const. speed propellers. Parallelly provides range of safety features incl. the overspeed protection and conventional control logic.\nGearbox Systems\nBMS | Battery Management Systems\nMGM COMPRO BMS systems provide unique care for cells and complex storage systems (ESS). Innovative methods determining residual cell energy, modularity, unique safety, redundancy and cutting-edge paramaters throughout the whole BMS family.\ngo to category\nSimulations | AnSys | Matlab\nDevelopment approach using ANSYS multi-purpose simulation software enables engineers to model, analyze and solve complex engineering challenges efficiently, i.e. tool to innovate and optimaze the performance leading to new generations of hi-tech products.\ngo to category\nTesting | Validation | Qualification\nCrucial and irreplaceable tool in the professional development process is validation of expected results and simulated values. Equally important is testing to fine-tune specific EPS. We offer a wide range of testing up to 500kW, including coaxial setups.\ngo to category\nElectronic\nContactors\nMGM COMPRO electronic and hybrid contactors represent intelligent substitute for mechanical contactors, featuring unlimited number of cycles, lower weight, signif. lower consumption, automatic anti-spark, intelligent control modes etc.\ngo to category\nIndustrial Chargers\nMGM COMPRO charging systems use an advanced algorithms to care for and extend the service lifespan of batteries. These systems ensure precision in charging with currents as low as a fe"
+    },
+    "about": {
+      "url": "https://www.mgm-compro.com/about-us",
+      "text": "Company | MGM COMPRO\nMGM COMPRO\nFor over 30 years, we specialize in designing advanced e-powertrains and special electronics. Our mission lies commitment to innovation, safety and efficiency combined with compact dimensions, minimal weight, cutting-edge features and parameters. This approach has established us as leaders in the industry, delivering solutions that redefine electric propulsion.\nshow more\nAbout Us\nAt MGM COMPRO, we take pride in leading the way in the design and manufacture of sophisticated Electronics, Mechanics, Complex Electric Propulsion Units (Drive Systems, EPS, ESS, etc.) and its componets together with other special electronics. Whether it’s large-scale in-building systems or custom-tailored solutions, the goal is always to perfectly align with the customer’s requirements and innovative approach, that brings advantageous solutions and pushes the boundaries (ie. smaller, ligher, more compact and powerful, efficient, etc.). Our diverse portfolio includes Electronic Speed Controllers (Inverters), Electric Motors, Battery Systems (ESS), BMS, Charging Systems, Jet / Turbojet Engine Control Units, Fuel Metering Pump Control Units and more.\nWith a focus on various applications such as Electric Aircrafts, eVTOLs, Drones, UAVs, UGVs, UUVs, USVs, boats, military applications, jet-surfs & wake-boards and beyond, we are dedicated to making an impact globally. Our commitment is underscored by the deployment of unique testing/equipment, providing customers with exceptional data analysis and a complete spectrum of information.\nDesigning and Producing\nOur approach to design and precision manufacturing is fueled by Research and Development (R&D) activities involving a team of software, hardware, and mechanical engineers, alongside in-house production capabilities and dedicated project managers, supported by outstanding customer service. These elements form the basis for the future of our cutting-edge e-mobility solutions.\nRigorous testing, prototyping, simulations, and calculations ensure that our solutions, consistently surpass industry benchmarks. Our unique testing equipment provides customers with comprehensive data analysis, covering a wide spectrum of data from propeller propulsion systems.\nOur own design and production self-sufficiency sets us apart, operating with in-house production capabilities to ensure efficiency and quality control. This dedication makes us a stable and reliable partner with a longstanding presence in the market.\nOur Vision\nCutting-edge solutions, continuous innovation, the power and passion to overcoming challenges posed by intelligent electronics. We aim to seamlessly integrate electric propulsion systems into everyday life, with a focus on enhancing efficiency and safety in the air, space, land, sea and under the water.\nHistory\n2025\nThe all new generation of MGM COMPRO electric motors (BLDC / PMSM), brings novatory design approach to most demanding technological challenges, excelling by cutting-edge performance, power density ratio, efficiency, safety, redundancy and other enhanced parameters.\n2024\nSignificant expansion of activities and volumes in sector of special electronics for Jet / Turbojet Engine Control Units and Fuel Metering Pump Control Units.\n2023\nMGM COMPRO introduces state of the art High Power Electric Propulsion System (EPS) for Aviation. Innovative fully electric powertrain (EPS + ESS) for most demanding Aerospace applications focusing on very last details in terms of superb performance, power density, efficiency, safety, redundancy, durability and technological innovation.\n2023\nEstablishment of cooperation, partnership and connection on the path to certified electric aviation with a leader in the field of airworthiness and military certification.\n2022\nIntroduction of a high-speed 200kW electric motor and powertrian (EPS) for aviation excelling with its compact dimensions, low height, high efficiency and performance.\n2021\nMGM COMPRO works on the development of the 400kW pr"
+    },
+    "products": {
+      "url": "https://www.mgm-compro.com/products",
+      "text": "Our Products | MGM COMPRO\nOur Products\nThe MGM COMPRO portfolio represents exceptional set of products with wide range of power spectre. Unique DNA of MGM COMPRO innovative electric propulsion systems – powertrains (EPS, ESS) connects throughout the product family, stands out for the unrivalled performance, power density ratio, features, parameters, redundancy, capability to deliver certified solutions, together with in-house AS9100 compliant production lines.\nshow more\nELECTRIC\nMOTORS | INVERTERS\nESCS | BATTERY | BMS | EPS | ESS\nIntelligent and most advanced e-powertrain products and solutions. Single/multi-core as well as single/multi-winding innovative topology electric motors together with electronic speed controllers (inverters / ESCs) specially designed to operate together in the most sophisticated and redundant EPS architecture (using 1 or 2 or even 4 ESCs). Comprehensive A to Z product range, process-driven development using latest technology and simulation tools, combining high performance and efficient components/systems with exhaustive design for manufacturability (DFM).\nEPS | Electric Propulsion Systems\nIn range 3kW up to 400kW, meeting highest demands of most advanced applications, e.g. eVTOLs, UAVs, UGVs, marine, defence and other industries, from large series of systems ready for in-building to special tailor-made units.\ngo to category\nESS | Batteries\nEnergy Storage Systems designed according to the customers’ requirements with the most sophisticated technology focusing on the best use of energy, intelligent BMS, active & passive safety systems, effective mass production and certification.\ngo to category\nControllers | Inverters | ESCs\nHBCi controllers represent state of the art technology of electric motor control. Ranging from 3kW up to 400kW, manufactured in many variants to completely fulfill customers’ needs. Unrivalled performance, power density ratio, redundancy, safety and innovation.\ngo to category\nElectric motors\nThe all new generation of MGM COMPRO electric motors (BLDC / PMSM) brings enhanced potential to electric applications. Based on the innovative topology of the motor magnetic field and winding design, we have achieved higher power density than ever before.\ngo to category\nBMS (Battery Management Systems)\nMGM COMPRO BMS systems provide unique care for cells and complex storage systems (ESS). Innovative methods determining residual cell energy, modularity, unique safety, redundancy and cutting-edge paramaters throughout the whole BMS family.\ngo to category\nCustom-Built Solutions\n30+ years of experience with development and manufacturing of specialty electronics, numerous successful projects, industrial leaders’ references, own manufacturing lines, unique know-how and technology make us an ideal partner for your project.\ngo to category\nSimulations | AnSys\nDevelopment approach using ANSYS multi-purpose simulation software enables engineers to model, analyze and solve complex engineering challenges efficiently, i.e. tool"
+    },
+    "contact_page": {
+      "url": "https://www.mgm-compro.com/contact",
+      "text": "Contact | MGM COMPRO\nContact Us\nThe fastest way to connect\n+420 577 001 350\n[email protected]\nshow more\nMGM COMPRO GROUP\nRuzova 307\n763 02 Zlin\nCZECH REPUBLIC, EU\nBILLING INFORMATION\nMGM COMPRO International s. r. o.\nRuzova 307\n763 02 Zlin\nCZECH REPUBLIC, EU\nFilo No: C 94228/KSBR\nAdmin. by the Regional Court in Brno\nVAT ID: CZ05241944\nMGM COMPRO\nCompany HQ Zlin\nAddress:\nRuzova 307\n763 02 Zlin\nCzech Republic\nHeadquarters\nAdministration\nBusiness and Sales\nDevelopment – Electronics\nDevelopment – Mechanics\nManufacturing, Assembly\nPress and Media\nPatent\nMGM COMPRO\nScience and Tech. Park Brno\nAddress:\nTechnicka 2935/23, Kralovo Pole\n616 00 Brno\nCzech Republic\nCertifications Dept.\nAirworthiness Dept.\nSafety and Compliance\nDevelopment – Electronics\nDevelopment – Mechanics\nMGM COMPRO\nIndustrial Zone Holesov\nAddress:\nHolesovska 1691\n769 01 Holesov\nCzech Republic\nTesting\nManufacturing, Assembly\nDevelopment – Mechanics\nDevelopment – Electronics\nBusiness & Sales\n+420 778 111 993\n[email protected]\nFinancial Dept.\n+420 730 894 277\n[email protected]\nPurchasing\n+420 775 859 159\n[email protected]\n+420 724 106 084\n[email protected]\nDevelopment\n+420\n602 733 639\n[email protected]\nTech. Support\n+420 724 500 484\n[email protected]\nCertifications\n+420 602 733 639\n[email protected]\nPatents\n+420 602 717 315\n[email protected]\nQuality\n+420 771 282 771\n[email protected]\nPress & Media\n+420 778 974 097\n[email protected]\nContact Us\nPlease enter your e-mail address and phone number and we will get back to you shortly.\nPoptávka\nSubscribe\nName\nE-mail\nPhone\nYour message\nNewsletter\nSubscribe to our newsletter\nConsent to the Processing of\nPersonal Data\nSend message"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "MGM COMPRO",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 20,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Analytics",
+        "vendor": "Facebook, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Ads",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Comments",
+        "vendor": "Facebook, Inc.",
+        "category": "Comment Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "MGM COMPRO",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Martin",
+        "last_name": "Dvorsky",
+        "title": "Chief Executive Officer",
+        "email": "martin@mgm-compro.com",
+        "phone": "",
+        "company": "MGM COMPRO",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 92.0
+      },
+      {
+        "first_name": "Grigorij",
+        "last_name": "Dvorský",
+        "title": "Founder",
+        "email": "g.dvorsky@mgm-compro.com",
+        "phone": "",
+        "company": "MGM COMPRO",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 76.0
+      },
+      {
+        "first_name": "Lubomir",
+        "last_name": "Chovanec",
+        "title": "Head of Sales",
+        "email": "chovanec@mgm-compro.com",
+        "phone": "",
+        "company": "MGM COMPRO",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 97.0
+      },
+      {
+        "first_name": "Dalibor",
+        "last_name": "Svec",
+        "title": "Senior Project Manager",
+        "email": "svec@mgm-compro.com",
+        "phone": "",
+        "company": "MGM COMPRO",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 78.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 15:34",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

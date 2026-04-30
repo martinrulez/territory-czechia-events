@@ -1,0 +1,83 @@
+{
+  "company_key": "jrd services s.r.o.",
+  "company_name": "JRD Services s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "Czech Green Building Council Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "JRD Services s.r.o.",
+    "opportunity_score": 40,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 1.0,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 1.0,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "02811022",
+    "official_name": "JRD Services s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "68200",
+      "711",
+      "439",
+      "68310",
+      "431",
+      "433",
+      "433",
+      "439",
+      "6820",
+      "68310",
+      "711",
+      "431"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Korunní 810/104, Vinohrady, 10100 Praha 10, Praha, Korunní, 10100",
+    "is_client": true,
+    "current_products": "Inventor | PDMC",
+    "total_seats": "2",
+    "current_acv_eur": "7000.0",
+    "potential_acv_eur": "19800.0",
+    "nearest_renewal": "2026-12-12",
+    "days_to_renewal": "233",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Add CAM, nesting, and generative design capabilities",
+    "all_upsells": "Fusion Mfg Ext; Vault; Moldflow",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Construction Services",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "JRD Services s.r.o.",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:10"
+}

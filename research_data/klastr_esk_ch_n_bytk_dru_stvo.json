@@ -1,0 +1,31 @@
+{
+  "company_key": "klastr_esk_ch_n_bytk_dru_stvo",
+  "company_name": "Klastr českých nábytkářů, družstvo",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Lucia Haraslínová",
+        "firstName": "Lucia",
+        "lastName": "Haraslínová",
+        "jobTitle": "předseda družstva",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:26"
+}

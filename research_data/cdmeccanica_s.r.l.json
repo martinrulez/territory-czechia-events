@@ -1,0 +1,160 @@
+{
+  "company_key": "cdmeccanica s.r.l",
+  "company_name": "CDMeccanica S.r.l",
+  "domain": "www.cdmeccanica.it",
+  "domain_url": "https://www.cdmeccanica.it",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "CDMeccanica S.r.l",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 10,
+    "revenue": 4351,
+    "zi_company_name": "CDMeccanica",
+    "zi_domain": "www.cdmeccanica.it",
+    "zi_city": "Vignola",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.cdmeccanica.it",
+    "homepage": {
+      "title": "CDMeccanica",
+      "description": "Obchod vytvořen v PrestaShop",
+      "text_excerpt": "CDMeccanica\nWe manufacture advanced\ntechnological products\nSCOPRI\nTechnological tools\nto maximize performance\nOur vision is green ‘cause\na green vision is the only way\nVýrobní program\nEquipments and accessories for machine tools\nČelisti Do Sklíčidel\nT-Matice\nPříslušenství K Obráběcím Strojům\nO firmě\nA leading manufacturer of jaws for self-centering chucks\nCDMeccanica s.r.l. vyrábí měkké a tvrdé čelisti pro samostředící upínací sklíčidla různých výrobců, zařízení a příslušenství pro obráběcí stroje, navržené společností nebo podle výkresu zákazníka. Vyrábí rovněž průmyslové ostřičky nástrojů.\nCustom manufacturing\nQuality control\nProfessionalism\nInnovation\nO FIRMĚ\nSLUŽBY\nZjistěte více o našich službách a sortimentu!\nVýroba\nHardened or soft jaws production.\nEquipments and accessories for machine tools producion.\nSLUŽBY NA ZVLÁŠTNÍ OBJEDNÁVKU S POUŽITÍM FREZOVACÍHO CENTRA – 5 os.\nCutting service for raw materials till 400 mm diameter.\nQuick and precise cuts, even for large quantities of materials.\nSLUŽBY NA ZVLÁŠTNÍ OBJEDNÁVKU S POUŽITÍM FREZOVACÍHO CENTRA – 5 os.\nComplex machining designed with 3D models through CAD/CAM systems.\nHighly trained internal staff.\nVIRTUÁLNÍ STOJAN\nProhlédněte si náš 3D stánek.\nPŘEJDĚTE DO VIRTUÁLNÍHO STÁNKU\nPotřebujete více informací?\nKontaktujte nás!\nKONTAKT\nback to top\nEmail Us\nCall Us\nWhatsApp"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.cdmeccanica.it/kontakt",
+      "text": "Kontakt\nKONTAKT\nCDMeccanica\nVia Caduti sul Lavoro, 661\n41058 Vignola\nItalia\nZavolejte nám:\n+39 059 705071\nFax:\n+39 059 705132\nE-mail adresa:\ninfo@cdmeccanica.it\nCDMeccanica\nVia Caduti sul Lavoro, 661 - 41058 Vignola MO, Italy\nCall us:\n+39 059 705071\nWrite us:\ninfo@cdmeccanica.it\nback to top\nEmail Us\nCall Us\nWhatsApp"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "CDMeccanica S.r.l",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 14,
+    "all_technologies": [
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "iubenda",
+        "vendor": "iubenda s.r.l",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WhatsApp",
+        "vendor": "WhatsApp",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "CDMeccanica S.r.l",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 18:45"
+}

@@ -1,0 +1,377 @@
+{
+  "company_key": "plan a collective",
+  "company_name": "Plan A Collective",
+  "domain": "www.planacollective.com",
+  "domain_url": "https://www.planacollective.com",
+  "events": "Game Access Conference '26",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Plan A Collective",
+    "opportunity_score": 30,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 1.0,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 1.0,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "07832711",
+    "official_name": "PLAN A Collective s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "68200",
+      "62",
+      "620",
+      "6820"
+    ],
+    "ares_segments": [
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Francouzská 299/98, Vršovice, 10100 Praha 10, Praha, Francouzská, 10100",
+    "zi_done": true,
+    "employee_count": 94,
+    "revenue": 3038,
+    "zi_company_name": "Plan A Collective",
+    "zi_domain": "www.planacollective.com",
+    "zi_city": "",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.planacollective.com",
+    "homepage": {
+      "title": "Home - Plan A Collective",
+      "description": "It’s Plan A. For a reason. We work with game studios to build and finish what matters. Art, code, design, and full-cycle development – exactly what’s needed, when it’s needed.  Start Your Project Request Full Portfolio Why Plan A Quality. Expedience. Creativity. Trusted by AAA, AA, and premium indie teams since 2019. We start by […]",
+      "text_excerpt": "Home - Plan A Collective\nSkip to content\nIt’s Plan A. For a reason.\nWe work with game studios to build and finish what matters. Art, code, design, and full-cycle development\nexactly\nwhat’s\nneeded, when\nit’s\nneeded.\nStart Your Project\nRequest Full Portfolio\nWhy Plan A\nQuality. Expedience. Creativity.\nTrusted by AAA, AA, and premium indie teams since 2019.\nWe start by listening. Then we ask what we need to know. Then we do our part.\nOur setup is lean, senior-led, and built for focus. We scale from a trusted talent pool when it makes sense. Every person on the team is hand-picked to match your needs and your pace.\nWe’ve been remote-native since day one. That means less overhead, faster onboarding, and no drama.\nWhat We Do\nWe are where we’re needed.\nART\nHard-surface, environmental, and character art: weapons, vehicles, characters, props, skins, accessories, and environments – from concept to engine, realistic or stylized.\nANIMATION\nKeyframe and mocap animation, delivered in-engine – from combat systems to cutscenes.\nGAME DESIGN\nFrom first ideas to tested, playable solutions.\nVFX\nStylized or realistic, 2D or 3D – we’ve been there.\nUX & UI\nFunctional, intuitive, visually aligned.\nPROGRAMMING & ENGINEERING\nFrom core systems to gameplay features, we cover performance, tooling, and platform integration.\nLean, embedded, and practical. We test what we touch.\nPUBLISHING SUPPORT\nSteam, Epic Games Store, ratings workflows (PEGI, ESRB) – we’ve been through it.\nEngineering Expertise\nWhat Sets Us Apart\nExperience. Partnership. Results.\nWe get it.\nWe’ve worked on\nBattlefield 2042, Dragon’s Dogma 2, Microsoft Flight Simulator, Darkest Dungeon II, Aliens: Fireteam Elite, and Exoborne\nand many others. We offer a team of seasoned, world-class talent that has been tried and tested on the most challenging projects in the industry and thrived.\nWhen the solution doesn’t exist, we build it. Ask about our case studies – from Aliens: Fireteam Elite and Darkest Dungeon II to our work for the US Space Force, Epic, and Microsoft. You won’t regret it.\nSometimes we join early. Sometimes it’s a rescue. Sometimes it’s about getting across the finish line. We adjust.\nWe’ve built long-term partnerships by staying honest, asking the right questions, and solving the problem in front of us.\nWe’re the team that gets it – and gets it done.\nWant Some More?\nOur portfolios are updated regularly and available upon request.\nIf you’re\nnot seeing something on our roster\n, just ask – chances are, we’ve done it before. And if we haven’t, we’ll tell you.\nWe’d rather under-promise and overdeliver than the other way around.\nRequest Full Portfolio\nWho You’d Be Working With\nArtists, designers, engineers, producers. We’re remote-native, with a core engineering and design team based in Prague. We’ve been doing this since 2019.\nCome say hi!\nStart Your Project\nSome of our best work (yet):\nSee Our Work\n“You guys have a good spirit, and you are also easy to work with.\nYour deliveries are on time and the revi"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Plan A Collective",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 38,
+    "all_technologies": [
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "aaa",
+        "vendor": "American Automobile Association, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Confluence",
+        "vendor": "Atlassian",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Hammer.js",
+        "vendor": "Eight Media",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "QuickBooks",
+        "vendor": "Intuit, Inc.",
+        "category": "Accounting",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Python",
+        "vendor": "Python Software Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Facebook Message-Us Plugin",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Unreal Engine",
+        "vendor": "Epic Games, Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "PageSpeed for Apache",
+        "vendor": "Google LLC",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Figma",
+        "vendor": "Figma, Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "afterglow",
+        "vendor": "",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Plan A Collective",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Tom",
+        "last_name": "Roller",
+        "title": "Chief Executive Officer",
+        "email": "tom@planacollective.com",
+        "phone": "",
+        "company": "Plan A Collective",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Tereza",
+        "last_name": "Roller",
+        "title": "Head of Studio",
+        "email": "",
+        "phone": "",
+        "company": "Plan A Collective",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Kamila",
+        "last_name": "Štulerová",
+        "title": "Manager, Back Office",
+        "email": "",
+        "phone": "",
+        "company": "Plan A Collective",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 76.0
+      },
+      {
+        "first_name": "Tereza",
+        "last_name": "Dosek",
+        "title": "Producer",
+        "email": "tereza@planacollective.com",
+        "phone": "+420 777 089 800",
+        "company": "Plan A Collective",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Gabriela",
+        "last_name": "Kovářová",
+        "title": "Producer",
+        "email": "gabriela@planacollective.com",
+        "phone": "",
+        "company": "Plan A Collective",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 99.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:52"
+}

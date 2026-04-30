@@ -1,0 +1,82 @@
+{
+  "company_key": "arrival.space",
+  "company_name": "Arrival.Space",
+  "domain": "arrival.space",
+  "domain_url": "https://arrival.space",
+  "events": "3DISE Conference 2026",
+  "event_count": 1,
+  "lead_class": null,
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Arrival.Space",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 5,
+    "revenue": 1862,
+    "zi_company_name": "Arrival.Space",
+    "zi_domain": "arrival.space",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://arrival.space",
+    "homepage": {
+      "title": "Arrival.Space - claim. edit. share.",
+      "description": "Your 3D space on the web",
+      "text_excerpt": "Arrival.Space - claim. edit. share."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://arrival.space/contact",
+      "text": "contact by contact"
+    }
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Arrival.Space",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Lisa",
+        "last_name": "Wurzinger",
+        "title": "Co-founder & Chief Operating Officer",
+        "email": "lisa@arrival.space",
+        "phone": "",
+        "company": "Arrival.Space",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 19:07"
+}

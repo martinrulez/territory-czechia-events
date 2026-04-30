@@ -1,0 +1,244 @@
+{
+  "company_key": "o_k_solution_s_r_o",
+  "company_name": "O.K. solution, s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "O.K. solution, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 27,
+    "all_technologies": [
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Ecovadis",
+        "vendor": "EcoVadis",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "AdEspresso",
+        "vendor": "Hootsuite Inc.",
+        "category": "Ad Verification and Optimization",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Facebook Comments",
+        "vendor": "Facebook, Inc.",
+        "category": "Comment Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ANETA DOLEJŠÍ",
+        "firstName": "ANETA",
+        "lastName": "DOLEJŠÍ",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JAKUB ČAPEK",
+        "firstName": "JAKUB",
+        "lastName": "ČAPEK",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "LUCIE HOROVÁ",
+        "firstName": "LUCIE",
+        "lastName": "HOROVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JIŘÍ HORA",
+        "firstName": "JIŘÍ",
+        "lastName": "HORA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:39:36",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.oksolution.cz",
+    "homepage": {
+      "title": "OK Solution | Když hledáte práci nebo zaměstnance",
+      "description": "Co to znamená mít práci, která je OK? Je to práce, kde se cítíte respektováni, kde je váš přínos oceněn, a kde máte zajištěné férové podmínky. Je to zaměstnání, které vám umožňuje růst, zároveň však respektuje váš osobní život. V OK solution se snažíme zajistit, aby každá pozice, kterou obsazujeme, splňovala tyto standardy. Hledám práci […]",
+      "text_excerpt": "OK Solution | Když hledáte práci nebo zaměstnance\nPřejít k obsahu\nprace@oksolution.cz\n+420 565 650 560\nNabídky práce\nPro firmy\nCo to znamená mít práci, která je OK?\nJe to práce, kde se cítíte respektováni, kde je váš přínos oceněn, a kde máte zajištěné férové podmínky. Je to zaměstnání, které vám umožňuje růst, zároveň však respektuje váš osobní život. V OK solution se snažíme zajistit, aby každá pozice, kterou obsazujeme, splňovala tyto standardy.\nHledám práci\nHledám zaměstnance\nNaše hodnoty\nDodržování legislativy\nNaše agentura zajišťuje, že každé pracovní místo je v souladu se zákonem. Dbáme na správné odvody a legislativní požadavky.\nFérové jednání\nVčasné výplaty a otevřená komunikace jsou samozřejmostí. Férové jednání je základem naší spolupráce s klienty i pracovníky.\nKomplexní přístup\nJsme součástí skupiny firem, která vám nabízí vše na jednom místě – od ubytování přes outsourcing až po personální zdroje.\nBezplatné služby\nNašim zaměstnancům poskytujeme ubytování, dopravu do práce i vízový servis zdarma.\nVíce o nás\nProč je OK hledat si práci s námi?\nPoznejte naši filozofii v praxi.\nS OK solution si zvládnete najít práci snadno a bez zbytečného stresu. Zakládáme si na dodržování všech zákonných podmínek, férovém jednání a osobním přístupu ke každému pracovníkovi. S námi získáte komplexní podporu a řešení, které vás dovede k úspěchu.\nKontaktujte nás\nNejnovější nabídky\nTOP\nAsistent/ka výzkumu dopravy – terénní šetření (Pardubice)\nPardubice\nbrigáda\ndohodou\nBrigáda\nFlexibilní pracovní doba\nZobrazit více\nTOP\nStrojní zámečník\nPardubický kraj\nPlný úvazek\ndohodou\nZobrazit více\nTOP\nHeadhunter/ka – externista\nkraj Vysočina\nPlný úvazek\ndohodou\nBrigáda\nExecutive\nFlexibilní pracovní doba\nPráce z domova\nZobrazit více\nTOP\nMontážní výrobní dělník\nJihlava\nPlný úvazek\n30 - 40 000 Kč/měs\nPráce vhodná pro páry\nVhodné pro absolventy\nVhodné pro cizince\nZobrazit více\nVšechny nabídky práce\nKontaktujte nás\nPro uchazeče o práci\nHledáte práci, která vám bude vyhovovat? Vyplňte formulář a my vám pomůžeme najít ideální pozici.\nJméno a příjmení\nE-mail\n🇨🇿 +420\n🇵🇱 +48\n🇺🇦 +380\n🇬🇧 +44\n🇸🇰+421\nZpráva\nVložit životopis (nepovinné)\nSmazat\nPřetažením nahrajete CV, nebo vložte soubor ručně\nProcházet soubory\nCV soubor\nCheckbox\nSouhlasím se\nzpracováním osobních údajů*\nOdeslat\nPro firmy\nHledáte spolehlivé zaměstnance nebo chcete zlepšit výrobní procesy? Vyplňte formulář a my pro vás najdeme ideální řešení.\nJméno a příjmení\nNázev firmy\nE-mail\n🇨🇿 +420\n🇵🇱 +48\n🇺🇦 +380\n🇬🇧 +44\n🇸🇰+421\nZpráva\nCheckbox\nSouhlasím se\nzpracováním osobních údajů*\nOdeslat\nSo službami spoločnosti som bol spokojný, komunikácia a priebežná informovanosť prebiehala počas celej doby spolupráce.\nIgor B.\nVedúci výroby\nS OK solution se nám velmi dobře spolupracuje již dlouhou dobu. Jsou rychlí a s jejich doporučenými kandidáty můžeme počítat. Přiřazení zaměstnanci jsou loajální. Agenturu doporučujeme.\nRenata L.\nHR Generalist\nSe společností OK solution spolupracujeme dlouhodobě v oblasti agenturního zaměstnání. Na základě na"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.oksolution.cz/kontakt",
+      "text": "Kontakt - OK Solution\nPřejít k obsahu\nprace@oksolution.cz\n+420 565 650 560\nNabídky práce\nPro firmy\nKontakt\nO.K. solution, s.r.o.\nŽidovská 4841/3\nJihlava – 586 01\nIČ: 29187591\nDIČ: CZ29187591\n+420 565 650 560\nSídlo společnosti\nOFFICE PARK Jihlava\nŽidovská 4841/3\nJihlava – 586 01\nPo-Pá: 7:00 – 15:00\nNapiště nám\nPro uchazeče o práci:\nprace@oksolution.cz\nPro firmy:\ninfo@oksolution.cz\nOdborná oddělení:\nfakturace@oksolution.cz\nmarketing@oksolution.cz\nKontaktní formulář\nPobočky\nPraha\nČernokostelecká 2085/24\nPraha 10 – 100 00\nZobrazit na mapě\nBrno\nPeroutková 290/5\nBrno – 602 00\nZobrazit na mapě\nOstrava\nKounicova 2929/5\n702 00 Ostrava – Moravská Ostrava\nZobrazit na mapě\nKontaktujte nás\nPro uchazeče o práci\nHledáte práci, která vám bude vyhovovat? Vyplňte formulář a my vám pomůžeme najít ideální pozici.\nJméno a příjmení\nE-mail\n🇨🇿 +420\n🇵🇱 +48\n🇺🇦 +380\n🇬🇧 +44\n🇸🇰+421\nZpráva\nVložit životopis (nepovinné)\nSmazat\nPřetažením nahrajete CV, nebo vložte soubor ručně\nProcházet soubory\nCV soubor\nCheckbox\nSouhlasím se\nzpracováním osobních údajů*\nOdeslat\nPro firmy\nHledáte spolehlivé zaměstnance nebo chcete zlepšit výrobní procesy? Vyplňte formulář a my pro vás najdeme ideální řešení.\nJméno a příjmení\nNázev firmy\nE-mail\n🇨🇿 +420\n🇵🇱 +48\n🇺🇦 +380\n🇬🇧 +44\n🇸🇰+421\nZpráva\nCheckbox\nSouhlasím se\nzpracováním osobních údajů*\nOdeslat\nUžitečné\nNabídky práce\nŘešení pro firmy\nKariéra v OK\nPro náboráře\nOK solution\nO nás\nBlog\nKontakt\nKontakt\nPro uchazeče o práci:\nprace@oksolution.cz\nPro firmy:\ninfo@oksolution.cz\n+420 565 650 560\nJsme členy\nCertifikace\nChci dostávat nabídky práce e-mailem\nE-mail\nCheckbox\nSouhlasím se\nzpracováním osobních údajů*\nOdeslat\nSledujte nás\nSpolečnost O.K. solution, s.r.o., se sídlem Židovská 4841/3, 586 01 Jihlava, IČO: 29187591 je řízenou osobou koncernu řízeného společností J.F.H. HOLDING, a.s., ve smyslu § 79 zákona č. 90/2012 Sb., o obchodních korporacích. Toto oznámení je činěno v souladu s § 79 odst. 3 zákona č. 90/2012 Sb., o obchodních korporacích. Členové koncernu mohou v soula"
+    }
+  }
+}

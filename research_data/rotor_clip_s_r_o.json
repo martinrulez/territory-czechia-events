@@ -1,0 +1,366 @@
+{
+  "company_key": "rotor_clip_s_r_o",
+  "company_name": "Rotor Clip s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "Rotor Clip s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [
+      "Dassault Systemes"
+    ],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 87,
+    "all_technologies": [
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "glassdoor",
+        "vendor": "Glassdoor, Inc",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Network Solutions DNS",
+        "vendor": "Network Solutions, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Outlook",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Dassault Systemes",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Windows 7",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Infor CloudSuite Industrial",
+        "vendor": "Infor",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Word",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "RequireJS",
+        "vendor": "RequireJS",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Fingerprintjs",
+        "vendor": "",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Hubspot Calls-to-Action",
+        "vendor": "HubSpot, Inc",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Adobe Muse",
+        "vendor": "Adobe Inc.",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Bing Universal Event Tracking",
+        "vendor": "Microsoft Corporation",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Sched",
+        "vendor": "SCHED LLC",
+        "category": "Event Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "HubSpot Form Builder",
+        "vendor": "HubSpot, Inc",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Windows Server",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JONATHAN SLASS",
+        "firstName": "JONATHAN",
+        "lastName": "SLASS",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "CRAIG SLASS",
+        "firstName": "CRAIG",
+        "lastName": "SLASS",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:40:49",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.rotorclip.com",
+    "homepage": {
+      "title": "Retaining Rings, Wave Springs and Hose Clamps Manufacturer | Rotor Clip",
+      "description": "Manufacturer and supplier of standard or custom retaining rings, wave springs, and hose clamps",
+      "text_excerpt": "Retaining Rings, Wave Springs and Hose Clamps Manufacturer | Rotor Clip\nYour browser does not support the video tag.\nPause\nVideo\nPlay\nVideo\nApplication Driven. Engineering Minded. Working For You Globally.\nYour comprehensive manufacturer and supplier of standard or custom retaining rings, wave springs, and hose clamps\nPart Type:\nRing\nWave Spring\nHose Clamp\nApplication:\nHousing (internal)\nShaft (external)\nInstallation:\nAxial (default)\nRadial\nSize:\nEqual to\nBetween\nUnits:\nSearch\nYour Products. Our Passion.\nYour customers demand quality. You demand consistency from all your parts — even the ones the end users never think about. Our work is creating the most consistent and reliable rings, springs, and clamps. We create products you can count on. How do we do it?\nWith over 20,000 standard parts, we specialize in engineering the right part, for the right application every time whether it is a standard or custom. At Rotor Clip, we are focused on providing Application Driven Solutions®, our team of engineers works with you to determine the best product, material, and finish for your application.\nEngineering Expertise\nOur team understands the needs of manufacturers, and understands your end goals. You’ll get exactly what you need.\nA One-Stop-Shop Model\nOur integrated model allows us to control the entire manufacturing process, making sure we always have what you need when you need it.\nCustom Solutions\nIf the part doesn’t exist, we’ll design it. We drive total engineering support to give you the easiest solution.\nWhat We Make\nWhen we say we’re a one-stop-shop, you can believe it. Explore the products that make a difference for your project, small components that play a big role.\nRetaining Rings\nThe only manufacturer of every style of retaining rings (spiral, tapered section, constant section).\nWave Springs\nRotor Clip wave springs are engineered to save space and weight in your application.\nHose Clamps\nOur self-compensating hose clamps eliminate manual adjustments and enable efficient installation.\nHow We Make It\nOur total vertical integration allows for a very high level of quality control, process optimization, and innovation when it comes to manufacturing our parts.\nOur goal here at Rotor Clip is to continuously produce and deliver high quality, precision parts with tight tolerances that our customers can count on. In order to meet this goal, Rotor Clip has taken every critical production step and support process in-house. This total vertical integration allows for a very high level of quality control, process optimization, and innovation in manufacturing retaining rings, wave springs, and hose clamps. By keeping all critical production steps and support processes in-house, we’re able to improve lead time management and quickly react to changing market demands. Trust Rotor Clip for high-quality, reliable parts that meet your exact specifications.\nManufacturing Capabilities\nWhere We Make It\nQuality Products from Quality Markets: Made in America, Made in E"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.rotorclip.com/kontakt",
+      "text": "Contact | Rotor Clip\nContact Us\nPlease use the form below for general inquiries. Need pricing or samples?\nRequest a Quote\nRequest Free Samples\nGet in touch\nWe’re ready to serve you. Submit your request on the form and the relevant department will be in touch. If you need immediate assistance, contact us on\ninfo@rotorclip.com\nLooking to contact one of our global teams by phone?\nNJ, USA (HQ) :\n+1 732 469 7333\nCzech Republic:\n+420 416 863 168\nUnited Kingdom:\n+44 114 247 3399\nGermany:\n+49 6126 22736 0\nChina:\n+86 21 31155558\nWant to try our parts for yourself?\nWe offer free samples of our parts to allow you to test our products and see our quality up close. Order your samples today!\nRequest free samples\nMore than Parts. A True Partnership.\nOur passion is creating the best rings, springs, and clamps. Our mission is to make your work a success. We are here for you.\nTalk to us about a consultation"
+    }
+  }
+}

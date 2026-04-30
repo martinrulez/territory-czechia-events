@@ -1,0 +1,51 @@
+{
+  "company_key": "s_nhq",
+  "company_name": "ČS NHQ",
+  "domain": "",
+  "events": "BIM DAY 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "LADISLAV FIALA",
+        "firstName": "LADISLAV",
+        "lastName": "FIALA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PAVLA KNÍŽE VÍZNEROVÁ",
+        "firstName": "PAVLA",
+        "lastName": "KNÍŽE VÍZNEROVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "FILIP BELANT",
+        "firstName": "FILIP",
+        "lastName": "BELANT",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:23"
+}

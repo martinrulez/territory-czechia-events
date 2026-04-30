@@ -1,0 +1,390 @@
+{
+  "company_key": "fpt_industrie_s_p_a",
+  "company_name": "FPT Industrie S.p.A.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "FPT Industrie S.p.A.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 54,
+    "all_technologies": [
+      {
+        "product": "Avvio",
+        "vendor": "Revmac, Ltd.",
+        "category": "Tours and Activities Reservations",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WhatsApp",
+        "vendor": "WhatsApp",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Network Solutions DNS",
+        "vendor": "Network Solutions, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Adobe InDesign",
+        "vendor": "Adobe Inc.",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Adobe Illustrator",
+        "vendor": "Adobe Inc.",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Adobe Premiere Pro",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Adobe Photoshop",
+        "vendor": "Adobe Inc.",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "C#",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Power BI",
+        "vendor": "Microsoft Corporation",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PetWise Marketing",
+        "vendor": "AVImark",
+        "category": "Healthcare Marketing",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.com",
+        "vendor": "Automattic Inc",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Sectigo",
+        "vendor": "Sectigo Limited",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Ads",
+        "vendor": "LinkedIn Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Fabio Corradini",
+        "firstName": "Fabio",
+        "lastName": "Corradini",
+        "jobTitle": "General Manager",
+        "email": "fc@fptna.com",
+        "phone": "(734) 466-8555",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Sebastiano Piccolo",
+        "firstName": "Sebastiano",
+        "lastName": "Piccolo",
+        "jobTitle": "Vice President",
+        "email": "sebastiano.piccolo@fptindustrie.com",
+        "phone": "+39 041 576 8111",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Gianprimo Squizzato",
+        "firstName": "Gianprimo",
+        "lastName": "Squizzato",
+        "jobTitle": "Director, Sales Engineering",
+        "email": "gianprimo.squizzato@fptindustrie.com",
+        "phone": "+39 041 576 8111",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Marco Marchiori",
+        "firstName": "Marco",
+        "lastName": "Marchiori",
+        "jobTitle": "Project Manager",
+        "email": "marco.marchiori@fptindustrie.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:06",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.fptindustrie.com",
+    "homepage": {
+      "title": "Macchine alesatrici e fresatrici | FPT Industrie",
+      "description": "FPT Industrie S.p.A. produce dal 1969 macchine alesatrici e fresatrici a controllo numerico per il settore della meccanica generale e per il settore della stampistica. Dalla sua costituzione ad oggi, FPT INDUSTRIE S.p.A ha incrementato e consolidato significativamente la propria presenza sul mercato italiano e sui...",
+      "text_excerpt": "Macchine alesatrici e fresatrici | FPT Industrie\nadd\narrow-down-thin\narrow-down\narrow-left-bold\narrow-left-light\narrow-left-thin\narrow-left\narrow-right-bold\narrow-right-light\narrow-right-thin\narrow-right\narrow-up-thin\nbottom\nbox\ncat-icon_1\ncat-icon_2\ncat-icon_3\ncat-icon_4\nchevron-left\nchevron-right\nclose-2\nclose\ndownload-2\ndownload\nedit\nemail\nfpt-industrie-spa\nfpt-industrie-spa_me\ninfo-filled\ninfo\nlayers\nleft-arrow-thin\nlink\nlist\nmail\nmarker\nmessenger\nnext-arrow\noverlapping-squares\npager-arrow-left\npager-arrow-right\nplay\nprev-arrow\nright-arrow-thin\nsearch\nshare-2\nshare\nsocial-facebook\nsocial-instagram\nsocial-linkedin\nsocial-pinterest\nsocial-twitter\nsocial-whatsapp\nsocial-youtube\nsquares\ntelephone\ntimes\nItaliano\nEnglish\nDeutsch\nFrançais\nEspañol\nPortuguês\nSvenska\nрусский\n한국인\n中国人\nعربى\nFocus on\nFPT Open House 2026\nThe hub of change makers\nDal 16 al 18 Aprile, FPT Industrie apre le porte del proprio stabilimento per mostrare il cuore pulsante della sua tecnologia applicata alle sfide industriali più complesse. Un percorso fatto di novità in anteprima mondiale, dimostrazioni dal vivo dedicate a diversi settori e confronto diretto con chi crea l'innovazione FPT ogni giorno. È il momento di scoprire, da vicino, le soluzioni destinate a guidare il mercato dei prossimi anni.\nScopri di più\nWARCOM E FPT: QUATTRO DECENNI DI INNOVAZIONE E QUALITÀ CONDIVISA\nCUSTOMER STORY\nGarantire continuità e affidabilità è uno dei principali compiti di un costruttore verso i propri clienti, e ciò richiede anche coerenza nelle scelte produttive.\nPer questo, da oltre quarant’anni, nelle officine Warcom si trovano solo macchine FPT per le lavorazioni di fresatura. Ogni progetto e disegno Warcom, sviluppato internamente dal reparto tecnico, passa quindi attraverso un processo produttivo con standard elevati e costanti.\nScopri di più\nIMC Slovakia ridefinisce l'efficienza produttiva con Dinomek\nCustomer Story\nDa oltre vent’anni, IMC Slovakia è un punto di riferimento nel panorama manifatturiero europeo: un’azienda che si è evoluta da fornitore locale di servizi a partner strategico per clienti internazionali in diversi settori, tra cui packaging, farmaceutico, siderurgico e macchine tessili.\nScopri di più\nLa soluzione alle sfide produttive di Alfa Laval\nCustomer Story\nNel panorama dell’industria manifatturiera, la scelta del partner tecnologico è un fattore cruciale per garantire efficienza e competitività. Alfa Laval, multinazionale svedese con una storia di oltre 130 anni, è leader globale nei settori dello scambio termico, del fluid handling e della separazione.\nScopri di più\nTUDX : la testa intelligente e smart\n50 anni di esperienza in alesatrici e fresatrici, 25 anni di leadership con la testa TUPC, e migliaia di unità prodotte, culminano nell'ultima invenzione: TUDX\nScopri di più\nRONIN 300/400 SBS\nSoluzione di qualità superiore\nRONIN 300/400 SBS è una alesatrice orizzontale a montante mobile, in grado di rispondere ad una ampia gamma di esigenze di lavorazione per il settore"
+    },
+    "about": {
+      "url": "https://www.fptindustrie.com/o-nas",
+      "text": "Errore 404 | FPT Industrie\nadd\narrow-down-thin\narrow-down\narrow-left-bold\narrow-left-light\narrow-left-thin\narrow-left\narrow-right-bold\narrow-right-light\narrow-right-thin\narrow-right\narrow-up-thin\nbottom\nbox\ncat-icon_1\ncat-icon_2\ncat-icon_3\ncat-icon_4\nchevron-left\nchevron-right\nclose-2\nclose\ndownload-2\ndownload\nedit\nemail\nfpt-industrie-spa\nfpt-industrie-spa_me\ninfo-filled\ninfo\nlayers\nleft-arrow-thin\nlink\nlist\nmail\nmarker\nmessenger\nnext-arrow\noverlapping-squares\npager-arrow-left\npager-arrow-right\nplay\nprev-arrow\nright-arrow-thin\nsearch\nshare-2\nshare\nsocial-facebook\nsocial-instagram\nsocial-linkedin\nsocial-pinterest\nsocial-twitter\nsocial-whatsapp\nsocial-youtube\nsquares\ntelephone\ntimes\nItaliano\nEnglish\nDeutsch\nFrançais\nEspañol\nPortuguês\nSvenska\nрусский\n한국인\n中国人\nعربى\n404 Error Page\nLa pagina che cerchi non esiste oppure è stata spostata o eliminata.\nTorna alla Homepage\nSeleziona il prodotto da confrontare con\n[[PRODUCT_SELECTED_TITLE]]"
+    },
+    "products": {
+      "url": "https://www.fptindustrie.com/produkty",
+      "text": "Errore 404 | FPT Industrie\nadd\narrow-down-thin\narrow-down\narrow-left-bold\narrow-left-light\narrow-left-thin\narrow-left\narrow-right-bold\narrow-right-light\narrow-right-thin\narrow-right\narrow-up-thin\nbottom\nbox\ncat-icon_1\ncat-icon_2\ncat-icon_3\ncat-icon_4\nchevron-left\nchevron-right\nclose-2\nclose\ndownload-2\ndownload\nedit\nemail\nfpt-industrie-spa\nfpt-industrie-spa_me\ninfo-filled\ninfo\nlayers\nleft-arrow-thin\nlink\nlist\nmail\nmarker\nmessenger\nnext-arrow\noverlapping-squares\npager-arrow-left\npager-arrow-right\nplay\nprev-arrow\nright-arrow-thin\nsearch\nshare-2\nshare\nsocial-facebook\nsocial-instagram\nsocial-linkedin\nsocial-pinterest\nsocial-twitter\nsocial-whatsapp\nsocial-youtube\nsquares\ntelephone\ntimes\nItaliano\nEnglish\nDeutsch\nFrançais\nEspañol\nPortuguês\nSvenska\nрусский\n한국인\n中国人\nعربى\n404 Error Page\nLa pagina che cerchi non esiste oppure è stata spostata o eliminata.\nTorna alla Homepage\nSeleziona il prodotto da confrontare con\n[[PRODUCT_SELECTED_TITLE]]"
+    },
+    "contact_page": {
+      "url": "https://www.fptindustrie.com/kontakt",
+      "text": "Errore 404 | FPT Industrie\nadd\narrow-down-thin\narrow-down\narrow-left-bold\narrow-left-light\narrow-left-thin\narrow-left\narrow-right-bold\narrow-right-light\narrow-right-thin\narrow-right\narrow-up-thin\nbottom\nbox\ncat-icon_1\ncat-icon_2\ncat-icon_3\ncat-icon_4\nchevron-left\nchevron-right\nclose-2\nclose\ndownload-2\ndownload\nedit\nemail\nfpt-industrie-spa\nfpt-industrie-spa_me\ninfo-filled\ninfo\nlayers\nleft-arrow-thin\nlink\nlist\nmail\nmarker\nmessenger\nnext-arrow\noverlapping-squares\npager-arrow-left\npager-arrow-right\nplay\nprev-arrow\nright-arrow-thin\nsearch\nshare-2\nshare\nsocial-facebook\nsocial-instagram\nsocial-linkedin\nsocial-pinterest\nsocial-twitter\nsocial-whatsapp\nsocial-youtube\nsquares\ntelephone\ntimes\nItaliano\nEnglish\nDeutsch\nFrançais\nEspañol\nPortuguês\nSvenska\nрусский\n한국인\n中国人\nعربى\n404 Error Page\nLa pagina che cerchi non esiste oppure è stata spostata o eliminata.\nTorna alla Homepage\nSeleziona il prodotto da confrontare con\n[[PRODUCT_SELECTED_TITLE]]"
+    }
+  }
+}

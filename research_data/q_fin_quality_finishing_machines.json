@@ -1,0 +1,237 @@
+{
+  "company_key": "q_fin_quality_finishing_machines",
+  "company_name": "Q-FIN Quality Finishing Machines",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "Q-FIN Quality Finishing Machines",
+    "autodesk_products": [],
+    "competitor_products": [
+      "Dassault Systemes"
+    ],
+    "cad_bim_other": [],
+    "total_technologies": 25,
+    "all_technologies": [
+      {
+        "product": "Python",
+        "vendor": "Python Software Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "C#",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Dassault Systemes",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Azure DNS",
+        "vendor": "Microsoft Corporation",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Gravity Forms",
+        "vendor": "Rocketgenius, Inc.",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Adobe Typekit",
+        "vendor": "Adobe Inc.",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Azure",
+        "vendor": "Microsoft Corporation",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Arjan Koolen",
+        "firstName": "Arjan",
+        "lastName": "Koolen",
+        "jobTitle": "Head of Engineering",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Bart Van Quickelberghe",
+        "firstName": "Bart",
+        "lastName": "Van Quickelberghe",
+        "jobTitle": "Manager, Q-Financial Handling Solutions",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Joost Kouwenbergh",
+        "firstName": "Joost",
+        "lastName": "Kouwenbergh",
+        "jobTitle": "Brand Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Martijn Coppens",
+        "firstName": "Martijn",
+        "lastName": "Coppens",
+        "jobTitle": "Operations En Service Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:40:27",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.qfin-deburring.com",
+    "homepage": {
+      "title": "Home - Q-Fin | Quality Finishing Solutions",
+      "description": "Quality Finishing Machines. We develop, build and supply solutions for deburring, edge rounding and finishing metal sheet parts. Read more about Q-Fin.",
+      "text_excerpt": "Home - Q-Fin | Quality Finishing Solutions\nPushing\nThe Edge\nQ-Fin develops, builds and supplies solutions for deburring, edge rounding and finishing metal sheet parts. Additionally, we ensure efficient handling, insights into performance and high reliability. Whatever it takes to get the maximal result.\nExplore our solutions\nApplications\nDeburring\nEdge rounding\nFinishing\nHandling\nAll applications\nDeburring\nEfficient deburring starts with the right solution. With the machines from Q-Fin, you remove burrs quickly and consistently, regardless of your application or material. You save time, improve the quality of your end product, and automate a process that is often time consuming.\nThe strength of Q-Fin lies in the combination of speed and reliability. The machines are designed to deliver top performance continuously with minimal setup time. This allows you to achieve maximum output without compromising on quality.\nRead more\nEdge rounding\nConsistent edge rounding requires control and precision. With the machines from Q-Fin, you can effortlessly achieve a consistent edge rounding up to radius 3. This improves safety, ensures optimal coating adhesion, and enhances the overall appearance of your product.\nWhat sets Q-Fin apart is its level of repeatability and control. You can easily set the desired radius and rely on uniform results, even in serial production. This turns edge rounding into a predictable and fully controlled process.\nRead more\nFinishing\nHigh quality finishing requires flexibility and full control over the end result. With the machines from Q-Fin, you can easily achieve a wide range of finishes, from non directional finishing with the SER line to targeted roughness reduction, line finishing and polishing. This allows you to give every product exactly the appearance and quality it requires.\nQ-Fin stands out through its versatility in finishing. One solution for multiple finishing techniques, without compromising on consistency. Whether you aim for functional roughness reduction or a visually refined result, you have full control over both the process and the final outcome.\nRead more\nHandling\nSmart handling makes the difference in an efficient production process. With the automation solutions from Q-Fin, such as the Q-Bots and Q-Cell solutions, you can fully automate deburring and optimize all your internal logistics. From infeed and outfeed to switching between processes, everything runs seamlessly.\nQ-Fin is leading the market when it comes to automation in the deburring industry. This lead is reflected in smart, practical solutions that perfectly fit your production process. By fully integrating handling and finishing, you reduce manual steps, prevent errors, and create a continuous and scalable workflow. This allows you to achieve maximum efficiency at every stage of your production.\nRead more\nAll applications\nCustomer\nstory\nCustomer\nstory\nVan Bussel Metaaltechniek, The Netherlands\nFor Van Bussel Metaaltechniek, pushing boundaries is no"
+    },
+    "about": {
+      "url": "https://www.qfin-deburring.com/about",
+      "text": "About Q-Fin - Q-Fin | Quality Finishing Solutions\nJump straight to:\nCore values\nHistory\nTeam\nCertificates\nAbout\nQ-Fin\n”PUSHING THE EDGE”\nQ-Fin develops, builds, and supplies solutions for deburring, edge rounding, and finishing metal sheet parts. Additionally, we ensure efficient handling, insights in performance and high reliability. Whatever it takes to get the maximal result.\nYour browser does not support the video tag.\nWatch video\nAt Q-Fin, we help organisations that want to make a lasting impression. Businesses who are ready to get started with their 4.0 version. Those who believe that simple production processes are not obstacles, but opportunities to distinguish themselves from the rest. Just as we also strive to stand out.\nContact us\nOur\nCore values\n1. Pushing boundaries\nRecognised as Europe’s Greatest\nWe help our clients make a difference\nMachines with the highest output\nPushing boundaries together\nFocus on profitability\nOur machines are the new norm\n2. Only for the best\nWith the best, for the best\nFor customers who want to make a difference\nHigh-quality, aesthetic machinery\nFurther improving our machines, together\nHigh-level customer experience\nA reliable partner\n3. Innovating together\nOur knowledge becomes your advantage\nInnovation is in our DNA\nOperating outside of the box\nAlways looking for optimisations\nLooking at the true needs within the market\nOne team in a modern working environment\nThe history of\nQ-Fin\nStep by step and year by year, our timeline has endured growth, from the first building, the first mission, to where we have reached today. Together, we continue to build a future filled with innovative solutions. On the timeline, you can not only see our history but also the expansion in terms of national, international, and the number of employees.\n2013: Foundation of Q-Fin\nQ-Fin B.V. was founded in 2013 by Anton Bax and Koen de Waard.\n2014:  First national event fair\nThe first national trade show took place at Metavak in 2014, featuring the F200 machine.\n2015: First international event fair\nOne year later, in 2015, we participated in Blechexpo, our first international trade show in Germany.\n2017: New building\nIn July 2017, we moved to our new premises at Wilgenakker 8 in Bergeijk.\n2017: New design\nIn addition to cutting-edge technology, we at Q-Fin also wanted to project this. Therefore, all of our automatic finish machines received a new design in 2017.\n2018: Touchscreen\nThe new standard was set, with all our finishing machines equipped with a touch screen.\n2019: 200 TopGrinders\nAlready 200 companies chose the comfort of the best hand-operated finishing machine in the world: the TopGrinder.\n2019: Certified learning company\nQ-Fin has always stood for innovation, including in the field of employees. This vision was further endorsed by the SBB, which recognized Q-Fin as an “Approved Training Company.\n2020: First internal exhibition\nThe premiere of the first internal exhibition: the 4InnovatorsDays, where Q-Fin, together with a number of close relations, exhibited their companies.\n2020: 25 employees\nTo sustain our growth, we have expanded once again to 25 employees.\n2021: New corporate identity\nIn 2021, Q-Fin received a new corporate identity. Ready for the future.\n2022: 35 employees\n2022, a year in which we have welcomed many new employees to help Q-Fin grow a little more each day.\n2023: PUSHING THE EDGE\nPUSHING THE EDGE, our new slogan. Road to the future.\n2024: 1000 TopGrinders\nFive years after the sale of the 200th TopGrinder in 2024, 1,000 companies already chose the comfort of the best hand-operated finishing machine in the world.\n2024: HMI Display\nFrom now on, our new machines will be equipped with a large, modern touchscreen, which contributes to both appearance and user-friendliness.\n2024: Introduction of EYE-Q\nIn 2024, we proudly introduced our unique EYE-Q principle: a revolutionary system that combines the power of vision, automation & intelligence for unmatched accuracy and efficiency in automated"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.qfin-deburring.com/kontakt",
+      "text": "Kontakt - Q-Fin | Quality Finishing Solutions\nKontakt\nWie können wir Ihnen helfen?\nBei Q-Fin sind wir immer erreichbar, um Ihre Fragen zu beantworten. Egal, ob Sie nach weiteren Informationen zu unseren Maschinen suchen, Hilfe bei einem Problem benötigen oder sogar auf der Suche nach einer interessanten Stelle in unserem Unternehmen sind, wir sind bereit, Sie zu unterstützen und die richtige Lösung anzubieten. Zögern Sie nicht, sich mit uns in Verbindung zu setzen, und wir helfen Ihnen gerne weiter.\nhauptsitz\nWilgenakker 8\n5571 SJ Bergeijk\nNiederlande\nTel. Allgemeine:\n+31 (0)497 58 10 18\nWilgenakker 8\n5571 SJ Bergeijk\nThe Netherlands\nTel General:\n+31 (0)497 58 10 18\ninfo@qfin-finishing.de\nService:\nTel Service:\n+31 (0)497 58 12 76\nservice@q-fin.nl\nOder können wir Ihnen auf andere Weise behilflich sein?\nSuchen Sie nach einem Vertriebspartner?\nSind Sie auf der Suche nach einem Vertriebspartner in Ihrem Land? Über den unten stehenden Button erhalten Sie weitere Informationen über den geeigneten Partner, der Ihnen gerne weiterhilft.\nUnterstützung anzeigen\nProbleme mit Ihrer Maschine?\nTrotz aller Sorgfalt kann es vorkommen, dass eine Maschine ausfällt. Keine Sorge – wir stehen bereit, um Ihnen sofort weiterzuhelfen.\nOptionen ansehen\n© 2026 Q-FIN Quality Finishing Machines\nImpressum\nSitemap\nDatenschutz\nAllgemeine Geschäftsbedingungen"
+    }
+  }
+}

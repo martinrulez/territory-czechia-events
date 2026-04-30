@@ -1,0 +1,454 @@
+{
+  "company_key": "kuka",
+  "company_name": "KUKA",
+  "domain": "www.kuka.com",
+  "domain_url": "https://www.kuka.com",
+  "events": "Digital Factory 2.0 / MSV 2026,United by Innovation 2026",
+  "event_count": 2,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "KUKA",
+    "opportunity_score": 41,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.86,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.86,
+      "event_relevance": 0.5,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "04099141",
+    "official_name": "Radovan Kuka",
+    "legal_form": "101",
+    "nace_codes": [
+      "26",
+      "255",
+      "016",
+      "25",
+      "256",
+      "016",
+      "25",
+      "256",
+      "257",
+      "26"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "č.p. 86, 79312 Sosnová, Sosnová, 79312",
+    "is_client": true,
+    "current_products": "Fusion",
+    "total_seats": "2",
+    "current_acv_eur": "1200.0",
+    "potential_acv_eur": "8200.0",
+    "nearest_renewal": "2026-07-31",
+    "days_to_renewal": "99",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Fusion Sim Ext",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Construction Services",
+    "ml_domain": "www.kuko.cz",
+    "zi_done": true,
+    "employee_count": 15000,
+    "revenue": 4467024,
+    "zi_company_name": "KUKA",
+    "zi_domain": "www.kuka.com",
+    "zi_city": "Augsburg",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.kuka.com",
+    "homepage": {
+      "title": "industrial intelligence 4.0_beyond automation | KUKA in Spain",
+      "description": "KUKA es un proveedor líder mundial de robótica inteligente, tecnología de instalaciones y sistemas e impulsa la digitalización en la industria.",
+      "text_excerpt": "industrial intelligence 4.0_beyond automation | KUKA in Spain\nEstá utilizando una versión de\nInternet Explorar\ndesfasada.\nActualice su navegador para obtener una visualización óptima.\nAMR fleet calculator\nYour AMR requirements – calculated in seconds: Discover now which mobile robots are best suited to your needs.\nTechnical article on FSW technology\nBetter, cheaper, more sustainable – why friction stir welding is the optimal solution for battery housings\nSuite de ingeniería todo en uno para la fabricación digital\niiQWorks: ingeniería digital integral, desde la configuración y la simulación hasta la programación offline, con un intercambio fluido de datos entre los departamentos de planificación y fabricación.\niiQKA.OS2\niiQKA.OS2: Excelente experiencia de usuario, puesta en servicio eficaz, procesos optimizados.\nDescubra la amplia gama de soluciones de automatización de KUKA\nKUKA ofrece soluciones de automatización personalizadas para cada sector.\nObtenga más información sobre nuestras soluciones industriales, casos de éxitos ya realizados y empresas colaboradoras internacionales.\nDescubra nuestros casos de estudio\nSistemas de robots\nKUKA ofrece robots industriales en una gran variedad de versiones con distintas capacidades y alcances de carga útil. Descubra más^.\nMáquinas de producción\nNuestras máquinas de producción le permiten integrar sistemas y componentes estandarizados en procesos de producción customizados. Obtenga más información aquí.\nSistemas de producción\nDesde células de producción individuales a un sistema de producción completo: nuestras divisiones de Industries y Systems son especialistas en la integración de sistemas.\nActualidades\niiMagazine\n21/04/2026\nImagina\n“We are at the beginning of a decade of profound technological transformation”\n“We are at the beginning of a decade of profound technological transformation”\niiMagazine\n20/04/2026\nTecnología\nRun AI-powered factories\nRun AI-powered factories\nNoticias\n07/04/2026\nFerias y eventos\nKUKA presents the future of packaging at interpack 2026 – fast, flexible, autonomous\nKUKA presents the future of packaging at interpack 2026 – fast, flexible, autonomous\nNoticias\n31/03/2026\nEmpresa\n​KUKA unveils vision for Automation 2.0 as Physical AI reshapes global manufacturing​\n​KUKA unveils vision for Automation 2.0 as Physical AI reshapes global manufacturing​\nNoticias\niiMagazine\nAmplia cartera de productos KUKA en robótica, software y servicio.\nDescarga el catálogo\nCentro de descargas\n¿Está buscando un folleto, datos CAD o certificado concreto? No siga buscando. Nuestro Centro de descargas lo tiene todo.\nVisite nuestro Centro de Descargas\nHistorias de éxito\nHemos resuelto los problemas de nuestros clientes durante años. Busque soluciones de automatización innovadoras y eficientes en su industria.\nDescubra nuestras historias de éxito\nServicios\n¿Está buscando una línea directa? ¿O está buscando una formación para empleados o servicio in situ? Póngase en contacto con nosotros.\nConozca nuestro serv"
+    },
+    "about": {
+      "url": "https://www.kuka.com/about",
+      "text": "Acerca de KUKA | KUKA in Spain\nEstá utilizando una versión de\nInternet Explorar\ndesfasada.\nActualice su navegador para obtener una visualización óptima.\nAcerca de KUKA\nKUKA Group es una empresa de automatización de presencia internacional con un volumen de ventas de aproximadamente 3,7 mil millones de euros y alrededor de 15 000 empleados. Como uno de los principales proveedores de soluciones de automatización inteligentes y respetuosas con los recursos, KUKA ofrece robots industriales, robots móviles autónomos (AMR) con unidades de control, software y servicios digitales basados en la nube, así como instalaciones de producción totalmente conectadas para diferentes sectores y mercados tales como la automoción, con especial hincapié en electromovilidad y baterías, la electrónica, el metal y el plástico, los bienes de consumo, la alimentación, el comercio electrónico, el comercio minorista y la sanidad. KUKA Group cuenta con más de 100 emplazamientos en más de 50 países. Los emplazamientos más grandes se encuentran en Alemania, Estados Unidos, China y Hungría, y la sede central está en Augsburgo en Alemania. KUKA Group incluye la división de construcción de instalaciones KUKA Systems, la división de robotis KUKA Robotics, Swisslog (automatización de intralogística), Swisslog Healthcare (automatización de hospitales y farmacias) y la división digital KUKA Digital con los especialistas en software Visual Components y Device Insight.\nEstructura de la empresa KUKA Group\nHemos reunido nuestra amplia experiencia en automatización y digitalización en cinco segmentos de negocio.\nLa administración en KUKA SE & Co. KGaA\nLa dirección de KUKA está compuesta por tres miembros de la junta directiva, y un consejo de administración constituido por doce miembros.\nEstrategia de KUKA\nNuestro objetivo: ampliar el liderazgo de KUKA y aplicar nuestro conocimiento de forma óptima. Más información sobre nuestra estrategia.\nInvestor Relations\nWe want to help you assess and determine the value of the KUKA share through open, transparent and timely communications.\nLa historia de KUKA\nKUKA fue fundada en 1898 en Augsburgo por Johann Josef Keller y Jakob Knappich. ¡Descubra más acerca de nuestra historia!\nCumplimiento corporativo\nKUKA tiene una responsabilidad con los empleados, los clientes, los inversores y la sociedad.\nMarca KUKA\nKUKA apuesta por la cercanía con el cliente, el valor añadido, la innovación y la calidad. Le invitamos a conocer en mayor profundidad la marca KUKA y la Inteligencia Naranja."
+    },
+    "products": {
+      "url": "https://www.kuka.com/products",
+      "text": "Productos y servicios | KUKA in Spain\nEstá utilizando una versión de\nInternet Explorar\ndesfasada.\nActualice su navegador para obtener una visualización óptima.\nProductos y servicios\nComo pioneros de\nIndustrie 4.0\n, KUKA ofrece una gran plusvalía a sus clientes, gracias a la colaboración de todos los sectores de la empresa. De esta forma, ya estamos en condiciones de elaborar hoy un sinfín de\nsoluciones de automatización\ninteligentes que combinan una experiencia práctica dilatada con tecnologías de nube y plataformas móviles con movilidad propia.\nKUKA le ofrece soluciones de automatización a medida desde el robot industrial hasta la instalación de producción completa.\nFolleto: visión general de los robots industriales (PDF)\nSistemas de robot de KUKA\nKUKA ofrece numerosas variantes de robots industriales con las capacidades de carga más diversas y distintos alcances para prácticamente cualquier uso de aplicación.\nRobótica móvil autónoma\nRobots móviles autónomos y plataformas móviles para una automatización flexible: tecnología de sensores, programación sin código, tecnología de baterías de última generación, todas las cargas útiles.\nMáquinas de producción\nMáquinas de fabricación y células de fabricación modulares para la unión precisa de acero, aluminio, cobre y bimetales: eficientes, flexibles e integrables.\nInstalaciones de producción KUKA\nDesarrollamos el procedimiento adecuado para su instalación y, en función de las necesidades, suministramos componentes individuales, células o instalaciones completas."
+    },
+    "contact_page": {
+      "url": "https://www.kuka.com/contact",
+      "text": "Contact sales | KUKA Germany\nYou are using\nInternet Explorer\nand will not be able to use our website properly.\nPlease change to an up-to-date browser for ideal presentation of the website.\nContact KUKA\nLog in to your\nmy.KUKA account\nnow to automatically fill out the form with your stored data. You have the option to change these later.\nDon't have a my.KUKA account yet? Then register now\nhere.\nYou are logged in to\nmy.KUKA\n, so the form has already been pre-filled with your stored data. You have the option to change this data as you wish.\nName\nAddress\nCountry\nPlease specify your request\nKUKA Deutschland GmbH - Sales\nKUKA Deutschland GmbH\nZugspitzstraße 140\n86165 Augsburg\nGermany\n+49 821 797-1011\nTitle\nMr.\nMs.\nMx.\nFirst name\nLast name\nCompany\nStreet and house number\nPostal code\nCity\nCountry / Region\nAfghanistan\nAland Islands\nAlbania\nAlgeria\nAmerican Samoa\nAndorra\nAngola\nAnguilla\nAntarctica\nAntigua and Barbuda\nArgentina\nArmenia\nAustralia\nAustria\nAzerbaijan\nBahamas\nBangladesh\nBarbados\nBelarus\nBelgium\nBelize\nBenin\nBermuda\nBhutan\nBolivia\nBosnia and Herzegovina\nBotswana\nBrazil\nBritish Indian Ocean Territory\nBritish Virgin Islands\nBrunei Darussalam\nBulgaria\nBurkina Faso\nBurundi\nCambodia\nCameroon\nCanada\nCape Verde\nCayman Islands\nCentral African Republic\nChad\nChile\nChina\nChristmas Island\nCocos (Keeling) Islands\nColombia\nComoros\nCongo (Brazzaville)\nCongo, (Kinshasa)\nCook Islands\nCosta Rica\nCôte d'Ivoire\nCroatia\nCuba\nCyprus\nCzech Republic\nDenmark\nDjibouti\nDominica\nDominican Republic\nEcuador\nEgypt\nEl Salvador\nEquatorial Guinea\nEritrea\nEstonia\nEthiopia\nFalkland Islands (Malvinas)\nFaroe Islands\nFiji\nFinland\nFrance\nFrench Guiana\nFrench Polynesia\nFrench Southern Territories\nGabon\nGambia\nGeorgia\nGermany\nGhana\nGibraltar\nGreece\nGreenland\nGrenada\nGuadeloupe\nGuam\nGuatemala\nGuernsey\nGuinea\nGuinea-Bissau\nGuyana\nHaiti\nHeard and Mcdonald Islands\nHoly See (Vatican City State)\nHonduras\nHong Kong, China\nHungary\nIceland\nIndia\nIndonesia\nIran\nIraq\nIreland\nIsle of Man\nIsrael\nItaly\nJamaica\nJapan\nJord"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "KUKA",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autodesk Inventor",
+      "Autodesk Revit"
+    ],
+    "competitor_products": [
+      "CATIA",
+      "CATIA V5",
+      "Dassault Systemes",
+      "Mastercam",
+      "Siemens",
+      "Siemens NX",
+      "Siemens PLM",
+      "Siemens Polarion ALM",
+      "Siemens SIMATIC Automation Designer",
+      "Siemens Teamcenter PLM Software",
+      "Solidworks"
+    ],
+    "cad_bim_other": [
+      "ANSYS",
+      "Assemble",
+      "Autodesk",
+      "Built",
+      "Cache Control",
+      "Delcam",
+      "InVision",
+      "KUKA"
+    ],
+    "total_technologies": 339,
+    "all_technologies": [
+      {
+        "product": "IFS",
+        "vendor": "IFS Americas, Inc.",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Agility",
+        "vendor": "Agility",
+        "category": "Product Information Management",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "TypeScript",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "dbt",
+        "vendor": "dbt Labs, Inc",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Albert",
+        "vendor": "Learn By Doing, Inc",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Autostore",
+        "vendor": "AutoStore AS",
+        "category": "Warehouse Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "HashiCorp Terraform",
+        "vendor": "Terraform",
+        "category": "Configuration Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Fortinet",
+        "vendor": "Fortinet, Inc.",
+        "category": "Threat Intelligence",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "MariaDB",
+        "vendor": "MariaDB Corporation AB",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "LangChain",
+        "vendor": "LangChain, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "LeanIX",
+        "vendor": "LeanIX GmbH",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Better",
+        "vendor": "Better Mobile Security Inc.",
+        "category": "Enterprise Mobility Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Harness",
+        "vendor": "Harness Inc.",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Oracle",
+        "vendor": "Oracle Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Software AG",
+        "vendor": "SAG Deutschland GmbH",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Atlassian",
+        "vendor": "Atlassian",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Daily",
+        "vendor": "Daily.co.uk",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Git",
+        "vendor": "Software Freedom Conservancy, Inc.",
+        "category": "Source Code Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Red Hat (common)",
+        "vendor": "Red Hat, Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Adobe Creative Cloud",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Adobe Acrobat Pro",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Microsoft Planner",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Adobe After Effects",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Adobe Premiere Pro",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "TwinCAT HMI",
+        "vendor": "Beckhoff Automation LLC",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "API Gateway",
+        "vendor": "Akamai Technologies, Inc.",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "PL/SQL",
+        "vendor": "Oracle Corporation",
+        "category": "Database Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Sitecore Experience Platform",
+        "vendor": "Sitecore Holding II A/S",
+        "category": "Customer Experience Management",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "ServiceNow",
+        "vendor": "ServiceNow, Inc.",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Databricks",
+        "vendor": "Databricks, Inc.",
+        "category": "Big Data Processing",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Solidworks",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SAP Human Resources (HR)",
+        "vendor": "SAP SE",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Basware",
+        "vendor": "Basware Corporation",
+        "category": "Other Sales Software",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Verian",
+        "vendor": "Basware Corporation",
+        "category": "Procurement",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "SAP Materials Management",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "NoSQL",
+        "vendor": "",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Fis Global",
+        "vendor": "Fidelity National Information Services Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Navis",
+        "vendor": "Navis LLC",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Built",
+        "vendor": "Built",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "RobotFramework",
+        "vendor": "Robot Framework",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "KUKA",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 08:31",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "inventor",
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

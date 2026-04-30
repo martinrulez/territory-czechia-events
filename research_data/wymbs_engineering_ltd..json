@@ -1,0 +1,181 @@
+{
+  "company_key": "wymbs engineering ltd.",
+  "company_name": "Wymbs Engineering Ltd.",
+  "domain": "www.wymbsengineering.com",
+  "domain_url": "https://www.wymbsengineering.com",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Wymbs Engineering Ltd.",
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 18,
+    "revenue": 6323,
+    "zi_company_name": "Wymbs Engineering",
+    "zi_domain": "www.wymbsengineering.com",
+    "zi_city": "Poynton West And Adlington Ward",
+    "zi_country": "United Kingdom",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "opportunity_score": 12,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.15,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.wymbsengineering.com",
+    "homepage": {
+      "title": "Wymbs Engineering - leaders in the design and manufacture of high‑precision processing food equipment",
+      "description": "Wymbs Engineering Ltd is a family-owned UK business founded in the early 1980s. Based near Manchester—the company has evolved to become a recognized leader in the design and manufacture of high‑precision processing equipment.",
+      "text_excerpt": "Wymbs Engineering - leaders in the design and manufacture of high‑precision processing food equipment\ninfo@wymbsengineering.com\n+44 (0) 1625 575154\nVideo is Enabled\nWelcome to Wymbs\nApplications\nAerated\nChocolate\nCream\nFilled Cakes\nBiscuit\nToppings\nAngel Kiss\nMallow\nDeposited\nMallow\nÉclairs\nExtruded\nMallow\nBiscuit\nMallow\nLady\nFingers\nJaffa\nCake\nMachines\nDEPOSITING\nSYSTEMS\ndiscover\nPROCESSING\nLINES\ndiscover\nSHEETING\n& EXTRUDING\ndiscover\nMANIFOLDS\nTIME/PRESSURE\ndiscover\nMANIFOLDS\nVOLUMETRIC\ndiscover\nFIND US AT THESE EVENTS\nAndina Pack 2025\n4 - 7 November\n​​​​​​​\nPavilion 11-16\nStand 727E\nLearn More\nGulfood Manufacturing\n4 - 6 November\nTrade Centre Arena\nStand S-D72\nLearn More"
+    },
+    "about": {
+      "url": "https://www.wymbsengineering.com/about-us",
+      "text": "About Us :: Wymbs Engineering\ninfo@wymbsengineering.com\n+44 (0) 1625 575154\nAbout Us\nWymbs Engineering Ltd\nis a family-owned UK business founded in the early 1980s. Based near Manchester—the company has evolved to become a recognized leader in the design and manufacture of high‑precision processing equipment.\nToday, the company’s team of 30 skilled and dedicated employees continues to deliver bespoke solutions with a strong emphasis on in‑house design and manufacturing, harnessing advanced 3D CAD and multi-axis CNC production.\nAt the core of Wymbs Engineering is its specialty in advanced depositing technology\n, especially pressurised manifold depositing systems that handle light, aerated, delicate, and un‑aerated masses with pinpoint accuracy. Their capabilities extend across volumetric depositing, sheeting and extruding manifolds, a range of depositing  drive systems to suit any environment, and cream processing lines tailored for chilled patisserie products like doughnuts and chocolate éclairs\nThese design solutions are engineered to deliver centre‑filled deposits, multi‑product simultaneous depositing, hopperless systems, and retrofit adaptability onto existing lines. Therefore supporting flexibility, speed, and ease of cleaning for demanding production environments.\nGlobally minded, quality‑driven\n—Wymbs Engineering exports approximately 75–85% of its turnover to markets worldwide. Their reputation is built on exceptional machine performance and tailored innovation, finding clients among some of the world’s leading confectionery and bakery brands. A notable hallmark of their approach is agile problem-solving, creating truly bespoke machinery such as the “burger” marshmallow depositor (a multi-tier, multi-colour centre‑fill system), and custom cream or jam‑injected processing lines—often conceived and tested entirely in-house before being brought into commercial operation, Wymbs can truly become a partner to an end user and help make their product aspirations into reality.\nBakedIn Knowledge-\nWymbs prides itself on having a unique set of skills and talents within the business, from process conception to installation we have the skills to deliver.\nThe Knowledge goal at Wymbs has always been to nurture our growing talent, and identify areas of improvement. With a continuous improvement philosophy, Wymbs never stays still."
+    },
+    "products": {
+      "url": "https://www.wymbsengineering.com/products",
+      "text": "Products :: Wymbs Engineering\ninfo@wymbsengineering.com\n+44 (0) 1625 575154\nChocolate & Sugar Confectionery\nLearn More\nFlour Confectionery\nLearn More\nDairy & Non-Dairy Cream\nLearn More"
+    },
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Wymbs Engineering Ltd.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 17,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Concrete CMS",
+        "vendor": "PortlandLabs Inc",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP 5.6",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "The Bunker",
+        "vendor": "The Bunker",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Wymbs Engineering Ltd.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 14:56"
+}

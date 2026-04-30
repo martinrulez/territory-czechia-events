@@ -1,0 +1,115 @@
+{
+  "company_key": "tgv international",
+  "company_name": "TGV International",
+  "domain": "www.tgv-international.com",
+  "domain_url": "https://www.tgv-international.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "TGV International",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 15,
+    "revenue": 2354,
+    "zi_company_name": "Tgv International",
+    "zi_domain": "www.tgv-international.com",
+    "zi_city": "East Northport",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.tgv-international.com",
+    "homepage": {
+      "title": "TGV International | Your Manufacturing Partner",
+      "description": "Led by multinational group of professionals in Shenzhen China, TGV provides comprehensive manufacturing solutions in plastic, metal and industrial automation.",
+      "text_excerpt": "TGV International | Your Manufacturing Partner\ntop of page\nYou may just found your manufacturing partner.\nWe help companies worldwide by providing complete solutions in production of plastic and metal components.\nLearn more...\nContact us...\nWho we are\nWe are a family-owned group of companies that provides customers with complete solutions of manufacturing plastic and metal components.\nOver the years we have won the trust and loyalty of dozens of companies worldwide, including several multinational market leaders.\nAs a player in a highly competitive field, we\ndifferentiate ourselves by providing exceptional level of expertise and unparalleled customer service.\nFairness and professional integrity are the driving force behind every decision we take. This is why we accept only business that falls squarely within our core capabilities and in which we can add value to the customer.\nMeet our team...\nAbout\nOUR VISION\nBecome a first-choice manufacturing partner for companies that seek solutions in plastic and metal part manufacturing, whilst remaining a company where employees are happy to work at and vendors are happy to work with.\nWhat we do\nR&D Support\nWe help customers in the product design phase by advising on mechanical design, materials selection, technologies and more. We also provide rapid prototyping solutions that help shorten time to market.\nIndustrialization & Sourcing\nWe guide customers through the critical process of industrializing their concept designs or prototype models. This includes cost optimization, production methods, scalability and more.\nTooling Design & Development\nOur in-house tool-shops allow us to produce metal stamping tools and plastic injection moulds that are either shipped to customers or stay in our factories for components manufacturing.\nComponents Manufacturing\nOur facilities are equipped with metal stamping presses, plastic molding machines, measuring equipment and other technologies for fabrication and sub-assembly. We also maintain a network of trusted partners for various pre- and post-production tasks.\nWhy working with us\nCOST\nREDUCTION\nWe will help you to reduce costs at every stage. From product design optimisation, through evaluation of raw materials and manufacturing process alternatives, to the selection of production sites and logistic arrangements.\nWe will guide and advise you along the way on how to best realise your objectives in the most cost-effective way, without compromising the quality or the performance of the end product.\nUNIQUE\nEXPERTISE\nWe pride ourselves on having a team of highly capable and experienced professionals who are passionate about what they do. Regardless of the size or the complexity of your project, our unique expertise will save you valuable time and money. We will help you improve flawed designs, minimise unproductive communication, eliminate unnecessary steps and avoid aimless trial iterations.\nEXCEPTIONAL\nSUPPORT\nWe believe that business is not done between companies, but betw"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "TGV International",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Varnish",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Wix",
+        "vendor": "Wix.com, Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "The USERTRUST Network",
+        "vendor": "Comodo Group, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Sectigo",
+        "vendor": "Sectigo Limited",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "TGV International",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 16:43"
+}

@@ -1,0 +1,155 @@
+{
+  "company_key": "pedrotti normalizzati italia spa",
+  "company_name": "Pedrotti Normalizzati Italia SpA",
+  "domain": "www.pedrotti.it",
+  "domain_url": "https://www.pedrotti.it",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Pedrotti Normalizzati Italia SpA",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 53,
+    "revenue": 10222,
+    "zi_company_name": "Pedrotti",
+    "zi_domain": "www.pedrotti.it",
+    "zi_city": "Prevalle",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.pedrotti.it",
+    "homepage": {
+      "title": "Pedrotti - Piastre ed Accessori per Stampi",
+      "description": "Pedrotti Ã¨ unâazienda italiana altamente specializzata nella produzione di Portastampi ed accessori stampi per iniezione, pressofusione e lamiera",
+      "text_excerpt": "Pedrotti - Piastre ed Accessori per Stampi"
+    },
+    "about": {
+      "url": "https://www.pedrotti.it/o-nas",
+      "text": "Pedrotti - Piastre ed Accessori per Stampi"
+    },
+    "products": {
+      "url": "https://www.pedrotti.it/produkty",
+      "text": "Pedrotti - Piastre ed Accessori per Stampi"
+    },
+    "contact_page": {
+      "url": "https://www.pedrotti.it/kontakt",
+      "text": "Pedrotti - Piastre ed Accessori per Stampi"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Pedrotti Normalizzati Italia SpA",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 10,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "GreenSock",
+        "vendor": "GreenSock",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "iubenda",
+        "vendor": "iubenda s.r.l",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Mapbox GL JS API",
+        "vendor": "Mapbox Inc",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SendGrid",
+        "vendor": "Sendgrid, Inc.",
+        "category": "Email Delivery",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Pedrotti Normalizzati Italia SpA",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Marco",
+        "last_name": "Zoia",
+        "title": "Manager, Research & Development",
+        "email": "",
+        "phone": "",
+        "company": "Pedrotti",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 92.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 17:12"
+}

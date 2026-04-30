@@ -1,0 +1,145 @@
+{
+  "company_key": "transfluid maschinenbau gmbh",
+  "company_name": "TRANSFLUID Maschinenbau Gmbh",
+  "domain": "www.transfluid.de",
+  "domain_url": "https://www.transfluid.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "TRANSFLUID Maschinenbau Gmbh",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 29,
+    "revenue": 3818,
+    "zi_company_name": "transfluid Maschinenbau",
+    "zi_domain": "www.transfluid.de",
+    "zi_city": "Schmallenberg",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.transfluid.de",
+    "homepage": {
+      "title": "Ihr Hersteller für Maschinen zur Rohrbearbeitung | transfluid",
+      "description": "Unser großes Produktportfolio reicht von Rohrbearbeitungsmaschinen über Rohrtrennmaschinen bis zur Umformtechnik. ✓30 Jahre Erfahrung ✓Höchste Qualität",
+      "text_excerpt": "Ihr Hersteller für Maschinen zur Rohrbearbeitung | transfluid\ntransfluid®\nDIE LÖSUNG FÜR ROHRE\nIhre Lösung für das Biegen, Umformen und Trennen von Rohren auf die effizienteste Art und Weise - mit transfluid.\nEntdecken Sie unsere Biegelösungen\nMit transfluid® bringen Sie High-End-Technologie in Ihre Produktion.\nUnsere Lösungen, Leistungen und Anlagen sind auf das abgestimmt, was Sie brauchen, um auf Weltmarktniveau zu produzieren. Für Ihre Anforderungen und auch komplexere Herausforderungen, für Einzelstücke oder die Serienfertigung in gleichbleibend hoher Qualität – mit individuell abgestimmten Hightech-Entwicklungen oder unseren leistungsstarken Maschinenstandards:\ntransfluid\nhat die Lösung, die aus Ihren Ideen Fortschritt macht.\nBiegemaschinen\nHightech, die mit grenzenloser Biegefreiheit beste Ergebnisse erzielt.\nAlle anzeigen\nUmformmaschinen\nRohrformmaschinen, um Ihre Ideen in Topform zu bringen.\nAlle anzeigen\nMobile und kompakte Rohrbearbeitung\nMobile und kompakte Rohrbearbeitung\nAlle anzeigen\nRohrtrennmaschinen\nRohrtrennmaschinen für beeindruckend saubere Schnittergebnisse.\nAlle anzeigen\nAutomatisierungslösungen\nAutomatisierung für einen idealen Produktionsfluss.\nAlle anzeigen\nSoftware\nSoftware: virtuelle Unterstützung für mehr Effizienz.\nAlle anzeigen\nRoboter-Biegetechnik\nMaximale Biegefreiheit.\nAlle anzeigen\nNEU AB LAGER\nAktuelle Lager- & Gebrauchtmaschinen. Spezielle Angebote und kurze Lieferzeiten!\nAlle anzeigen\nPrototyp & Vorserienproduktion\nIhr zuverlässiger Weg zu neuen Rohrumformungsgeometrien\nAlle anzeigen\nWenn es schnell gehen muss!\nWir haben ständig eine große Auswahl an sofort verfügbaren Neumaschinen, neuwertigen Vorführmaschinen und Gebrauchtmaschinen auf Lager. Profitieren Sie von attraktiven Angeboten für top-ausgestattete-Maschinen.\nAlle Lagermaschinen sofort verfügbar und einsatzbereit\nVorführmaschinen mit geringen Betriebsstunden\nGebrauchtmaschinen in Top-Zustand\nZu den Maschinen\ntransfluid® Dornbiegemaschinen\nfür Auspuff, Krümmer und Zubehör.\nDie Dornbiegemaschine DB 20101 lässt sich jetzt einfach über ein Touchpanel steuern. Dies eröffnet neue Möglichkeiten, wie z.B. die Anzeige des Soll-Ist-Vergleichs für alle Achsen.\nDie Maschinen sind äußerst robust und einfach zu bedienen. Für die Verarbeitung von Rohren unterschiedlicher Länge steht eine Auswahl an Aufbauten zur Verfügung, mit einer Arbeitslänge bis zu 6 m.\nWeiterführende Informationen\nTPC 628:\nKompaktes Fertigungszellenkonzept für die\nvollautomatische Rohrfertigung\nAufgrund der aktuellen Nachfrage im Bereich der erneuerbaren Energien, insbesondere im Hinblick auf Wärmepumpen, aber auch für Brauchwasseranlagen, haben wir uns entschlossen, ein neues, besonders kompaktes Fertigungszellenkonzept zu schaffen, das speziell auf diesen Bereich abgestimmt ist und den Kunden eine Kapazitätserweiterung zu einem guten Preis-/Leistungsverhältnis bei geringstem Platzbedarf bietet.\nWeiterführende Informationen\nUnser Expertenteam ist für Sie da\nDer exzellente 24-Stunden-Kunden"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "TRANSFLUID Maschinenbau Gmbh",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 12,
+    "all_technologies": [
+      {
+        "product": "Amazon CloudFront",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Leadinfo",
+        "vendor": "Leadinfo",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Salesforce B2B Commerce",
+        "vendor": "Salesforce, Inc.",
+        "category": "Other E-Commerce Software",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Salesforce",
+        "vendor": "Salesforce, Inc.",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "TYPO3 CMS",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "TRANSFLUID Maschinenbau Gmbh",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 16:40"
+}

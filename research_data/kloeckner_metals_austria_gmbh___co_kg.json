@@ -1,0 +1,232 @@
+{
+  "company_key": "kloeckner metals austria gmbh & co kg",
+  "company_name": "Kloeckner Metals Austria GmbH & Co KG",
+  "domain": "www.kloecknermetals.at",
+  "domain_url": "https://www.kloecknermetals.at",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Kloeckner Metals Austria GmbH & Co KG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 120,
+    "revenue": 5318,
+    "zi_company_name": "Kloeckner Metals Austria",
+    "zi_domain": "www.kloecknermetals.at",
+    "zi_city": "Neumarkt am Wallersee",
+    "zi_country": "Austria",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.kloecknermetals.at",
+    "homepage": {
+      "title": "Homepage | Kloeckner Metals Austria GmbH & Co KG",
+      "description": "",
+      "text_excerpt": "Homepage | Kloeckner Metals Austria GmbH & Co KG\nUnternehmen\nMehrwert-Services\nProdukte\nNexigen®\nKarriere\nStandorte\nNewsroom\nWissen was drin steckt\nProduct Carbon Footprint\nMehr erfahren\nWir bieten transparente, CO₂-reduzierte Lösungen\nNexigen®\nErfahren Sie mehr über Nexigen®\nEinfach Metalle online kaufen\nKloeckner Onlineshop\nZum Onlineshop\nWir machen den Mehrwert\nKloeckner Metals Austria\nErfahren Sie mehr\nKloeckner Onlineshop\nEinfach Metalle online kaufen\nZum Onlineshop\nMehrwert-Services\nAnarbeitung, Digitalisierung und mehr\nZu den Services\nKloeckner Newsletter\nVerpassen Sie keine Neuigkeiten\nJetzt abonnieren\nKlöckner & Co SE\nKlöckner & Co ist ein international agierender Konzern – mit Standorten in Europa und Nordamerika\nZur Homepage\nDownloadcenter\nAlle Lieferprogramme, Flyer und mehr\nZum Downloadcenter\nNexigen®\nCO₂-reduzierte Produkte und Dienstleistungen für grünere Wertschöpfungsketten\nMehr erfahren"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.kloecknermetals.at/kontakt",
+      "text": "Kontakt | Kloeckner Metals AT\nUnternehmen\nMehrwert-Services\nProdukte\nNexigen®\nKarriere\nStandorte\nNewsroom\nIhr direkter Kontakt zu uns\nFür Fragen zu unseren Produkten, Dienstleistungen oder anderen Services, wenden Sie sich bitte direkt an die für Sie zuständige\nNiederlassung"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Kloeckner Metals Austria GmbH & Co KG",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 26,
+    "all_technologies": [
+      {
+        "product": "Storyblok",
+        "vendor": "Storyblok GmbH",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Tweet Button",
+        "vendor": "Twitter, Inc.",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Hosting",
+        "vendor": "Microsoft Corporation",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Adobe Experience Manager",
+        "vendor": "Adobe Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Adobe Target",
+        "vendor": "Adobe Inc.",
+        "category": "A/B Testing",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Ads",
+        "vendor": "LinkedIn Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Adobe Analytics",
+        "vendor": "Adobe Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Adobe",
+        "vendor": "Adobe Inc.",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Adobe Activation",
+        "vendor": "Adobe Inc.",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Kloeckner Metals Austria GmbH & Co KG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 17:48"
+}

@@ -1,0 +1,38 @@
+{
+  "company_key": "g_l_electronic",
+  "company_name": "G.L. ELECTRONIC",
+  "domain": "",
+  "events": "Moravian Aviation Cluster Members",
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "LUDĚK GRACLÍK",
+        "firstName": "LUDĚK",
+        "lastName": "GRACLÍK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:16",
+  "website_data": {
+    "success": false,
+    "domain": "https://www.glelectronic.co.in",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

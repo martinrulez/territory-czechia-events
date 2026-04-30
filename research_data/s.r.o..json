@@ -1,0 +1,107 @@
+{
+  "company_key": "s.r.o.",
+  "company_name": "s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "s.r.o.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "ARES API error: 400 Client Error:  for url: https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/vyhledat",
+    "zi_done": true,
+    "zi_error": "No company found"
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Petr",
+        "last_name": "Luka",
+        "title": "Chief Executive Officer",
+        "email": "petr@babynabytek.cz",
+        "phone": "",
+        "company": "Babynabytek s.r.o.",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Michal",
+        "last_name": "Strobl",
+        "title": "Chief Executive Officer",
+        "email": "strobl@stigroup.cz",
+        "phone": "",
+        "company": "STI Group s.r.o.",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 99.0
+      },
+      {
+        "first_name": "Tomas",
+        "last_name": "Lauer",
+        "title": "Chief Executive Officer",
+        "email": "tomas@babynabytek.cz",
+        "phone": "",
+        "company": "Babynabytek s.r.o.",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Juraj",
+        "last_name": "Harkabuzík",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "MediaCall, s.r.o.",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Pavel",
+        "last_name": "Fišera",
+        "title": "Chief Technical Officer",
+        "email": "fisera@inova.cz",
+        "phone": "+420 271 012 133",
+        "company": "Inova Praha s.r.o.",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 92.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 16:58"
+}

@@ -1,0 +1,265 @@
+{
+  "company_key": "kolomaki_s_r_o",
+  "company_name": "Kolomaki s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": true,
+    "company": "Kolomaki s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 35,
+    "all_technologies": [
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "WhatsApp",
+        "vendor": "WhatsApp",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Apache Traffic Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Leady",
+        "vendor": "Imper CZ s.r.o.",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Page Plugin",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Like Button",
+        "vendor": "Facebook, Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Tweet Button",
+        "vendor": "Twitter, Inc.",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft Dynamics 365 Business Central",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ANTON ANGERVAKS",
+        "firstName": "ANTON",
+        "lastName": "ANGERVAKS",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:28",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.kolomaki.com",
+    "homepage": {
+      "title": "Kolomaki - výrobce sklepů, bunkrů a nádrží na dešťovou vodu",
+      "description": "Kolomaki s.r.o.. Naše společnost se specializuje na výrobu kvalitních a moderních výrobků pro domácnost a průmyslové využití. Snažíme se vždy vyhovět požadavkům zákazníka a nabízet výrobky, které zjednodušují a zpříjemňují život. Na výrobu se snažíme vždy používat materiály s minimálním dopadem na životní prostředí,…",
+      "text_excerpt": "Kolomaki - výrobce sklepů, bunkrů a nádrží na dešťovou vodu\nTento web používá soubory cookie. Dalším procházením tohoto webu vyjadřujete souhlas s jejich používáním.. Více informací\nzde\nNastavení\nSouhlasím\nPřejít na obsah\nZpět\ndo obchodu\nPřihlášení k vašemu účtu\nNemůžete vyplnit toto pole\nPřihlásit se\nNová registrace\nZapomenuté heslo\nKolomaki s.r.o.\nPředchozí\nNásledující\nCERTIFIKUJEME\nvšechny produkty\nKVALITNÍ MATERIÁLY\nnešetříme na kvalitě.\nVLASTNÍ DOPRAVA\npro všechny produkty\nVLASTNÍ PRODUKTY\na smluvní výroba.\nNejprodávanější\nNejprodávanější\n–23 %\nDoprodej - Nádrže Planus 2-10m³ předchozí generace\nSkladem\nod 24 079 Kč včetně DPH\n19 900 Kč\nDetail\n460/2M3\nAkce\nSamonosné nádrže Český Standard 2-14m³\nSkladem\nod 19 674,60 Kč včetně DPH\n16 260 Kč\nDetail\n544/2M3\nKolomaki s.r.o.\nNaše společnost se specializuje na\nvýrobu kvalitních\na moderních výrobků pro domácnost a průmyslové využití. Snažíme se vždy vyhovět požadavkům zákazníka a nabízet výrobky, které zjednodušují a zpříjemňují život.\nvýrobu\nse s\nnažíme vždy používat\nmateriály s minimálním dopadem na životní prostředí\n, proto\npoužíváme eko-polypropylenové desky, které jsou bezpečné, odolné a lze je recyklovat.\nNaše produkty naleznete i u našich partnerů\nReportáž o naších sklepech\nKošík\nZpět\ndo obchodu\nZpět\ndo obchodu\nCo potřebujete najít?\nHledat\nDoporučujeme"
+    },
+    "about": {
+      "url": "https://www.kolomaki.com/o-nas",
+      "text": "O nás - Kolomaki\nTento web používá soubory cookie. Dalším procházením tohoto webu vyjadřujete souhlas s jejich používáním.. Více informací\nzde\nNastavení\nSouhlasím\nPřejít na obsah\nZpět\ndo obchodu\nPřihlášení k vašemu účtu\nNemůžete vyplnit toto pole\nPřihlásit se\nNová registrace\nZapomenuté heslo\nDomů\nO nás\nPostranní panel\nPřeskočit kategorie\nKategorie\nE-shop\nAkční produkty\nSklepy a úkryty\nSklep a úkryt Quick\nSklep a úkryt Qube\nSklepy Kellari\nSklepy Český Standard\nRozšíření pro Quick\nPříslušenství pro Quick\nRekuperace tepla šedých vod\nVentilace s rekuperací tepla\nLokální větrání s rekuperací\nCentrální ventilace s rekuperací pro byty\nCentrální ventilace s rekuperací pro domy\nOvládací panely\nNádrže na dešťovou vodu\nPříslušenství k nádržím\nOdpadní voda\nSeptiky\nJímky\nČistírny odpadních vod\nPoklopy na studny\nŠachty\nDotace\nPřeskočit kategorie\nKošík\nZpět\ndo obchodu\nZpět\ndo obchodu\nCo potřebujete najít?\nHledat\nDoporučujeme"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.kolomaki.com/kontakt",
+      "text": "Kontakt - Kolomaki\nDiese Website verwendet Cookies. Indem Sie auf dieser Website weitersurfen, stimmen Sie deren Verwendung zu. Weitere Informationen finden Sie\nhier\nEinstellungen\nAkzeptieren\nZum Inhalt springen\nZurück\nzum Einkaufen\nMein Benutzerkonto anmelden\nSie können nicht dieses Feld ausfüllen\nAnmelden\nNeues Konto registrieren\nPasswort vergessen\nHome\nKontakt\nSeitenleiste\nKategorien überspringen\nKategorien\nE-shop\nAkční produkty\nErdkellern und Schutzräumen\nKeller und Schutzraum Quick\nQube Keller und Schutzraum\nKellern Kellari\nKellern Tschechischer Standard\nModifikationen für Quick\nZubehör für Quick\nGrauwasser-Wärmerückgewinnung\nBelüftung mit Wärmerückgewinnung\nLokale Belüftung mit Rekuperation\nZentrale Lüftung mit Rekuperation für Wohnungen\nZentrallüftung mit Rekuperation für Häuser\nBedienfelder\nRegenwassertanks\nZubehör für Regenwassertanks\nAbwasser\nKlärgruben\nAuffangbecken für Abwasser\nAbwasseraufbereitungsanlagen\nBrunnenabdeckungen\nWasser- und Abwasserschächte\nSubvention\nKategorien überspringen\nHaben Sie Fragen oder möchten Sie uns etwas mitteilen? Bitte nutzen Sie unser Kontaktformular.\nVollständiger Name\nDieses Feld nicht ausfüllen:\nE-Mail\nNachricht\nVložením zprávy souhlasíte s\npodmínkami ochrany osobních údajů\nSicherheitskontrolle\nSchreiben Sie den Text vom Bild ab\nKolomaki s.r.o.\nHauptsitz, Lager und Zentrallager:\nKomenského 576, 273 71 CZ, Zlonice\nTel: +420 777 899 323\nWhatsApp: +420 777 899 323\nMail: export@kolomaki.com\nID: 06142974\nZINN: CZ06142974\nInternationale Partner\nWarenkorb\nZurück\nzum Einkaufen\nZurück\nzum Einkaufen\nWas suchen Sie?\nSuchen\nWir empfehlen"
+    }
+  }
+}

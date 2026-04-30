@@ -1,0 +1,407 @@
+{
+  "company_key": "basf se",
+  "company_name": "BASF SE",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "BASF SE",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "BASF SE",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autodesk Fusion 360",
+      "Autodesk Inventor",
+      "Autodesk Moldflow",
+      "Autodesk Navisworks",
+      "Vault Payment Solutions",
+      "Veeva Vault"
+    ],
+    "competitor_products": [
+      "Bentley ProjectWise",
+      "CATIA",
+      "CATIA V5",
+      "Dassault Systemes",
+      "Mathcad",
+      "MicroStation",
+      "PTC Creo",
+      "SIMATIC HMI",
+      "Siemens",
+      "Siemens NX",
+      "Siemens SIMATIC WinCC",
+      "Siemens Step 7",
+      "Siemens Teamcenter PLM Software",
+      "SketchUp",
+      "Solidworks",
+      "Trimble"
+    ],
+    "cad_bim_other": [
+      "ANSYS",
+      "ANSYS CFX",
+      "Adobe XD",
+      "Assemble",
+      "Autodesk",
+      "Built",
+      "COMSOL Multiphysics",
+      "Captura",
+      "FlexSim",
+      "Fluid",
+      "InVision",
+      "Jonas",
+      "Maple",
+      "Mathematica",
+      "SAPUI5",
+      "Sigma",
+      "Site Director"
+    ],
+    "total_technologies": 864,
+    "all_technologies": [
+      {
+        "product": "MCS",
+        "vendor": "MCS Global Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Samsung",
+        "vendor": "Samsung Electronics Co Ltd",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Digital Adoption",
+        "vendor": "Whatfix Inc",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP Enable Now",
+        "vendor": "SAP SE",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Powerplatform",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "AVEVA System Platform",
+        "vendor": "AVEVA Group Plc",
+        "category": "Data Quality Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Anaqua",
+        "vendor": "Anaqua",
+        "category": "Legal Solutions",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Elastic",
+        "vendor": "Elastic",
+        "category": "Enterprise Search",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Microsoft Azure SQL Database",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Thales",
+        "vendor": "Thales Group",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Java Persistence API",
+        "vendor": "Oracle Corporation",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Dassault Systemes",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Python",
+        "vendor": "Python Software Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Route",
+        "vendor": "Route App Inc.",
+        "category": "Inventory and Order Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "LlamaIndex",
+        "vendor": "LlamaIndex",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Como",
+        "vendor": "Como",
+        "category": "Loyalty and Gamification",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Gympass",
+        "vendor": "Gympass",
+        "category": "Fitness and Gym Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "3D Hubs",
+        "vendor": "HUBS B.V.",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Harness",
+        "vendor": "Harness Inc.",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Energy Management",
+        "vendor": "ENTOUCH Controls, Inc.",
+        "category": "Facilities Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Figma",
+        "vendor": "Figma, Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "TDS",
+        "vendor": "TDS (Time Data Security) Limited.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "SAP Portfolio and Project Management",
+        "vendor": "SAP SE",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "SAP Global Trade Services (GTS)",
+        "vendor": "SAP SE",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "SAP Business Intelligence (BI)",
+        "vendor": "SAP SE",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "HR Manager",
+        "vendor": "HR Manager Talent Solutions International",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Adobe SiteCatalyst (Omniture)",
+        "vendor": "Adobe Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Centro",
+        "vendor": "Centro, Inc",
+        "category": "Demand Side Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Adobe Analytics",
+        "vendor": "Adobe Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Amazon CloudFront",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Monaca",
+        "vendor": "Monaca",
+        "category": "Mobile Application Development Platforms",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Siemens SIMATIC WinCC",
+        "vendor": "Siemens AG",
+        "category": "Data Quality Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Salesforce",
+        "vendor": "Salesforce, Inc.",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Pepper",
+        "vendor": "PepperHQ LTD",
+        "category": "Other Sales Software",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "SIMATIC HMI",
+        "vendor": "Siemens AG",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Primer",
+        "vendor": "Primer API Limited",
+        "category": "Payment Processing",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Oracle FCCS",
+        "vendor": "Oracle Corporation",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Azure Databricks",
+        "vendor": "Microsoft Corporation",
+        "category": "Advanced Analytics and Data Science",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "AVEVA PI System",
+        "vendor": "AVEVA Group Plc",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "LangChain",
+        "vendor": "LangChain, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "BASF SE",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Martin",
+        "last_name": "Brudermüller",
+        "title": "Member of The Board of Directors, Basf Aktiengesellschaft Executive (Since January 14, 2008 Basf Se)",
+        "email": "",
+        "phone": "",
+        "company": "BASF",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 12:25"
+}

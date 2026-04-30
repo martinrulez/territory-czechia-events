@@ -1,0 +1,66 @@
+{
+  "company_key": "hydrauproser hydraulik systeme gmbh",
+  "company_name": "Hydrauproser Hydraulik Systeme GmbH",
+  "domain": "www.hydrauproser.de",
+  "domain_url": "https://www.hydrauproser.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Hydrauproser Hydraulik Systeme GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 16,
+    "revenue": 2303,
+    "zi_company_name": "Hydrauproser Hydraulik Systeme",
+    "zi_domain": "www.hydrauproser.de",
+    "zi_city": "Koeln",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.hydrauproser.de",
+    "homepage": {
+      "title": "",
+      "description": "",
+      "text_excerpt": ""
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Hydrauproser Hydraulik Systeme GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 18:04"
+}

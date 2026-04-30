@@ -1,0 +1,193 @@
+{
+  "company_key": "strojÍrny olŠovec s.r.o.",
+  "company_name": "STROJÍRNY OLŠOVEC s.r.o.",
+  "domain": "www.strojirny.com",
+  "domain_url": "https://www.strojirny.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "STROJÍRNY OLŠOVEC s.r.o.",
+    "opportunity_score": 45,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [
+      "Hiring (1 jobs)",
+      "Public contracts"
+    ],
+    "fit_score": 0.78,
+    "component_scores": {
+      "size": 0.15,
+      "revenue": 0.2,
+      "nace_fit": 0.78,
+      "event_relevance": 0.25,
+      "signals": 0.4,
+      "client_bonus": 0.7
+    },
+    "ares_done": true,
+    "ico": "47976616",
+    "official_name": "STROJÍRNY OLŠOVEC s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "25220",
+      "471",
+      "56110",
+      "25620",
+      "70200",
+      "711",
+      "43990",
+      "255",
+      "33",
+      "72100",
+      "25530",
+      "28290",
+      "256",
+      "25290",
+      "256",
+      "25620",
+      "257",
+      "25720",
+      "33",
+      "4399",
+      "471",
+      "56100",
+      "702",
+      "711",
+      "7219",
+      "28290"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Makovského náměstí 3147/2, Žabovřesky, 61600 Brno, Brno, Makovského náměstí, 61600",
+    "employee_count": 9,
+    "revenue": 2057,
+    "hiring_signal": true,
+    "hiring_intensity": "low",
+    "total_jobs": 1,
+    "engineering_hiring": false,
+    "leadership_change": false,
+    "has_public_contracts": true,
+    "is_client": true,
+    "current_products": "AutoCAD LT | Fusion",
+    "total_seats": "6",
+    "current_acv_eur": "3400.0",
+    "potential_acv_eur": "28200.0",
+    "nearest_renewal": "2026-07-03",
+    "days_to_renewal": "71",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Industrial Machinery",
+    "ml_employee_count": "5",
+    "ml_revenue": "600000",
+    "zi_done": true,
+    "zi_company_name": "Strojrny Olovec",
+    "zi_domain": "www.strojirny.com",
+    "zi_city": "",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.strojirny.com",
+    "homepage": {
+      "title": "Strojírny Olšovec s. r. o. | Váš partner pro strojírenskou výrobu",
+      "description": "Strojírenská výroba velmi rozmanitého charakteru již od roku 1993. Mezi\nnaše hlavní činnosti patří výroba svařenců a strojů do hmotnosti\n10.000kg. Stroje i svařence vyrábíme dle dokumentace předané zákazníkem,\nnebo dle vlastní konstrukce.",
+      "text_excerpt": "Strojírny Olšovec s. r. o. | Váš partner pro strojírenskou výrobu\n30 let na trhu pro Vás!\n42 vysoce kvalifikovaných zaměstnanců\nŠiroké možnosti strojírenské výroby\nObrábění\nZjistit více\nZámečnictví\nZjistit více\nStavba strojů a svařenců\nZjistit více\nSlužby\nZjistit více\nO nás\nJsme ryze česká soukromá výrobní společnost. Podnikáme v oboru\nzakázkové strojírenské výroby a to již od roku 1993. Za naši více než\nTŘICETILETOU historii jsme zrealizovali mnoho různorodých zakázek a dnes Vám\ntedy můžeme nabídnout praxí ověřené zkušenosti se strojírenskou\nvýrobou.\nZjistěte o nás více\nAktuality\nZařízení pro dezintegraci zpevněných kompozitních odpadů\n5.10.2017\nHlavním cílem projektu je reagovat na poptávku po efektivním\ntechnologickém zařízení, umožňující úpravy těžko rozložitelných\nzpevněných odp…\nPřečtěte si více aktualit\nJméno je povinné.\nProsím, zadejte platný e-mail.\nProsím, zadejte platné telefonní číslo.\nText poptávky je povinný.\nOdeslat\nPoptávka byla úspěšně odeslána."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "STROJÍRNY OLŠOVEC s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 10,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Custom Search",
+        "vendor": "Google LLC",
+        "category": "Site Search",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Network Solutions DNS",
+        "vendor": "Network Solutions, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Mobile",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "STROJÍRNY OLŠOVEC s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:05"
+}

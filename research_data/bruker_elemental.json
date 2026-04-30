@@ -1,0 +1,105 @@
+{
+  "company_key": "bruker elemental",
+  "company_name": "Bruker Elemental",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Bruker Elemental",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 130,
+    "revenue": 77759,
+    "zi_company_name": "Bruker Elemental",
+    "zi_domain": "",
+    "zi_city": "Kalkar",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No technographics found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Bruker Elemental",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Mahendra",
+        "last_name": "Singh",
+        "title": "Regional Service Manager",
+        "email": "",
+        "phone": "",
+        "company": "Bruker Elemental",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Wisemore",
+        "last_name": "Carla",
+        "title": "Production Coordinator",
+        "email": "",
+        "phone": "",
+        "company": "Bruker Elemental",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Merrit",
+        "last_name": "Sullivan",
+        "title": "Senior Production Lead Production Technician",
+        "email": "",
+        "phone": "",
+        "company": "Bruker Elemental",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Yuan",
+        "last_name": "Chu",
+        "title": "Application Scientist",
+        "email": "",
+        "phone": "",
+        "company": "Bruker Elemental",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 91.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 18:46"
+}

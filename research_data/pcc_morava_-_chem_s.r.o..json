@@ -1,0 +1,90 @@
+{
+  "company_key": "pcc morava - chem s.r.o.",
+  "company_name": "PCC MORAVA - CHEM s.r.o.",
+  "domain": "www.distriparkb2b.cz",
+  "domain_url": "https://www.distriparkb2b.cz",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "PCC MORAVA - CHEM s.r.o.",
+    "opportunity_score": 12,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "47669063",
+    "official_name": "PCC MORAVA - CHEM s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "47300",
+      "46900",
+      "70100",
+      "70200",
+      "20599",
+      "772",
+      "351",
+      "47780",
+      "702",
+      "772",
+      "2059",
+      "351",
+      "46900",
+      "47300",
+      "4778",
+      "70100"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Leoše Janáčka 798/20, 73701 Český Těšín, Český Těšín, Leoše Janáčka, 73701",
+    "zi_done": true,
+    "employee_count": 15,
+    "revenue": 4759,
+    "zi_company_name": "PCC MORAVA - CHEM sro",
+    "zi_domain": "www.distriparkb2b.cz",
+    "zi_city": "Cesky Tesin",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.distriparkb2b.cz",
+    "homepage": {
+      "title": "Úvodní stránka | distripark.cz | PCC MORAVA - CHEM s.r.o.",
+      "description": "E-shop distripark.cz - široká nabídka chemických látek, hnojiv, produktů do domácnosti i osvětlení. Jsme přední dodavatelé hydroxidu sodného na český trh.",
+      "text_excerpt": "Úvodní stránka | distripark.cz | PCC MORAVA - CHEM s.r.o.\nNové funkce e-shopu\nJSTE V SEKCI B2B (pro firmy)\nNákup je možný pouze po registraci. Registrace Vám zároveň poskytne mnoho užitečných funkcí (např. historie Vašich nákupů, přehled dokladů, seznam oblíbených položek, speciální ceny apod.).Po přihlášení\ndostáváte\nihned velkoobchodní ceny!\nPro stálé partnery pak\nzobrazujeme po přihlášení jejich\npřesné ceny včetně slev a sjednaných podmínek!\nPro využití všech nových funkcí se prosím registrujte\nZDE\nPokud budete mít jakékoli pochybnosti, neváhejte nahlédnout do rad o obsluze e-shopu v sekci\nVše o nákupu\n, kterou najdete v horní liště vpravo\n. Přejeme Vám příjemný nákup!\nPřihlaste se\nPŘIHLAŠOVACÍ JMÉNO\nHESLO\nZapomněli jste heslo?\nPřihlášení\nNemáte účet?\nRegistrujte se\nNastavení souborů cookie\nVážený zákazníku,\nCookies jsou malé textové soubory, které používají webové stránky, aby učinily Váš uživatelský zážitek více efektivní. Zákon uvádí, že můžeme ukládat cookies na vašem zařízení, pokud jsou nezbytně nutné pro provoz této stránky. Pro všechny ostatní typy cookies potřebujeme vaše povolení.\nSvůj souhlas udělujete PCC MORAVA - CHEM s.r.o.\nPouze technické\nPřijmout všechny cookies\nPonechat\nSmazat"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "PCC MORAVA - CHEM s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 19:13"
+}

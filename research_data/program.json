@@ -1,0 +1,95 @@
+{
+  "company_key": "program",
+  "company_name": "Program",
+  "domain": "",
+  "domain_url": "",
+  "events": "Connected Construction Days 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Program",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "00363330",
+    "official_name": "Peer program, z. s.",
+    "legal_form": "706",
+    "nace_codes": [],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Rosečská 1337/41, Krč, 14000 Praha 4, Praha, Rosečská, 14000",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "4",
+    "current_acv_eur": "2000.0",
+    "potential_acv_eur": "18800.0",
+    "nearest_renewal": "2026-05-15",
+    "days_to_renewal": "22",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "maturity_label": "Entry",
+    "industry_segment": "Architecture Services",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Program",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Jessica",
+        "last_name": "Dreher",
+        "title": "Board Member and Fundraising Committee Member",
+        "email": "",
+        "phone": "",
+        "company": "Jeremiah Program",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 08:57",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

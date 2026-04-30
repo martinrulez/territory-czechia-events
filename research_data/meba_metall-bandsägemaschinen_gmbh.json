@@ -1,0 +1,212 @@
+{
+  "company_key": "meba metall-bandsägemaschinen gmbh",
+  "company_name": "MEBA Metall-Bandsägemaschinen GmbH",
+  "domain": "www.meba-saw.com",
+  "domain_url": "https://www.meba-saw.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "MEBA Metall-Bandsägemaschinen GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 87,
+    "revenue": 8854,
+    "zi_company_name": "Meba Sawing Solutions",
+    "zi_domain": "www.meba-saw.com",
+    "zi_city": "Westerheim",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.meba-saw.com",
+    "homepage": {
+      "title": "MEBA sawing solutions",
+      "description": "Erfahrung und Fortschritt. Tradition und Zukunft. Bewährtes und Innovation. Bei der MEBA Metall-Band­sägemaschinen GmbH.",
+      "text_excerpt": "MEBA sawing solutions\nZum Inhalt springen\nSAWING SOLUTIONS\nSÄGEN | SYSTEME\nSONDERLÖSUNGEN\nJETZT PASSENDES PRODUKT FINDEN\nStartseite\nSawing Solutions Sägen | Systeme | Sonder­lösungen\nMEBA\nsaws\nHOCHQUALITATIVE BANDSÄGEN DER OBERKLASSE\nErfahrung und Fortschritt. Tradition und Zukunft. Bewährtes und Innovation. Bei der MEBA Metall-Band­sägemaschinen GmbH, dem Pionier auf dem Gebiet der Bandsägemaschinen, gehen diese Begriffe eine einzigartige Symbiose ein. Seit 1958 fokussieren wir uns auf die Entwicklung und Fertigung von hochqualitativen Bandsägen und Anlagen.\nDieses Know-how spiegelt sich in jedem unserer Produkte wider. Aus gutem Grund gehören wir zu den weltweit führenden Anbietern in unserer Branche. Dabei haben wir Tugenden wie persönliche Ansprache, Verständnis für Kundenforderungen, eine starke Werte­kultur innerhalb unseres MEBA-Teams und den Blick für Qualität nie aus den Augen verloren. Wir begeistern Kunden aus dem Handwerk oder dem Metall- und Stahlbau ebenso wie Unternehmen aus der Groß- und Schwerindustrie. Unsere nutzerorientierten Lösungen verschaffen ihnen den entscheidenden Marktvorteil.\nALLE UNSERE SÄGEMASCHINEN ENTDECKEN\nZUM PRODUKTFINDER\nMEBA\nsaws\nHOCHQUALITATIVE BAND­SÄGEN DER OBERKLASSE\nErfahrung und Fortschritt. Tradition und Zukunft. Bewährtes und Innovation. Bei der MEBA Metall-Band­sägemaschinen GmbH, dem Pionier auf dem Gebiet der Bandsägemaschinen, gehen diese Begriffe eine einzigartige Symbiose ein. Seit 1958 fokussieren wir uns auf die Entwicklung und Fertigung von hochqualitativen Bandsägen und Anlagen.\nDieses Know-how spiegelt sich in jedem unserer Produkte wider. Aus gutem Grund gehören wir zu den weltweit führenden Anbietern in unserer Branche. Dabei haben wir Tugenden wie persönliche Ansprache, Verständnis für Kundenforderungen, eine starke Werte­kultur innerhalb unseres MEBA-Teams und den Blick für Qualität nie aus den Augen verloren. Wir begeistern Kunden aus dem Handwerk oder dem Metall- und Stahlbau ebenso wie Unternehmen aus der Groß- und Schwerindustrie. Unsere nutzerorientierten Lösungen verschaffen ihnen den entscheidenden Marktvorteil.\nUNSERE SÄGEMASCHINEN ENTDECKEN\nZUM PRODUKTFINDER\nMEBAswing | IM SHOP ANSEHEN\nMEBApro | IM SHOP ANSEHEN\nMEBAeco | IM SHOP ANSEHEN\nMEBAmat | IM SHOP ANSEHEN\nMEBAxtreme | IM SHOP ANSEHEN\nMEBAsteel | IM SHOP ANSEHEN\nMEBArobot | AUF WEBSITE ANSEHEN\nMEBA3D | IM SHOP ANSEHEN\nStandardisierte Einzelsägen, individuelle Komplettlösungen mit Materialhandling und Längenmesssystemen in allen Automatisierungsgraden, digitalisierte Sägeanlagen. Seit jeher haben wir uns dem Fortschritt verschrieben, verfolgen aufmerksam aktuelle Trends und entwickeln darauf ausgerichtet zukunftsweisende Konzepte und Maschinen.\nDie digitale Welt bietet kleinen Betrieben ebenso wie großen Unternehmen vielfältige Chancen. Nutzen Sie dieses Potenzial für maximale Produktivität und höchste Wirtschaftlichkeit. MEBA ist mit seinen Bandsägen Teil der Digitalisierung und Anwendungen der Industrie 4.0.\nIN UNSEREM B"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "MEBA Metall-Bandsägemaschinen GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 21,
+    "all_technologies": [
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Leadinfo",
+        "vendor": "Leadinfo",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "MEBA Metall-Bandsägemaschinen GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Dimitrios",
+        "last_name": "Tsokaktsidis",
+        "title": "Director, Supply Chain Management",
+        "email": "",
+        "phone": "",
+        "company": "Meba Sawing Solutions",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 17:35"
+}

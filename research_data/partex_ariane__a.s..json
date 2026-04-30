@@ -1,0 +1,234 @@
+{
+  "company_key": "partex ariane, a.s.",
+  "company_name": "Partex Ariane, a.s.",
+  "domain": "www.partexariane.cz",
+  "domain_url": "https://www.partexariane.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Partex Ariane, a.s.",
+    "opportunity_score": 21,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.55,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.55,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "16192303",
+    "official_name": "Partex Ariane, a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "581",
+      "62",
+      "59",
+      "00",
+      "26110",
+      "46",
+      "47",
+      "18200",
+      "70200",
+      "731",
+      "82100",
+      "68200",
+      "46190",
+      "46840",
+      "581",
+      "59",
+      "620",
+      "731",
+      "00",
+      "46",
+      "26110",
+      "6820",
+      "46190",
+      "70220",
+      "46740",
+      "821",
+      "47",
+      "18200"
+    ],
+    "ares_segments": [
+      "D&M",
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Antala Staška 1859/34, Krč, 14000 Praha 4, Praha, Antala Staška, 14000",
+    "zi_done": true,
+    "employee_count": 7,
+    "revenue": 3859,
+    "zi_company_name": "Partex Ariane",
+    "zi_domain": "www.partexariane.cz",
+    "zi_city": "",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.partexariane.cz",
+    "homepage": {
+      "title": "Návlečky a kabelový management",
+      "description": "Ve společnosti Partex jsme světovým lídrem v oblasti průmyslových značících systémů. Vyrábíme produkty pro identifikaci vodičů, kabelů, potrubí a komponent.",
+      "text_excerpt": "Návlečky a kabelový management\nPozvánka\nPřijďte navštívit náš stánek\nVíce info zde\nWe mark the future\nJsme Partex, rodinná firma se 75 lety zkušeností v oblasti průmyslových značících systémů. Naše řešení zvyšují bezpečnost a produktivitu elektrikářů po celém světě.\nTiskárny\nZnačení vodičů a kabelů\nNasouvací návlečky\nŠtítky na kabely\nNacvakávací návlečky\nNástroje\nŠtítky a gravírované štítky\nZnačení kabelů a vodičů\nNakupujte online a získejte rychlý servis.\nPříslušenství\nVše pro management vodičů a kabelů.\nNovinky\n2/25/2026\nAMPER 2026\n12/20/2025\nZvyšujeme hodnotu objednávky pro poštovné zdarma\nZobrazit více\nKompletní softwarový balíček\nVytiskněte si sami\nProMark Creator\nPromark Creator je vynikající nástroj pro návrh a řízení výroby značení. Je to intuitivní program, který umožňuje bezchybně vybrat profily se správnými parametry. Především však uživateli snadno umožňuje navrhnout i ty nejsložitější a nejpropracovanější popisy; pro tento účel je k dispozici pokročilý editor výrazů pro importovaná data. Nepostradatelný pro designéry. Mimořádně užitečný jak pro uživatele řady tiskáren PROMARK, tak pro ty, kteří dávají přednost objednávce hotových vytištěných a seřazených návleček přímo na místě. Navrhněte a označte.\nDozvědět se více\nDoporučené produkty\nPPQ - Štítky na kabely\nZobrazit produkt\nPCT - Kontinuální nacvakávací profil\nZobrazit produkt\nPROMARK-T2000 - Profesionální přenosná termotransferová tiskárna\nZobrazit produkt\nŠpičková řešení pro průmysl\nOznačování průmyslových instalací\nFotovoltaika\nKabelové sítě\nŽeleznice\nVáš košík\nclose\nVáš košík je prázdný"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Partex Ariane, a.s.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 16,
+    "all_technologies": [
+      {
+        "product": "Amazon CloudFront",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "PayPal",
+        "vendor": "PayPal Holdings, Inc.",
+        "category": "Payment Processing",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "tawk.to",
+        "vendor": "tawk.to inc.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon Web Hosting",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Partex Ariane, a.s.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Petr",
+        "last_name": "Skýpala",
+        "title": "Vice President",
+        "email": "petr.skypala@partexariane.cz",
+        "phone": "",
+        "company": "Partex Ariane",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Petra",
+        "last_name": "Řádková",
+        "title": "Výkonný řEditel",
+        "email": "petra.radkova@partexariane.cz",
+        "phone": "",
+        "company": "Partex Ariane",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:37"
+}

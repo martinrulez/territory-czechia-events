@@ -1,0 +1,161 @@
+{
+  "company_key": "magnom corporation ltd.",
+  "company_name": "Magnom Corporation Ltd.",
+  "domain": "www.magnomegypt.com",
+  "domain_url": "https://www.magnomegypt.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Magnom Corporation Ltd.",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Fusion + Netfabb | Fusion + PowerMill",
+    "total_seats": "2",
+    "current_acv_eur": "2000.0",
+    "potential_acv_eur": "4550.0",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle 2 standalone D&M tools into one collection",
+    "all_upsells": "PDMC; Flex",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Multi-Product",
+    "industry_segment": "Life Sciences Manufacturing",
+    "ml_domain": "www.ingcorporation.cz",
+    "zi_done": true,
+    "employee_count": 587,
+    "revenue": 32285,
+    "zi_company_name": "Magnom",
+    "zi_domain": "www.magnomegypt.com",
+    "zi_city": "Alexandria",
+    "zi_country": "Egypt",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.magnomegypt.com",
+    "homepage": {
+      "title": "Home | MAGNOM Holding",
+      "description": "",
+      "text_excerpt": "Home | MAGNOM Holding\ntop of page\nMAGNOM HOLDING\nMAGNOM started as an equipment rental and manpower outsourcing company in 1999, and since then, the company kept growing successfully with the mission “to continuously adapt to the innovative and creative changes in the logistic- and marine construction fields, in order to provide total integrated solutions for every unique project.” There is an undeniable link between the unique requirements of Magnom client’s and Magnom’s success. Magnom uses client’s requirements as new opportunities to improve their services, by delivering on its clients expectations. The innovative and diverse crew at Magnom are forward-thinking and always looking for best quality services with a corporate conscious.\nMAGNOM as a company is not only diverse in the services and tailored packages it offers but, Magnom’s diversity reﬂects also in her family of experts that bring knowledge from various industries such as power generation, oil and gas mining, marine construction, labor outsourcing and power stations.\nTo achieve all your dreams, you need one essential key; Passion”\nMaged Marie\nCEO MAGNOM Holding\nAt Magnom, we believe that what we do impacts our community. Assisting with Projects Development and delivering superior services to our customers have been our main priorities since the inception of our company.\nMore over, we are proud of our team of high professionals. We have faith that it will lead us to position our company as a market leader in our regional industry.\nWe have faith that our solid performance will withstand our future growth and allow us to focus on strategic projects that have a potential to help us realize higher value.\nFurthermore, we retain our sense of assurance and entrepreneurial spirit. We have an ambitious, yet achievable goals that I believe will lead our company to realize sustainable growth.\nPartnership With Pb PROFESSIONAL\nIt's our pleasure to announce that Magnom has acquired the dealership of Pb company. Pb PROFESSIONAL is the leading enterprise for the production of attachments in Russia and abroad, one of the largest suppliers of spare parts for mining, road and construction machines.\nLocation\nContact Us\nFirst Name\nLast Name\nEmail\nWrite a message\nSubmit\nThanks for submitting!\nHead Office :\nEmaar Mivida Compound,\nBusiness Park\nNew Cairo\nFirst Floor 2/A2/102\nPost Code: 11835 P.O.Box 341\nDubai Office :\nDubai Silicon Oasis,\nDDP, Building A2, Dubai,\nUnited Arab Emirates\nSuez Office :\n23 July St , Al Nasr Tower -\nSuez\nMail Box: Suez 222\nTel: 002 062 3474025 -\nSokhna Warehouse :\nThe Egyptian Chinese\nJ.V company for investment\nEL-Ain EL-Sokhna\nPostal Code: 43713\nE-MAIL:\nInfo@magnomegypt.com\nInfo@magnomholding.com\nbottom of page"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.magnomegypt.com/contact",
+      "text": "Contact | MAGNOM Holding\ntop of page\nContact\nIF YOU HAVE ANY QUESTIONS OR COMMENTS REGARDING MAGNOM AND OUR SERVICES PLEASE USE THE FORM BELOW TO CONTACT US\nFirst Name\nLast Name\nEmail\nPhone\nWrite a message\nThanks for submitting!\nSubmit\nHead Office :\nEmaar Mivida Compound,\nBusiness Park\nNew Cairo\nFirst Floor 2/A2/102\nPost Code: 11835 P.O.Box 341\nDubai Office :\nDubai Silicon Oasis,\nDDP, Building A2, Dubai,\nUnited Arab Emirates\nSuez Office :\n23 July St , Al Nasr Tower -\nSuez\nMail Box: Suez 222\nTel: 002 062 3474025 -\n002 01010 44 0073\nSokhna Warehouse :\nThe Egyptian Chinese J.V company for investment\nEL-Ain EL-Sokhna\nPostal Code: 43713\nInfo@magnomegypt.com\nInfo@magnomholding.com\nbottom of page"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Magnom Corporation Ltd.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 10,
+    "all_technologies": [
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "GoDaddy Email Hosting",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Sentry",
+        "vendor": "Functional Software, Inc.",
+        "category": "Error and Exception Monitoring",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Varnish",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Wix",
+        "vendor": "Wix.com, Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Magnom Corporation Ltd.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Omar",
+        "last_name": "El-Khayat",
+        "title": "Chief Operations Officer",
+        "email": "",
+        "phone": "",
+        "company": "Magnom",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 08:58"
+}

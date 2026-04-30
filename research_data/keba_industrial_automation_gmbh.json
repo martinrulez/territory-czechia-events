@@ -1,0 +1,393 @@
+{
+  "company_key": "keba industrial automation gmbh",
+  "company_name": "KEBA Industrial Automation GmbH",
+  "domain": "www.keba.com",
+  "domain_url": "https://www.keba.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "KEBA Industrial Automation GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 2000,
+    "revenue": 418728,
+    "zi_company_name": "KEBA",
+    "zi_domain": "www.keba.com",
+    "zi_city": "Linz",
+    "zi_country": "Austria",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.keba.com",
+    "homepage": {
+      "title": "Innovative automation solutions | KEBA",
+      "description": "Automation by innovation | For 50 years we have been developing and manufacturing  innovative automation solutions for a variety of industries.",
+      "text_excerpt": "Innovative automation solutions | KEBA\nSkip to main content\nSkip to footer\nContact now\nWelcome to KEBA\nAutomation by innovation.\nKeContact\nP40 & P40 Pro\nThe Wallbox made for life.\nMore about KeContact P40\nJoin KEBA!\nWho are we looking for? Skilled people!\nAnd team members.\nJob openings at KEBA\nHi! I am loxmate.\nKEBA's new revolutionary parcel locker system.\nMore about KEBA loxmate\nKEBA has been developing and producing pioneering automation solutions for a wide range of industries under the maxim \"Automation by innovation\" for more than 50 years.\nKEBA is an internationally active technology company with headquarters in Linz/Austria, 28 subsidiaries in 16 countries and more than 2,000 passionate employees.\nWith long-term customer benefits in mind, flexible and expert teams work in close proximity to the customers in order to optimally support and advise them.\nWe are all united by a common mission:\n\"Technologies of KEBA help people to make the world of life and work easier.\"\nWith the aim of being\n\"easy to use\"\n, KEBA solutions are always oriented to the needs of the user and thereby create the optimum connection to technical problem solving. In addition to use value alone, easy access and convenience in usage are also becoming increasingly important factors.\nLearn more about KEBA\nOur divisions\nIndustrial Automation\nComplete solutions tailored to your industry needs and individual customized components.\nMore about Industrial Automation\nIndustrial Automation\nHandover Automation\nBridging the physical and digital world is our vision.\nMore about Handover Automation\nHandover Automation\nEnergy Automation\nOur passion for renewable energy forms the future.\nMore about Energy Automation\nEnergy Automation\nCareers with KEBA\nOur employees are the engine for our innovative strength.\nYour key motivation to work for KEBA is to be part of an atmosphere that accepts new products and promotes and requires ideas. You could even say that creativity is in the air here.\nAre you interested in working for us? Detailed information on available positions and what we offer our employees can be found under Career.\nMore about working at KEBA\nNews & Events, Notifications\nWe always keep you up to date. News from our business units, general communications from KEBA AG, and current events – all here at a glance!\nNewsroom\nCalender of events\n22.1.2026\nevo refinded: The next generation of KEBA cash recyclers\nBanks and savings banks expect cash recycling systems that operate reliably and efficiently while meeting growing demands for low energy consumption and high security. This is exactly where the new evo generation comes in: it is based on a system that has proven itself in daily operation for many years and has now been purposefully further developed.\nThe result: reduced energy consumption during idle periods, higher performance during peak customer traffic, and a sustainability and security concept that has been carefully designed from the ground up.\nThe new evo generation is the c"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "KEBA Industrial Automation GmbH",
+    "autodesk_products": [],
+    "competitor_products": [
+      "Dassault Systemes",
+      "Siemens",
+      "Siemens NX",
+      "Siemens PLM"
+    ],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 121,
+    "all_technologies": [
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "HTML5",
+        "vendor": "HTML5",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SAP Supply Chain Management",
+        "vendor": "SAP SE",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Daily",
+        "vendor": "Daily.co.uk",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "OpenAI",
+        "vendor": "OpenAI",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Simon",
+        "vendor": "Institutional Capital Network, Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "CODESYS",
+        "vendor": "CODESYS",
+        "category": "Integrated Development Environments",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft System Center",
+        "vendor": "Microsoft Corporation",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Elastic",
+        "vendor": "Elastic",
+        "category": "Enterprise Search",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Microsoft Azure",
+        "vendor": "Microsoft Corporation",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft Visual Studio",
+        "vendor": "Microsoft Corporation",
+        "category": "Integrated Development Environments",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "OpenCV",
+        "vendor": "OpenCV team",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "scikit-learn",
+        "vendor": "",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "TypeScript",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Circuit",
+        "vendor": "Circuit Routing Limited",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft Fabric",
+        "vendor": "Microsoft Corporation",
+        "category": "Data Integration",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Azure Data Explorer",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft Entra",
+        "vendor": "Microsoft Corporation",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Vulnerability Management",
+        "vendor": "Tenable Network Security, Inc",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Figma",
+        "vendor": "Figma, Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Ideal",
+        "vendor": "O5 Systems Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Operative",
+        "vendor": "SintecMedia Ltd.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Yocto",
+        "vendor": "Yocto Project",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Siemens",
+        "vendor": "Siemens AG",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP Consulting",
+        "vendor": "SAP SE",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Qt",
+        "vendor": "Qt",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Windows PowerShell",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Azure Kubernetes Service",
+        "vendor": "Microsoft Corporation",
+        "category": "Containerization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "JavaScript",
+        "vendor": "Netscape",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Dassault Systemes",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CNC Software",
+        "vendor": "CNC Software, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Apache Servers",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Linux",
+        "vendor": "Linux Kernel Organization",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Siemens PLM",
+        "vendor": "Siemens AG",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "VMware vCloud Suite",
+        "vendor": "VMware, Inc",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "KEBA Industrial Automation GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Johann",
+        "last_name": "Steinkellner",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "KEBA",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 91.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 17:51"
+}

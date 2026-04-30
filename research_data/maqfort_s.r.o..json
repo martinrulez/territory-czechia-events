@@ -1,0 +1,70 @@
+{
+  "company_key": "maqfort s.r.o.",
+  "company_name": "Maqfort s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Maqfort s.r.o.",
+    "opportunity_score": 18,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.42,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.42,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "29126088",
+    "official_name": "MAQFORT s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46900",
+      "461",
+      "731",
+      "68200",
+      "74300",
+      "772",
+      "461",
+      "46900",
+      "6820",
+      "731",
+      "74300",
+      "772"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Vinohradská 1371/28, Vinohrady, 12000 Praha 2, Praha, Vinohradská, 12000",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Maqfort s.r.o.",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:59"
+}

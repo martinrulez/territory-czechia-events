@@ -1,0 +1,41 @@
+{
+  "company_key": "ksk_precise_motion_a_s",
+  "company_name": "KSK Precise Motion, a.s.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MONIKA ŠIMÁNKOVÁ",
+        "firstName": "MONIKA",
+        "lastName": "ŠIMÁNKOVÁ",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ANTONÍN KOPŘIVA",
+        "firstName": "ANTONÍN",
+        "lastName": "KOPŘIVA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:22"
+}

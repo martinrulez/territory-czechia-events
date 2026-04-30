@@ -1,0 +1,395 @@
+{
+  "company_key": "indo_mim_limited",
+  "company_name": "INDO-MIM Limited",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "INDO-MIM Limited",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "InVision",
+      "Sigma"
+    ],
+    "total_technologies": 56,
+    "all_technologies": [
+      {
+        "product": "Flexslider",
+        "vendor": "Flexslider",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "WhatsApp",
+        "vendor": "WhatsApp",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Como",
+        "vendor": "Como",
+        "category": "Loyalty and Gamification",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "ventiv",
+        "vendor": "Ventiv Technology Australia PTY Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Sigma",
+        "vendor": "Sigma Software",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Linode Hosting",
+        "vendor": "Linode, LLC",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Setster",
+        "vendor": "Setster Inc",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Dynamics AX",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Dynamics",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "ADP",
+        "vendor": "ADP, Inc.",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "PetWise Marketing",
+        "vendor": "AVImark",
+        "category": "Healthcare Marketing",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Bullhorn",
+        "vendor": "Bullhorn, Inc",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "econda",
+        "vendor": "econda GmbH",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Sectigo",
+        "vendor": "Sectigo Limited",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Gauges",
+        "vendor": "Expected Behavior, LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cookieyes",
+        "vendor": "CookieYes",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Hillson Raj",
+        "firstName": "Hillson",
+        "lastName": "Raj",
+        "jobTitle": "General Manager",
+        "email": "raj.h@indo-mim.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Saikrishna Rangineni",
+        "firstName": "Saikrishna",
+        "lastName": "Rangineni",
+        "jobTitle": "General Manager, Quality",
+        "email": "saikrishna.r@indo-mim.com",
+        "phone": "+91 80 2797 1717",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Sridhara Ramachandran",
+        "firstName": "Sridhara",
+        "lastName": "Ramachandran",
+        "jobTitle": "Vice President and General Manager, Aerospace Solutions Group",
+        "email": "ramachandran.s@indo-mim.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Balaji Swaminathan",
+        "firstName": "Balaji",
+        "lastName": "Swaminathan",
+        "jobTitle": "General Manager - Machine Shop",
+        "email": "balaji.s@indo-mim.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Paul Dsouza",
+        "firstName": "Paul",
+        "lastName": "Dsouza",
+        "jobTitle": "General Manager, Human Resources",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:44",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.indo-mim.com",
+    "homepage": {
+      "title": "Metal Injection Molding in USA,Germany & India - INDO-MIM",
+      "description": "INDO-MIM is Metal Injection Molding and precision manufacturing. From prototyping to high-volume production, we deliver complex metal parts with unmatched quality and efficiency.",
+      "text_excerpt": "Metal Injection Molding in USA,Germany & India - INDO-MIM\nSkip to content\nMetal Injection Molding Manufacturer\nINDO-MIM\n2026-01-30T10:29:15+05:30\nAdditive Manufacturing\nLaser Powder Bed Fusion\nBinder-Jet 3D Printing\nMetal Powders\nAdditive Manufacturing\nThermal Spray\nCeramic Injection Molding\nMetal Injection Molding\nAerospace Solutions Group\nCapabilities\nCIM capabilities\nCase studies\nHow MIM works?\nFAQ's\nIC capabilities\nCapabilities\nMIM advantages\nDesign guidelines\nCase studies\nCase studies\nInvestment Casting\nAbout Us\nINDO-MIM Limited\nis a globally recognized manufacturer of Precision Engineering Components using Metal Injection Molding (“\nMIM”)\ntechnology.\nFounded in 1996 and headquartered in Bengaluru, India, the company has changed component production for industries such as Automotive, Aerospace, Medical, Defence and Consumer products.\nStrategic acquisitions such as Conway Marsh Garrett Technologies Limited\nCMG Technologies\n(UK)\nTriax Industries\n, LLC\n(USA),\nand\nPhoenix DeVentures II Inc.\nhave added to INDO-MIM’s capabilities in MIM and advanced machining, strengthening its global footprint.\nThe company adheres to stringent quality standards, holding certifications like\nNADCAP, ISO 9001:2015, IATF 16949:2016, ISO 13485:2016,\nAS 9100:2016, ISO 27001:2022, ISO 14001:2015, and ISO 45001:2018\n. These accreditations reflect its commitment to quality, environmental sustainability, and information security.\nExplore More\nThere are no upcoming events.\n85%\nProduct Quality Index\n92%\nEnergy Generation\nMetal Injection Molding\nINDO-MIM is a fully integrated\nMetal Injection Molding (MIM)\nparts manufacturer with capabilities in design, tooling, materials, and a full range of finishing and assembly operations. INDO-MIM has the world’s largest installed capacity for MIM, located in India & the United States. Metal Injection Molding is a cost-effective solution for components with complex profile and with high volume\nCustomers Globally\nAwards\nParts Shipped Annually\nAlloying Options\nMIM Parts Variety\nEmployees\nWhat is Metal Injection Molding?\nMetal Injection Molding is a niche process in which fine metal powder is mixed with binder to create a feedstock which is used to get solidified complex-shaped metal components.\nMIM Process\n1. Compounding\nFeedstock preparation process from fine metal powder\n2. Injection Molding\nFeedstock is fed into an injection molding machine\n3. Debinding\nBinder materials are removed from the molded component\n4. Sintering\nThe brown parts are slowly heated in a protective atmosphere\nTechnologies We Serve\nMetal Injection Molding:\nINDO-MIM supplies precision components globally. We are committed to catering to the needs of our customer from start to finish. Our facilities are in India, The USA & Europe.\nLearn More\nInvestment Casting:\nINDO-MIM’s, Investment Casting facilities are in India and US, offers a range of a wide metal manufacturing services like Vacuum Casting, and Precision Machining\nLearn More\nAerospace Solutions Group:\nINDO-MIM pro"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.indo-mim.com/kontakt",
+      "text": "World's Leading Metal Injection molding Company- Indo-MIM\nSkip to content\nKontaktiere uns\nINDO-MIM\n2024-01-10T11:31:06+05:30\nHEADQUARTER INDIA\nNo 45,(P) KIADB Industrial Area,\nHoskote, Bangalore, Bangalore Rural,\nKarnataka – 562 114.\n+91 80 69302800\ninfohq@indo-mim.com\n+91 80 2797 1624\nPLANT-2 INDIA\n#45[P], KIADB Industrial Area,\nDoddaballapur, Bangalore 561 203\n+91 80 2763 0533\ninfohq@indo-mim.com\n+91 80 2763 0532\nINDO-MIM Inc – USA\n3902 SW 36 St. Suite 101\nSan Antonio,Tx 78226\n+1-210-467-5229\ninfo.sat@indo-mim.com\n+1-210467-5123\nInvestment Casting Plant\nPlot No. 62B (Part-II), APIIC Indl.Park,\nGajulamandyam,Renigunta Chittoor Dist,\nAndhra Pradesh-517520\n8143044663\ninfo.ic@indo-mim.com\nTriax Industries LLC\n6519 W Allison Rd,\nChandler, AZ 85226\nUnited States\n+1 480-449-5758\ninfohq@indo-mim.com\nhttps://www.triaxindustries.com/\nCMG Technologies\nUnit I1 Thompson Drive Base Business Park,\nRendlesham, Woodbridge IP12 2TZ,\nUnited Kingdom\n+44 1394 445100\ninfohq@indo-mim.com\nhttps://cmgtechnologies.co.uk/\nSALES OFFICE – CHINA\n3F-T4 Hongqiao Lihpao Plaza,36 Shenbin Road,Minhang District, Shanghai, China\nPostal code：201106\n上海市闵行区申滨路36号虹桥丽宝广场T4-3楼 ,\n邮编：201106\n+86 – 15001803724\ninfocn@indo-mim.com\nSALES OFFICE – JAPAN\nIndus Tree Co,Ltd 1-25, Ushidate-cho,\nNakagawa-Ku, Nagoya, Japan 454-0043\n+81-52-353-3663\n+81-52-363-3390\nSALES OFFICE – KOREA\nRoom #713, KITI,17,Wauan-gil,Bongdam-eup,\nHwaseong-si, Gyeonggi-do,Korea(Zip:18323)\n+82 31 8067 5539\ninfokr@indo-mim.com\n+82 10 9289 7633\nSALES OFFICE – EUROPE\nOskar – Lapp Str. 2\n70565 Stuttgart-Germany\n+49 711 6550 0242\ninfoeu@indo-mim.com\n+49 173 265 6067\nSALES OFFICE – TURKEY\nVişnelik Mh Yenibahçeler Sk.\nNo. 28/4 Odunpazarı,\n26020 Eskişehir / TÜRKİYE\n+90 533 815 60 11\ninfotr@indo-mim.com\nSALES OFFICE – USA\nINDO-MIM Inc. 115 Floral Vale Blvd,\nYardley, PA 19067\n734-834-1565\ninfous@indo-mim.com\n734-327-9873\nSprechen Sie mit uns – wir sind für Sie da\nINDO-MIM verfügt über eine große Reichweite auf der ganzen Welt. Unsere Vertreter sind jed"
+    }
+  }
+}

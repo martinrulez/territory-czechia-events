@@ -1,0 +1,457 @@
+{
+  "company_key": "samsung electronics",
+  "company_name": "Samsung Electronics",
+  "domain": "www.samsung.com",
+  "domain_url": "https://www.samsung.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Samsung Electronics",
+    "opportunity_score": 22,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "28987322",
+    "official_name": "Samsung Electronics Czech and Slovak, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "461",
+      "731",
+      "471",
+      "461",
+      "471",
+      "731"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "V parku 2323/14, Chodov, 14800 Praha 4, Praha, V parku, 14800",
+    "is_client": true,
+    "current_products": "EAGLE",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "1350.0",
+    "nearest_renewal": "3333-12-31",
+    "days_to_renewal": "477624",
+    "top_upsell": "Fusion + EAGLE",
+    "top_upsell_reason": "Unified ECAD+MCAD in single platform",
+    "all_upsells": "Fusion + EAGLE; Flex",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other",
+    "zi_done": true,
+    "employee_count": 295223,
+    "revenue": 213760031,
+    "zi_company_name": "Samsung Electronics",
+    "zi_domain": "www.samsung.com",
+    "zi_city": "Suwon-si",
+    "zi_country": "South Korea",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.samsung.com",
+    "homepage": {
+      "title": "Samsung España | Móviles | Televisores | Electrodomésticos",
+      "description": "Bienvenido a Samsung. Descubre nuestros dispositivos con la tecnología más vanguardista. Televisores, smartphones, tablets, electrodomésticos y mucho más.",
+      "text_excerpt": "Samsung España | Móviles | Televisores | Electrodomésticos\nElige tu ubicación e idioma.\nEspaña / Español\nOther Countries\nContinuar\nCancelar\nSearch Form\nBorrar\nScan Barcode\nSin sugerencias\nAI Suggested Searches\nBúsquedas sugeridas\nBÚSQUEDAS POPULARES\nBÚSQUEDAS RECIENTES\nPRODUCTOS RELACIONADOS\nRECOMENDADO\nCerrar\nSamsung\nMás información\nComprar\nreproducir\nCancelar\nCancelar\nGalaxy A57 | A37 5G\nMás información\nComprar\nGalaxy S26 | S26+\nMás información\nGalaxy Z Fold7\nMás información\nGalaxy Book6 Pro\nMás información\nGalaxy Buds4 Pro\nMás información\nAnterior\nContinuar\nCancelar\nLa puerta está abierta\nDescubre Vision AI\nRegístrate\nComprar\nreproducir\nTVs OLED\nVer todos\nTVs Neo QLED 8K\nVer todos\nTVs QLED\nComprar\nMonitor Odyssey OLED G8\nComprar\nAnterior\nContinuar\nCancelar\nSimplifica tu vida en casa\nMás información\nComprar\nLavado Bespoke AI\nVer todo\nBespoke AI Jet Ultra\nVer todo\nFrigoríficos Bespoke AI\nVer todo\nHornos Bespoke AI\nVer todo\nAnterior\nContinuar\nRecomendado para ti\nExplora nuestras historias\nVuelve a ver el Unpacked\nGalaxy AI\nOne UI\nPásate a Galaxy\nCompra directa. Gana más.\nAnterior\nContinuar\nAnterior\nContinuar\nCancelar\n*Imagen simulada. La UX/UI real puede variar. La disponibilidad de colores puede variar. Los productos se venden por separado.\n© 2018 / Comité Olímpico Internacional (COI) / CHAVEZ, Nelson - Todos los derechos reservados.  El atleta que aparece en la imagen es ciudadano de Hungría.\n*Imagen simulada. Es posible que se requiera el inicio de sesión en Samsung Account para usar ciertas funciones de AI.\n*Imagen simulada. La UX/UI real puede variar. Los productos se venden por separado. El programa Running Coach está disponible en teléfonos Android (Android 10 o superior) y requiere la aplicación Samsung Health (v6.30.2 o superior). Es necesario iniciar sesión en Samsung Account. Servicio solo disponible con la serie Galaxy Watch8 o la serie Galaxy Watch lanzada posteriormente. Para utilizar el programa Running Coach, el usuario debe realizar una prueba de nivel de carrera y obtener un nivel antes de iniciar el programa de entrenamiento.\n*Imagen simulada. Es posible que se requiera el inicio de sesión en Samsung account para usar ciertas funciones de AI. La UX/UI real puede variar.\nGo to Top\nEstimate your installment plan\nCerrar ventana emergente"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Samsung Electronics",
+    "autodesk_products": [
+      "AlienVault",
+      "Autodesk AutoCAD",
+      "Autodesk Fusion 360",
+      "Autodesk Inventor",
+      "Autodesk Moldflow",
+      "Autodesk Navisworks",
+      "Autodesk Revit",
+      "Oracle Database Vault",
+      "Veritas Enterprise Vault (EV)"
+    ],
+    "competitor_products": [
+      "Bentley STAAD",
+      "Dassault Systemes",
+      "Mathcad",
+      "Nokia Siemens Networks",
+      "PTC Creo",
+      "PTC Creo (Pro/ENGINEER)",
+      "PTC Integrity",
+      "PTC PDMLink",
+      "PTC Servigistics Arbortext Editor",
+      "PTC Windchill (Formerly Netregulus)",
+      "Servigistics",
+      "Siemens",
+      "Siemens Industrial Automation Systems SIMATIC",
+      "Siemens NX",
+      "Siemens PLM",
+      "Siemens SIMATIC WinCC",
+      "Siemens Teamcenter PLM Software",
+      "Solidworks",
+      "Trimble",
+      "Trimble GeoManager",
+      "WorkNC"
+    ],
+    "cad_bim_other": [
+      "12d",
+      "ANSYS",
+      "ANSYS Fluent",
+      "ANSYS HFSS",
+      "Adobe XD",
+      "Altair HyperWorks",
+      "Assemble",
+      "Autodesk",
+      "Built",
+      "CAESAR II",
+      "CSI SAP2000",
+      "Cache Control",
+      "Chief Architect",
+      "ETAP",
+      "InVision",
+      "KUKA",
+      "MESH",
+      "PATRAN",
+      "REST / RESTful",
+      "Rhinoceros",
+      "Sage 300 Construction and Real Estate",
+      "Sigma",
+      "Vortex"
+    ],
+    "total_technologies": 1976,
+    "all_technologies": [
+      {
+        "product": "Teachable",
+        "vendor": "Teachable",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Built",
+        "vendor": "Built",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Zendesk",
+        "vendor": "Zendesk, Inc.",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Ramp",
+        "vendor": "Ramp Business Corporation",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Rhinoceros",
+        "vendor": "Robert McNeel & Associates.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "PTC Creo",
+        "vendor": "PTC Inc",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Xealth",
+        "vendor": "Xealth",
+        "category": "Healthcare Marketing",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft Copilot",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "ORAN",
+        "vendor": "Cisco Systems, Inc",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "OpenAI",
+        "vendor": "OpenAI",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Electronics Manufacturing",
+        "vendor": "Creation Technologies",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Affinity",
+        "vendor": "Affinity",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "WebAssembly",
+        "vendor": "WebAssembly",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Hugging Face",
+        "vendor": "Hugging Face, Inc",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Multi-Level Intermediate Representation (MLIR)",
+        "vendor": "",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "K12",
+        "vendor": "K12 Inc",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Demand Planning",
+        "vendor": "Blue Yonder Group, Inc",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Colleague",
+        "vendor": "Ellucian Company L.P.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "ASIC",
+        "vendor": "AnySilicon",
+        "category": "Server Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "ArgoCD",
+        "vendor": "ArgoCD",
+        "category": "Deployment",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Ideal",
+        "vendor": "O5 Systems Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Honeywell Experion PKS",
+        "vendor": "Honeywell International Inc.",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Grasshopper",
+        "vendor": "Grasshopper",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Microsoft Azure SQL Database",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Druid",
+        "vendor": "The Druid community",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Snowflake",
+        "vendor": "Snowflake Computing Inc.",
+        "category": "Data Warehousing",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Scala",
+        "vendor": "Lightbend, Inc.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Matplotlib",
+        "vendor": "Matplotlib",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PIPE-FLO",
+        "vendor": "Engineered Software",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Wayfair",
+        "vendor": "Wayfair Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Klarity",
+        "vendor": "Klarity",
+        "category": "Social Media Analytics and Monitoring",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Edenred",
+        "vendor": "Edenred",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Unleash",
+        "vendor": "Unleash",
+        "category": "Inventory and Order Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Tableau Desktop",
+        "vendor": "Tableau Software, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "ChatGPT",
+        "vendor": "OpenAI",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google AI",
+        "vendor": "Google LLC",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Quantum Metric",
+        "vendor": "Apifia Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "WordPress.com",
+        "vendor": "Automattic Inc",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "HubSpot",
+        "vendor": "HubSpot, Inc",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Vertex AI",
+        "vendor": "Google LLC",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Route",
+        "vendor": "Route App Inc.",
+        "category": "Inventory and Order Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "DFI",
+        "vendor": "DFI Inc.",
+        "category": "Office Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "LangChain",
+        "vendor": "LangChain, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Boulevard",
+        "vendor": "Boulevard, Inc.",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Samsung Electronics",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 09:03"
+}

@@ -1,0 +1,31 @@
+{
+  "company_key": "city_street_games_s_r_o",
+  "company_name": "City street Games s.r.o.",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MARTIN MARÍK",
+        "firstName": "MARTIN",
+        "lastName": "MARÍK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:07:12"
+}

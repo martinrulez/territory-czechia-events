@@ -1,0 +1,52 @@
+{
+  "company_key": "ekola_group_spol_s_r_o",
+  "company_name": "EKOLA group, spol. s r.o.",
+  "domain": "",
+  "events": "Czech Green Building Council Members",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "VĚRA LÁDYŠOVÁ",
+        "firstName": "VĚRA",
+        "lastName": "LÁDYŠOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "LIBOR LÁDYŠ",
+        "firstName": "LIBOR",
+        "lastName": "LÁDYŠ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:08:31",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.elabrno.cz",
+    "homepage": {
+      "title": "ELA – měřidla pro vodárenství",
+      "description": "",
+      "text_excerpt": "ELA – měřidla pro vodárenství\nELA - specialisté pro měření hladiny a průtoku\npůsobíme v oblastech: vodní hospodářství, strojírenství, energetika, potravinářství, zemědělství\nMagneticko - indukční průtokoměry\nPrůtokoměry do světlosti DN 10 - DN 1000\nvíce info zde\nUltrazvukové průtokoměry\nUltrazvukové průtokoměry pro otevřené měrné profily\nvíce info zde\nUltrazvukové hladinoměry\nUltrazvukové hladinoměry pro bezkontaktní spojité snímání\nvíce info zde\nMagneticko indukční průtokoměry\nUltrazvukové průtokoměry\nUltrazvukové hladinoměry\nElektrodové systémy\nParshallovy žlaby\nSoftware\nPříklady aplikací v praxi\nReference zákazníků, úspěšně vyřešené požadavky na měření ve všech průmyslových odvětvích\nNechte si zaslat aktuální ceník, například pomocí formuláře v sekci\nkontakty\n. Rádi vám poskytneme odborné poradenství a návrh technického řešení.\nKe každému projektu přistupujeme individuálně a na základě potřeb zákazníka navrhneme ideální řešení počínaje projektovou přípravou až po konečnou instalaci měřidel."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

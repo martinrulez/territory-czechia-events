@@ -1,0 +1,39 @@
+{
+  "company_key": "sl_v_rna_heunisch_s_r_o_kr_sn",
+  "company_name": "Slévárna Heunisch, s.r.o. Krásná",
+  "domain": "www.heunisch-guss.cz",
+  "events": "Czech Foundry Association Members",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MILAN CHYTIL",
+        "firstName": "MILAN",
+        "lastName": "CHYTIL",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:38",
+  "website_data": {
+    "success": false,
+    "domain": "https://www.heunisch-guss.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

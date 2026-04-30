@@ -1,0 +1,79 @@
+{
+  "company_key": "general packer co., ltd.",
+  "company_name": "General Packer Co., Ltd.",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "General Packer Co., Ltd.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "General Packer Co., Ltd.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Koji",
+        "last_name": "Naka",
+        "title": "General Manager",
+        "email": "",
+        "phone": "",
+        "company": "General Packer",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Takeo",
+        "last_name": "Abe",
+        "title": "Manager, Sales",
+        "email": "",
+        "phone": "",
+        "company": "General Packer",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 77.0
+      },
+      {
+        "first_name": "Gp",
+        "last_name": "Kawakami",
+        "title": "",
+        "email": "kawakami-atunori@general-packer.jp",
+        "phone": "",
+        "company": "General Packer",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 70.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:42"
+}

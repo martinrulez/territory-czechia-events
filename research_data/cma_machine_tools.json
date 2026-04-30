@@ -1,0 +1,91 @@
+{
+  "company_key": "cma machine tools",
+  "company_name": "CMA machine tools",
+  "domain": "www.cmamachinetools.co.uk",
+  "domain_url": "https://www.cmamachinetools.co.uk",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "CMA machine tools",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 58,
+    "revenue": 3190,
+    "zi_company_name": "CMA Machine Tools",
+    "zi_domain": "www.cmamachinetools.co.uk",
+    "zi_city": "Stockport",
+    "zi_country": "United Kingdom",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.cmamachinetools.co.uk",
+    "homepage": {
+      "title": "CMA Machine Tools - We specialise in CNC Machinery",
+      "description": "CMA Machine Tools specialises in CNC Drilling Machinery and Tapping Machines, operating as a globally from our UK base in the North West of England.",
+      "text_excerpt": "CMA Machine Tools - We specialise in CNC Machinery\nWe specialise in CNC Machining Centers and Tapping Machines\nCNC Machining Centers and Tapping Machines\nCMA Machine Tools UK specialises in the provision of CNC Machining Centers and Tapping Machines, operating as a globally recognized organisation with our UK base situated in the North West of England. Our innovative system, developed by CMA, facilitates the movement of the machine head along three axes, namely X, Y, and Z.\nPrimarily focused on delivering superior quality, bespoke Machining Centers and Tapping Machines, our solutions are characterised by flexibility and unparalleled workforce efficiency. Moreover, our Machining Centers enable uninterrupted production, eliminating downtime and ensuring seamless operational continuity.\nWhy choose CMA MACHINE Tools?\nOur design process enables operators to safely load and unload one side of the machine while the spindle is actively engaged in operation. This operational feature ensures a seamless workflow by allowing the simultaneous loading or unloading of materials on one side while the machine is actively processing on the opposite side.\nAll of our machines have been meticulously crafted in-house. Tailored to meet specific requirements, these machines are built to order with a focus on enhancing efficiency and reducing production costs for our esteemed clientele.\nThese bespoke machine tools boast bed working sizes ranging from 3 meters to 25 meters in length and 0.5 meters to 3 meters in width. This extensive range enables the handling of diverse parts that may be encountered in any manufacturing facility.\nWith a torque capacity of 500Nm and a spindle speed of up to 6000RPM, our machines prioritise flexibility as a key component. This exceptional performance ensures adaptability to various manufacturing demands, further solidifying the versatility of our CNC Drilling and Tapping Machines.\nFacilities\nWe have 10,000 m² of land, located in Alzira (Valencia), within which our 3 warehouses and our offices are located.\nTapping Machines\nWe design and manufacture +1000 industrial tapping machines.\nMachining Centers\nWe produce +100 machining centers per year.\nProduction\nAll our machines are produced at our headquarters in Spain and are shipped worldwide.\nCompetitiveness\nWe increase your productivity and improve your performance taking into account the possible challenges you encounter.\nPunctuality\nThe excellent work of all our staff makes it possible for all deadlines to be met and each and every order to be delivered within the estimated time.\nExperience\nWe always find the best solution for our clients to achieve their goals thanks to our extensive experience over the years.\nInnovation\nWe always try to look for advances so that our machines achieve an optimal degree of technology.\nTAPPING\nCMA Machine Tools have designed a triple articulated tapping machine which is stable and precise. With the option of adding an adjustable 360° tapping head.\nMore Informa"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "CMA machine tools",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Sergi",
+        "last_name": "Clari",
+        "title": "General Manager",
+        "email": "",
+        "phone": "",
+        "company": "CMA Machine Tools",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Philipp",
+        "last_name": "Spanagel",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "company": "CMA Machine Tools",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 87.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 18:42"
+}

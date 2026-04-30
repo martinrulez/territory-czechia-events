@@ -1,0 +1,133 @@
+{
+  "company_key": "karl roll gmbh & co. kg",
+  "company_name": "Karl Roll Gmbh & Co. KG",
+  "domain": "www.karl-roll.de",
+  "domain_url": "https://www.karl-roll.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Karl Roll Gmbh & Co. KG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 75,
+    "revenue": 6030,
+    "zi_company_name": "Karl Roll",
+    "zi_domain": "www.karl-roll.de",
+    "zi_city": "Enzberg",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.karl-roll.de",
+    "homepage": {
+      "title": "Karl Roll GmbH & Co. KG - Home",
+      "description": "Karl Roll GmbH & Co. KG gehört europaweit zu den Marktführern auf dem Gebiet der industriellen Teilereinigung. Vorführanlagen, Badaufbereitung und Automatisierung, Sonderanlagen, Lösemittelanlagen, Anlagen für wässrige Reiniger, Teilereinigung, Techniken zur Nassreinigung",
+      "text_excerpt": "Karl Roll GmbH & Co. KG - Home\nFacilities for aqueous cleaning agents\nFacilities for aqueous cleaning agents\nFully encapsulated cleaning plant for ultrafine cleaning\nmore about the system\nSolvent plants\nSolvent plants\nEinkammer-Flutanlagen für Kohlenwasserstoff-Reiniger und modifizierte Alkohole\nmore about the system\nCombined plant\nCombined plant\nRCTS with TwinTec technology for combined cleaning\nwith Solvant and solvent-water based\nmore about the system\nHigh-Pressure Water Jet Deburring System\nHigh-Pressure Water Jet Deburring System\nFor ultra-fine cleaning of scale-like surfaces like cast materials.\nmore about the system\nBath conditioning and automation\nBath conditioning and automation\nWe offer you a variety of options for the automation and bath preparation of your system\nmore about the system\nDemonstration plants\nDemonstration plants\nWe always have a selection of demonstration systems available at short notice\nmore about the system\nSpecial plants\nSpecial plants\nKarl Roll is your partner for special machine construction.\nmore about the system\nCustomised cleaning systems!\nmore about the company\nProducts\nOur product range includes all available techniques for wet cleaning your parts\nSystems for aqueous cleaners\nFully enclosed cleaning system for ultra-fine cleaning\nSolvent systems\nSingle-chamber flooding systems for hydrocarbon cleaners and modified alcohols\nCombined system\nRCTS with TwinTec technology for combined cleaning with solvant\nand solvent-water based\nHigh-pressure water jet deburring systems\nFor the removal of trapped chips or the ultra-fine cleaning of flaky surfaces\nBath preparation and automation\nWe offer you a variety of options for the automation and bath preparation of your system\nDemonstration systems\nWe always have a selection of demonstration systems available at short notice\nSpecial installations\nKarl Roll is your partner for special machine construction.\nFounding year\nMore than 60 cleaning systems per year\nsavings approx. 135 tons per year\nEmployees\nBitte\nWerbe-Cookies akzeptieren\num LinkedIn Feed anzusehen.\nLocation\nKarl Roll GmbH & Co. KG\nKanalstraße 30\nD-75417 Mühlacker-Enzberg\nContact us\nTel.: +49 (0)70 41 802-0\nFax: +49 (0)70 41 802-113\nverkauf(at)karl-roll.de\nFollow us\nyoutube\nfacebook\nlinkedin\ninstagram\nCompany\nAbout us\nTechnical research centre\nManufacture and service\nAwards and References\nProducts\nPlants for aqueous cleaning agents\nMultichamber immersion plants\nSingle chamber plants\nRound cycle plants\nPass-through spray plants\nSolvent plants\nCombined plant\nHigh-Pressure Water Jet Deburring System\nSpecial plants\nBath conditioning and automation\nDemonstration plants\nNews\nExhibitions and fairs\nPress reports\nContact\nHow to find us\nRequest an offer\nContact Partners - Service\nContact partners worldwide\nback"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Karl Roll Gmbh & Co. KG",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 10,
+    "all_technologies": [
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "1&1 Hosting",
+        "vendor": "1&1 IONOS Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Karl Roll Gmbh & Co. KG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 17:51"
+}

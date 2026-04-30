@@ -1,0 +1,289 @@
+{
+  "company_key": "bruderer ag",
+  "company_name": "BRUDERER AG",
+  "domain": "www.bruderer.com",
+  "domain_url": "https://www.bruderer.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "BRUDERER AG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 460,
+    "revenue": 183326,
+    "zi_company_name": "Bruderer",
+    "zi_domain": "www.bruderer.com",
+    "zi_city": "Frasnacht",
+    "zi_country": "Switzerland",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.bruderer.com",
+    "homepage": {
+      "title": "BRUDERER AG - Precision swiss made. | BRUDERER AG",
+      "description": "",
+      "text_excerpt": "BRUDERER AG - Precision swiss made. | BRUDERER AG\nCookie-Einstellungen\nDiese Website benutzt Cookies, die für den technischen Betrieb der Website erforderlich sind und stets gesetzt werden. Andere Cookies, die den Komfort bei Benutzung dieser Website erhöhen, der Direktwerbung dienen oder die Interaktion mit anderen Websites und sozialen Netzwerken vereinfachen sollen, werden nur mit Ihrer Zustimmung gesetzt.\nKonfiguration\nTechnisch erforderlich\nDiese Cookies sind für die Grundfunktionen des Shops notwendig.\n\"Alle Cookies ablehnen\" Cookie\n\"Alle Cookies annehmen\" Cookie\nAusgewählter Shop\nCSRF-Token\nCookie-Einstellungen\nIndividuelle Preise\nKundenspezifisches Caching\nSession\nWährungswechsel\nKomfortfunktionen\nDiese Cookies werden genutzt um das Einkaufserlebnis noch ansprechender zu gestalten, beispielsweise für die Wiedererkennung des Besuchers.\nMerkzettel\nStatistik & Tracking\nEndgeräteerkennung\nPartnerprogramm\nMenü schließen\nANFRAGEN\nPRODUKTE\nSERVICE\nKARRIERE\nUNTERNEHMEN\nKONTAKT\nDiese Website benutzt Cookies, die für den technischen Betrieb der Website erforderlich sind und stets gesetzt werden. Andere Cookies, die den Komfort bei Benutzung dieser Website erhöhen, der Direktwerbung dienen oder die Interaktion mit anderen Websites und sozialen Netzwerken vereinfachen sollen, werden nur mit Ihrer Zustimmung gesetzt.\nDatenschutzbestimmungen\nAblehnen\nAlle akzeptieren\nKonfigurieren"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.bruderer.com/contact",
+      "text": "BRUDERER AG - Precision swiss made. | BRUDERER AG\nCookie-Einstellungen\nDiese Website benutzt Cookies, die für den technischen Betrieb der Website erforderlich sind und stets gesetzt werden. Andere Cookies, die den Komfort bei Benutzung dieser Website erhöhen, der Direktwerbung dienen oder die Interaktion mit anderen Websites und sozialen Netzwerken vereinfachen sollen, werden nur mit Ihrer Zustimmung gesetzt.\nKonfiguration\nTechnisch erforderlich\nDiese Cookies sind für die Grundfunktionen des Shops notwendig.\n\"Alle Cookies ablehnen\" Cookie\n\"Alle Cookies annehmen\" Cookie\nAusgewählter Shop\nCSRF-Token\nCookie-Einstellungen\nIndividuelle Preise\nKundenspezifisches Caching\nSession\nWährungswechsel\nKomfortfunktionen\nDiese Cookies werden genutzt um das Einkaufserlebnis noch ansprechender zu gestalten, beispielsweise für die Wiedererkennung des Besuchers.\nMerkzettel\nStatistik & Tracking\nEndgeräteerkennung\nPartnerprogramm\nMenü schließen\nANFRAGEN\nPRODUKTE\nSERVICE\nKARRIERE\nUNTERNEHMEN\nKONTAKT\nDiese Website benutzt Cookies, die für den technischen Betrieb der Website erforderlich sind und stets gesetzt werden. Andere Cookies, die den Komfort bei Benutzung dieser Website erhöhen, der Direktwerbung dienen oder die Interaktion mit anderen Websites und sozialen Netzwerken vereinfachen sollen, werden nur mit Ihrer Zustimmung gesetzt.\nDatenschutzbestimmungen\nAblehnen\nAlle akzeptieren\nKonfigurieren"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "BRUDERER AG",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 31,
+    "all_technologies": [
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Leaflet",
+        "vendor": "LeafletJS",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Adobe Typekit",
+        "vendor": "Adobe Inc.",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "BRUDERER AG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Aj",
+        "last_name": "Rupp",
+        "title": "President",
+        "email": "arupp@brudereramericas.com",
+        "phone": "",
+        "company": "Bruderer",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Jörg",
+        "last_name": "Wiesmann",
+        "title": "Chief Information Officer, Information Technology & Manager",
+        "email": "",
+        "phone": "",
+        "company": "Bruderer",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 86.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 18:46"
+}

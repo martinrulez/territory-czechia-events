@@ -1,0 +1,438 @@
+{
+  "company_key": "banner engineering corp.",
+  "company_name": "Banner Engineering Corp.",
+  "domain": "www.bannerengineering.com",
+  "domain_url": "https://www.bannerengineering.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Banner Engineering Corp.",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Fusion",
+    "total_seats": "1",
+    "current_acv_eur": "600.0",
+    "potential_acv_eur": "8200.0",
+    "nearest_renewal": "2026-11-16",
+    "days_to_renewal": "207",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Fusion Sim Ext",
+    "maturity_label": "Foundation",
+    "industry_segment": "Building Products & Fabricat'n",
+    "zi_done": true,
+    "employee_count": 5500,
+    "revenue": 1493640,
+    "zi_company_name": "Banner",
+    "zi_domain": "www.bannerengineering.com",
+    "zi_city": "Minneapolis",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.bannerengineering.com",
+    "homepage": {
+      "title": "Banner Engineering | Smarter Automation. Better Solutions.",
+      "description": "A global leader in industrial automation, equipping smart factories with sensors, remote I/O and IIoT products, lights and indicators, machine safety, and more.",
+      "text_excerpt": "Banner Engineering | Smarter Automation. Better Solutions.\nScroll to Top\nSearch\nSearch\nProduct Categories\nSensors\nMeasurement Solutions\nLighting and Indication\nMachine Safety\nIndustrial Wireless\nBarcode and Vision\nRemote I/O\nConnectivity\nMonitoring Solutions\nSuggestions\nSmarter Automation.\nBetter Solutions.\nSmarter Measurements.\nBetter Solutions.\nSmarter Lighting.\nBetter Solutions.\nSmarter Safety.\nBetter Solutions.\nSmarter Sensors.\nBetter Solutions.\nSmarter Wireless.\nBetter Solutions.\nSmarter I/O.\nBetter Solutions.\nSmarter Connectivity.\nBetter Solutions.\nSmarter Monitoring.\nBetter Solutions.\nMeasurement Solutions\nLighting & Displays\nMachine Safety\nSensors\nIndustrial Wireless\nRemote I/O\nConnectivity\nMonitoring Solutions\nIntro\nProducts\nNewsroom\nBy the Numbers\nSuccess Stories\nIndustries\nWho We Are\nResources\nNew Products\nSee All\n15 Apr 2026\nM12 A-Code 18 AWG Cordsets\nLearn More\n15 Apr 2026\nM12 A-Code 22 AWG Cordsets\nLearn More\n2 Apr 2026\nDXMR50 Logic Block\nLearn More\n4 Mar 2026\nS4B Safety Light Curtains\nLearn More\n25 Feb 2026\nS22 Programmable Indicator and Touch Button with IO-Link and Modbus\nLearn More\n25 Feb 2026\nDX700ER Ethernet Data Radio\nLearn More\n18 Feb 2026\nS25GI Galvanic Isolator\nLearn More\n29 Jan 2026\nQM30VT3 High-Performance 3-Axis Vibration and Temperature Sensor with IO-Link\nLearn More\n28 Jan 2026\nRSio Remote Safe I/O\nLearn More\n14 Jan 2026\nHigh-Performance TPU Cordsets\nLearn More\n14 Jan 2026\nM12 Double-Ended Cordsets with Stainless Steel Coupling Nuts\nLearn More\nSee All New Products\nLearn More\nWho We Are\nGlobal Automation Products & Solutions\nAt Banner Engineering, our dedication to developing quality products and providing personable service enables us to deliver smart solutions to our customers across industries and geographies.\nLearn About Us\nNEW\nRemote I/O\nRemote I/O products optimize control system performance and simplify system design for machine builders and controls engineers.\nLearn More\nCondition Monitoring Made Easy\nThe Asset Monitoring Gateway (AMG) with SNAP ID is simple and easy to use, delivering insights to help make informed decisions about an asset that can increase productivity and prevent unexpected maintenance.\nLearn More\nSnap Signal\nIIoT Made Easy\nBanner’s Snap Signal family of plug-and-play products represents a new way to unlock your valuable machine data.\nLearn More\nPro Products\nGive Your Light Full Control\nWhether you need Illumination or Indication, the family of Pro products from Banner gives your machines a voice for dynamic advanced capabilities and control throughout your facility.\nLearn More\nVibration Sensors for Industrial Automation\nLearn More\nIn-Series Diagnostics (ISD)\nIn-Series Diagnostics (ISD) makes it easy to troubleshoot machine safety systems, prevent faults from occurring, and reduce downtime.\nLearn More\nBanner By the Numbers\n1966\nEstablished 55+ Years Ago\n5,500+\nOur Sales and Support Network\n30+\nOffices on 5 Continents\nGlobal Manufacturing Locations\n10,000+\nInnovative Products\nSuccess stories\n"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Banner Engineering Corp.",
+    "autodesk_products": [
+      "3ds Max",
+      "Autodesk AutoCAD",
+      "Autodesk Moldflow"
+    ],
+    "competitor_products": [
+      "PTC Creo",
+      "PTC Creo (Pro/ENGINEER)",
+      "PTC Integrity",
+      "PTC Windchill PLM",
+      "Siemens PLM"
+    ],
+    "cad_bim_other": [
+      "Assemble",
+      "Autodesk",
+      "Cache Control",
+      "InVision",
+      "Sigma"
+    ],
+    "total_technologies": 276,
+    "all_technologies": [
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "ChatGPT",
+        "vendor": "OpenAI",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Logistyx",
+        "vendor": "Logistyx Technologies",
+        "category": "Logistics",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "NetX",
+        "vendor": "NetXposure, Inc.",
+        "category": "Digital Asset Management",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Sunday",
+        "vendor": "Sunday",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "OpenCV",
+        "vendor": "OpenCV team",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Calypso",
+        "vendor": "NASDAQ, Inc",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft OneNote",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Spryker",
+        "vendor": "Spryker Systems GmbH",
+        "category": "Other E-Commerce Software",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "TensorFlow",
+        "vendor": "Google LLC",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "GitLab",
+        "vendor": "GitLab Inc.",
+        "category": "Source Code Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Ruby on Rails",
+        "vendor": "Ruby on Rails",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Oracle Enterprise Resource Planning",
+        "vendor": "Oracle Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Zoom",
+        "vendor": "Zoom Video Communications, Inc.",
+        "category": "Web Conferencing",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Circuit",
+        "vendor": "Circuit Routing Limited",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "ventiv",
+        "vendor": "Ventiv Technology Australia PTY Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Arduino",
+        "vendor": "Arduino",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Persona",
+        "vendor": "Persona Identities Inc",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Productiv",
+        "vendor": "Productiv, Inc",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Salesforce B2B Commerce",
+        "vendor": "Salesforce, Inc.",
+        "category": "Other E-Commerce Software",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Demand Planning",
+        "vendor": "Blue Yonder Group, Inc",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "UKG Pro Suite",
+        "vendor": "UKG Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "ASIC",
+        "vendor": "AnySilicon",
+        "category": "Server Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "Assemble",
+        "vendor": "Autodesk, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "glassdoor",
+        "vendor": "Glassdoor, Inc",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Lean Manufacturing",
+        "vendor": "Gemba Academy LLC",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Ideal",
+        "vendor": "O5 Systems Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "VistA",
+        "vendor": "Vista Entertainment Solutions Limited",
+        "category": "Server Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "Swagger",
+        "vendor": "SmartBear Software inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Sigma",
+        "vendor": "Sigma Software",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Sightly",
+        "vendor": "Sightly Enterprises, Inc.",
+        "category": "Video Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Rapleaf",
+        "vendor": "Rapleaf",
+        "category": "Marketing Data Providers",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Pivot Table",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Content Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Oracle Reports",
+        "vendor": "Oracle Corporation",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Oracle Database (RDBMS)",
+        "vendor": "Oracle Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Oracle CRM",
+        "vendor": "Oracle Corporation",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Banner Engineering Corp.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Christopher",
+        "last_name": "Bevers",
+        "title": "Vice President, Supply Chain",
+        "email": "",
+        "phone": "",
+        "company": "Banner",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Feroze",
+        "last_name": "Shaikh",
+        "title": "Chief Executive Officer (India)",
+        "email": "",
+        "phone": "",
+        "company": "Banner",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Kevin",
+        "last_name": "Zaba",
+        "title": "Board Member and Strategic Advisor",
+        "email": "",
+        "phone": "",
+        "company": "Banner",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 14:48"
+}

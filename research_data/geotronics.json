@@ -1,0 +1,306 @@
+{
+  "company_key": "geotronics",
+  "company_name": "Geotronics",
+  "domain": "www.novatronic.cz",
+  "domain_url": "https://www.novatronic.cz",
+  "events": "Connected Construction Days 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Geotronics",
+    "opportunity_score": 44,
+    "estimated_deal_eur": 15000,
+    "primary_segment": "AEC",
+    "size_tier": "mid",
+    "timing_signals": [
+      "Hiring (1 jobs)",
+      "Public contracts"
+    ],
+    "fit_score": 0.72,
+    "component_scores": {
+      "size": 0.4,
+      "revenue": 0.2,
+      "nace_fit": 0.72,
+      "event_relevance": 0.25,
+      "signals": 0.4,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "48027014",
+    "official_name": "GEOTRONICS Praha, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46900",
+      "71120",
+      "26200",
+      "95100",
+      "62",
+      "26200",
+      "46900",
+      "620",
+      "71122",
+      "95110"
+    ],
+    "ares_segments": [
+      "AEC",
+      "D&M",
+      "M&E"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Pikovická 206/11, Braník, 14700 Praha 4, Praha, Pikovická, 14700",
+    "employee_count": 95,
+    "revenue": 5546,
+    "hiring_signal": true,
+    "hiring_intensity": "low",
+    "total_jobs": 1,
+    "engineering_hiring": false,
+    "leadership_change": false,
+    "has_public_contracts": true,
+    "zi_domain": "www.novatronic.cz",
+    "zi_city": "Vikýřovice",
+    "zi_country": "Czech Republic",
+    "is_client": true,
+    "current_products": "AutoCAD LT | Inventor",
+    "total_seats": "6",
+    "current_acv_eur": "12200.0",
+    "potential_acv_eur": "28200.0",
+    "nearest_renewal": "2026-05-12",
+    "days_to_renewal": "19",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other Manufacturing",
+    "ml_domain": "www.novatronic.cz",
+    "ml_employee_count": "95",
+    "ml_revenue": "5546",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.novatronic.cz",
+    "homepage": {
+      "title": "Český výrobce nábytku NOVATRONIC, s.r.o.",
+      "description": "Firma NOVATRONIC, s.r.o. je výrobní společnost, která se na českém trhu s nábytkem pohybuje již přes 25 let a to od roku 1991 (dříve jako Vladimír Mikulec Ing. - NOVATRONIC).",
+      "text_excerpt": "Český výrobce nábytku NOVATRONIC, s.r.o.\nOdesílání...\nPortfolio\nSlužby\nTechnologie\nRealizace\nKontakt\nO nás\nMenu\nVáš design,\nnaše řemeslo\nZakázková výroba nábytku\nVíce\nNAŠE PORFOLIO\nLaboratoře\nKanceláře\nHotely\nKomerční prostory\nNemocnice\nŠkoly\nNaplánujte s námi výrobu vašeho nábytku!\nMůžeme vám nabídnout tyto služby\nProjektový management\nZajišťujeme řízení projektů od menších až po velké a komplexní celky. Získáte odborné poradenství i praktickou podporu při plánování, koordinaci nebo samotnou implementaci.\nTým konstruktérů\nSpolečnost se může pochlubit rozsáhlým týmem inženýrů a konstruktérů. Díky využívání nejnovějších technologií a konstrukčních softwarů dokážeme zajistit vysokou kvalitu výrobků a mimořádnou plynulost výroby.\nDřevovýroba\nNabízíme velkokapacitní zpracování dřeva, včetně přesného řezání, frézování, laminování a montáže, s využitím pokročilých technologií pro optimální kvalitu a efektivitu.\nKovovýroba\nPři zpracování kovových materiálů u výroby složitých nábytkových rámů a konstrukcí klademe důraz na kvalitu našich výrobních procesů, svárů, přesnost a efektivitu.\nPráškové lakování\nNámi vyrobené kovové konstrukce opatřujeme práškovými barvami, které vytvářejí odolnou a jednotnou povrchovou úpravu splňující požadované parametry.\nMateriály\nSpecializujeme se na zpracování široké škály velkoformátových materiálů, jako jsou LTD desky, kompaktní desky, překližky nebo různé ocelové profily a další kovové komponenty.\nSTROJOVÝ PARK A TECHNOLOGIE\nVěnujeme velkou péči tomu, aby byly vaše výrobky zpracovány co nejpřesněji a v co nejvyšší kvalitě. Proto neustále investujeme do moderních technologií v oblasti softwaru i hardwaru. Prohlédněte si výběr z našeho strojního zázemí:\nHranovačka OTT Tornado Plus\nPrecizní olepování hran díky pokročilému systému nanášení lepidla a předfrézování pro hladké a pevné spoje i u náročných materiálů\nAutomatické zpracování výrazně zrychluje výrobu a snižuje nároky na manuální práci\nMinimalizuje odpad a umožňuje přizpůsobení různým materiálům\nPrecizní a efektivní nábytkářská výroba\nFormátovací pila SCM CLASS SI 350\nStabilní a přesné řezání\nUmožňuje práci s rozměrnými a těžkými deskami\nIdeální složité úkony a pro různé druhy materiálů\nSpodní frézka Casadei F 230\nPečlivé frézování a tvarování různých materiálů\nNabízí flexibilitu při opracování složitých tvarů\nOptimalizuje práci s různými druhy nábytkářských materiálů\nVhodné pro výrobu náročných designových prvků\nCNC obráběcí centrum Homag Venture 320L\nŠiroké možnosti opracování - frézování, vrtání a drážkování pro komplexní dílce\nIntuitivní CNC řízení: Zrychlení a automatizace procesů\nProduktivita na maximum: Výrazné zvýšení produktivity při zachování kvality\nIdeální pro složité tvary a různé materiály\nCNC Morbidelli CX220\nEfektivní vrtání, frézování a drážkování\nModerní CNC řízení s přesným a rychlým zpracováním i složitých projektů\nCNC ABD 060 Optimat\nAutomatická kombinace vrtání a kolíkování v jednom kroku\nVertikální a horizontální vrtání pro pevné spoje\nEfektivní "
+    },
+    "about": {
+      "url": "https://www.novatronic.cz/o-nas",
+      "text": "Český výrobce nábytku NOVATRONIC, s.r.o.\nOdesílání...\nPortfolio\nSlužby\nTechnologie\nRealizace\nKontakt\nO nás\nMenu\nVáš design,\nnaše řemeslo\nZakázková výroba nábytku\nVíce\nNAŠE PORFOLIO\nLaboratoře\nKanceláře\nHotely\nKomerční prostory\nNemocnice\nŠkoly\nNaplánujte s námi výrobu vašeho nábytku!\nMůžeme vám nabídnout tyto služby\nProjektový management\nZajišťujeme řízení projektů od menších až po velké a komplexní celky. Získáte odborné poradenství i praktickou podporu při plánování, koordinaci nebo samotnou implementaci.\nTým konstruktérů\nSpolečnost se může pochlubit rozsáhlým týmem inženýrů a konstruktérů. Díky využívání nejnovějších technologií a konstrukčních softwarů dokážeme zajistit vysokou kvalitu výrobků a mimořádnou plynulost výroby.\nDřevovýroba\nNabízíme velkokapacitní zpracování dřeva, včetně přesného řezání, frézování, laminování a montáže, s využitím pokročilých technologií pro optimální kvalitu a efektivitu.\nKovovýroba\nPři zpracování kovových materiálů u výroby složitých nábytkových rámů a konstrukcí klademe důraz na kvalitu našich výrobních procesů, svárů, přesnost a efektivitu.\nPráškové lakování\nNámi vyrobené kovové konstrukce opatřujeme práškovými barvami, které vytvářejí odolnou a jednotnou povrchovou úpravu splňující požadované parametry.\nMateriály\nSpecializujeme se na zpracování široké škály velkoformátových materiálů, jako jsou LTD desky, kompaktní desky, překližky nebo různé ocelové profily a další kovové komponenty.\nSTROJOVÝ PARK A TECHNOLOGIE\nVěnujeme velkou péči tomu, aby byly vaše výrobky zpracovány co nejpřesněji a v co nejvyšší kvalitě. Proto neustále investujeme do moderních technologií v oblasti softwaru i hardwaru. Prohlédněte si výběr z našeho strojního zázemí:\nHranovačka OTT Tornado Plus\nPrecizní olepování hran díky pokročilému systému nanášení lepidla a předfrézování pro hladké a pevné spoje i u náročných materiálů\nAutomatické zpracování výrazně zrychluje výrobu a snižuje nároky na manuální práci\nMinimalizuje odpad a umožňuje přizpůsobení různým materiálům\nPrecizní a efektivní nábytkářská výroba\nFormátovací pila SCM CLASS SI 350\nStabilní a přesné řezání\nUmožňuje práci s rozměrnými a těžkými deskami\nIdeální složité úkony a pro různé druhy materiálů\nSpodní frézka Casadei F 230\nPečlivé frézování a tvarování různých materiálů\nNabízí flexibilitu při opracování složitých tvarů\nOptimalizuje práci s různými druhy nábytkářských materiálů\nVhodné pro výrobu náročných designových prvků\nCNC obráběcí centrum Homag Venture 320L\nŠiroké možnosti opracování - frézování, vrtání a drážkování pro komplexní dílce\nIntuitivní CNC řízení: Zrychlení a automatizace procesů\nProduktivita na maximum: Výrazné zvýšení produktivity při zachování kvality\nIdeální pro složité tvary a různé materiály\nCNC Morbidelli CX220\nEfektivní vrtání, frézování a drážkování\nModerní CNC řízení s přesným a rychlým zpracováním i složitých projektů\nCNC ABD 060 Optimat\nAutomatická kombinace vrtání a kolíkování v jednom kroku\nVertikální a horizontální vrtání pro pevné spoje\nEfektivní sériová výroba pro vysoké objemy při zachování kvality\nBalička GG Macchine AT 300S\nEfektivní balení s horizontálním ovíjením stretch fólií pro ochranu zboží\nPřizpůsobí se různým velikostem a tvarům\nEkonomické řešení pro balení\nSCM Gabbiani ST 115\nRychlé dělení velkoformátových materiálů, jako MDF a dřevotřískové desky\nEfektivní řízení řezů díky automatické optimalizaci\nSpolehlivý i při intenzivním využití\nPrecizní řez zajišťuje vysokou kvalitu výsledného produktu\nRobot UR10 se svářečkou Migatronic Sigma Select 400Pulse IAC\nZajišťuje estetické a kvalitní svary pro moderní nábytkové konstrukce\nAutomatizace umožňuje kratší dodací lhůty a spolehlivou sériovou produkci\nVhodné pro různé materiály a tloušťky, od lehkých trubek po robustní rámy\nPulsní technologie šetří energii a minimalizuje emise\nNabízíme standardní i na míru přizpůsobené kovové díly pro nábytkářský průmysl\nVELKÉ VÝROBNÍ KAPACITY\nRelokace společnosti nám umožnila pracovat v nových prostorách s mnohonásobně vyšší výrobní kapac"
+    },
+    "products": {
+      "url": "https://www.novatronic.cz/produkty",
+      "text": "Český výrobce nábytku NOVATRONIC, s.r.o.\nOdesílání...\nPortfolio\nSlužby\nTechnologie\nRealizace\nKontakt\nO nás\nMenu\nVáš design,\nnaše řemeslo\nZakázková výroba nábytku\nVíce\nNAŠE PORFOLIO\nLaboratoře\nKanceláře\nHotely\nKomerční prostory\nNemocnice\nŠkoly\nNaplánujte s námi výrobu vašeho nábytku!\nMůžeme vám nabídnout tyto služby\nProjektový management\nZajišťujeme řízení projektů od menších až po velké a komplexní celky. Získáte odborné poradenství i praktickou podporu při plánování, koordinaci nebo samotnou implementaci.\nTým konstruktérů\nSpolečnost se může pochlubit rozsáhlým týmem inženýrů a konstruktérů. Díky využívání nejnovějších technologií a konstrukčních softwarů dokážeme zajistit vysokou kvalitu výrobků a mimořádnou plynulost výroby.\nDřevovýroba\nNabízíme velkokapacitní zpracování dřeva, včetně přesného řezání, frézování, laminování a montáže, s využitím pokročilých technologií pro optimální kvalitu a efektivitu.\nKovovýroba\nPři zpracování kovových materiálů u výroby složitých nábytkových rámů a konstrukcí klademe důraz na kvalitu našich výrobních procesů, svárů, přesnost a efektivitu.\nPráškové lakování\nNámi vyrobené kovové konstrukce opatřujeme práškovými barvami, které vytvářejí odolnou a jednotnou povrchovou úpravu splňující požadované parametry.\nMateriály\nSpecializujeme se na zpracování široké škály velkoformátových materiálů, jako jsou LTD desky, kompaktní desky, překližky nebo různé ocelové profily a další kovové komponenty.\nSTROJOVÝ PARK A TECHNOLOGIE\nVěnujeme velkou péči tomu, aby byly vaše výrobky zpracovány co nejpřesněji a v co nejvyšší kvalitě. Proto neustále investujeme do moderních technologií v oblasti softwaru i hardwaru. Prohlédněte si výběr z našeho strojního zázemí:\nHranovačka OTT Tornado Plus\nPrecizní olepování hran díky pokročilému systému nanášení lepidla a předfrézování pro hladké a pevné spoje i u náročných materiálů\nAutomatické zpracování výrazně zrychluje výrobu a snižuje nároky na manuální práci\nMinimalizuje odpad a umožňuje přizpůsobení různým materiálům\nPrecizní a efektivní nábytkářská výroba\nFormátovací pila SCM CLASS SI 350\nStabilní a přesné řezání\nUmožňuje práci s rozměrnými a těžkými deskami\nIdeální složité úkony a pro různé druhy materiálů\nSpodní frézka Casadei F 230\nPečlivé frézování a tvarování různých materiálů\nNabízí flexibilitu při opracování složitých tvarů\nOptimalizuje práci s různými druhy nábytkářských materiálů\nVhodné pro výrobu náročných designových prvků\nCNC obráběcí centrum Homag Venture 320L\nŠiroké možnosti opracování - frézování, vrtání a drážkování pro komplexní dílce\nIntuitivní CNC řízení: Zrychlení a automatizace procesů\nProduktivita na maximum: Výrazné zvýšení produktivity při zachování kvality\nIdeální pro složité tvary a různé materiály\nCNC Morbidelli CX220\nEfektivní vrtání, frézování a drážkování\nModerní CNC řízení s přesným a rychlým zpracováním i složitých projektů\nCNC ABD 060 Optimat\nAutomatická kombinace vrtání a kolíkování v jednom kroku\nVertikální a horizontální vrtání pro pevné spoje\nEfektivní "
+    },
+    "contact_page": {
+      "url": "https://www.novatronic.cz/kontakt",
+      "text": "Český výrobce nábytku NOVATRONIC, s.r.o.\nOdesílání...\nPortfolio\nSlužby\nTechnologie\nRealizace\nKontakt\nO nás\nMenu\nVáš design,\nnaše řemeslo\nZakázková výroba nábytku\nVíce\nNAŠE PORFOLIO\nLaboratoře\nKanceláře\nHotely\nKomerční prostory\nNemocnice\nŠkoly\nNaplánujte s námi výrobu vašeho nábytku!\nMůžeme vám nabídnout tyto služby\nProjektový management\nZajišťujeme řízení projektů od menších až po velké a komplexní celky. Získáte odborné poradenství i praktickou podporu při plánování, koordinaci nebo samotnou implementaci.\nTým konstruktérů\nSpolečnost se může pochlubit rozsáhlým týmem inženýrů a konstruktérů. Díky využívání nejnovějších technologií a konstrukčních softwarů dokážeme zajistit vysokou kvalitu výrobků a mimořádnou plynulost výroby.\nDřevovýroba\nNabízíme velkokapacitní zpracování dřeva, včetně přesného řezání, frézování, laminování a montáže, s využitím pokročilých technologií pro optimální kvalitu a efektivitu.\nKovovýroba\nPři zpracování kovových materiálů u výroby složitých nábytkových rámů a konstrukcí klademe důraz na kvalitu našich výrobních procesů, svárů, přesnost a efektivitu.\nPráškové lakování\nNámi vyrobené kovové konstrukce opatřujeme práškovými barvami, které vytvářejí odolnou a jednotnou povrchovou úpravu splňující požadované parametry.\nMateriály\nSpecializujeme se na zpracování široké škály velkoformátových materiálů, jako jsou LTD desky, kompaktní desky, překližky nebo různé ocelové profily a další kovové komponenty.\nSTROJOVÝ PARK A TECHNOLOGIE\nVěnujeme velkou péči tomu, aby byly vaše výrobky zpracovány co nejpřesněji a v co nejvyšší kvalitě. Proto neustále investujeme do moderních technologií v oblasti softwaru i hardwaru. Prohlédněte si výběr z našeho strojního zázemí:\nHranovačka OTT Tornado Plus\nPrecizní olepování hran díky pokročilému systému nanášení lepidla a předfrézování pro hladké a pevné spoje i u náročných materiálů\nAutomatické zpracování výrazně zrychluje výrobu a snižuje nároky na manuální práci\nMinimalizuje odpad a umožňuje přizpůsobení různým mat"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "NOVATRONIC S.R.O.",
+    "autodesk_products": [
+      "reCAPTCHA"
+    ],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 21,
+    "all_technologies": [
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Leady",
+        "vendor": "Imper CZ s.r.o.",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Seznam",
+        "vendor": "Imedia",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "PHP 5.6",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Geotronics",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Pavel",
+        "last_name": "Stejskal",
+        "title": "Výkonný řEditel",
+        "email": "pavel.stejskal@novatronic.cz",
+        "phone": "",
+        "company": "NOVATRONIC, sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "David",
+        "last_name": "Opravil",
+        "title": "Konstruktér, Technik",
+        "email": "david.opravil@novatronic.cz",
+        "phone": "",
+        "company": "NOVATRONIC, sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 99.0
+      },
+      {
+        "first_name": "Pavel",
+        "last_name": "Brokeš",
+        "title": "Technický Manažer",
+        "email": "pavel.brokes@novatronic.cz",
+        "phone": "",
+        "company": "NOVATRONIC, sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 98.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 08:30",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "inventor",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

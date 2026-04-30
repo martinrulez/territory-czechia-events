@@ -1,0 +1,304 @@
+{
+  "company_key": "cemb_s_p_a",
+  "company_name": "CEMB S.p.A.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "CEMB S.p.A.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 35,
+    "all_technologies": [
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Facebook Customer Chat Plugin",
+        "vendor": "Facebook, Inc.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "cPanel",
+        "vendor": "cPanel, LLC",
+        "category": "Hosting Control Panels",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cookieyes",
+        "vendor": "CookieYes",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Silvia Buzzi",
+        "firstName": "Silvia",
+        "lastName": "Buzzi",
+        "jobTitle": "Chief Executive Officer",
+        "email": "buzzi.silvia@cemb.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Giovanni Ferrari",
+        "firstName": "Giovanni",
+        "lastName": "Ferrari",
+        "jobTitle": "Sales Director",
+        "email": "ferrari.giovanni@cemb.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Luigi Ravasio",
+        "firstName": "Luigi",
+        "lastName": "Ravasio",
+        "jobTitle": "Director, Commercial",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Alessandro Amati",
+        "firstName": "Alessandro",
+        "lastName": "Amati",
+        "jobTitle": "Manager, Network & Security",
+        "email": "amati.alessandro@cemb.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Fabrizio Fabretto",
+        "firstName": "Fabrizio",
+        "lastName": "Fabretto",
+        "jobTitle": "Area Manager",
+        "email": "fabrizio.fabretto@cemb.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:07:02",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.cemb.com",
+    "homepage": {
+      "title": "CEMB - Balancing and vibration analysis since 1946",
+      "description": "",
+      "text_excerpt": "CEMB - Balancing and vibration analysis since 1946\nWHEN EVERYTHING\nIS IN BALANCE,\nTHE FUTURE\nRUNS BETTER\nCompany\nCEMB is a leading company in the field of balancing and vibration analysis\nDiscover\n3 Divisions\nThe company is organized into three divisions, each with its own design and manufacturing departments.\nGarage\nEquipment Division\nDiscover\nIndustrial\nBalancing Machines\nDiscover\nVibration\nEquipment Division\nDiscover\nFrom a visionary insight comes a story of balance. For 80 years we have been revealing its invisible side\nDiscover\nSustainability\nEvery day we turn balance into energy\nDiscover\nAvailable languages\nPortuguês\nItaliano\nFrançais\nEspañol\nDeutsch"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.cemb.com/kontakt",
+      "text": "Contact - CEMB - Balancing and vibration analysis since 1946\nContact\nFor information, business inquiries or technical support, you can contact CEMB by filling out the dedicated form.\nVia Risorgimento 9,\nMandello del Lario,\nLecco 23826, IT\nTel. +39 0341 706 111\nGarage\nEquipment Division\ngarage@cemb.com\nIndustrial\nBalancing Machines\nindustry@cemb.com\nVibration\nEquipment Division\nstm@cemb.com\nSelect division\nGarage\nIndustry\nVibration\nPursuant to the privacy regulations set forth in Art. 13 paragraph 1 and art. 14 paragraph 1 of eu regulation no. 2016/679 (so-called \"gdpr\") I declare that I have read and understood the purposes of data processing by CEMB S.p.A. operating as data controller.   For more information visit the Privacy policy.\nAvailable languages\nPortuguês\nItaliano\nFrançais\nEspañol\nDeutsch"
+    }
+  }
+}

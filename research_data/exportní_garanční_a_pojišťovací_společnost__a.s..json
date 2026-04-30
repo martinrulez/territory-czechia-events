@@ -1,0 +1,121 @@
+{
+  "company_key": "exportní garanční a pojišťovací společnost, a.s.",
+  "company_name": "Exportní garanční a pojišťovací společnost, a.s.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Exportní garanční a pojišťovací společnost, a.s.",
+    "opportunity_score": 12,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "45279314",
+    "official_name": "Exportní garanční a pojišťovací společnost, a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "662",
+      "65120",
+      "65120",
+      "662"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Vodičkova 701/34, Nové Město, 11000 Praha 1, Praha, Vodičkova, 11000",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Exportní garanční a pojišťovací společnost, a.s.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Marek",
+        "last_name": "Dlouhý",
+        "title": "Deputy Chief Executive Officer, Head of Insurance Section,",
+        "email": "",
+        "phone": "",
+        "company": "Egap",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 92.0
+      },
+      {
+        "first_name": "David",
+        "last_name": "Havlíček",
+        "title": "Chief Executive Officer",
+        "email": "havlicek@egap.cz",
+        "phone": "",
+        "company": "Egap",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Martin",
+        "last_name": "Ruzicka",
+        "title": "Head Deputy Chief Executive Officer, Member of The Board & , of Risk",
+        "email": "ruzicka@egap.cz",
+        "phone": "",
+        "company": "Egap",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Michal",
+        "last_name": "Janků",
+        "title": "Executive Commercial Director",
+        "email": "jankumi@egap.cz",
+        "phone": "+420 222 842 354",
+        "company": "Egap",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 99.0
+      },
+      {
+        "first_name": "René",
+        "last_name": "Jakl",
+        "title": "Director, Claims & Recoveries",
+        "email": "jakl@egap.cz",
+        "phone": "+420 222 842 520",
+        "company": "Egap",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 96.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 19:15"
+}

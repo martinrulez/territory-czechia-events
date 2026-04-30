@@ -1,0 +1,41 @@
+{
+  "company_key": "mewa_textil_service_s_r_o",
+  "company_name": "MEWA Textil-Service s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ANTONÍN KREJČÍ",
+        "firstName": "ANTONÍN",
+        "lastName": "KREJČÍ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PHILIPP NICOLAS MELL",
+        "firstName": "PHILIPP NICOLAS",
+        "lastName": "MELL",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:18:37"
+}

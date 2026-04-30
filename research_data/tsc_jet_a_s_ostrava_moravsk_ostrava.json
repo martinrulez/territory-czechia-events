@@ -1,0 +1,31 @@
+{
+  "company_key": "tsc_jet_a_s_ostrava_moravsk_ostrava",
+  "company_name": "TSC Jet, a.s., Ostrava - Moravská Ostrava",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "DAVID ZEZULKA",
+        "firstName": "DAVID",
+        "lastName": "ZEZULKA",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:03"
+}

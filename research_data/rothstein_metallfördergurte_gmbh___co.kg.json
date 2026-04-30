@@ -1,0 +1,145 @@
+{
+  "company_key": "rothstein metallfördergurte gmbh & co.kg",
+  "company_name": "Rothstein Metallfördergurte GmbH & Co.KG",
+  "domain": "www.rothstein-mfg.de",
+  "domain_url": "https://www.rothstein-mfg.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Rothstein Metallfördergurte GmbH & Co.KG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 7,
+    "revenue": 11494,
+    "zi_company_name": "Rothstein Metallgurte",
+    "zi_domain": "www.rothstein-mfg.de",
+    "zi_city": "Reichshof",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.rothstein-mfg.de",
+    "homepage": {
+      "title": "Willkommen bei Rothstein Metallfördergurte",
+      "description": "Robuste Metallfördergurte für jede Anwendung. Spezialist für Schwerlast, Härtereien, Glas, Keramik und Lebensmittel. Rothstein Metallfördergurte. Jetzt anfragen!",
+      "text_excerpt": "Willkommen bei Rothstein Metallfördergurte\ntop of page\nRothstein Metallfördergurte\ndenn Qualität ist durch nichts zu ersetzen\nMETALLFÖRDERGURTE\nLASERTECHNIK\nBIEGETECHNIK\nARCHITEKTURGEWEBE\nUNTERNEHMEN\nROTHSTEIN METALLFÖRDERGURTE\nUnser Wahlspruch lautet: „Wir sind\nmfg\n“, und ist, anders als auf den ersten Blick vermutet, die Abkürzung für\netall\nörder\nurte. Als ein mittelständisches Familienunternehmen mit Sitz in Reichshof-Brüchermühle, das seit über 45 Jahren Metallfördergurte für jeglichen Einsatzzweck fertigt - bestimmt ein passender Slogan.\nMEHR ÜBER UNS\nJOBS\nZU DEN PRODUKTEN\nVor allem durch ihre Flexibilität in der Auslegung, die genau auf das Einsatzgebiet abgestimmt werden kann, ist der\nROTHSTEIN Metallfördergurt\nein unersetzlicher Partner in der Fertigung geworden. Die Gurttypen sind für verschiedene Einsatzgebiete entwickelt worden. Ihre Struktur ist so veränderbar, dass sie auch für Ihre Anwendung optimal angepasst werden kann.\nAKTUELLES\nSoziale Verantwortung leben – gemeinsam helfen, wo Hilfe gebraucht wird\nAuch in diesem Jahr haben wir bewusst soziale Verantwortung übernommen. Mit unserer Unterstützung von Hits fürs Hospiz e. V. und The Rotary Foundation helfen wir dort, wo Menschlichkeit zählt: bei der Erfüllung letzter Herzenswünsche, in der Hospizarbeit und bei sozialen Projekten weltweit. Gemeinsam können wir Hoffnung schenken – auch in schweren Momenten.\n7. Jan.\nErfolgreiches Rezertifizierungsaudit nach DIN EN ISO 9001:2015\nZertifiziert nach DIN EN ISO 9001:2015 Qualität, Zuverlässigkeit und kontinuierliche Verbesserung stehen bei uns seit jeher im Mittelpunkt unseres Handelns.  Umso mehr freuen wir uns, mitteilen zu können, dass wir auch in diesem Jahr das Rezertifizierungsaudit nach DIN EN ISO 9001:2015 erfolgreich bestanden haben. Für unsere Kunden und Partner bedeutet dies ein verlässliches, zertifiziertes Qualitätsmanagement auf höchstem Niveau – heute und in Zukunft. Ein herzliches Dankesc\n16. Dez. 2025\nNeues aus unserem Maschinenpark:\nDer TRUMPF TruLaser 7040 Wir setzen auf moderne Fertigungstechnologie – für Präzision, Effizienz und höchste Qualität. Mit der neuen Laserschneidanlage TruLaser 7040  erweitern wir unseren Maschinenpark um ein echtes Hochleistungsmodul, das sowohl unsere Eigenfertigung als auch Lohnarbeiten auf ein neues Niveau hebt. Maximale Präzision für jede Anwendung Die Anlage verfügt über einen großzügigen Arbeitsbereich von 4000 x 2500 mm  und arbeitet mit einer Genauigkeit von bis zu\n20. Nov. 2025\nSchnell repariert – wieder voll einsatzbereit\nEs muss nicht immer ein neues Band sein – Erfolgreiche Reparatur im Kundenauftrag Nicht in jedem Fall ist ein neues Metallförderband die wirtschaftlich sinnvollste Lösung. Deshalb gehört zu unserem Service nicht nur die fachkundige Beratung rund um Metallfördergurte, sondern auch eine ehrliche und kompetente Einschätzung, ob sich eine Reparatur lohnt. Genau mit dieser Frage trat ein Kunde an uns heran – und das Ergebnis konnte sich sehen lassen: Mit gezielten Repar"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Rothstein Metallfördergurte GmbH & Co.KG",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 12,
+    "all_technologies": [
+      {
+        "product": "Varnish",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Sentry",
+        "vendor": "Functional Software, Inc.",
+        "category": "Error and Exception Monitoring",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Wix",
+        "vendor": "Wix.com, Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "TYPO3 CMS",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Rothstein Metallfördergurte GmbH & Co.KG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 17:01"
+}

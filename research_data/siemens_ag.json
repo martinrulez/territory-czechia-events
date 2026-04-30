@@ -1,0 +1,481 @@
+{
+  "company_key": "siemens ag",
+  "company_name": "Siemens AG",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Siemens AG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "Siemens AG",
+    "autodesk_products": [
+      "AutoCad Electrical",
+      "Autodesk AutoCAD",
+      "Autodesk AutoCAD Mechanical",
+      "Autodesk BIM 360",
+      "Autodesk Fusion 360",
+      "Autodesk Inventor",
+      "Autodesk Navisworks",
+      "Autodesk Revit",
+      "Commvault",
+      "ExaVault",
+      "SAP Inventory Management (IM)",
+      "Vault Payment Solutions",
+      "Veritas Enterprise Vault (EV)"
+    ],
+    "competitor_products": [
+      "Bentley AutoPIPE",
+      "Bentley ProjectWise",
+      "Bentley STAAD",
+      "CATIA",
+      "CATIA V5",
+      "Camstar Enterprise Platform",
+      "DELMIA",
+      "DELMIA Apriso",
+      "Dassault Dymola",
+      "Dassault Systemes",
+      "Desigo CC",
+      "ENOVIA",
+      "Energy IP",
+      "Esprit",
+      "HiPath Xpressions Voicemail",
+      "Mastercam",
+      "Mathcad",
+      "MicroStation",
+      "NX CAE",
+      "Nokia Siemens Networks",
+      "Opcenter",
+      "PTC Creo",
+      "PTC Creo Parametric",
+      "PTC Integrity",
+      "PTC IoT Solutions",
+      "PTC Windchill PLM",
+      "Preactor",
+      "Pro/Engineer",
+      "Robcad",
+      "SIMATIC HMI",
+      "SIMATIC IT",
+      "SIMINE",
+      "Siemens",
+      "Siemens DCS",
+      "Siemens Healthcare",
+      "Siemens Hicom",
+      "Siemens I-DEAS",
+      "Siemens Industrial Automation Systems SIMATIC",
+      "Siemens Invision",
+      "Siemens Magnetom",
+      "Siemens MindSphere",
+      "Siemens NX",
+      "Siemens Nixdorf Informationssysteme",
+      "Siemens OPENLink",
+      "Siemens PACS",
+      "Siemens PLM",
+      "Siemens Polarion ALM",
+      "Siemens RUGGEDCOM",
+      "Siemens SIMATIC WinCC",
+      "Siemens SIPROTEC 5",
+      "Siemens Simatic PCS 7",
+      "Siemens Step 7",
+      "Siemens Syngo Imaging",
+      "Siemens Teamcenter PLM Software",
+      "Siemens Tecnomatix",
+      "Siemens Ultrasound",
+      "Siemens syngo Workflow",
+      "SimCenter",
+      "Simulia Abaqus Unified FEA",
+      "Solidworks",
+      "Tekla",
+      "ThingWorx",
+      "eMeter"
+    ],
+    "cad_bim_other": [
+      "12d",
+      "ANSYS",
+      "ANSYS CFX",
+      "ANSYS Fluent",
+      "ANSYS Mechanical",
+      "ANSYS Mechanical Enterprise",
+      "Adobe XD",
+      "Altair HyperWorks",
+      "AnyLogic",
+      "Autodesk",
+      "Autodesk BIM",
+      "Bluebeam Revu",
+      "Built",
+      "CAESAR II",
+      "COMSOL Multiphysics",
+      "CSI SAP2000",
+      "CYME",
+      "Cache Control",
+      "Captura",
+      "Chief Architect",
+      "Direct3D",
+      "ETAP",
+      "FlexSim",
+      "FloEFD",
+      "HydroCAD",
+      "InVision",
+      "KUKA",
+      "MESH",
+      "Mathematica",
+      "Onshape",
+      "OpenFoam",
+      "Oracle Contract Management",
+      "PATRAN",
+      "REST / RESTful",
+      "SAPUI5",
+      "Sigma",
+      "Studio 5000",
+      "Vortex"
+    ],
+    "total_technologies": 2329,
+    "all_technologies": [
+      {
+        "product": "Autodesk AutoCAD Mechanical",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Brightline",
+        "vendor": "Brightline",
+        "category": "Ticketing Systems",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "GPS",
+        "vendor": "mbm.it",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Dayforce",
+        "vendor": "Dayforce, Inc.",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Dayforce HCM",
+        "vendor": "Ceridian HCM, Inc.",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "MCS",
+        "vendor": "MCS Global Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Better",
+        "vendor": "Better Mobile Security Inc.",
+        "category": "Enterprise Mobility Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SAP Sales Cloud",
+        "vendor": "SAP SE",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gainsight",
+        "vendor": "Gainsight, Inc.",
+        "category": "Customer Experience Management",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "ArgoCD",
+        "vendor": "ArgoCD",
+        "category": "Deployment",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Bluebeam Revu",
+        "vendor": "Bluebeam, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "NVIDIA",
+        "vendor": "NVIDIA Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "NoSQL Database",
+        "vendor": "",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Keysight",
+        "vendor": "Keysight Technologies, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Intel VTune",
+        "vendor": "Intel Corporation",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Microsoft Azure SQL Database",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Kardex",
+        "vendor": "Kardex",
+        "category": "Logistics",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "OpenMake Software Release Engineer",
+        "vendor": "Openmake Software Inc",
+        "category": "Release Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "SCADA",
+        "vendor": "Inductive Automation, LLC",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Simulia Abaqus Unified FEA",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Civil Engineering",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Deep Software",
+        "vendor": "Deep Software Inc.",
+        "category": "Other DevOps Software",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "update CRM",
+        "vendor": "Aurea, Inc.",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Refinitiv",
+        "vendor": "Refinitiv",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "SAP ERP Central Component 6.0 (ECC 6.0)",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "BackOffice Associates",
+        "vendor": "BackOffice Associates",
+        "category": "Data Quality Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Mendix",
+        "vendor": "Mendix Inc.",
+        "category": "Platforms as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Claude",
+        "vendor": "Anthropic PBC",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Keyence",
+        "vendor": "Keyence Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Route",
+        "vendor": "Route App Inc.",
+        "category": "Inventory and Order Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "ChatGPT",
+        "vendor": "OpenAI",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "GitHub Copilot",
+        "vendor": "GitHub, Inc.",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Como",
+        "vendor": "Como",
+        "category": "Loyalty and Gamification",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft Copilot",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Centricity",
+        "vendor": "GE Healthcare Inc.",
+        "category": "Medical Practice Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Simon",
+        "vendor": "Institutional Capital Network, Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Perks at Work",
+        "vendor": "Perks at Work",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "OpenAI",
+        "vendor": "OpenAI",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cloudbees Jenkins",
+        "vendor": "Cloudbees, Inc",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Craft",
+        "vendor": "Craft.io Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Brightly",
+        "vendor": "Brightly Software, Inc",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Electronics Manufacturing",
+        "vendor": "Creation Technologies",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "LinkedIn Learning",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "VIA",
+        "vendor": "VIA Institute on Character",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "dbt",
+        "vendor": "dbt Labs, Inc",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Brunswick",
+        "vendor": "BBP Investment Holdings, LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Built",
+        "vendor": "Built",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "3D Hubs",
+        "vendor": "HUBS B.V.",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Hugging Face",
+        "vendor": "Hugging Face, Inc",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Siemens AG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Mirko",
+        "last_name": "Löffler",
+        "title": "One Tech Company",
+        "email": "",
+        "phone": "",
+        "company": "Siemens AG Chemnitz",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 14:41"
+}

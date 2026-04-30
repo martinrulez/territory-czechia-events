@@ -1,0 +1,196 @@
+{
+  "company_key": "nidyon - Česká republika s.r.o.",
+  "company_name": "NIDYON - Česká Republika s.r.o.",
+  "domain": "www.nidyon.com",
+  "domain_url": "https://www.nidyon.com",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "NIDYON - Česká Republika s.r.o.",
+    "opportunity_score": 12,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "17143292",
+    "official_name": "NIDYON - Česká Republika s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46",
+      "471",
+      "46",
+      "471"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Májovková 178/3, Pitkovice, 10400 Praha 10, Praha, Májovková, 10400",
+    "zi_done": true,
+    "employee_count": 19,
+    "revenue": 5379,
+    "zi_company_name": "Nidyon",
+    "zi_domain": "www.nidyon.com",
+    "zi_city": "Dogana",
+    "zi_country": "San Marino",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.nidyon.com",
+    "homepage": {
+      "title": "Nidyon tecnologia costruttiva Sistema costruttivo all'avanguardia",
+      "description": "Nidyon costruzioni antisismiche e sismoresistenti in EPS - Da 30 anni nel settore dell'edilizia con il nostro Sistema Costruttivo innovativo brevettato.",
+      "text_excerpt": "Nidyon tecnologia costruttiva Sistema costruttivo all'avanguardia\nSalta al contenuto principale\nNidyon è il Sistema Costruttivo certificato per realizzare edifici antisismici e sismoresistenti, coibentazione in Classe A, rapidità costruttiva, grazie ad un unico componente eco-compatibile in EPS.\nChi siamo\nSistema Antisismico Sismoresistente Sostenibile\nSicuro Superiore Vantaggioso\nDa 30 anni Nidyon® opera autorevolmente nel settore delle costruzioni impiegando l’omonimo Sistema Costruttivo certificato. Core business è la produzione, l’assemblaggio e la commercializzazione di pannelli in polistirene espanso e acciaio zincato, da installare in loco, il cui impiego dà vita a costruzioni, ricostruzioni e ristrutturazioni sismoresistenti e antisismiche, a basso consumo energetico, termicamente e acusticamente isolate, eco-compatibili.\nStruttura, isolamento e tamponamento\nvengono realizzati\nin un unico processo costruttivo con il 3in1 di Nidyon\nUlteriori vantaggi e prestazioni: rapidità costruttiva; estrema facilità di montaggio; importanti abbattimenti dei costi. La continua ricerca tecnico-scientifica contraddistingue Nidyon in modo esemplare e unico.\nicuro, veloce, sostenibile. Se il futuro dell’edilizia è il tuo presente, Nidyon è la risposta.\nScarica e leggi la brochure\nScarica e leggi la brochure\nScarica e leggi la brochure\nScarica e leggi la brochure\nCappotto\nCappotto\nVille\nVille\nScuole/Ospedali\nScuole/Ospedali\nRistrutturazioni\nRistrutturazioni\nRicezione turistica\nRicezione turistica\nUffici - Pubblico\nUffici - Pubblico\nEdifici di culto\nEdifici di culto\nGrandi edifici\nGrandi edifici\nHousing sociale\nHousing sociale\nIndustriali sportivi\nIndustriali sportivi\nModuli abitativi\nModuli abitativi\nProgetti particolari\nProgetti particolari\nResidenziale\nSottotitolo Residenziale\nRealizzazioni\nVasta libertà di progettazione per soluzioni costruttive personalizzate.\nIl Sistema Nidyon grazie alla modularità dell’elemento è l’ideale per realizzare edifici di\nogni tipologia e dimensione\n, con elevate prestazioni termiche, acustiche e di sismoresistenza.\nVedi tutto\nI nostri prodotti\nEps e acciaio: sicurezza e resistenza innanzitutto.\nCore business è la produzione, l’assemblaggio e la commercializzazione di pannelli in polistirene espanso e acciaio zincato, da installare in loco e il cui impiego dà vita a costruzioni, ricostruzioni e ristrutturazioni sismoresistenti e antisimiche, a basso consumo energetico, acusticamente isolati, eco-compatibili.\nNidyon realizza anche linee di produzione (impianti).\nLeggi di più\nPannelli doppi\nNipad\nDoppio Twin\nDoppio Dry\nDoppio Dry Twin\nPannelli solaio\nNisol\nSolaio Dry\nPannelli singoli\nNipap\nNitra\nNitri\nNicar\nIscriviti alla newsletter\nDichiaro di accettare la normativa sulla\nPrivacy Policy\nIscriviti\nIscriviti alla nostra newsletter e scarica il catalogo di Nidyon\nDichiaro di accettare la normativa sulla\nPrivacy Policy\nIscriviti e scarica"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "NIDYON - Česká Republika s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 16,
+    "all_technologies": [
+      {
+        "product": "Drupal 9",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "iubenda",
+        "vendor": "iubenda s.r.l",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Shutterstock",
+        "vendor": "Shutterstock, Inc.",
+        "category": "Stock Images Providers",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Drupal",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "NIDYON - Česká Republika s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Gianluigi",
+        "last_name": "Rebecchi",
+        "title": "Project Manager",
+        "email": "rebecchi@nidyon.com",
+        "phone": "",
+        "company": "Nidyon",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 19:13"
+}

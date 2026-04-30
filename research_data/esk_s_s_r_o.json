@@ -1,0 +1,40 @@
+{
+  "company_key": "esk_s_s_r_o",
+  "company_name": "Česká síť s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PAVEL ŠČEPKA",
+        "firstName": "PAVEL",
+        "lastName": "ŠČEPKA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "VOJTĚCH KAVINA",
+        "firstName": "VOJTĚCH",
+        "lastName": "KAVINA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:26"
+}

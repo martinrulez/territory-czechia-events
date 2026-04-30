@@ -1,0 +1,109 @@
+{
+  "company_key": "bsg",
+  "company_name": "BSG",
+  "domain": "",
+  "domain_url": "",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "BSG",
+    "opportunity_score": 20,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.49,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.49,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "02108232",
+    "official_name": "BSG s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "23",
+      "71120",
+      "00",
+      "46",
+      "52",
+      "25",
+      "77220",
+      "68200",
+      "38110",
+      "47",
+      "95310",
+      "00",
+      "23",
+      "25",
+      "47",
+      "52",
+      "6820",
+      "7112",
+      "77290",
+      "46",
+      "45200",
+      "38110"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "č.p. 99, 33901 Předslav, Předslav, 33901",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "BSG",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Nikolay",
+        "last_name": "Turchin",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Bsg",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Barrett",
+        "last_name": "Nichols",
+        "title": "Group of Bsg Financial Founder & Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "BSG",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 84.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 15:42"
+}

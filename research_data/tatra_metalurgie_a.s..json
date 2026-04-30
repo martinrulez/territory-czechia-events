@@ -1,0 +1,217 @@
+{
+  "company_key": "tatra metalurgie a.s.",
+  "company_name": "TATRA METALURGIE a.s.",
+  "domain": "www.tatrametalurgie.cz",
+  "domain_url": "https://www.tatrametalurgie.cz",
+  "events": "Czech Foundry Association Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "TATRA METALURGIE a.s.",
+    "opportunity_score": 22,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.62,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.62,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "03667952",
+    "official_name": "TATRA METALURGIE a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "43320",
+      "81230",
+      "00",
+      "28",
+      "95220",
+      "256",
+      "38",
+      "72",
+      "71120",
+      "74990",
+      "82100",
+      "24",
+      "25530",
+      "26",
+      "33200",
+      "245",
+      "32990",
+      "23",
+      "25400",
+      "461",
+      "77220",
+      "952",
+      "G",
+      "K",
+      "2451",
+      "255",
+      "245",
+      "952",
+      "00",
+      "2451",
+      "256",
+      "28",
+      "461",
+      "72",
+      "7490",
+      "77290",
+      "82110",
+      "G",
+      "38",
+      "3299",
+      "J",
+      "7112",
+      "26",
+      "81290",
+      "95220",
+      "23",
+      "24",
+      "25500",
+      "43320",
+      "25620",
+      "257",
+      "33200"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Areál Tatry 1448/5, 74221 Kopřivnice, Kopřivnice, Areál Tatry, 74221",
+    "zi_done": true,
+    "employee_count": 589,
+    "revenue": 32395,
+    "zi_company_name": "TATRA METALURGIE",
+    "zi_domain": "www.tatrametalurgie.cz",
+    "zi_city": "Kopřivnice Moravskoslezský",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.tatrametalurgie.cz",
+    "homepage": {
+      "title": "TATRA METALURGIE a.s.",
+      "description": "TATRA METALURGIE a.s. je významným českým výrobcem odlitků a výkovků, které jsou dodávány pro strojírenské aplikace v mnoha evropských zemích.",
+      "text_excerpt": "TATRA METALURGIE a.s.\nVÍTEJTE\nna stránkách společnosti TATRA METALURGIE a.s., dceřiné společnosti firmy\nTATRA  TRUCKS a.s.\n, tradičního výrobce nákladních automobilů.\nTATRA METALURGIE a.s. je významným českým výrobcem odlitků a výkovků, které jsou dodávány pro strojírenské aplikace v mnoha evropských zemích.\nObchodní činnost společnosti navazuje na dlouhodobé obchodní vztahy se zákazníky slévárny (Tafonco a.s.) a kovárny (Taforge a.s.) s cílem jejich dalšího posílení a rozvoje.\nOdlitky a výkovky směřují do automobilového průmyslu, železničního průmyslu, k výrobcům zemědělských strojů, stavebních strojů a manipulační techniky. Své uplatnění naleznou i v oblasti všeobecného strojírenství i speciálních aplikací.\nZveme  Vás k návštěvě naší společnosti, abyste mohli posoudit, jak se můžeme podílet na řešení Vašich představ a požadavků.\nWE CAST AND FORGE YOUR IDEAS\nDotační programy\nSpolečnost je zapsaná v obchodním rejstříku vedeném Krajským soudem v Ostravě, oddíl B, vložka 10641\nNapište nám\nOdlitky Fe\nAreál Tatry 1448/5, 742 21 Kopřivnice\nVolná místa\nOdlitky Al\nTel.: (+420) 730 590 721,\nE-mail: tatrametalurgie@tatra.cz\nLaboratoře a zkušebny\nVýkovky\nCopyright (c) 2021 TATRA METALURGIE a.s.\nDownload\nOznamovací systém\nDEVELOPED BY"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "TATRA METALURGIE a.s.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 9,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "UIkit",
+        "vendor": "Uikit",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "formy",
+        "vendor": "Leapy, Inc.",
+        "category": "Site Search",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "OpenStreetMap",
+        "vendor": "Open Street Map",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Revize",
+        "vendor": "Revize",
+        "category": "Enterprise Content Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Leaflet",
+        "vendor": "LeafletJS",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "TATRA METALURGIE a.s.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Anastasiia",
+        "last_name": "Moriak",
+        "title": "Sales Officer",
+        "email": "anastasiia.moriak@tatra.cz",
+        "phone": "",
+        "company": "TATRA METALURGIE",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 93.0
+      },
+      {
+        "first_name": "Tomas",
+        "last_name": "Fedorcak",
+        "title": "Sales Representative",
+        "email": "tomas.fedorcak@tatra.cz",
+        "phone": "",
+        "company": "TATRA METALURGIE",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 15:34"
+}

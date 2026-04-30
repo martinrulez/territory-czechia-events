@@ -1,0 +1,41 @@
+{
+  "company_key": "eduvision_s_r_o",
+  "company_name": "EduVision s.r.o.",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026, Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PETR ČUMBA",
+        "firstName": "PETR",
+        "lastName": "ČUMBA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ANTONÍN KOPLÍK",
+        "firstName": "ANTONÍN",
+        "lastName": "KOPLÍK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:08:45"
+}

@@ -1,0 +1,213 @@
+{
+  "company_key": "gumex_spol_s_r_o",
+  "company_name": "GUMEX, spol. s r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "GUMEX, spol. s r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 23,
+    "all_technologies": [
+      {
+        "product": "Bing Universal Event Tracking",
+        "vendor": "Microsoft Corporation",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Bing Ads",
+        "vendor": "Microsoft Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Luigis Box",
+        "vendor": "Luigi's Box, s.r.o",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Issuu",
+        "vendor": "Issuu, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Looker",
+        "vendor": "Looker Data Sciences, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cookie Script",
+        "vendor": "Objectis Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "DoubleClick Bid Manager",
+        "vendor": "Google LLC",
+        "category": "Demand Side Platforms",
+        "categoryParent": "Advertising"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "DUŠAN SEDLÁČEK",
+        "firstName": "DUŠAN",
+        "lastName": "SEDLÁČEK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "LIBOR SEDLÁČEK",
+        "firstName": "LIBOR",
+        "lastName": "SEDLÁČEK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JANA LAGOVÁ",
+        "firstName": "JANA",
+        "lastName": "LAGOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:22",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.gumex.cz",
+    "homepage": {
+      "title": "GUMEX, spol. s. r.o. | GUMEX.CZ",
+      "description": "Jsme experti na hadice, těsnění a profily a pryžové pásy. Specializujeme se na dodávky pro průmyslové podniky. Produkty pro vás připravíme na míru.",
+      "text_excerpt": "GUMEX, spol. s. r.o. | GUMEX.CZ\nCentrum poptávek\nVše o nákupu\nZákaznický program GUMEX+\nSlužby a úprava zboží na míru\nDoprava a zasílání zboží\nBlog a poradna\nPřehled informací pro zákazníky\nChemické odolnosti\nObchodní podmínky\nO nás a kariéra\nPředstavení firmy GUMEX\nZ kroniky zakladatele\nKariéra v GUMEXU\nVolná pracovní místa\nCertifikace ISO\n+420 518 399 588\nKontakty\n+420 518 399 588\nKontakty\nCZK\nCZK\nEUR\nCZK\nCZK\nEUR\nZákaznická zóna - přihlášení\nRegistrace\nNabídka zboží je platná pouze pro registrované podnikatele\nHadice a jejich kompletace\nKategorie produktů\nHadice pro kapalná média\nHadice na vzduch a plyny\nHadice na sypké látky\nHadice na odsávání\nHadice na chemikálie\nPotravinářské hadice\nHadice pro farmacii\nHadicové spony a svorky\nHadicové spojky, šroubení, redukce a koncovky\nChráničky na hadice a kabely\nPříslušenství k hadicím\nHydraulické hadice\nKoncovky pro hydraulické hadice\nCentrum poptávek\nNechte si vyrobit nebo upravit zboží přesně na míru\nRychlá a snadná konfigurace\nNaši specialisté vám poradí\nOzveme se do 24H\nProzkoumat\nSouvisející služby\nHadice a jejich kompletace\nProfily a výroba těsnění\nKategorie produktů\nPloché kompaktní materiály\nPloché porézní materiály\nOstatní ploché materiály\nProfily s kovovou výztuhou Pireli\nKompaktní profily v metráži\nPorézní profily v metráži\nProfily v metráži na míru\nLepidla\nCentrum poptávek\nNechte si vyrobit nebo upravit zboží přesně na míru\nRychlá a snadná konfigurace\nNaši specialisté vám poradí\nOzveme se do 24H\nProzkoumat\nSouvisející služby\nProfily a výroba těsnění\nTechnické plasty\nKategorie produktů\nOtěruvzdorné desky\nTechnické plastové desky\nPěnové polyetylenové desky\nIzolační desky\nUmělé dřevo\nPlastové tyče a trubky\nPolyuretanové tyče\nCentrum poptávek\nNechte si vyrobit nebo upravit zboží přesně na míru\nRychlá a snadná konfigurace\nNaši specialisté vám poradí\nOzveme se do 24H\nProzkoumat\nSouvisející služby\nTechnické plasty\nDopravníkové pásy a montáž\nKategorie produktů\nDopravníkové pásy\nPříslušenství pro pásové dopravníky\nCentrum poptávek\nNechte si vyrobit nebo upravit zboží přesně na míru\nRychlá a snadná konfigurace\nNaši specialisté vám poradí\nOzveme se do 24H\nProzkoumat\nSouvisející služby\nDopravníkové pásy a montáž\nZlepšení pracovního prostředí\nKategorie produktů\nProtihlukové izolace\nKufry na nářadí\nFólie do vrat a průchodů\nPryžové podlahoviny a podložky\nGumové břity na sněhové radlice\nPVC podlahoviny\nGumové rohože\nRetardéry a kabelové mosty\nOchranné a svařovací závěsy\nOchranné zástěny\nCentrum poptávek\nNechte si vyrobit nebo upravit zboží přesně na míru\nRychlá a snadná konfigurace\nNaši specialisté vám poradí\nOzveme se do 24H\nProzkoumat\nSouvisející služby\nZlepšení pracovního prostředí\nDalší pryžové a plastové výrobky\nKategorie produktů\nPrvky pro bezpečnou elektroinstalaci\nHardy spojky\nRazítkové pryže\nSamovulkanizační pásky\nStahovací (vázací) pásky\nTeflonové pásky a vlákna\nMazací technika, maznice a příslušenství\nOstatní lepidla a tmely\nČisticí koule pro prosévací zařízení\nPodložky pro autoservisní zvedáky\nP"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.gumex.cz/sluzby",
+      "text": "GUMEX, spol. s. r.o. | GUMEX.CZ\nCentrum poptávek\nVše o nákupu\nZákaznický program GUMEX+\nSlužby a úprava zboží na míru\nDoprava a zasílání zboží\nBlog a poradna\nPřehled informací pro zákazníky\nChemické odolnosti\nObchodní podmínky\nO nás a kariéra\nPředstavení firmy GUMEX\nZ kroniky zakladatele\nKariéra v GUMEXU\nVolná pracovní místa\nCertifikace ISO\n+420 518 399 588\nKontakty\n+420 518 399 588\nKontakty\nCZK\nCZK\nEUR\nCZK\nCZK\nEUR\nZákaznická zóna - přihlášení\nRegistrace\nNabídka zboží je platná pouze pro registrované podnikatele\nHadice a jejich kompletace\nKategorie produktů\nHadice pro kapalná média\nHadice na vzduch a plyny\nHadice na sypké látky\nHadice na odsávání\nHadice na chemikálie\nPotravinářské hadice\nHadice pro farmacii\nHadicové spony a svorky\nHadicové spojky, šroubení, redukce a koncovky\nChráničky na hadice a kabely\nPříslušenství k hadicím\nHydraulické hadice\nKoncovky pro hydraulické hadice\nCentrum poptávek\nNechte si vyrobit nebo upravit zboží přesně na míru\nRychlá a snadná konfigurace\nNaši specialisté vám poradí\nOzveme se do 24H\nProzkoumat\nSouvisející služby\nHadice a jejich kompletace\nProfily a výroba těsnění\nKategorie produktů\nPloché kompaktní materiály\nPloché porézní materiály\nOstatní ploché materiály\nProfily s kovovou výztuhou Pireli\nKompaktní profily v metráži\nPorézní profily v metráži\nProfily v metráži na míru\nLepidla\nCentrum poptávek\nNechte si vyrobit nebo upravit zboží přesně na míru\nRychlá a snadná konfigurace\nNaši specialisté vám poradí\nOzveme se do 24H\nProzkoumat\nSouvisející služby\nProfily a výroba těsnění\nTechnické plasty\nKategorie produktů\nOtěruvzdorné desky\nTechnické plastové desky\nPěnové polyetylenové desky\nIzolační desky\nUmělé dřevo\nPlastové tyče a trubky\nPolyuretanové tyče\nCentrum poptávek\nNechte si vyrobit nebo upravit zboží přesně na míru\nRychlá a snadná konfigurace\nNaši specialisté vám poradí\nOzveme se do 24H\nProzkoumat\nSouvisející služby\nTechnické plasty\nDopravníkové pásy a montáž\nKategorie produktů\nDopravníkové pásy\nPříslušenství pro pásové dopravníky\nCentrum poptávek\nNechte si vyrobit nebo upravit zboží přesně na míru\nRychlá a snadná konfigurace\nNaši specialisté vám poradí\nOzveme se do 24H\nProzkoumat\nSouvisející služby\nDopravníkové pásy a montáž\nZlepšení pracovního prostředí\nKategorie produktů\nProtihlukové izolace\nKufry na nářadí\nFólie do vrat a průchodů\nPryžové podlahoviny a podložky\nGumové břity na sněhové radlice\nPVC podlahoviny\nGumové rohože\nRetardéry a kabelové mosty\nOchranné a svařovací závěsy\nOchranné zástěny\nCentrum poptávek\nNechte si vyrobit nebo upravit zboží přesně na míru\nRychlá a snadná konfigurace\nNaši specialisté vám poradí\nOzveme se do 24H\nProzkoumat\nSouvisející služby\nZlepšení pracovního prostředí\nDalší pryžové a plastové výrobky\nKategorie produktů\nPrvky pro bezpečnou elektroinstalaci\nHardy spojky\nRazítkové pryže\nSamovulkanizační pásky\nStahovací (vázací) pásky\nTeflonové pásky a vlákna\nMazací technika, maznice a příslušenství\nOstatní lepidla a tmely\nČisticí koule pro prosévací zařízení\nPodložky pro autoservisní zvedáky\nP"
+    },
+    "contact_page": {
+      "url": "https://www.gumex.cz/kontakt",
+      "text": "GUMEX, spol. s. r.o. | GUMEX.CZ\nCentrum poptávek\nVše o nákupu\nZákaznický program GUMEX+\nSlužby a úprava zboží na míru\nDoprava a zasílání zboží\nBlog a poradna\nPřehled informací pro zákazníky\nChemické odolnosti\nObchodní podmínky\nO nás a kariéra\nPředstavení firmy GUMEX\nZ kroniky zakladatele\nKariéra v GUMEXU\nVolná pracovní místa\nCertifikace ISO\n+420 518 399 588\nKontakty\n+420 518 399 588\nKontakty\nCZK\nCZK\nEUR\nCZK\nCZK\nEUR\nZákaznická zóna - přihlášení\nRegistrace\nNabídka zboží je platná pouze pro registrované podnikatele\nHadice a jejich kompletace\nKategorie produktů\nHadice pro kapalná média\nHadice na vzduch a plyny\nHadice na sypké látky\nHadice na odsávání\nHadice na chemikálie\nPotravinářské hadice\nHadice pro farmacii\nHadicové spony a svorky\nHadicové spojky, šroubení, redukce a koncovky\nChráničky na hadice a kabely\nPříslušenství k hadicím\nHydraulické hadice\nKoncovky pro hydraulické hadice\nCentrum poptávek\nNechte si vyrobit nebo upravit zboží přesně na míru\nRychlá a snadná konfigurace\nNaši specialisté vám poradí\nOzveme se do 24H\nProzkoumat\nSouvisející služby\nHadice a jejich kompletace\nProfily a výroba těsnění\nKategorie produktů\nPloché kompaktní materiály\nPloché porézní materiály\nOstatní ploché materiály\nProfily s kovovou výztuhou Pireli\nKompaktní profily v metráži\nPorézní profily v metráži\nProfily v metráži na míru\nLepidla\nCentrum poptávek\nNechte si vyrobit nebo upravit zboží přesně na míru\nRychlá a snadná konfigurace\nNaši specialisté vám poradí\nOzveme se do 24H\nProzkoumat\nSouvisející služby\nProfily a výroba těsnění\nTechnické plasty\nKategorie produktů\nOtěruvzdorné desky\nTechnické plastové desky\nPěnové polyetylenové desky\nIzolační desky\nUmělé dřevo\nPlastové tyče a trubky\nPolyuretanové tyče\nCentrum poptávek\nNechte si vyrobit nebo upravit zboží přesně na míru\nRychlá a snadná konfigurace\nNaši specialisté vám poradí\nOzveme se do 24H\nProzkoumat\nSouvisející služby\nTechnické plasty\nDopravníkové pásy a montáž\nKategorie produktů\nDopravníkové pásy\nPříslušenství pro pásové dopravníky\nCentr"
+    }
+  }
+}

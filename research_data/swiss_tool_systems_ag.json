@@ -1,0 +1,170 @@
+{
+  "company_key": "swiss tool systems ag",
+  "company_name": "SWISS TOOL SYSTEMS AG",
+  "domain": "www.swisstools.org",
+  "domain_url": "https://www.swisstools.org",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SWISS TOOL SYSTEMS AG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 99,
+    "revenue": 10000,
+    "zi_company_name": "Swiss Tool Systems",
+    "zi_domain": "www.swisstools.org",
+    "zi_city": "Burglen",
+    "zi_country": "Switzerland",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.swisstools.org",
+    "homepage": {
+      "title": "SWISS TOOL SYSTEMS AG - Werkzeugsysteme für höchste Produktivität :: DIN 69893, Schnellwechselsystem, Quick-Change, Feinbohrkopf, Ausdrehkopf, Werkzeugaufnahme, Weldonfutter, Wendeplatten, Drehwerkzeuge, Brückenwerkzeuge, Drehmeißel, Bohrstangen, Werkzeughalter, Bohrungen, Aufnahmen, Verlängerungen, Reduktionen",
+      "description": "SWISS TOOL SYSTEMS AG - Werkzeugsysteme für höchste Produktivität :: DIN 69893, Schnellwechselsystem Quick-Change, Feinbohrkopf, Ausdrehkopf, Werkzeugaufnahme, Weldonfutter, Wendeplatten, Drehwerkzeuge, Brückenwerkzeuge, Drehmeissel, Bohrstangen, Werkzeughalter, Bohrungen, Aufnahmen, Verlängerungen, Reduktionen",
+      "text_excerpt": "SWISS TOOL SYSTEMS AG - Werkzeugsysteme für höchste Produktivität :: DIN 69893, Schnellwechselsystem, Quick-Change, Feinbohrkopf, Ausdrehkopf, Werkzeugaufnahme, Weldonfutter, Wendeplatten, Drehwerkzeuge, Brückenwerkzeuge, Drehmeißel, Bohrstangen, Werkzeughalter, Bohrungen, Aufnahmen, Verlängerungen, Reduktionen\nDE |\nLOGIN\nWERKZEUGE\nSchnellwechselsystem\nMulti-Task Werkzeuge\nSchrumpffutter\nAusdrehköpfe\nZweischneider\nSchwingungsgedämpft\nBrückenwerkzeuge\nAufnahmen Verlängerungen Reduktionen\nSERVICE\nService-Hotline\nServicemeldung online\nReparaturservice\nSchulung\nTechnologie & Lösungen\nQuick-Change Werkzeugsysteme\nWerkzeughalter\nSpanneinheiten HSK und PSC\nFeinbohren\nSchruppen\nWendeplatten\nTiefe Bohrungen\nGroße Bohrungen\nSWISSTOOLS\nÜber uns\nInnovationen\nPresse\nJobs & Karriere\nKontakt\nNewsletter\nSWISSTOOLS SYSTEMS AG\nWydenstrasse 28\nCH-8575 Bürglen\nSchweiz\nTel. +41 (0) 71 634 85 20\nwww.swisstools.org\nSwiss Tool Systems AG\nAGB\nImpressum\nDatenschutz\nLOGIN\nBitte kontaktieren Sie uns, um Ihren Benutzernamen und Ihr Passwort zu erhalten\nservice@swisstools.org\nREGISTRIERUNG NEUKUNDE"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "SWISS TOOL SYSTEMS AG",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 14,
+    "all_technologies": [
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "AVG AntiVirus",
+        "vendor": "AVG",
+        "category": "Endpoint Protection",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Plesk",
+        "vendor": "Plesk International GmbH",
+        "category": "Hosting Control Panels",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "SWISS TOOL SYSTEMS AG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Marie",
+        "last_name": "Gomes",
+        "title": "Director, DE Production",
+        "email": "",
+        "phone": "",
+        "company": "Swiss Tool Systems",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 16:48"
+}

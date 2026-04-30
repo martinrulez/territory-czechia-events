@@ -1,0 +1,131 @@
+{
+  "company_key": "tsubaki kabelschlepp",
+  "company_name": "Tsubaki KabelSchlepp",
+  "domain": "www.kabelschlepp.ch",
+  "domain_url": "https://www.kabelschlepp.ch",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Tsubaki KabelSchlepp",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 12,
+    "revenue": 3257,
+    "zi_company_name": "TSUBAKI KABELSCHLEPP",
+    "zi_domain": "www.kabelschlepp.ch",
+    "zi_city": "",
+    "zi_country": "Switzerland",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.kabelschlepp.ch",
+    "homepage": {
+      "title": "Cable Carriers, Cables, Conveyor and Protection Systems | TSUBAKI KABELSCHLEPP",
+      "description": "Cable carriers made of steel, plastic or hybrid, chain chain-suitable cables, ready-to-connect cable carrier systems as well as conveyor and protection systems you will find in the product range of KABELSCHLEPP®.",
+      "text_excerpt": "Cable Carriers, Cables, Conveyor and Protection Systems | TSUBAKI KABELSCHLEPP\nto top\nnext\nprev\n/ 03\n/ 03\n/ 03\nNews\nTKHP SERIES\n“THE GRIZZLY”\nHigh-Performance cable carriers for long travel lengths\nand high additional loads\nOur new TKHP series is a reliable and efficient cable routing for high-performance applications with travel lengths up to 1.500 meters in rough conditions, such as port cranes or the transport of bulk materials. It can absorb a high level of force, is highly durable and dirt-resistant.\nread more\nNews & Talkabouts\nHigher, faster, farther\nUA1995 RSH with aluminum stays\nOur proven all-rounder has grown even bigger – even more height, even more width and multiple possibilities to open it.\nread more\nNews & Talkabouts\nScrap as a resource\nImproving the CO2 footprint\nInvest in a sustainable future with intelligent waste collection! With a focus on pure recycling, we enable a sustainable material cycle and thus the efficient use of your resources. Interested? Contact us now and actively shape a sustainable world!\nread more\nWhat we do\nCable carriers, chain-suitable cables, conveyor and protection systems – products and system solutions from KABELSCHLEPP\nenhance your products sustainably. We are a specialist for standard applications and complex tasks at the same time with the experience of decades and hundreds of industries, i.e. Automotive, Robotics and Machine Tool – we are connected.\nCable carrier systems\nThinking ahead. Leading the way.\nWe supply steel, high-grade stainless steel and solid plastic cable carriers and plastic cable carriers with aluminium supports (hybrid cable carriers), in standard sizes or tailor-made to customer requirements in millimetre-precision units.\nread more\nConveyor and protection systems\nProgress. Keeping things moving.\nKABELSCHLEPP offers fully developed, safe systems that protect guideways, spindles and axles from contamination and damage. Our guideway protection solutions thus avoid expensive down times and facilitate optimal production processes.\nread more\nProduct portfolio\nCable carrier systems\nCable carriers\nWhether cable carriers made of steel, plastic or hybrid product – at KABELSCHLEPP® the conditions of your application determine the material.\nread more\nCable carrier systems\nCables for cable carriers\nTRAXLINE® cables for cable carriers: Reliable, robust, with high availability. Your benefit from many years of experience combined with ongoing optimization, proven in tests and praxis.\nread more\nCable carrier systems\nReady-to-connect cable carrier systems\nFrom pre-assembled cables to complex, ready-to-connect systems, from lot size 1 to series – worldwide thousands of KABELSCHLEPP® systems are reliably in use.\nread more\nConveyor and protection systems\nConveyor systems\nOur conveyor systems embody more than 50 years of experience. Systematic further development of our products and adaption with the latest technological needs guarantees you the utmost level of reliability.\nread more\nConveyor and prote"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Tsubaki KabelSchlepp",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 10,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Adobe Flash",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Adobe Typekit",
+        "vendor": "Adobe Inc.",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Tsubaki KabelSchlepp",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 16:40"
+}

@@ -1,0 +1,149 @@
+{
+  "company_key": "tribotec_spol_s_r_o",
+  "company_name": "TRIBOTEC, spol. s r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "TRIBOTEC, spol. s r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 15,
+    "all_technologies": [
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Adobe DreamWeaver",
+        "vendor": "Adobe Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WPForms",
+        "vendor": "WPForms LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Adobe Flash",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MICHAL VAŠÍČEK",
+        "firstName": "MICHAL",
+        "lastName": "VAŠÍČEK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ROBERT ALEXA",
+        "firstName": "ROBERT",
+        "lastName": "ALEXA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:03",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.tribotec.cz",
+    "homepage": {
+      "title": "TRIBOTEC – Centrální mazání a systémy pro kolejová vozidla",
+      "description": "",
+      "text_excerpt": "TRIBOTEC – Centrální mazání a systémy pro kolejová vozidla\nLinkedin\nYoutube\nCENTRÁLNÍ\nMAZÁNÍ\nPŘEJÍT NA WEB\nSYSTÉMY PRO\nKOLEJOVÁ VOZIDLA\nPŘEJÍT NA WEB\nCENTRÁLNÍ\nMAZÁNÍ\nPŘEJÍT NA WEB\nSYSTÉMY PRO\nKOLEJOVÁ VOZIDLA\nPŘEJÍT NA WEB\nTRIBOTEC, spol. s r.o., Košuličova 4, 619 00 Brno, Czech republic | +420 543 425 611 | tribotec@tribotec.cz\nCopyright © Všechna práva vyhrazena TRIBOTEC spol. s r.o."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

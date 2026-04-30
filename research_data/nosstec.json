@@ -1,0 +1,91 @@
+{
+  "company_key": "nosstec",
+  "company_name": "Nosstec",
+  "domain": "www.nosstec.se",
+  "domain_url": "https://www.nosstec.se",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Nosstec",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 7,
+    "revenue": 1244,
+    "zi_company_name": "Nosstec",
+    "zi_domain": "www.nosstec.se",
+    "zi_city": "Nossebro",
+    "zi_country": "Sweden",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.nosstec.se",
+    "homepage": {
+      "title": "Welcome to Nosstec - Your choice for high quality bending roll machines",
+      "description": "Nosstec is the sales company that is your preferred partner of choice when you have a need of bending roll machines.",
+      "text_excerpt": "Welcome to Nosstec - Your choice for high quality bending roll machines\nHome\nCompany\nProducts\nHome\nWelcome\nNosstec\nAt Nosstec we believe very strongly in producing bending roll machines made with pride and superior quality. For us, superior quality means a long lifetime of the machine and also the best sustainability for our customers’ investment.\nOur broad portfolio of machines are split into three main groups:\nManual machines\nDriven machines\nCNC machines\nRoll bent products – driven by quality!\nTo view/download our product brochures, go to the\nproduct support page\n, where you will find brochures in several languages.\nWelcome!\nNosstec AB, Järnvägsgatan 19, 465 30 Nossebro, SWEDEN\nTel: +46 (0)512-298 85  •  E-mail: info@nosstec.se\nAll contents, graphics and webdesign, unless otherwise stated, is copyright ©2012-2026 Nosstec, all rights reserved.\nWeb design by Nossebro Mediaproduktion. Best viewed in Firefox, Safari, Chrome or Internet Explorer 8+."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Nosstec",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 3,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Nosstec",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 17:19"
+}

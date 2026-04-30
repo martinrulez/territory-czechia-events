@@ -1,0 +1,31 @@
+{
+  "company_key": "v_b_technick_univerzita_ostrava",
+  "company_name": "VŠB  – TECHNICKÁ UNIVERZITA OSTRAVA",
+  "domain": "",
+  "events": "Moravian Aviation Cluster Members",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Jana Hakalová",
+        "firstName": "Jana",
+        "lastName": "Hakalová",
+        "jobTitle": "",
+        "email": "jana.hakalova@vsb.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:37"
+}

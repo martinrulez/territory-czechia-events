@@ -1,0 +1,247 @@
+{
+  "company_key": "j_t_real_estate_cz",
+  "company_name": "J & T REAL ESTATE CZ",
+  "domain": "",
+  "events": "Czech Green Building Council Members",
+  "technographics": {
+    "success": true,
+    "company": "J & T REAL ESTATE CZ",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 27,
+    "all_technologies": [
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Analytics",
+        "vendor": "Facebook, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "AddToAny",
+        "vendor": "AddToAny",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Mapbox GL JS API",
+        "vendor": "Mapbox Inc",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Shutterstock",
+        "vendor": "Shutterstock, Inc.",
+        "category": "Stock Images Providers",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Mailjet",
+        "vendor": "Mailjet Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Drupal 9",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Drupal",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "FRANTIŠEK JÍŠA",
+        "firstName": "FRANTIŠEK",
+        "lastName": "JÍŠA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DUŠAN PALCR",
+        "firstName": "DUŠAN",
+        "lastName": "PALCR",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MARTIN KODEŠ",
+        "firstName": "MARTIN",
+        "lastName": "KODEŠ",
+        "jobTitle": "Vice-Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JIŘÍ KNOB",
+        "firstName": "JIŘÍ",
+        "lastName": "KNOB",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:56",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.jtre.sk",
+    "homepage": {
+      "title": "JTRE Nehnuteľnosti | Kancelárie | Rezidencie | Development",
+      "description": "",
+      "text_excerpt": "JTRE Nehnuteľnosti | Kancelárie | Rezidencie | Development\nSkočiť na hlavný obsah\nDávame priestor\nProjekty\nVo výstavbe\nDowntown Yards\nElegantná nadčasová architektúra s londýnskym charakterom zahŕňa rôzne typy bývania, aktívny parter s obch\nVo výstavbe\nNordhafen Living & Office\nProjekt navrhnutý štúdiom gmp Architekten má stavebné povolenie pre multifunkčný blok s celkovou hrubou podlahovou pl\nUkončený\nEurovea Tower\nElegantná stavba s ladnými krivkami, zdôraznenými cez deň hrou tieňov na fasáde a v noci pôsobivou ilumináciou, bude ozdobou siluety mesta.\nMultifunkčné\nProjekty\nAdministratívne\nProjekty\nRezidenčné\nProjekty\nHotelové\nProjekty\nLogistické a priemyselné\nProjekty\nRetailové\nProjekty\nNovinky\n26 Mar, 2026\nPokračovanie River Parku – jedinečná šanca žiť na tej najlepšej adrese v Bratislave\nPokračovanie ikonického projektu na dunajskej promenáde prináša limitovanú kolekciu 153 prémiových rezidencií na jednej z najprestížnejších adries v meste.\n12 Feb, 2026\nGanz House Eurovea sa začína odhaľovať\nUnikátny projekt Ganz House Eurovea smeruje do záverečných fáz realizácie.\nTento rok prinesie na trh 10-tisíc štvorcových metrov technologicky najvyspelejších kancelárií a 65 nadčasových rezidencií.\n04 Feb, 2026\nRevitalizácia nábrežného parku prinesie Bratislavčanom kvalitný verejný priestor pri Dunaji\nZelený pravý breh Dunaja medzi Starým mostom a Mostom Apollo čaká premena.\nrokov skúseností\n300\nprofesionálov\nzrealizovaných projektov\nmilión m\npostavených projektov\n€1.92\nv hodnote 1.92 miliardy eur\nv 9 krajinách sveta\nSpoločnosť JTRE patrí medzi lídrov v oblasti realitného developmentu na Slovensku a vďaka rozsahu a kvalite realizovaných projektov naprieč všetkými segmentmi realitného trhu si zároveň vybudovala pevnú pozíciu v konkurencii najvýznamnejších developerov v CEE.\nZa všetkým, čo robíme, vidíme spokojnosť našich klientov."
+    },
+    "about": {
+      "url": "https://www.jtre.sk/o-nas",
+      "text": "O Nás | JTRE\nSkočiť na hlavný obsah\nDávame priestor\nO nás\nDeveloperská spoločnosť JTRE a.s. pôsobí na realitnom trhu už takmer 30 rokov. Vďaka rozsahu a kvalite zrealizovaných projektov a medzinárodným skúsenostiam patrí medzi lídrov v oblasti realitného developmentu na Slovensku, aj v celom regióne strednej Európy. JTRE je mestotvorný developer, ktorý sa špecializuje na výstavbu komplexných mestských štvrtí a tvorbu priestoru pre život so všetkým, čo k nemu patrí. Dáva priestor práci, bývaniu, zábave, odpočinku, i aktívnemu relaxu. Najvýznamnejšou realizáciou je v súčasnosti moderná multifunkčná štvrť Downtown Yards, ktorá nadväzuje na nábrežnú štvrť Eurovea City s najväčším nákupným centrom na Slovensku a prvým mrakodrapom Eurovea Tower. Medzi ďalšie významné zrealizované projekty patria štvrte Zuckermandel a River Park, obytné veže Klingerka a Panorama Towers či administratívny komplex Westend. V Londýne JTRE dokončilo svoje prvé projekty Triptych Bankside a Appleby Blue, ktoré získali viacero prestížnych ocenení. V Berlíne zas pracuje na komplexe Nordhafen Living & Office. Spoločnosť JTRE sa zodpovedne podieľa na rozvoji potenciálu miest, dáva priestor modernej architektúre a udržateľnému urbanizmu. Je vnímaná ako silný, odborný a spoľahlivý partner. Vďaka jedinečnému prístupu a inovatívnym riešeniam vytvára živé štvrte a plnohodnotné miesta pre kvalitný život.\nrokov skúseností\n300\nprofesionálov\nzrealizovaných projektov\nmilión m\npostavených projektov\n€1.92\nv hodnote 1.92 miliardy eur\nv 9 krajinách sveta\nAktivity JTRE holdingu\nReal Estate\nDevelopment\nProperty\nManagement\nFacility\nManagement\nReal Estate\nPrivate Equity\nReal Estate\nInvestment\nPrioritou nášho podnikania je development. Náš úspech je daný rozsiahlym know-how a predovšetkým praktickou znalosťou všetkých aspektov realitného trhu a obchodného cyklu. Klientom vo všetkých segmentoch ponúkame komplexné služby a riešenia šité na mieru.\nSme aktívni vo všetkých segmentoch realitného trhu.\nMultifunkčné\nProjekty\nAdministratívne\nProjekty\nRezidenčné\nProjekty\nHotelové\nProjekty\nLogistické a priemyselné\nProjekty\nRetailové\nProjekty\nNaša cesta\n2030\nNové Lido\n2023\nEurovea 2\nEurovea Tower\nEurovea Riverside\n2021\nKlingerka\nOvocné sady\n2020\nOtvorenie pobočky JTRE v Londýne a prvý projekt Triptych Bankside.\n2019\nNová Vlárska Kramáre\n2018\nZelené Terasy Devín\nLandererova 12\nWestend Plazza\n2017\nZuckermandel\nRustonka\nEperia Shopping Mall\nByty Fuxova\n2016\nWestend Gate\nPanorama Towers\nKarloveské rameno II\nZelené Terasy Devín\n2014\nProsek Court\nS9 Florenc\nByty Stromová\n2013\nDNV Park Bratislava\n2012\nAdministratívno-prevádzková budova LPS SR\n2011\nHotel Baltschug Kempinski Moscow\nWestend Square\nRezidencie Kampa\n2010\nRiver Park\n2009\nGrand Hotel Kempinski High Tatras\nDoubleTree By Hilton Košice\nProsek Point\n2008\nTower 115\nLogistické a výrobné haly v Trnave\nLogistické a skladové haly Nitra\n2007\nRezidencie Jeseniova I, II\nLogistická hala Ilava\n2006\nKarloveské rameno I\n2005\nCrowne Plaza\nLogistická hala Poznaň\nLogistické a skladové haly Dubnica nad Váhom\n2004\nWestend Court\n2002\nJavor Praha\nWestend Tower\n2000\nAdministratívna budova na Radlinskej a Dunajskej ulici.\n1999\nRezidencie Machnáč\n1996\nPôsobenie na slovenskom a českom realitnom trhu.\nWestend Point\nOcenenia\nVysokú kvalitu našich projektov deklarujú aj viaceré kľúčové ocenenia, vrátane „Construction & Investment Journal“ – prestížnou CEE realitnou publikáciou – v kategórii Stavba roka a ďalších kategóriách. Spoločnosť JTRE bola dvanásťkrát ocenená ako Developer roka magazínom ASB – tak profesionálnou porotou, ako aj verejnosťou. Od roku 2012 sme členmi Slovenskej rady pre zelené budovy (SKGBC).\nNajvyšším uznaním a pozitívnou spätnou väzbou pre nás stále ostávajú vypredané budovy určené na bývanie a prenajaté administratívne projekty.\nThe United Kingdom Property Awards 2022\nTriptych Bankside - Najlepší bytový interiér, 5-hviezdičkové ocenenie v kategórii Najlepší zmiešaný development\nEvening Standard New Homes Awards 2023\nTriptych Bankside - Najlepši"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.jtre.sk/kontakt",
+      "text": "Kontakt | JTRE\nSkočiť na hlavný obsah\nOtvárame nové horizonty realitného developmentu\nSlovenská republika\nJTRE a. s.\nSlovenská republika\nDvořákovo nábrežie 10\n811 02 Bratislava\nRiver Park\nTel.: +421 2 5941 8200\nShowroom\nTel.: +421 2 5941 8855\ninfo@jtre.sk\nPublic Relations, Media Contact\nMichal Dutka\nTel: +421 2 5941 8241\ndutka@jtre.sk\nSales Department\nTel: +421 2 5941 8855\nresidences@jtre.sk\nLeasing Department\nTel: +421 2 5941 8200\noffice@jtre.sk\nNemecko\nJTRE Germany GmbH\nLisa-Fittko-Strasse 7\n10557 Berlin\nGermany\nTel: +49 173 7240 518\ninfo@jtre.de\nwww.jtre.de\nVeľká Británia\nJTRE LONDON, Ltd\nNorthern Building\nOne Triptych Place\nLondon SE1 9SH\nTel: +44 (0) 203 637 2343\ninfo@jtrelondon.co.uk\nwww.jtrelondon.co.uk\nOdoberajte náš newsletter\nBuďte vždy informovaní o našich novinkách, aktivitách a projektoch.\nEmail\nOdoberať\nMám záujem o zasielanie newslettra a súhlasím so\nspracovaním osobných údajov\npre marketingové účely. Beriem na vedomie, že súhlas môžem kedykoľvek odvolať na:\nunsubscribe@jtre.sk\nLeave this field blank\nNechajte nám odkaz\nMeno\nEmail\nTelefón (nepovinné)\nSpráva\nSúhlasím so\nspracovaním osobných údajov\nza účelom kontaktovania\nMám záujem o zasielanie newslettra. Súhlasím so spracovaním\nosobných údajov na marketingové účely\n. Beriem na vedomie, že súhlas môžem kedykoľvek odvolať na\nunsubscribe@jtre.sk\nOdoslať\nLeave this field blank"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "company_key": "haas_sohn_rukov_s_r_o",
+  "company_name": "HAAS + SOHN Rukov, s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Václav Cintl",
+        "firstName": "Václav",
+        "lastName": "Cintl",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "VÁCLAV CINTL",
+        "firstName": "VÁCLAV",
+        "lastName": "CINTL",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:24"
+}

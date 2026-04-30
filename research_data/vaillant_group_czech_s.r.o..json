@@ -1,0 +1,100 @@
+{
+  "company_key": "vaillant group czech s.r.o.",
+  "company_name": "Vaillant Group Czech s.r.o.",
+  "domain": "www.myvaillantpro.cz",
+  "domain_url": "https://www.myvaillantpro.cz",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Vaillant Group Czech s.r.o.",
+    "opportunity_score": 26,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.8,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.8,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "45241881",
+    "official_name": "Vaillant Group Czech s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "27120",
+      "711",
+      "25220",
+      "4322",
+      "471",
+      "27900",
+      "69200",
+      "25290",
+      "27120",
+      "27900",
+      "43220",
+      "471",
+      "6920",
+      "711"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Plzeňská 188, 25219 Chrášťany, Chrášťany, Plzeňská, 25219",
+    "zi_done": true,
+    "employee_count": 59,
+    "revenue": 3804,
+    "zi_company_name": "Vaillant Group Czech sro",
+    "zi_domain": "www.myvaillantpro.cz",
+    "zi_city": "Chrášťany",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.myvaillantpro.cz",
+    "homepage": {
+      "title": "myVaillant Pro Česká republika",
+      "description": "Stránka pro partnery Vaillant Česká republika",
+      "text_excerpt": "myVaillant Pro Česká republika\nMenu\nPortál pro obchodní partnery myVaillant Pro\nVaillant. Váš spolehlivý partner pro vytápění a přípravu teplé vody.\nJako obchodní partner společnosti Vaillant jste nedílnou součástí našeho podnikání! Aby byla naše vzájemná spolupráce co nejpohodlnější, nabízíme vám řadu nástrojů pro projektování, montáž a servisní služby.\nPřihlášení\nRegistrace\nJste již partnerem společnosti Vaillant?\nV případě, že jste již naším partnerem, využijte níže uvedené linky pro vstup na servisní stránky a věrnostní klub.\nServisní stránky\nVstup na Servisní stránky pro autorizované partnery a projektanty\nVstoupit\nKlub Vaillant\nVstup do věrnostního klubu Vaillant pro montážní firmy\nVstoupit\nStaňte se naším partnerem - partnerem značky Vaillant\nJako partner společnosti Vaillant získáte prémiový přístup k nástrojům pro plánování, montáž i servis topných systémů. Poskytneme Vám exkluzivní informace, rady a návody. Jako partner společnosti Vaillant můžete těžit z našich dlouholetých zkušeností v oblasti vytápění, chlazení a větrání s využitím obnovitelných zdrojů energie. Využijte benefitů jako je rychlý přístup k eshopu náhradních dílů, věrnostnímu programu a nabídce školení. Nenechte si ujít příležitost k rozvoji svého podnikání. Staňte se partnerem značky Vaillant!\nVíce informací"
+    },
+    "about": {
+      "url": "https://www.myvaillantpro.cz/o-nas",
+      "text": "myVaillant Pro Česká republika\nMenu\n404 - Stránka nenalezena\nZdá se, že tato stránka byla smazána bez náhrady. Pokud hledáte konkrétní informace a nemůžete je najít na jiné stránce, kontaktujte nás prosím.\nZpět na myVaillant Pro"
+    },
+    "products": {
+      "url": "https://www.myvaillantpro.cz/produkty",
+      "text": "myVaillant Pro Česká republika\nMenu\n404 - Stránka nenalezena\nZdá se, že tato stránka byla smazána bez náhrady. Pokud hledáte konkrétní informace a nemůžete je najít na jiné stránce, kontaktujte nás prosím.\nZpět na myVaillant Pro"
+    },
+    "contact_page": {
+      "url": "https://www.myvaillantpro.cz/kontakt",
+      "text": "myVaillant Pro Česká republika\nMenu\n404 - Stránka nenalezena\nZdá se, že tato stránka byla smazána bez náhrady. Pokud hledáte konkrétní informace a nemůžete je najít na jiné stránce, kontaktujte nás prosím.\nZpět na myVaillant Pro"
+    }
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Vaillant Group Czech s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 14:34"
+}

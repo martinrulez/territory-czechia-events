@@ -1,0 +1,41 @@
+{
+  "company_key": "exact_forestall_s_r_o",
+  "company_name": "Exact Forestall s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "RADOVAN MELEŠ",
+        "firstName": "RADOVAN",
+        "lastName": "MELEŠ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PAWEL PIOTR WIECZOREK",
+        "firstName": "PAWEL PIOTR",
+        "lastName": "WIECZOREK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:08:52"
+}

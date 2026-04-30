@@ -1,0 +1,176 @@
+{
+  "company_key": "xella_cz_s_r_o",
+  "company_name": "Xella CZ, s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": true,
+    "company": "Xella CZ, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 18,
+    "all_technologies": [
+      {
+        "product": "Drupal 9",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "New Relic",
+        "vendor": "New Relic, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Vue",
+        "vendor": "Vue.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Drupal 8",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "MailerLite",
+        "vendor": "MailerLite UAB",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "NetNames",
+        "vendor": "NetNames",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Facebook Comments",
+        "vendor": "Facebook, Inc.",
+        "category": "Comment Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "New Relic Browser",
+        "vendor": "New Relic, Inc.",
+        "category": "Real User Monitoring",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Drupal",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "LUBOŠ HODAN",
+        "firstName": "LUBOŠ",
+        "lastName": "HODAN",
+        "jobTitle": "předseda VZO",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "OLGA ČECHOVÁ",
+        "firstName": "OLGA",
+        "lastName": "ČECHOVÁ",
+        "jobTitle": "hospodář VZO",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:49",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ytong.cz",
+    "homepage": {
+      "title": "PIM",
+      "description": "",
+      "text_excerpt": "PIM"
+    },
+    "about": {
+      "url": "https://www.ytong.cz/o-nas",
+      "text": "PIM"
+    },
+    "products": {
+      "url": "https://www.ytong.cz/produkty",
+      "text": "PIM"
+    },
+    "contact_page": {
+      "url": "https://www.ytong.cz/kontakt",
+      "text": "PIM"
+    }
+  }
+}

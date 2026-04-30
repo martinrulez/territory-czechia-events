@@ -1,0 +1,345 @@
+{
+  "company_key": "topsolid_czech_s_r_o",
+  "company_name": "TOPSOLID CZECH, s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "TOPSOLID CZECH, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 49,
+    "all_technologies": [
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "PL/SQL",
+        "vendor": "Oracle Corporation",
+        "category": "Database Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "SAP Crystal",
+        "vendor": "SAP SE",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "C++",
+        "vendor": "Standard C++ Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "C#",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Active Directory",
+        "vendor": "Microsoft Corporation",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SAS (common)",
+        "vendor": "SAS Institute, Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Plezi",
+        "vendor": "Plezi SAS",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Intershop Commerce Suite",
+        "vendor": "Intershop Communications AG",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Tweet Button",
+        "vendor": "Twitter, Inc.",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "TYPO3 CMS",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DocuSign",
+        "vendor": "DocuSign Inc.",
+        "category": "Electronic Signatures",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "HubSpot",
+        "vendor": "HubSpot, Inc",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Parsley",
+        "vendor": "",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "HubSpot Form Builder",
+        "vendor": "HubSpot, Inc",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bing Ads",
+        "vendor": "Microsoft Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Prototype",
+        "vendor": "Prototype Core Team.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Fusebill",
+        "vendor": "Fusebill Inc.",
+        "category": "Recurring Billing",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Freshservice",
+        "vendor": "Freshworks, Inc.",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Deltek Talent Management",
+        "vendor": "Deltek, inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "KAREL PREIS",
+        "firstName": "KAREL",
+        "lastName": "PREIS",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:00",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.topsolid.com",
+    "homepage": {
+      "title": "TopSolid, publisher of integrated software solutions: CAD/CAM/ERP - TopSolid - TopSolid",
+      "description": "TopSolid, a global leader in CAD/CAM/ERP software publishing, primarily targets the mechanical engineering, sheet metal working/boiler making, and woodworking industries.",
+      "text_excerpt": "TopSolid, publisher of integrated software solutions: CAD/CAM/ERP - TopSolid - TopSolid\nExplore TOPSOLID\nExplore TOPSOLID\nAbout TOPSOLID company\nWhy TopSolid?\nPartners\nCareers\nProducts & Industries\nProducts & Industries\nAre you an industry professional looking for a CAD/CAM/ERP solution? TopSolid is a unique, reliable, comprehensive, and productive solution.\nView all products\nOur industries\nPrecision manufacturing\nDigital engineering\nWoodworking\nSteel industry\nTooling\nIndustrial sheetmetal\nTopSolid 2026\nPrecision manufacturing\nTopSolid'Cam\nTopSolid'ShopFloor\nTopSolid'Inspection\nView all industry products\nDigital engineering\nDesigners and engineers are constantly looking for the best tools and solutions to design and develop their future products. Discover our revolutionary CAD Software.\nTopSolid'Design\nTopSolid'Virtual\nView all industry products\nWoodworking\nCarry out your projects from preliminary design to manufacturing and optimize your workshop management with TopSolid'Wood, the wood CAD/CAM system.\nTopSolid'Wood\nView all industry products\nSteel industry\nMetalwork: driving innovation for complex architectural demands.\nTopSolid'Steel\nTopSolid'Cut\nView all industry products\nTooling\nYour ultimate ally for precision tooling\nTopSolid'Mold\nTopSolid'Progress\nView all industry products\nIndustrial sheetmetal\nDigital revolution in sheet metal work with TopSolid CAD/CAM\nTopSolid'Cut\nTopSolid'Design\nTopSolid'ShopFloor\nView all industry products\nTraining & Services\nTraining & Services\nTraining, services, and support: everything you need to master our solutions and join our community.\nTraining\nServices\nCommunity\nDevelopment\nTraining\nTraining\nServices\nTechnical Support\nTopSolid'Update calendar\nTopSolid'Services\nCommunity\nTopSolid'Learning\nTopSolid'Faq\nTopSolid'Forum\nTopSolid Web Help\nTopSolid Demonstration Library\nDevelopment\nTopSolid'Api\nNews & Events\nNews & Events\nExplore all our latest news: articles, events, press releases, and success stories to stay at the heart of TopSolid innovation.\nTopSolid'Blog\nShows\nPress Releases\nCustomer Successes\nTopSolid White Paper\nFollow us on social media\nSearch\nContact us\nen-US\nSelected language:\nEnglish\nFrançais (France)\nFrançais (Belgique)\nFrançais (Suisse)\nČesky\nDeutsch\nDeutsch (Schweiz)\nEspañol\nItaliano\nNederlands (Nederland)\nNederlands (België)\nPortuguês (Brasil)\nTürkçe\nLogin\nHow to try/buy\nHow to try/buy\nBuy TopSolid\nContact\nRequest a demo\nGet a quote\nAll our products\nTry TopSolid\nDownload TopSolid Trial\nFind TopSolid\nDiscover our global network of authorized distributors and partners. Wherever you are, TopSolid supports you with local experts to meet your CAD, CAM, and ERP needs.\nFind TopSolid point of presence\nJoin TopSolid reseller network\nDiscover TopSolid 2026's new features\nMaximum Productivity, Brand-new Features, Unrivaled Collaboration!\nExplore the new version\nSuccessful transition to TopSolid PDM/Cad-Cam\nTopSolid Transforms Arden Equipment: A Productivity Revolution!\nDownload now\nDigital Engineering White "
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

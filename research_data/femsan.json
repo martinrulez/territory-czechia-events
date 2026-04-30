@@ -1,0 +1,143 @@
+{
+  "company_key": "femsan",
+  "company_name": "FEMSAN",
+  "domain": "www.femsan.com",
+  "domain_url": "https://www.femsan.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "FEMSAN",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "AutoCAD LT | Inventor",
+    "total_seats": "4",
+    "current_acv_eur": "8900.0",
+    "potential_acv_eur": "18800.0",
+    "nearest_renewal": "2026-10-19",
+    "days_to_renewal": "179",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other",
+    "ml_domain": "www.fosan.cz",
+    "zi_done": true,
+    "employee_count": 121,
+    "revenue": 14581,
+    "zi_company_name": "Femsan",
+    "zi_domain": "www.femsan.com",
+    "zi_city": "Pendik",
+    "zi_country": "Turkey",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.femsan.com",
+    "homepage": {
+      "title": "Femsan Elektrik Motorları, Istanbul",
+      "description": "",
+      "text_excerpt": "Femsan Elektrik Motorları, Istanbul\n13/09/2025 - 16/09/2025 Savunma sanayinin nabzının attığı DSEI 2025'te Femsan olarak yerimizi alacağız.\n13/09/2025 - 16/09/2025\nSavunma sanayinin nabzının attığı DSEI 2025'te Femsan olarak yerimizi alacağız\n18/06/2024\nFEMSAN, Eurosatory 2024 fuarında ürün ve yeteneklerini tanıttı.\n08/04/2024\nFEMSAN, savunma sanayisinde kritik görevler üstlenen elektrik motorları üretiyor.\nKullanıcı Adı\nŞifre\nHarmandere Mah. Şehit Mehmet Güney Sk. No:11 Kurtköy-Pendik, İstanbul\nTel: 0-216-378 88 88, Faks: 0-216-482 50 52, E-Posta:\nbilgi@femsan.com\nWeb Tasarım & Uygulamaları: İstanbulNet"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "FEMSAN",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 3,
+    "all_technologies": [
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "IFS",
+        "vendor": "IFS Americas, Inc.",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "FEMSAN",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Ali",
+        "last_name": "Vurgun",
+        "title": "Director, Design & Development",
+        "email": "",
+        "phone": "",
+        "company": "Femsan",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Faruk",
+        "last_name": "Çelik",
+        "title": "Project Manager",
+        "email": "",
+        "phone": "",
+        "company": "Femsan",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 15:05",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "inventor",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

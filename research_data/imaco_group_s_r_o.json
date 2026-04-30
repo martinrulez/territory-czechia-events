@@ -1,0 +1,71 @@
+{
+  "company_key": "imaco_group_s_r_o",
+  "company_name": "IMACO Group, s.r.o",
+  "domain": "",
+  "events": "interpack 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Miroslava Hastíková",
+        "firstName": "Miroslava",
+        "lastName": "Hastíková",
+        "jobTitle": "",
+        "email": "hastikova@imaco.cz",
+        "phone": "+420 572 111 608",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Martin Peprník",
+        "firstName": "Martin",
+        "lastName": "Peprník",
+        "jobTitle": "",
+        "email": "peprnik@imaco.cz",
+        "phone": "+420 606 768 380",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Roman Kotačka",
+        "firstName": "Roman",
+        "lastName": "Kotačka",
+        "jobTitle": "",
+        "email": "kotacka@imaco.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Miroslav Vajčner",
+        "firstName": "Miroslav",
+        "lastName": "Vajčner",
+        "jobTitle": "",
+        "email": "vajcner@imaco.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Gabriela Cagalová",
+        "firstName": "Gabriela",
+        "lastName": "Cagalová",
+        "jobTitle": "",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:05:34"
+}

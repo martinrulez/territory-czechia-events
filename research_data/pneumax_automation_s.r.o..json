@@ -1,0 +1,132 @@
+{
+  "company_key": "pneumax automation s.r.o.",
+  "company_name": "PNEUMAX Automation s.r.o.",
+  "domain": "www.pneumaxsro.cz",
+  "domain_url": "https://www.pneumaxsro.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "PNEUMAX Automation s.r.o.",
+    "opportunity_score": 29,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.46,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.46,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "27766489",
+    "official_name": "PNEUMAX  Automation s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "461",
+      "711",
+      "471",
+      "47810",
+      "46900",
+      "47",
+      "74",
+      "683",
+      "47780",
+      "451",
+      "461",
+      "46900",
+      "471",
+      "4778",
+      "47990",
+      "683",
+      "711",
+      "74"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "U Panského mlýna 240/9, Kylešovice, 74706 Opava, Opava, U Panského mlýna, 74706",
+    "is_client": true,
+    "current_products": "Inventor",
+    "total_seats": "2",
+    "current_acv_eur": "5600.0",
+    "potential_acv_eur": "9000.0",
+    "nearest_renewal": "2026-07-08",
+    "days_to_renewal": "76",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle with AutoCAD Mechanical, Vault, Fusion for full D&M workflow",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Vault",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other Manufacturing",
+    "zi_done": true,
+    "employee_count": 8,
+    "revenue": 1219,
+    "zi_company_name": "Pneumax Automation",
+    "zi_domain": "www.pneumaxsro.cz",
+    "zi_city": "Opava",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "revenue_growth": 0.0,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.pneumaxsro.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "PNEUMAX Automation s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 1,
+    "all_technologies": [
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "PNEUMAX Automation s.r.o.",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Jiri",
+        "last_name": "Lovecek",
+        "title": "Projektant Pneumatických Obvodů",
+        "email": "jiri.lovecek@pneumaxsro.cz",
+        "phone": "+420 553 760 967",
+        "company": "Pneumax Automation",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 94.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 08:48"
+}

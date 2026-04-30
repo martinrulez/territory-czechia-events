@@ -1,0 +1,123 @@
+{
+  "company_key": "walmag",
+  "company_name": "Walmag",
+  "domain": "www.walmag.com.pl",
+  "domain_url": "https://www.walmag.com.pl",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Walmag",
+    "opportunity_score": 20,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.5,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.5,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "18189113",
+    "official_name": "WALMAG MAGNETICS s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "G",
+      "33200",
+      "855",
+      "952",
+      "00",
+      "25530",
+      "72",
+      "00",
+      "25620",
+      "33200",
+      "72",
+      "855",
+      "952",
+      "G"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Hulínská 1799/1, 76701 Kroměříž, Kroměříž, Hulínská, 76701",
+    "zi_done": true,
+    "employee_count": 15,
+    "revenue": 2276,
+    "zi_company_name": "Walmag",
+    "zi_domain": "www.walmag.com.pl",
+    "zi_city": "Radziejowice",
+    "zi_country": "Poland",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.walmag.com.pl",
+    "homepage": {
+      "title": "Walmag",
+      "description": "",
+      "text_excerpt": "Walmag\nSkip to content\nFunny wafers\nMeet our family of biscuits perfect not only for the ice cream\nOur offer\nDecorative wafers\nOur waffles are a combination of the good taste and delicious fun, which is why we offer different types that perfectly match with ice cream desserts, chocolate fondues, jams, or just for crunch.\nDecorative wafers\nGingerbread\nOur gingerbreads are the perfect addition to coffee and tea during family and friend’s meetings. They are made basing on traditional recipe – the dough is seasoned for a minimum of three weeks. The smell itself is tempting to try.\nGingerbread\nPackaging\nWe offer a variety of packaging tailored to the needs of our customers - from home dessert enthusiasts to professional ice cream parlors.\nPackaging\nDecorative wafers\nOur waffles are a combination of the good taste and delicious fun, which is why we offer different types that perfectly match with ice cream desserts, chocolate fondues, jams, or just for crunch.\nDecorative wafers\nGingerbread\nOur gingerbreads are the perfect addition to coffee and tea during family and friend’s meetings. They are made basing on traditional recipe – the dough is seasoned for a minimum of three weeks. The smell itself is tempting to try.\nGingerbread\nPackaging\nWe offer a variety of packaging tailored to the needs of our customers - from home dessert enthusiasts to professional ice cream parlors.\nPackaging\nDecorative wafers\nBears\nBears are the family of four different bear-shaped wafers. Delicate, crunchy and flat wafers are suitable for decoration as well as for everyday crunching.\nHearts\nHearts are delicate and crunchy decorative wafers with a distinctive texture, thanks to which the pleasure of enjoying is even greater.\nDecorative\nfan-shaped wafers\nThe fan-shaped wafers are elegant with a wavy shape, making each dessert look more attractive when decorated. The wafers are double layered, which adds to the pleasure of eating.\nZoo\nZoo is a pack of eight different pet-shaped wafers. Delicate, crunchy and flat wafers are a non-routine for both large and small gourmand.\nGingerbread\nGingerbread Taflo\nTraditional gingerbreads in velvet chocolate with marmalade made by hand by us, are a perfect addition to coffee and tea.\nGingerbread slices\nGingerbread slices are a traditional gingerbread in sweet topping.\nPackaging\nFunny wafers\n150g\nThe animals 300g\nThe desert 300g\nFunny wafers zoo\n150g\nWalmag wafers 150g\nPackaging 1kg\nPackaging 2kg\nAbout us\nWalmag is a family business that has been building the tradition of baking wafers for over 25 years, although the confectionary craft in our family has even deeper roots. We use traditional, proven and unimproved artificially recipes, taking care of the highest quality of our products, resulting in a natural, unchanged and delicious taste.\nWe are like a family. We have been working in a team of over a dozen people for years and nothing about baking of wafers is alien to us.\nFor several years now, our offer has expanded to include gingerbreads o"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.walmag.com.pl/kontakt",
+      "text": "kontakt – Walmag\nKoniec treści\nDodaj komentarz\nAnuluj pisanie odpowiedzi\nKomentarze\nEnter your name or username to comment\nEnter your email address to comment\nUrządzenia mobilne (opcjonalnie)\nZapamiętaj moje dane w tej przeglądarce podczas pisania kolejnych komentarzy.\nNajnowsze komentarze\nArchiwa\nKategorie\nBrak kategorii\nMeta\nZaloguj się\nKanał wpisów\nKanał komentarzy\nWordPress.org\nTa strona korzysta z ciasteczek aby świadczyć usługi na najwyższym poziomie. Dalsze korzystanie ze strony oznacza, że zgadzasz się na ich użycie.\nZgoda"
+    }
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "FILIP SEDLÁŘ",
+        "firstName": "FILIP",
+        "lastName": "SEDLÁŘ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ZBYNĚK TIHELKA",
+        "firstName": "ZBYNĚK",
+        "lastName": "TIHELKA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "FILIP ŠEJBA",
+        "firstName": "FILIP",
+        "lastName": "ŠEJBA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-23 15:42"
+}

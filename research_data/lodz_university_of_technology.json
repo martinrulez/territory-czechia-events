@@ -1,0 +1,82 @@
+{
+  "company_key": "lodz university of technology",
+  "company_name": "Lodz University of Technology",
+  "domain": "ibmip.p.lodz.pl",
+  "domain_url": "https://ibmip.p.lodz.pl",
+  "events": "Game Access Conference '26",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Lodz University of Technology",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 110,
+    "revenue": 50586,
+    "zi_company_name": "Lodz University of Technology",
+    "zi_domain": "ibmip.p.lodz.pl",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://ibmip.p.lodz.pl",
+    "homepage": {
+      "title": "Instytut Biotechnologii Molekularnej i Przemysłowej - Politechnika Łódzka",
+      "description": "",
+      "text_excerpt": "Instytut Biotechnologii Molekularnej i Przemysłowej - Politechnika Łódzka\nPrzejdź do treści\nImage\nO Instytucie\nCzytaj Dalej\nImage\nPracownicy\nPracownicy Instytutu\nCzytaj Dalej\nImage\nDziałalność naukowa\nCzytaj Dalej\nImage\nKształcenie\nCzytaj Dalej\nPrevious\nNext\nAktualności\nMgr inż. Marcin Sypka laureatem w konkursie NCN PRELUDIUM 24\nmgr inż. Dominika Nielipińska oraz Joanna Brzezińska z nagrodami od Oddziału Łódzkiego Polskiego Towarzystwa Chemicznego oraz Instytutu Biologii Medycznej PAN\nJak dieta wpływa na geny? Podcast \"Smaki nauki\"\nwięcej aktualności\nInstytut Biotechnologii Molekularnej i Przemysłowej\nNa skróty\nWikamp\nKoła naukowe\nZakłady"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://ibmip.p.lodz.pl/kontakt",
+      "text": "Kontakt | Instytut Biotechnologii Molekularnej i Przemysłowej - Politechnika Łódzka\nPrzejdź do treści\nKontakt\nInstytut Biotechnologii Molekularnej i Przemysłowej\nul. B. Stefanowskiego 2/22\n90-537 Łódź\nTel: (42) 631-34-42\nTel: (42) 631-34-40\nE-mail:\nw5i51@adm.p.lodz.pl\nNIP 727-002-18-95\nREGON 000 001 583"
+    }
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Lodz University of Technology",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Ewa",
+        "last_name": "Raj",
+        "title": "Head of the Department of Semiconductor and Optoelectronic Devices",
+        "email": "",
+        "phone": "",
+        "company": "Lodz University of Technology",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 87.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 16:03"
+}

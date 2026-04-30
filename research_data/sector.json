@@ -1,0 +1,98 @@
+{
+  "company_key": "sector",
+  "company_name": "Sector",
+  "domain": "",
+  "domain_url": "",
+  "events": "Game Access Conference '26",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Sector",
+    "opportunity_score": 19,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.47,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.47,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "02815508",
+    "official_name": "Sector service s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "016",
+      "68200",
+      "81230",
+      "02100",
+      "741",
+      "46900",
+      "461",
+      "70200",
+      "711",
+      "68310",
+      "47",
+      "772",
+      "016",
+      "02100",
+      "461",
+      "46900",
+      "47",
+      "6820",
+      "68310",
+      "702",
+      "711",
+      "74100",
+      "772",
+      "81290"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Haštalská 795/1, Staré Město, 11000 Praha 1, Praha, Haštalská, 11000",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Sector",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Caroline",
+        "last_name": "Whistler",
+        "title": "Chief Executive Officer & Co-Founder",
+        "email": "",
+        "phone": "",
+        "company": "Third Sector",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 15:54"
+}

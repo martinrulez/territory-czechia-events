@@ -1,0 +1,490 @@
+{
+  "company_key": "abm",
+  "company_name": "ABM",
+  "domain": "www.abm.com",
+  "domain_url": "https://www.abm.com",
+  "events": "Connected Construction Days 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": 3895,
+  "enrichment": {
+    "company_name": "ABM",
+    "opportunity_score": 29,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.47,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.47,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "03314758",
+    "official_name": "EVROASIA.ABM s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "461",
+      "52260",
+      "731",
+      "82100",
+      "63",
+      "741",
+      "431",
+      "4779",
+      "52100",
+      "772",
+      "68310",
+      "74200",
+      "79110",
+      "62",
+      "46900",
+      "55200",
+      "431",
+      "461",
+      "46900",
+      "4779",
+      "52100",
+      "5229",
+      "55200",
+      "620",
+      "63",
+      "68310",
+      "731",
+      "74100",
+      "74200",
+      "772",
+      "7911",
+      "821"
+    ],
+    "ares_segments": [
+      "AEC",
+      "M&E"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Olšanská 54/3, Žižkov, 13000 Praha 3, Praha, Olšanská, 13000",
+    "is_client": true,
+    "current_products": "AutoCAD LT | Inventor",
+    "total_seats": "2",
+    "current_acv_eur": "3300.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-11-24",
+    "days_to_renewal": "215",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Buildings",
+    "ml_domain": "www.abmczech.cz",
+    "zi_done": true,
+    "employee_count": 113000,
+    "revenue": 8874501,
+    "zi_company_name": "ABM Industries",
+    "zi_domain": "www.abm.com",
+    "zi_city": "New York City",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "revenue_growth": 0.0,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.abm.com",
+    "homepage": {
+      "title": "Building Maintenance and Facility Services - ABM",
+      "description": "Learn how facility, engineering and infrastructure, and mobility solutions from ABM help you  health and safety, resilience, productivity, and sustainability.",
+      "text_excerpt": "Building Maintenance and Facility Services - ABM\nSkip to content\nNo items found.\nSkip to content\nNo items found.\nCareer Opportunities\nWe’re a welcoming and inclusive place to work, where you’ll be seen, heard, valued, and provided with ample opportunities to grow.\nBrowse Open Positions\nPossibility in Action\nLearn how ABM partners with leading organizations to help systems perform, businesses prosper and occupants thrive.\nDownload\nDriving possibility, together.\nYour vision: We see it—and take it further. Together, we'll transform your most critical assets into modern facilities that support growth, efficiency, and occupant well-being.\nEXPERTISE TAILORED FOR YOU\nDiscover our deep expertise in\nyour\nindustry\nYour needs are unique and important. Rest assured, we'll meet\nand exceed them. Our experts know your industry and stand ready.\nExplore Industries\nAerospace\nAirlines\nAirports\nAutomotive & Manufacturing\nCommercial Real Estate\nData Centers\nFood & Beverage\nGovernment\nHealthcare\nHigher Education\nHospitality\nK-12 Schools\nLife Sciences\nMulti-Family\nPower Generation\nRetail\nSemiconductor\nSports & Entertainment\nWarehousing & Distribution\nABM\nPerformance Solutions\nGreater outcomes for the life of your facility\nABM\nPerformance Solutions\nis designed to optimize every aspect of performance for your built environment. Our customizable suite of integrated facility services generates impactful cost efficiencies across the entire lifecycle of your facility—all while putting the end results first.\nGive your operation one contract, one invoice, and one source of accountability for all your facility solutions.\nABM\nPerformance Solutions\nFacility Solutions\nCleaning & Maintenance\nSupport Services\nParking & Transportation\nLandscape & Turf\nABM Solutions\nEveryone is more aware now of cleanliness and maintenance. Our solutions protect people and your facility, while taking work and worry off your plate. Daily or on a schedule that fits your needs.\nExplore Solutions\nEngineering & Infrastructure Solutions\nOperations & Maintenance\nEnergy & Power\nHVAC & Mechanical\nInfrastructure Solutions\nABM Solutions\nFacility managers don’t often realize it’s possible to address waste and inefficiency within budget. We’ll deliver a strategic plan with funding, execution, and ongoing operations built in.\nExplore Solutions\nJoin Our Team\nABM values service-oriented professionals who take ownership and embrace diverse perspectives. That's why we provide our team members with ample career development opportunities and a competitive benefits package—because our success depends on you.\nView Open Roles\nWhy ABM? Because\nwhat we value creates value for\nyou\nTransforming Spaces & Places\nChampioning People\nAdvancing Sustainability\nInspiring Innovation"
+    },
+    "about": {
+      "url": "https://www.abm.com/about",
+      "text": "About Us - ABM\nSkip to content\nNo items found.\nSkip to content\nNo items found.\nAbout\nRooted in commitment, driven by a relentless pursuit of excellence\nABM drives possibility for a healthier, more sustainable, ever-changing world. Our diverse team of over 100,000 specialists delivers facility, engineering, and infrastructure solutions that make spaces more resilient, intelligent, and connected.\nWe support 19 industries, serving six billion square feet of space every day to improve the health, productivity, and sustainability of the places important to you.\nABM's Mission: To make a difference, every person, every day\nWe believe in the possibility of our mission. Indeed, we’re already making a difference. Our clients see and feel our passion for doing things right. Comfortable, safe, satisfied occupants… an energy efficient facility running like clockwork.\nEvery Person, Every Day\nMake a Difference\nMake a Difference\nComing Together to Give Back and Transform Lives\nView Story\nMake a Difference\nHelping A Texas School District Educate \"Giants\" With Our Energy Project\nView Story\nMake a Difference\nA New Office Opening Was A Perfect Opportunity To Give Back\nView Story\nAbout ABM\nABM's Purpose\nTo take care of the people, spaces, and places that are important to you\nEvery team member honors our purpose. We’re a service organization with the processes, products, and expertise to take care of spaces and places. We help clients elevate experiences for the people they serve.\nSpaces\nOffices where people work hard to support their families\nPharmaceutical cleanrooms where cures are discovered\nCollege campuses where students learn and grow\nPlaces\nA massive stadium where friends cheer their team\nThe hospital where a loved one gets better\nA parking deck easing the way for eco-conscious drivers\nAbout ABM\nABM's Vision\nTo be the clear choice in the industries we serve through engaged people\nWhy has more than half of the Fortune 500 chosen ABM?  Because we anticipate clients’ needs and advise them proactively. Large and small, all kinds of facilities rely on our vast experience, performing all kinds of services.\nYour vision and ours, aligned: From expert ABM advisors in your industry to each person who works at your site, our engaged team members are committed to consistent excellence and the results you need. Our field-tested innovations and a focus on sustainability prove our commitment to invest in the future. That’s how we drive possibility, together.\nThe core of everything we do\nWe embrace six fundamental values that define our culture and the way we work.\nRespect\nEvery person brings value and is acknowledged as an asset to our team.\nIntegrity\nWe are sincere, trustworthy, and accountable. We tell the truth and do not tolerate behavior that breaches our values.\nCollaboration\nWe believe that we can do better and achieve more when we work together and learn from our collective experiences.\nInnovation\nWe bring fresh ideas and data-driven insights to solve business challenges. We ask: What if? Why not? What’s next?\nExcellence\nWe deliver consistent, reliable service, but we don’t stop there. We are committed to exceeding expectations.\nTrust\nWe build confidence and demonstrate that we are worthy of keeping it.\nWhere we've come from\nABM History\nSee our full timeline\nView timeline\nOur brand heritage began in 1909 with founder Morris Rosenberg's modest investment of $4.50 in a window cleaning business. This journey of over a century has witnessed ABM evolve from an individual venture into a dynamic and expansive organization, ever focused on our clients. Rooted in commitment and driven by a relentless pursuit of excellence, ABM’s history has been one of transformative growth and enduring values. Strategic acquisitions have expanded our platform with integrated services and broad capabilities. We’re proud of our award-winning workforce and automation technologies that drive efficiencies in the thousands of physical assets we service and maintain.\nElevate\nELE"
+    },
+    "products": {
+      "url": "https://www.abm.com/services",
+      "text": "Building Maintenance and Facility Services - ABM\nSkip to content\nNo items found.\nSkip to content\nNo items found.\nCareer Opportunities\nWe’re a welcoming and inclusive place to work, where you’ll be seen, heard, valued, and provided with ample opportunities to grow.\nBrowse Open Positions\nPossibility in Action\nLearn how ABM partners with leading organizations to help systems perform, businesses prosper and occupants thrive.\nDownload\nDriving possibility, together.\nYour vision: We see it—and take it further. Together, we'll transform your most critical assets into modern facilities that support growth, efficiency, and occupant well-being.\nEXPERTISE TAILORED FOR YOU\nDiscover our deep expertise in\nyour\nindustry\nYour needs are unique and important. Rest assured, we'll meet\nand exceed them. Our experts know your industry and stand ready.\nExplore Industries\nAerospace\nAirlines\nAirports\nAutomotive & Manufacturing\nCommercial Real Estate\nData Centers\nFood & Beverage\nGovernment\nHealthcare\nHigher Education\nHospitality\nK-12 Schools\nLife Sciences\nMulti-Family\nPower Generation\nRetail\nSemiconductor\nSports & Entertainment\nWarehousing & Distribution\nABM\nPerformance Solutions\nGreater outcomes for the life of your facility\nABM\nPerformance Solutions\nis designed to optimize every aspect of performance for your built environment. Our customizable suite of integrated facility services generates impactful cost efficiencies across the entire lifecycle of your facility—all while putting the end results first.\nGive your operation one contract, one invoice, and one source of accountability for all your facility solutions.\nABM\nPerformance Solutions\nFacility Solutions\nCleaning & Maintenance\nSupport Services\nParking & Transportation\nLandscape & Turf\nABM Solutions\nEveryone is more aware now of cleanliness and maintenance. Our solutions protect people and your facility, while taking work and worry off your plate. Daily or on a schedule that fits your needs.\nExplore Solutions\nEngineering & Infrastructure Solutions\nOperations & Maintenance\nEnergy & Power\nHVAC & Mechanical\nInfrastructure Solutions\nABM Solutions\nFacility managers don’t often realize it’s possible to address waste and inefficiency within budget. We’ll deliver a strategic plan with funding, execution, and ongoing operations built in.\nExplore Solutions\nJoin Our Team\nABM values service-oriented professionals who take ownership and embrace diverse perspectives. That's why we provide our team members with ample career development opportunities and a competitive benefits package—because our success depends on you.\nView Open Roles\nWhy ABM? Because\nwhat we value creates value for\nyou\nTransforming Spaces & Places\nChampioning People\nAdvancing Sustainability\nInspiring Innovation"
+    },
+    "contact_page": {
+      "url": "https://www.abm.com/contact",
+      "text": "Contact - ABM\nSkip to content\nNo items found.\nSkip to content\nNo items found.\nSales Inquiries\nWe're ready to optimize your operations.\nAt ABM, we take the protection of your personal data seriously. As a matter of policy ABM does not sell or share your personal data. Prior to the submission of your personal data, please visit our\nPrivacy Policy\nGeneral Inquiries\nFor quick answers to non-sales related questions, explore our FAQs below.\nHow do I contact accounts payable or accounts receivable?\nHow do I contact accounts payable or accounts receivable?\nI have a question about career opportunities, a job application, or another HR-related matter.\nI have a question about career opportunities, a job application, or another HR-related matter.\nInterested in the Strategic Partner & Supplier Inclusion Program?\nInterested in the Strategic Partner & Supplier Inclusion Program?\nHave questions about your benefits?\nHave questions about your benefits?\nNeed support with a billing inquiry?\nNeed support with a billing inquiry?\nLooking for payroll assistance?\nLooking for payroll assistance?\nCan you direct me to the general inquiry form?\nCan you direct me to the general inquiry form?\nHow do I verify employment or income information?\nHow do I verify employment or income information?\nFind a location near you\nWith hundreds of locations across the U.S., U.K., and Ireland, we are ready to partner with you.\nFind a Location"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "ABM",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autodesk Revit"
+    ],
+    "competitor_products": [
+      "Bentley STAAD",
+      "Dassault Systemes",
+      "Mastercam",
+      "Mathcad",
+      "Siemens",
+      "Siemens APOGEE",
+      "Trimble"
+    ],
+    "cad_bim_other": [
+      "12d",
+      "ANSYS",
+      "Assemble",
+      "Autodesk",
+      "Cache Control",
+      "Mathematica",
+      "Sigma",
+      "Site Director",
+      "Studio 5000"
+    ],
+    "total_technologies": 863,
+    "all_technologies": [
+      {
+        "product": "Perks at Work",
+        "vendor": "Perks at Work",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Route",
+        "vendor": "Route App Inc.",
+        "category": "Inventory and Order Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Oracle Fusion Human Capital Management",
+        "vendor": "Oracle Corporation",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Sentry",
+        "vendor": "Functional Software, Inc.",
+        "category": "Error and Exception Monitoring",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Asc",
+        "vendor": "Assessment Systems Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "K12",
+        "vendor": "K12 Inc",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Aerial",
+        "vendor": "MEDecision",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Marketo Engage",
+        "vendor": "Marketo, Inc.",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Ideal",
+        "vendor": "O5 Systems Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Operative",
+        "vendor": "SintecMedia Ltd.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Relay",
+        "vendor": "Facebook, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Redwood Software",
+        "vendor": "Redwood",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Kent House",
+        "vendor": "Kent House Consulting Ltd",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Canva",
+        "vendor": "Canva Pty Ltd",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "iOffice",
+        "vendor": "iOFFICE, Inc.",
+        "category": "Facilities Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Slack",
+        "vendor": "Slack Technologies, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Brickwork",
+        "vendor": "Bricksolve Inc.",
+        "category": "Other E-Commerce Software",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Adform",
+        "vendor": "Adform",
+        "category": "Ad Servers",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "PulsePoint",
+        "vendor": "Pulsepoint, Inc.",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "visitor management",
+        "vendor": "Vpod Solutions",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Oracle Fusion Cloud ERP",
+        "vendor": "Oracle Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Energy Management",
+        "vendor": "ENTOUCH Controls, Inc.",
+        "category": "Facilities Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Circuit",
+        "vendor": "Circuit Routing Limited",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Acuity Scheduling",
+        "vendor": "Acuity Scheduling, Inc.",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Boulevard",
+        "vendor": "Boulevard, Inc.",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "AXLR8",
+        "vendor": "AXLR8.com Limited",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "AssetWorks",
+        "vendor": "AssetWorks",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Pinnacle",
+        "vendor": "Pinnacle",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Como",
+        "vendor": "Como",
+        "category": "Loyalty and Gamification",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Trolley",
+        "vendor": "Trolley",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Orion",
+        "vendor": "Orion Advisor Solutions, Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Lunio",
+        "vendor": "Lunio",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "React",
+        "vendor": "Meta Open Source",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Branch",
+        "vendor": "Branch",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Oyster",
+        "vendor": "Oyster HR, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Fis Global",
+        "vendor": "Fidelity National Information Services Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "epay",
+        "vendor": "Euronet Worldwide, Inc",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Singular",
+        "vendor": "Singular",
+        "category": "Marketing Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Olive",
+        "vendor": "Olive",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Momentum",
+        "vendor": "Momentum Labs",
+        "category": "Other DevOps Software",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Ibm Tivoli Identity Manager",
+        "vendor": "IBM",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Occupier",
+        "vendor": "Occupier",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Powerplatform",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Gladly",
+        "vendor": "Gladly Software, Inc",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ABM",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Barry",
+        "last_name": "Hytinen",
+        "title": "Board Member",
+        "email": "",
+        "phone": "",
+        "company": "ABM Industries",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 12:56",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "inventor",
+        "civil 3d",
+        "navisworks",
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

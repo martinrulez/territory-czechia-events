@@ -1,0 +1,170 @@
+{
+  "company_key": "etb - gebr. bach gmbh",
+  "company_name": "ETB - Gebr. Bach GmbH",
+  "domain": "www.etb-bach.com",
+  "domain_url": "https://www.etb-bach.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ETB - Gebr. Bach GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 125,
+    "revenue": 6875,
+    "zi_company_name": "Gebr Bach",
+    "zi_domain": "www.etb-bach.com",
+    "zi_city": "Ohrdruf",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.etb-bach.com",
+    "homepage": {
+      "title": "Industrielle elektrische Heizungs­technik – Gebr. Bach GmbH",
+      "description": "Die Gebr. Bach GmbH gehört zu den marktführenden Unternehmen im Bereich der industriellen elektrischen Beheizungstechnik, insbesondere im Maschinen- und Anlagenbau.",
+      "text_excerpt": "Industrielle elektrische Heizungs­technik – Gebr. Bach GmbH\nIndustrielle elektrische Beheizungstechnik\nWir bieten Lösungen für die industrielle Beheizung\nInnovative Entwicklungen, neueste Technologien und zukunftweisende Trends. Erfahren Sie direkt aus Forschung, Produktion, Branche und Märkte, was sich in Sachen elektrischer Beheizung zur Zeit bewegt und wie wir uns mit ihnen gemeinsam weiterentwickeln.\nÜberzeugen Sie sich von unserer Kompetenz und Leistungsfähigkeit, bei der Innovation, unser Know-how und unsere 100-jährige Tradition keine Gegensätze, sondern Ihre Zukunfts- und Erfolgsgestalter sind. Unsere Technologien sind das Ergebnis von Erfindergeist und kontinuierlicher Prozessentwicklung. Entdecken Sie die Welt unserer technologischen Kompetenz in Sachen Elektro-Wärmetechnik.\nWas uns besonders auszeichnet = Ihr Mehrwert\nHohe Kompetenz, qualifizierte Fachleute mit langjährigem Wissen und Erfahrung\nKundenspezifische, passgenaue Beheizungslösungen. Alles aus einer Hand.\nLokale Präsenz durch schnelle, persönliche Beratung vor Ort in ihrem Unternehmen\nDurch unseren modernen Maschinenpark liefern wir Aufträge\nstandardmäßig\n30-50 % schneller\nals der Marktdurchschnitt\nUnser Angebot an branchenführenden Heizelementen\nRingheizkörper\nWeitere Infos\nMikanit\nKeramik\nDüsenheizbänder\nWeitere Infos\nMikanit\nKeramik\nWerkzeugbeheizungen\nWeitere Infos\nMikanit\nKeramik\nAluminium\nHeiz-Kühl-Kombination\nWeitere Infos\nMikanit\nKeramik\nKompakte Wärmeschutzmäntel massiv / flexibel\nWeitere Infos\nGussheizkörper\nWeitere Infos\nPatronenheizkörper\nWeitere Infos\nWendelrohrheizkörper\nWeitere Infos\nRohrheizkörper\nWeitere Infos\nGliederheizkörper\nWeitere Infos\nInfrarot-Keramikstrahler\nWeitere Infos\nSilikonheizelemente\nWeitere Infos\nThermofühler & Widerstandsthermometer\nWeitere Infos\nGebläse & Lüfter\nWeitere Infos\nZubehör\nWeitere Infos\nExpress - Fertigung\nWenn‘s mal schnell gehen muss und kein zeitlicher Aufschub möglich ist! Dann können wir Ihnen helfen.  Benötigen Sie dringend ein elektrisches Heizelement innerhalb weniger Tage? Unsere erfahrenen Mitarbeiter sind zur Stelle, um Ihnen mit unserer Express-Fertigung aus Ihrer brenzligen Situation zu helfen. Innerhalb von 5, oder 10, Arbeitstagen fertigen wir Ihren Heizelemente-Auftrag und liefern die benötigten Produkte an Sie oder auch direkt an Ihren Kunden vor Ort aus. Rufen Sie am Besten direkt unseren Kundeninnen-, bzw. den für ihr Unternehmen zuständigen Außendienstler an und Sie erhalten umgehend ein unverbindliches, individuelles Expressangebot.\nGebr. Bach GmbH\nExpress Fertigung Anfragen\nBei Fragen - kontaktieren Sie uns!\nBei uns sind Sie richtig, wenn es um Ihre elektrische Beheizungstechnik geht. Wir bieten Ihnen maßgeschneiderte Lösungen für Ihre spezifischen Anforderungen. Beschreiben Sie uns Ihre Herausforderung, bei Bedarf gerne mit einer ergänzenden PDF-Datei, Fotos, DXF-Zeichnung oder STEP-Datei, die sie hier hochladen können.\nKontakt­informationen\nWir freuen uns Ihre elektrische Beheizungsherausforderung mit Ihne"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "ETB - Gebr. Bach GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 14,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cookie Consent",
+        "vendor": "Silktide Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Starfield Technologies",
+        "vendor": "Starfield Technologies",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Silktide",
+        "vendor": "Silktide Ltd",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ETB - Gebr. Bach GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Felix",
+        "last_name": "Rogowitz",
+        "title": "Applikationsingenieur",
+        "email": "",
+        "phone": "",
+        "company": "Gebr Bach",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 18:30"
+}

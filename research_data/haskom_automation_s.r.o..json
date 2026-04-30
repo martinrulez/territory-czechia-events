@@ -1,0 +1,73 @@
+{
+  "company_key": "haskom automation s.r.o.",
+  "company_name": "HASKOM Automation s.r.o.",
+  "domain": "www.haskom-automation.eu",
+  "domain_url": "https://www.haskom-automation.eu",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "HASKOM Automation s.r.o.",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Inventor",
+    "total_seats": "2",
+    "current_acv_eur": "5600.0",
+    "potential_acv_eur": "9000.0",
+    "nearest_renewal": "2026-07-08",
+    "days_to_renewal": "76",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle with AutoCAD Mechanical, Vault, Fusion for full D&M workflow",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Vault",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other Manufacturing",
+    "zi_done": true,
+    "employee_count": 13,
+    "revenue": 2692,
+    "zi_company_name": "HASKOM Automation sro",
+    "zi_domain": "www.haskom-automation.eu",
+    "zi_city": "Velk‚àöŒ© Krt‚àö‚â†s",
+    "zi_country": "Slovakia",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.haskom-automation.eu",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "HASKOM Automation s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 09:01"
+}

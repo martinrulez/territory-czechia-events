@@ -1,0 +1,125 @@
+{
+  "company_key": "jetro_japan_external_trade_organization",
+  "company_name": "JETRO (Japan External Trade Organization)",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "JETRO (Japan External Trade Organization)",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 6,
+    "all_technologies": [
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Lua",
+        "vendor": "UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "OpenResty",
+        "vendor": "OpenResty Inc",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Trustpilot",
+        "vendor": "Trustpilot, Inc",
+        "category": "Online Review Management",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Ruby on Rails",
+        "vendor": "Ruby on Rails",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Norikazu Mori",
+        "firstName": "Norikazu",
+        "lastName": "Mori",
+        "jobTitle": "Chief Executive Officer & Director",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Nakagawa Takashi",
+        "firstName": "Nakagawa",
+        "lastName": "Takashi",
+        "jobTitle": "Chief Executive Officer & Director",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Kunihiko Nukui",
+        "firstName": "Kunihiko",
+        "lastName": "Nukui",
+        "jobTitle": "Director",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jun Kohno",
+        "firstName": "Jun",
+        "lastName": "Kohno",
+        "jobTitle": "Director",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Manabu Saito",
+        "firstName": "Manabu",
+        "lastName": "Saito",
+        "jobTitle": "Chief Director",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:04",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.jetro.org",
+    "homepage": {
+      "title": "",
+      "description": "",
+      "text_excerpt": ""
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

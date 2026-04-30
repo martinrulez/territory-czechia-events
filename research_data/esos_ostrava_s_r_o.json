@@ -1,0 +1,42 @@
+{
+  "company_key": "esos_ostrava_s_r_o",
+  "company_name": "ESOS Ostrava s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PETR LYSÁK",
+        "firstName": "PETR",
+        "lastName": "LYSÁK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:08:42",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.kelcomov.cz",
+    "homepage": {
+      "title": "KELCOM [úvod]",
+      "description": "",
+      "text_excerpt": "KELCOM [úvod]\nProfil firmy\nEZS, EPS\nPTV, SKV\nPCO\nOstatní\nUkázka\nWebcams\nJI 20 LET VÁS CHRÁNÍ NAE SYSTÉMY\nDaliborova 42, 709 00 Ostrava,  Czech Republic\nTel: (+420) 596 611 887, NONSTOP HOTLINE 596 639 829-30, 602 240 491\nFax: (+420) 596 611 887, E-mail:\ninfo@kelcomov.cz\nDnes je\nKOMPLEXNÍ DODÁVKY BEZPEÈNOSTNÍCH A SDÌLOVACÍCH SYSTÉMÙ\nAktualizace 3.1.2014"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

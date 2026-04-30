@@ -1,0 +1,159 @@
+{
+  "company_key": "3gon",
+  "company_name": "3Gon",
+  "domain": "www.3gon.eu",
+  "domain_url": "https://www.3gon.eu",
+  "events": "3DISE Conference 2026",
+  "event_count": 1,
+  "lead_class": null,
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "3Gon",
+    "opportunity_score": 20,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.53,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.53,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "07724861",
+    "official_name": "3gon Positioning s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "00",
+      "62",
+      "471",
+      "68200",
+      "731",
+      "82100",
+      "00",
+      "471",
+      "62",
+      "682",
+      "731",
+      "8211"
+    ],
+    "ares_segments": [
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Prvomájová 1262/33, Radotín, 15300 Praha 5, Praha, Prvomájová, 15300",
+    "zi_done": true,
+    "employee_count": 8,
+    "revenue": 400,
+    "zi_company_name": "3gon",
+    "zi_domain": "www.3gon.eu",
+    "zi_city": "Malechovice",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.3gon.eu",
+    "homepage": {
+      "title": "3gon Positioning | GNSS, Totální stanice, Teodolity, 3D Skenery, Nivelační přístroje, lasery, Laserové olovnice, Dálkoměry, Elektronické vodováhy.",
+      "description": "GNSS, Totální stanice, Teodolity, 3D Skenery, Nivelační přístroje, lasery, Laserové olovnice, Dálkoměry, Elektronické vodováhy.",
+      "text_excerpt": "3gon Positioning | GNSS, Totální stanice, Teodolity, 3D Skenery, Nivelační přístroje, lasery, Laserové olovnice, Dálkoměry, Elektronické vodováhy.\nProdej a servis měřících přístrojů, příslušenství a software pro geodézii a stavebnictví.\nPostaráme se o firmy o jednom člověku, ale také nabídneme služby na vysoké úrovni velkým zákazníků se složitými projekty.\nJsme oficiální zastoupení několika světových výrobců pro více zemí, díky čemuž jsme schopni nabídnout velké spektrum produktů a služeb.\ncz.3gon.eu\nwww.3gon.sk\nNaši partneři:\n3gon je firma zabývající se prodejem měřících zařízení a technologií v oblasti geodézie, stavebnictví, průmyslu, zemědělství a obecně všude, kde je potřeba měřit. Jsme oficiální zastoupení několika významných značek v oboru, jako například japonská značka SOKKIA, NIVEL System, GeoSLAM apod.\nNašim cílem je nabídnout zákazníkovi nejen přístroje, ale řešení! Přijďte za námi a promluvme si o tom co potřebujete, na co to potřebujete a co má být cílem.\nSpolečně poté navrhneme řešení, které dá smysl jako celek a ne jenom, že vám dáme krabici s měřícím přístrojem a popřejeme Vám hodně štěstí!\nPřijďte a vyzkoušejte jiný přístup!"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "3Gon",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 6,
+    "all_technologies": [
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "3Gon",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Pavel",
+        "last_name": "Bozdech",
+        "title": "Chief Executive Officer",
+        "email": "pavel.bozdech@3gon.eu",
+        "phone": "",
+        "company": "3gon",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Branislav",
+        "last_name": "Hroššo",
+        "title": "3D Scanning Specialist (Hardware & Software)",
+        "email": "branislav.hrosso@3gon.eu",
+        "phone": "",
+        "company": "3gon",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 98.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 15:48"
+}

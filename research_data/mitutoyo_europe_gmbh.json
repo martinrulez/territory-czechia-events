@@ -1,0 +1,266 @@
+{
+  "company_key": "mitutoyo europe gmbh",
+  "company_name": "Mitutoyo Europe GmbH",
+  "domain": "www.mitutoyo.eu",
+  "domain_url": "https://www.mitutoyo.eu",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Mitutoyo Europe GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 570,
+    "revenue": 112514,
+    "zi_company_name": "Mitutoyo",
+    "zi_domain": "www.mitutoyo.eu",
+    "zi_city": "",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.mitutoyo.eu",
+    "homepage": {
+      "title": "Mitutoyo Europe",
+      "description": "",
+      "text_excerpt": "Mitutoyo Europe\nChoose your country and language\nNederlands,\nBelgique / België\nČesky,\nČeská republika\nDeutsch,\nDeutschland\nEspañol,\nEspaña\nPortuguês,\nPortugal\nEnglish,\nEurope\nFrançais,\nFrance\nItaliano,\nItalia\nMagyar,\nMagyarország\nNederlands,\nNederland\nDeutsch,\nÖsterreich\nPolski,\nPolska\nRomână,\nRomânia\nSuisse\nSchweiz\nSvizzera\nSvenska,\nSverige\nSuomeksi,\nSuomi\nTürkçe,\nTürkiye\nEnglish,\nUnited Kingdom\nSlovenská,\nSlovak\nWorldwide\nProducts\nIndustries\nServices\nEducation\nAbout us\nNews\nDownloads\nProducts\nProduct Highlights\nProducts by Industry\nSmall Tools\nCMM\nVision\nOptical\nForm\nHardness\nSensors\nDigital Scales\nData Management\nSoftware\nAutomated Measuring Devices\nComputed Tomography Systems\nAll                                                                    Product Highlights\nCRYSTA-KM 565\nQM-Fit\nSmartMeasure-AL\nSJ-220\nQuantuMike\nLEGEX Takumi\nSTRATO-Active Series\nMeasurlink 10\nTAGLENS\nMCOSMOS 5\nCrysta Apex V\nFORMTRACER Avant\nMiSTAR 555\nCalipers\nBluetooth Data Transmission\nQuickVision Pro\nAll                                                                    Products by Industry\nAerospace\nMedical\nAutomotive\nEnergy\nGen. Manufacturing\nElectronics\nOriginal Equipment Manufacturers (OEM)\nCase Studies\nAll                                                                    Small Tools\nCalipers\nMicrometers & Micrometer heads\nInside Measuring Instruments\nDepth Measuring Instruments\nHeight Gauges\nIndicators & Caliper Gauges\nAuxiliary Equipment and Miscellaneous\nCalibration Instruments\nGauge Blocks\nAll                                                                    CMM\nSmall & Medium sized CMMs\nIn-line & Shopfloor CMMs\nLarge sized CMMs\nCMM Rotary Tables\nProbes\nStyli\nFixtures\nCMM Accessories\nCMM Software\nSmartMeasure-AL\nAll                                                                    Vision\nManual 2D Vision Measuring Machine QM-Fit\nManual 2D Vision Measuring Machines Quick Image\nManual 3D Vision Systems\n3D CNC Vision Systems\n3D CNC Multi-sensor Vision Systems\n3D CNC Micro Geometry Vision Systems\nVision System Software\nAccessories for Vision Machines\nVision System Fixtures\nVision System Styli\nAll                                                                    Optical\nMagnifiers\nMeasuring Projectors\nMeasuring Microscopes\nMicroscope Units\nTAGLENS\nInterferometer Units\nObjective Lenses\nM2 Software for Measuring Microscopes and Projectors\nOptical Measurement Fixtures\nAll                                                                    Form\nSurface Roughness\nContour\nSurface Roughness & Contour\nForm\nFMI Software\nFixtures\nAll                                                                    Hardness\nSoftwares for Hardness Testing Machines\nPortable Hardness Testers\nHardness Reference Materials and Indenters\nRockwell Hardness Testing Machines\nVickers Hardness Testing Machines\nMicro-Vickers Hardness Testing Machines\nAll                                                                    Sensors\nLinear Gauges\nLow Force Gauges\nCounters and Display Units\nLaser Scan Mic"
+    },
+    "about": {
+      "url": "https://www.mitutoyo.eu/about-us",
+      "text": "About us :: EU\nChoose your country and language\nNederlands,\nBelgique / België\nČesky,\nČeská republika\nDeutsch,\nDeutschland\nEspañol,\nEspaña\nPortuguês,\nPortugal\nEnglish,\nEurope\nFrançais,\nFrance\nItaliano,\nItalia\nMagyar,\nMagyarország\nNederlands,\nNederland\nDeutsch,\nÖsterreich\nPolski,\nPolska\nRomână,\nRomânia\nSuisse\nSchweiz\nSvizzera\nSvenska,\nSverige\nSuomeksi,\nSuomi\nTürkçe,\nTürkiye\nEnglish,\nUnited Kingdom\nSlovenská,\nSlovak\nWorldwide\nProducts\nIndustries\nServices\nEducation\nAbout us\nNews\nDownloads\nProducts\nProduct Highlights\nProducts by Industry\nSmall Tools\nCMM\nVision\nOptical\nForm\nHardness\nSensors\nDigital Scales\nData Management\nSoftware\nAutomated Measuring Devices\nComputed Tomography Systems\nAll                                                                    Product Highlights\nCRYSTA-KM 565\nQM-Fit\nSmartMeasure-AL\nSJ-220\nQuantuMike\nLEGEX Takumi\nSTRATO-Active Series\nMeasurlink 10\nTAGLENS\nMCOSMOS 5\nCrysta Apex V\nFORMTRACER Avant\nMiSTAR 555\nCalipers\nBluetooth Data Transmission\nQuickVision Pro\nAll                                                                    Products by Industry\nAerospace\nMedical\nAutomotive\nEnergy\nGen. Manufacturing\nElectronics\nOriginal Equipment Manufacturers (OEM)\nCase Studies\nAll                                                                    Small Tools\nCalipers\nMicrometers & Micrometer heads\nInside Measuring Instruments\nDepth Measuring Instruments\nHeight Gauges\nIndicators & Caliper Gauges\nAuxiliary Equipment and Miscellaneous\nCalibration Instruments\nGauge Blocks\nAll                                                                    CMM\nSmall & Medium sized CMMs\nIn-line & Shopfloor CMMs\nLarge sized CMMs\nCMM Rotary Tables\nProbes\nStyli\nFixtures\nCMM Accessories\nCMM Software\nSmartMeasure-AL\nAll                                                                    Vision\nManual 2D Vision Measuring Machine QM-Fit\nManual 2D Vision Measuring Machines Quick Image\nManual 3D Vision Systems\n3D CNC Vision Systems\n3D CNC Multi-sensor Vision Systems\n3D CNC Micro Geometry Vision Systems\nVision System Software\nAccessories for Vision Machines\nVision System Fixtures\nVision System Styli\nAll                                                                    Optical\nMagnifiers\nMeasuring Projectors\nMeasuring Microscopes\nMicroscope Units\nTAGLENS\nInterferometer Units\nObjective Lenses\nM2 Software for Measuring Microscopes and Projectors\nOptical Measurement Fixtures\nAll                                                                    Form\nSurface Roughness\nContour\nSurface Roughness & Contour\nForm\nFMI Software\nFixtures\nAll                                                                    Hardness\nSoftwares for Hardness Testing Machines\nPortable Hardness Testers\nHardness Reference Materials and Indenters\nRockwell Hardness Testing Machines\nVickers Hardness Testing Machines\nMicro-Vickers Hardness Testing Machines\nAll                                                                    Sensors\nLinear Gauges\nLow Force Gauges\nCounters and Display Units\nLaser Scan Micrometers\nSurface Measure\nSensor Management Software\nAll                                                                    Digital Scales\nDRO Linear Scales and Counters\nNC Linear Scales\nScale Units\nAll                                                                    Data Management\nData Management Software\nMini Processors\nSignal Cables\nWireless Communication\nInterfaces\nTimerbox, Digimatic Switch Box\nAll                                                                    Software\nCMM Software\nVision System Software\nOptical System Software\nFMI Software\nHardness Testing Software\nSensor Management Software\nData Management Software\nCalipers\nDigital Calipers\nSpecial Purpose Calipers\nAnalog Calipers\nCaliper Accessories\nMicrometers & Micrometer heads\nDigital & Mechanical Micrometers\nMicrometer Accessories\nMicrometer Heads\nMicrometer Head Accessories\nInside Measuring Instruments\nInside Micrometers\nBore Gauges\nInside Micrometer & Bore Gauge Accessories\nDepth Measuring Instruments\nDepth Micromete"
+    },
+    "products": {
+      "url": "https://www.mitutoyo.eu/products",
+      "text": "Products :: EU\n{{header.chooseLanguageHeadline}}\nNederlands,\nBelgique / België\nČesky,\nČeská republika\nDeutsch,\nDeutschland\nEspañol,\nEspaña\nPortuguês,\nPortugal\nEnglish,\nEurope\nFrançais,\nFrance\nItaliano,\nItalia\nMagyar,\nMagyarország\nNederlands,\nNederland\nDeutsch,\nÖsterreich\nPolski,\nPolska\nRomână,\nRomânia\nSuisse\nSchweiz\nSvizzera\nSvenska,\nSverige\nSuomeksi,\nSuomi\nTürkçe,\nTürkiye\nEnglish,\nUnited Kingdom\nSlovenská,\nSlovak\nWorldwide\nWelkom bij Mitutoyo Nederland, België en Danmark\nWebshop BE\n(nederlands)\nWebshop FR\n(français)\nWebshop EU\n(engelsk)\nWebshop NL\nWelkom bij Mitutoyo Nederland, België en Danmark\nWelkom bij Mitutoyo Nederland, België en Danmark\nWebshop BE\n(nederlands)\nWebshop FR\n(français)\nWebshop EU\n(engelsk)\nWebshop NL\nProducts\nIndustries\nProducts\nDownloads\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua\n{{header.contactLink}}\n{{header.orderhistoryLink}}\n{{header.quickorderLink}}\n{{header.logoutLink}}\n{{header.registerLink}}\n{{header.loginLink}}\nProducts\n{{blocks.autonav.backLink}}\nProducts\nProducts\nDownloads\nIndustries\nOur Products\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren\nDolore magna aliquyam erat\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.\nLearn more\nLorem ipsum dolor sit amet, consetetur sadipscing\nPlay video\nMiSTAR 555\nThis small powerhouse has it all, including exceptional contamination resistance. With the new MiSTAR 555 CNC CMM, shop floor precision measurement will never be the same again.\nMitutoyo in Action\nGet your exclusive \"Product Demo\" today online or in person and see why many engineers choose Mitutoyo as a their favorite trusted company in Metrology.\nCMM\nGet your exclusive \"Product Demo\" today online or in person and see why many engineers choose Mitutoyo as a their favorite trusted company in Metrology.\nVision\nGet your exclusive \"Product Demo\" today online or in person and see why many engineers choose Mitutoyo as a their favorite trusted company in Metrology.\nDeals\nLorem ipsum dolor sit amet, consetetur sadipscing elitr\nProducts"
+    },
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Mitutoyo Europe GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 27,
+    "all_technologies": [
+      {
+        "product": "Bitly",
+        "vendor": "Bitly, Inc.",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "JavaServer Faces",
+        "vendor": "Oracle Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Adobe Photoshop",
+        "vendor": "Adobe Inc.",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Java",
+        "vendor": "Oracle Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "GoToWebinar",
+        "vendor": "LogMeIn, Inc.",
+        "category": "Web Conferencing",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Concrete CMS",
+        "vendor": "PortlandLabs Inc",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Facebook Comments",
+        "vendor": "Facebook, Inc.",
+        "category": "Comment Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Salesforce Pardot",
+        "vendor": "Salesforce, Inc.",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Parsley",
+        "vendor": "",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Qualtrics",
+        "vendor": "Qualtrics, LLC",
+        "category": "Customer Experience Management",
+        "categoryParent": "Customer Service"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Mitutoyo Europe GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Norio",
+        "last_name": "Takatsuji",
+        "title": "President",
+        "email": "",
+        "phone": "",
+        "company": "Mitutoyo",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Ken",
+        "last_name": "Yoshiiwa",
+        "title": "Director",
+        "email": "",
+        "phone": "",
+        "company": "Mitutoyo",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 87.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 17:30"
+}

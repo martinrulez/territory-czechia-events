@@ -1,0 +1,310 @@
+{
+  "company_key": "rea elektronik gmbh",
+  "company_name": "REA Elektronik GmbH",
+  "domain": "www.rea-jet.com",
+  "domain_url": "https://www.rea-jet.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "REA Elektronik GmbH",
+    "opportunity_score": 37,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [
+      "Hiring (5 jobs)",
+      "Engineering roles open",
+      "Public contracts"
+    ],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.15,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.55,
+      "client_bonus": 0.7
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "employee_count": 390,
+    "revenue": 85851,
+    "hiring_signal": true,
+    "hiring_intensity": "medium",
+    "total_jobs": 5,
+    "engineering_hiring": true,
+    "leadership_change": false,
+    "has_public_contracts": true,
+    "zi_domain": "www.rea-jet.com",
+    "zi_city": "Muehltal",
+    "zi_country": "Germany",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "2",
+    "current_acv_eur": "1000.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-04-30",
+    "days_to_renewal": "7",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "maturity_label": "Entry",
+    "industry_segment": "Construction Services",
+    "ml_employee_count": "12",
+    "ml_revenue": "1884",
+    "zi_done": true,
+    "zi_company_name": "REA Elektronik",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.rea-jet.com",
+    "homepage": {
+      "title": "Print | Apply | Verify - REA SYSTEME",
+      "description": "Coding and marking systems, labeling technology and code verification systems for the industry. Find out more and contact us now!",
+      "text_excerpt": "Print | Apply | Verify - REA SYSTEME\nIndustrial Coding and Marking Systems\nGo to product overview\nLabeling technology for logistics and automation\nGo to product overview\nLaser systems for permanent markings\nGo to product overview\nCode verification systems for 1D and 2D codes\nGo to product overview\nPRINT\nCoding and Marking Systems\nAPPLY\nLabeling Systems\nMARK\nLaser Systems\nVERIFY\nCode Verification Systems\nPRINT | APPLY | VERIFY\nIndustrial coding and marking systems, labeling technology, laser systems and code verification systems\nFor precise printing, labeling, lasering and code verification\nBased on over 40 years of experience, we develop innovative coding and marking solutions for marking, marking and labeling your products with coding systems from\nREA JET\n, labeling systems from\nREA LABEL\n, laser systems from\nREA LASER\nand code verification systems for 1D and 2D Codes from\nREA VERIFIER\n. Our REA systems, powerful software, high-quality materials and consumables are perfectly coordinated.\nOur REA systems are used worldwide in a wide range of industries to mark, tag, label and verify products. Whether in steel processing plants or in the packaging, food or pharmaceutical industries - REA is the first choice for reliable identification and traceability. Also for networked production in the sense of Industry 4.0.\nSince our foundation in 1982, we have continuously expanded our extensive portfolio for industrial coding and marking. We develop, manufacture and improve innovative solutions for marking, labeling and verifying a wide range of products and surfaces. REA Elektronik GmbH (Applicable to: Company headquarters, Mühltal location) is certified according to DIN EN ISO 9001:2015.\nREA's product range includes four product lines:\nREA JET\noffers you the ability to mark and label products and surfaces from a wide range of industries precisely and efficiently. With many years of expert knowledge and modern coding and marking technologies, whether with ink or color, you can print texts, barcodes, logos, product information and more - according to your requirements.\nREA LABEL\n, you will find individual solutions for your marking and labeling tasks in logistics and automation. From simply designing the label layout to applying it to the product - our labeling technology enables you to mark packaging and products fast, cleanly and flexibly.\nREA LASER\nmarking lasers stand for state-of-the-art and consumable-free technology in industrial coding and marking. They offer precise, permanent markings on a wide range of materials such as metal, plastic and glass. Ideal for industries such as automotive, electronics, medical and packaging, these systems ensure traceability and quality assurance and promote efficient, environmentally friendly production.\nREA VERIFIER\noffers you state-of-the-art code verification systems for checking the quality of the readability and structure of 1D and 2D Codes. Whether international standard specifications or application-specific r"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "REA Elektronik GmbH",
+    "autodesk_products": [],
+    "competitor_products": [
+      "Dassault Systemes"
+    ],
+    "cad_bim_other": [],
+    "total_technologies": 31,
+    "all_technologies": [
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Canva",
+        "vendor": "Canva Pty Ltd",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Parsley",
+        "vendor": "",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "American Express",
+        "vendor": "American Express Company",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "The USERTRUST Network",
+        "vendor": "Comodo Group, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Sectigo",
+        "vendor": "Sectigo Limited",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Operative",
+        "vendor": "SintecMedia Ltd.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Dassault Systemes",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Bench",
+        "vendor": "Bench",
+        "category": "Accounting",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "able",
+        "vendor": "Able",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "accurate",
+        "vendor": "Accurate Background",
+        "category": "Pre-Employment Assessment",
+        "categoryParent": "Human Resources"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "REA Elektronik GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Raymond",
+        "last_name": "Turchi",
+        "title": "President",
+        "email": "",
+        "phone": "",
+        "company": "REA Elektronik",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Adam",
+        "last_name": "Spadotto",
+        "title": "General Manager",
+        "email": "",
+        "phone": "",
+        "company": "REA Elektronik",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 12:12"
+}

@@ -1,0 +1,77 @@
+{
+  "company_key": "arkance systems cz",
+  "company_name": "Arkance Systems CZ",
+  "domain": "",
+  "domain_url": "",
+  "events": "CADforum 2026 (Arkance Systems)",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Arkance Systems CZ",
+    "opportunity_score": 21,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.55,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.55,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "26197081",
+    "official_name": "Arkance Systems CZ s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "855",
+      "47780",
+      "58290",
+      "47",
+      "47400",
+      "46500",
+      "63100",
+      "62",
+      "46510",
+      "47410",
+      "47789",
+      "4791",
+      "47990",
+      "58290",
+      "620",
+      "631",
+      "855"
+    ],
+    "ares_segments": [
+      "M&E"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Líbalova 2348/1, Chodov, 14900 Praha 4, Praha, Líbalova, 14900",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Arkance Systems CZ",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 15:36"
+}

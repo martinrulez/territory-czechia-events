@@ -1,0 +1,51 @@
+{
+  "company_key": "asseco_ceit_a_s",
+  "company_name": "Asseco CEIT, a. s.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MARTIN MARKOVIČ",
+        "firstName": "MARTIN",
+        "lastName": "MARKOVIČ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "GÜNTHER MEYRINGER",
+        "firstName": "GÜNTHER",
+        "lastName": "MEYRINGER",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PETR GOLIÁŠ",
+        "firstName": "PETR",
+        "lastName": "GOLIÁŠ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:35"
+}

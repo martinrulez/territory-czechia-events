@@ -1,0 +1,41 @@
+{
+  "company_key": "ateq_od_t_pn_z_vod",
+  "company_name": "ATEQ, odštěpný závod",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "LAURENT BERNARD GERARD",
+        "firstName": "LAURENT BERNARD",
+        "lastName": "GERARD",
+        "jobTitle": "statutární orgán zřizovatele-zahraniční osoby",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JIŘÍ TRBUŠEK",
+        "firstName": "JIŘÍ",
+        "lastName": "TRBUŠEK",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:30"
+}

@@ -1,0 +1,91 @@
+{
+  "company_key": "herrblitz modular system s.r.l.",
+  "company_name": "Herrblitz modular system s.r.l.",
+  "domain": "www.herrblitz.com",
+  "domain_url": "https://www.herrblitz.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Herrblitz modular system s.r.l.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 19,
+    "revenue": 2166,
+    "zi_company_name": "Herrblitz",
+    "zi_domain": "www.herrblitz.com",
+    "zi_city": "Torino",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.herrblitz.com",
+    "homepage": {
+      "title": "Homepage - HERRBLITZ MODULAR SYSTEM SRL",
+      "description": "La ditta Herrblitz ha iniziato la sua attivitÃ  di produzione di alimentatori pneumatici ed asservimenti per presse nel 1971, dopo un'esperienza ventennale nella costruzione di stampi per lamiera.",
+      "text_excerpt": "ï»¿\nHomepage - HERRBLITZ MODULAR SYSTEM SRL"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Herrblitz modular system s.r.l.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 3,
+    "all_technologies": [
+      {
+        "product": "Aruba SpA",
+        "vendor": "Aruba S.p.A.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HPE Aruba Networks",
+        "vendor": "Hewlett Packard Enterprise Development LP",
+        "category": "Network Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "Aruba Hosting",
+        "vendor": "Aruba S.p.A.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Herrblitz modular system s.r.l.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 18:09"
+}

@@ -1,0 +1,51 @@
+{
+  "company_key": "exactcut_s_r_o",
+  "company_name": "ExactCut s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ALFRED PICHLMANN",
+        "firstName": "ALFRED",
+        "lastName": "PICHLMANN",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "FRIEDRICH PICHLMANN",
+        "firstName": "FRIEDRICH",
+        "lastName": "PICHLMANN",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ROSTISLAV LEINVEBER",
+        "firstName": "ROSTISLAV",
+        "lastName": "LEINVEBER",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:08:52"
+}

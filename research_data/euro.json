@@ -1,0 +1,337 @@
+{
+  "company_key": "euro",
+  "company_name": "Euro",
+  "domain": "www.eurotec-ks.cz",
+  "domain_url": "https://www.eurotec-ks.cz",
+  "events": "Connected Construction Days 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Euro",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "00365029",
+    "official_name": "PCP EURO-POWER EURO POLICE, s.r.o., odštěpný závod Ústí nad Orlicí, Kocianova 934, PSČ 562 01",
+    "legal_form": "501",
+    "nace_codes": [],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Quido Kociana 934, 56201 Ústí nad Orlicí, Ústí nad Orlicí, Quido Kociana, 56201",
+    "is_client": true,
+    "current_products": "Inventor",
+    "total_seats": "1",
+    "current_acv_eur": "2800.0",
+    "potential_acv_eur": "9000.0",
+    "nearest_renewal": "2027-03-29",
+    "days_to_renewal": "340",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle with AutoCAD Mechanical, Vault, Fusion for full D&M workflow",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Vault",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Industrial Machinery",
+    "ml_domain": "www.eurotec-ks.cz",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.eurotec-ks.cz",
+    "homepage": {
+      "title": "EUROTEC, k.s. | Elektrotechnické sestavy a komponenty",
+      "description": "",
+      "text_excerpt": "EUROTEC, k.s. | Elektrotechnické sestavy a komponenty\nPřejít k hlavnímu obsahu\nTechnology\nfor the future\nJsme oceňovaným partnerem nadnárodních technologických společností, kterým poskytujeme služby v oblasti výroby a kompletace komponentů pro automobilový, elektrotechnický a spotřební průmysl.\nZjistit více\nVideo file\n34+\nLet zkušeností\n750+\nZaměstnanců\n60+ mil.\nVýrobků ročně\nAutomotive\nElektronika/IOT\nSpotřební průmysl\nNaše služby\nKompletace\nKompletace elektrotechnických sestav na vlastních výrobních linkách.\nZjistit více\nElektronika\nKomplexní výroba zahrnující osazování, pájení a testování elektronických sestav.\nZjistit více\nVstřikování plastů\nVýroba komponent metodou vstřikování plastů.\nZjistit více\nMěřicí laboratoř\nNabízíme profesionální služby v oblasti 3D měření, metrologie a kontroly kvality.\nZjistit více\nImage\nStabilita\nOpíráme se o pevné základy a dlouhodobé partnerství s našimi zákazníky. Stabilita nám umožňuje rozvíjet moderní technologie, vytvářet kvalitní pracovní prostředí a garantovat spolehlivost i v těch nejnáročnějších projektech.\nImage\nŠpičkové technologie\nPracujeme s nejmodernějším technologickým zázemím, které nám umožňuje naplno využít naše znalosti a dovednosti. Věříme, že právě technologie jsou klíčem k úspěšné budoucnosti, kterou společně vytváříme.\nImage\nProfesionální tým\nS více než 750 kolegy jsme jedním z největších zaměstnavatelů v regionu. Rosteme a rozvíjíme se. Přidejte se k nám a napište s námi další kapitolu úspěchu.\nStaňte se součástí moderní technologické společnosti\nNabízíme zázemí stabilní úspěšné společnosti, která působí na trhu více než 34 let a patří mezi oceňované partnery nadnárodních značek.\nKariéra\nVideo file"
+    },
+    "about": {
+      "url": "https://www.eurotec-ks.cz/o-nas",
+      "text": "O nás | EUROTEC, k.s.\nPřejít k hlavnímu obsahu\nO nás\nJiž více než 34 let úspěšně poskytujeme služby v oblasti výroby a kompletace komponentů pro automobilový, elektrotechnický a spotřební průmysl. Naše vývojové pracoviště Partec se specializuje na vývoj a výrobu poloautomatizovaných a automatizovaných výrobních linek.\nZjistit více\nVideo file\nKvalita s přidanou hodnotou\nDíky výrobním závodům v České republice a Mexiku i centrále v Německu můžeme nabídnout řešení s optimální cenou a současně garancí vysoké kvality. Na našich výrobních linkách využíváme kontrolní stanice s technologiemi Embedded Vision System (EVS) pro minimalizaci chybovosti, disponujeme také vlastní unikátně vybavenou laboratoří a metrologickým pracovištěm.\nImage\nModerní technologie\nPro výrobu využíváme vlastní poloautomatizované a automatizované linky vyvíjené naším špičkovým centrem výzkumu a vývoje Partec.\nImage\nGarance kvality\nVysokou úroveň kvality zajišťujeme pomocí moderních technologií a využitím vlastní metrologické a měřicí laboratoře.\nImage\nProškolený tým\nKvalitu výroby podporujeme odborně proškoleným týmem a efektivním systémem řízení procesů.\nHistorie společnosti\n1987\nZaložení firmy\nKonecny Gerätebau GmbH\n1991\nZaložení společnosti  Eurotec k.s.\n1997\nZaložení strojového vybavení a vybavení budov\n2003\nZaložení závodu ve  Veselí nad Moravou\n2007\nDivize vstřikování plastů  a Partec\n2015\nOcenění Bosch Global  Supplier Award\n2018\nZahájení výroby v Mexiku\n2025\nOficiálně kvalifikovaná externí CT laboratoř\nCertifikace a ocenění\nImage\nEN ISO 9001:2015\nSystém managementu. Výroba elektrických a elektromechanických dílů a sestav, včetně vstřikování plastových dílů a osazování tištěných spojů. Vývoj a výroba strojů a zařízení pro automatizovanou výrobu.\nImage\nIATF 16949:2016\nSystém managementu jakosti. Výroba elektrických a elektromechanických dílů a sestav, včetně plastových dílů a desek tištěných spojů.\nImage\nBosch Global Supplier Award\nOcenění zákazníka Robert Bosch GmbH. Eurotec Konečný obdržel cenu v kategorii Elektronika/Elektromechanika v roce 2015.\nStaňte se součástí moderní technologické společnosti\nNabízíme zázemí stabilní úspěšné společnosti, která působí na trhu více než 34 let a patří mezi oceňované partnery nadnárodních značek.\nKariéra\nVideo file"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.eurotec-ks.cz/kontakt",
+      "text": "Kontakt | EUROTEC, k.s.\nPřejít k hlavnímu obsahu\nKontakt\nMáte dotaz nebo zájem o naše služby? Neváhejte nás kontaktovat, jsme Vám k dispozici.\nZjistit více\nVideo file\nVýrobní závod\nUherský Ostroh\nEUROTEC, k.s.\nNa Zámecké 725\n687 24 Uherský Ostroh\nČeská republika\nEurotec:\n+420 572 591 281\nPartec:\n+420 732 644 676\neurotec@eurotec-ks.cz\nVýrobní závod\nVeselí nad Moravou\nEUROTEC, k.s.\nKollárova 1670\n698 01 Veselí nad Moravou\nČeská republika\n+420 518 323 777\n+420 518 323 784\n(fax)\neurotec@eurotec-ks.cz\nObchodní centrála\nKarlsruhe, Germany\nKonecny Gerätebau GmbH\nGreschbachstraße 20\n76229 Karlsruhe\nGermany\n+49 721 480997 0\n+49 721 480997 99\n(fax)\ninfo@konecny.de\nVýrobní závod\nEl Marques, Mexiko\nEurotec Konecny de México\nLateral Carretera Estatal 431\nKm 2 +200 Lote 99 Módulo 1 2 y 3\nParque Tecnológico Innovación Querétaro\n76246 El Marques, Querétaro\nStaňte se součástí moderní technologické společnosti\nNabízíme zázemí stabilní úspěšné společnosti, která působí na trhu více než 34 let a patří mezi oceňované partnery nadnárodních značek.\nKariéra\nVideo file"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Euro",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "Autodesk"
+    ],
+    "total_technologies": 30,
+    "all_technologies": [
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "WPML",
+        "vendor": "OnTheGoSystems Limited",
+        "category": "Translation",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Autodesk",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Analytics",
+        "vendor": "Facebook, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "formy",
+        "vendor": "Leapy, Inc.",
+        "category": "Site Search",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "C#",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Drupal 9",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Drupal",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Analytics Event Tracking",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Euro",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "P.",
+        "last_name": "Konecny",
+        "title": "Head of Operations",
+        "email": "",
+        "phone": "",
+        "company": "Eurotec",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Gabriela",
+        "last_name": "Zemská",
+        "title": "Controlling Specialist",
+        "email": "",
+        "phone": "",
+        "company": "Eurotec",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Alexandr",
+        "last_name": "Sup",
+        "title": "Machine Vision Developer",
+        "email": "alexandrsup@eurotec-ks.cz",
+        "phone": "",
+        "company": "Eurotec",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 92.0
+      },
+      {
+        "first_name": "Miroslava",
+        "last_name": "Studená",
+        "title": "Technik Technolog Plasty",
+        "email": "",
+        "phone": "",
+        "company": "Eurotec",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 08:53",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "inventor",
+        "vault"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

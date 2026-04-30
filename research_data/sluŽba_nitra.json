@@ -1,0 +1,128 @@
+{
+  "company_key": "sluŽba nitra",
+  "company_name": "SLUŽBA NITRA",
+  "domain": "www.sluzbanitra.sk",
+  "domain_url": "https://www.sluzbanitra.sk",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SLUŽBA NITRA",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 25,
+    "revenue": 1375,
+    "zi_company_name": "Služba Nitra , sro",
+    "zi_domain": "www.sluzbanitra.sk",
+    "zi_city": "Nitra - Staré Mesto",
+    "zi_country": "Slovakia",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.sluzbanitra.sk",
+    "homepage": {
+      "title": "SluÅ¾ba Nitra | High-Quality Automotive Products",
+      "description": "We are a trusted provider of high-quality automotive products and industrial design services. With a commitment to excellence and over 65 years of experience, trust us to exceed your expectations.",
+      "text_excerpt": "SluÅ¾ba Nitra | High-Quality Automotive Products\nWhere tradition meets innovation\nBecome our partner\ntechnology\nProducts\nCustomers\n250+\nProducts in\nour portfolio\n35+\nsatisfied\ncustomers\n100+\nCompleted\nprojects\n300+\nemployees\n20+\nTurnover in milions\nour customers\nThe expansion of the automotive industry made many companies face difficult challenges. Alongside electrification and the emergence of electric vehicles, we must confront and follow the rapidly changing general industrial trends. Our future success centres around innovation, automation of processes, digitization of data, scheduling and purchasing synchronization, and decisions made to reduce our carbon footprint. In light of this, we have become a reliable partner to all of our customers\ntechnology\nFor automotive manufacturing, we offer innovative processes that allow for highly automated assembly using advanced technology such as vibration welding, ultrasonic welding, heating, and EOL testing. In addition to that, we use printed circuit board assemblies, injection moulding capabilities, and progressive automatic stamping machines with expertise in metal stamping. We prioritise developing innovative solutions and cutting-edge technology for our customers to achieve the best results in automotive manufacturing.\nLearn more\nProducts\nOur vast range of high-quality products for various industries includes fuse boxes, lighting solutions, PCB assembly services, and stamping products. We prioritize exceptional quality and attention to detail to ensure that our products exceed the expectations of our customers. Our fuse boxes exhibit safety, reliability and efficiency, while our lighting solutions feature energy-efficient and high-performance products. Our PCB assembly services utilize the most recent techniques and equipment for the highest level of precision and quality. Ultimately, our stamping products use the best materials and advanced production methods for lasting durability. Our commitment is to deliver top-tier products while focusing on quality, performance, and reliability.\nLearn more\nSustainability\nOur relationship with the environment is based on the concepts of sustainable development and regional environmental protection. Our commitment to sustainability is a core value that we hold, and we work hard to minimize our environmental impact. We thoroughly examine customersâ requirements and provide complete and accurate information on the chemical composition of our products. As a result, we take extra precautions to ensure that our products do not contain any hazardous substances.\nLearn more\nWould you like to work with us?\nSend an inquiry\nGive us a call\nCompany\nabout us\ntechnology\nProducts\nour customers\nSustainability\nother\nTechnology\nassembly\nPCB Assembly\nInjection moulding, allimnization\nstamping\nContact\nsluzba@sluzbanitra.sk\n+421 37 6921 410\nSluÅ¾ba Nitra,\ns.r.o.\npraÅ¾skÃ¡ 33\n949 01 Nitra\nSlovakia\nAll rights reserved SluÅ¾ba Nitra s.r.o | Designed by pee-tee.com"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "SLUŽBA NITRA",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Webflow",
+        "vendor": "Webflow, Inc.",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "SLUŽBA NITRA",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Eva",
+        "last_name": "Banyiova",
+        "title": "Project Manager",
+        "email": "",
+        "phone": "",
+        "company": "Služba Nitra , sro",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 84.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 16:55"
+}

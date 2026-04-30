@@ -1,0 +1,149 @@
+{
+  "company_key": "tdeg",
+  "company_name": "TdeG",
+  "domain": "www.tdeg.com.au",
+  "domain_url": "https://www.tdeg.com.au",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "TdeG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 6,
+    "revenue": 2368,
+    "zi_company_name": "Tdeg",
+    "zi_domain": "www.tdeg.com.au",
+    "zi_city": "Fitzroy",
+    "zi_country": "Australia",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.tdeg.com.au",
+    "homepage": {
+      "title": "The Design Element Group",
+      "description": "",
+      "text_excerpt": "The Design Element Group\nLoading...\nslide1\nExpert Architectural Drafting\nslide2\nExceptional Spaces Begin When Design Starts With You.\nslide3\nPhotorealistic 3D Renders That Let You Step Inside Your Future Space.\nAre you interested in an estimate?\nGet in Touch\nAbout Us\nWe Design Spaces That Last\nTDEG is a Melbourne-based interior design and architecture studio creating enduring spaces across Australia.\nWe specialise in\ninteriors for homes, workplaces, retail, and hospitality\n—from styling and staging to full-scale fit-outs. Our team also delivers thoughtful building design for\nnew homes, renovations, and extensions.\nTDEG\n, we focus on detail-driven, timeless interiors that elevate everyday experiences and reflect your vision—beautifully and functionally.\nTestimonials\nWe engaged TDEG for drafting plans for our home renovation. From day one, the team was responsive, knowledgeable, and incredibly thorough. They handled all council submissions, made several plan adjustments without fuss, and helped us get approval faster than expected. It was a stress-free experience thanks to their professionalism.\nAmelia\nDoncaster, VIC\nWe had no idea where to start with our new home’s interiors until we found TDEG. They worked with us room by room, helping us choose colours, textures, lighting, and furniture layouts that matched our style. The team was patient, gave great suggestions, and respected our budget. Our home finally feels like us.\nNavneet B\nPoint Cook, VIC\nI approached TDEG for the interior design and layout of my new dental clinic. They took time to understand how we operate and created a space that’s functional, modern, and welcoming for patients. Their attention to workflow and detail made a huge difference. Highly recommend them for any commercial fit-out.\nEliza\nBerwick, VIC\nReady to bring your project to life?\nLet’s collaborate and turn your vision into reality.\nCall Us Now"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.tdeg.com.au/services",
+      "text": "Services – The Design Element Group\nLoading...\nServices\nBuilding Design\nInteriors-first thinking. Structure with purpose.\nOur building design process starts with how a space will be lived in and experienced. We don’t just design from the outside in—we design from the inside out.\nWhether it’s a new build, a renovation, or a tailored fit-out, we create architectural solutions that align with your vision while ensuring flow, function, and spatial harmony.\nServices include:\nNew builds\nRenovations & extensions\nInterior-led architectural planning\nSpatial flow & layout optimization\nFit-outs for residential and commercial projects\nInterior Design\nSpaces that reflect how you live, work, and connect.\nWe design interiors that feel as good as they look—crafted around people, purpose, and detail. From personal spaces to commercial environments, every project is thoughtfully tailored to its context and users.\nWe take a human-first approach, shaping interiors that are immersive, practical, and emotionally resonant.\nCommercial Design:\nWorkspaces\nRetail environments\nHospitality venues\nPersonal & Lifestyle Spaces:\nResidential interiors\nAirbnb & short-term rentals\nCompact & creative living solutions\nDesign Documentation & Project Support\nTranslating ideas into action—and outcomes.\nWhen vision meets execution, we’re there to guide the process. We provide the detailed documentation and project support needed to bring your ideas to life with clarity and confidence.\nFrom permit-ready plans to consultant coordination and ongoing project oversight, we help streamline the path from design concept to built reality.\nServices include:\nCAD drawings & technical documentation\nCouncil approvals & permit application support\nConsultant & contractor coordination\nProject management assistance\nFrom concept to completion, we collaborate closely with clients to design spaces that not only look beautiful—but feel right.\nOUR BUILDING DESIGN SERVICES INCLUDE\nExtension\nRenovation\nNew Home\nCommercial Development\nCommercial Renovation\nUnit Development\nShop Fitouts Designs\nReady to bring your project to life?\nLet’s collaborate and turn your vision into reality.\nCall Us Now"
+    },
+    "contact_page": {
+      "url": "https://www.tdeg.com.au/contact",
+      "text": "Contact Us – The Design Element Group\nLoading...\nContact  Us\nContact Details\nSuite 8. Shop 2/104 Johnston St Fitzroy Vic 3065\n0424 802 490\nadmin@tdeg.com.au\nContact Form\nPlease enable JavaScript in your browser to complete this form.\nName Comment Contact\nName\nFirst\nLast\nContact Number\nEmail\nComment or Message\nSubmit\nReady to bring your project to life?\nLet’s collaborate and turn your vision into reality.\nCall Us Now"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "TdeG",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 12,
+    "all_technologies": [
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WPForms",
+        "vendor": "WPForms LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP 5.6",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "TdeG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 16:46"
+}

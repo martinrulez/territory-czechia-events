@@ -1,0 +1,87 @@
+{
+  "company_key": "ad_pr_myslov_ho_vlastnictv",
+  "company_name": "Úřad průmyslového vlastnictví",
+  "domain": "",
+  "events": "FOR ARCH 2026, Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "Úřad průmyslového vlastnictví",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 5,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Flippingbook",
+        "vendor": "FlippingBook Limited",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Jana Pavková",
+        "firstName": "Jana",
+        "lastName": "Pavková",
+        "jobTitle": "Head of Presidents Office",
+        "email": "jana.pavkova@upv.gov.cz",
+        "phone": "+420 220 383 311",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Michal Verner",
+        "firstName": "Michal",
+        "lastName": "Verner",
+        "jobTitle": "Deputy Director, Patent Information Department",
+        "email": "mverner@upv.gov.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Petr Tománek",
+        "firstName": "Petr",
+        "lastName": "Tománek",
+        "jobTitle": "Finanční and Projektový Manažer",
+        "email": "ptomanek@upv.gov.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:22"
+}

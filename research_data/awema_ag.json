@@ -1,0 +1,69 @@
+{
+  "company_key": "awema ag",
+  "company_name": "AWEMA AG",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "AWEMA AG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "AWEMA AG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Thomas",
+        "last_name": "Ahlburg",
+        "title": "Chief Executive Officer",
+        "email": "tahlburg@awema.com",
+        "phone": "",
+        "company": "Awema",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Enzo",
+        "last_name": "Zanin",
+        "title": "Construction Head",
+        "email": "enzo.zanin@awema.com",
+        "phone": "",
+        "company": "Awema",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 12:23"
+}

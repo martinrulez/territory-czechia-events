@@ -1,0 +1,414 @@
+{
+  "company_key": "fanuc czech s.r.o.",
+  "company_name": "FANUC Czech s.r.o.",
+  "domain": "www.fanuc.eu",
+  "domain_url": "https://www.fanuc.eu",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "FANUC Czech s.r.o.",
+    "opportunity_score": 22,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.6,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.6,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "27181499",
+    "official_name": "FANUC Czech s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46900",
+      "43210",
+      "62",
+      "855",
+      "26200",
+      "47780",
+      "95100",
+      "26200",
+      "43210",
+      "46900",
+      "4778",
+      "620",
+      "855",
+      "95110"
+    ],
+    "ares_segments": [
+      "D&M",
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "K Bílému vrchu 3142/7, Horní Počernice, 19300 Praha 9, Praha, K Bílému vrchu, 19300",
+    "zi_done": true,
+    "employee_count": 493,
+    "revenue": 283046,
+    "zi_company_name": "FANUC europe",
+    "zi_domain": "www.fanuc.eu",
+    "zi_city": "Neuhausen auf den Fildern",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.fanuc.eu",
+    "homepage": {
+      "title": "FANUC - World market leader in factory automation",
+      "description": "We create innovative factory automation solutions to enhance productivity. Revolutionise your manufacturing strategy with FANUC today.",
+      "text_excerpt": "FANUC - World market leader in factory automation\nSearch\nMyFANUC\nContact\nmenu\nProducts\nIndustries\nApplications\nCustomer Service\nCareer\nSearch\nOur locations\nContact\nAUTOMATION HAS A NAME\nWith 60+ years leading industrial automation, FANUC delivers precision, reliability, and scalability. Automate today to boost efficiency, cut downtime, and grow without limits. Performance and peace of mind — work smarter, easier.\nCNC & DRIVES\nROBOTS\nROBODRILL\nROBOSHOT\nROBOCUT\nIIoT Solutions\nCNC & DRIVES\nSmart CNC for Maximum Quality and Maximum Productivity\nFANUC CNC provides the answer to demanding machining operations involving multiple axes and multiple path applications. From very small to very large workpieces, from very soft to very hard materials, FANUC CNC provides the ideal balance between utmost precision, flawless surface quality and the shortest possible cycle times. This translates into less non-productive time and eliminates the inaccuracies incurred in multiple-part set-up operations.\nDiscover FANUC CNC Systems\nCNC Finder\nROBOTS\nThe Widest Range of Industrial Robot & Cobots in the World\nWith more than 100 models, FANUC offers the widest range of industrial robots in the world. Covering a diverse range of applications and industries, FANUC robots are easy to operate and provide complete flexibility thanks to a range of application-specific options, straightforward integration, payloads up to 2.3 t and maximum reaches up to 4.7 m.\nDiscover FANUC Robots\nROBOT Finder\nROBODRILL\nCompact CNC Machining Centres\nThe new generation ROBODRILL vertical machining centre promises unrivalled quality and precision at great hourly rates. With an unbeatable tool change time of 0.7 seconds and a turret capable of handling tools weighing 4 kg, the new advanced versions are both the fastest and strongest 5-axis CNC machines on the market. Advanced or standard, every ROBODRILL vertical machining centre is a real high-speed all-rounder offering incredible performance and unbeatable efficiency.\nDiscover the ROBODRILL Series\nROBODRILL Finder\nROBOSHOT\nElectric Injection Moulding Machines\nFANUC ROBOSHOT takes state-of-the-art CNC precision technology from turning and milling and applies it to electric injection moulding. The results are greater acceleration, ultimate precision of movement and extremely short cycle times to produce large quantities of consistently high-quality parts.\nDiscover the ROBOSHOT Series\nROBOSHOT Finder\nROBOCUT\nWire-Cut EDM Machines\nWhere wire EDM is concerned, accuracy has traditionally come at the cost of speed. That’s why FANUC has developed a next generation ROBOCUT wire-cutting machine. The α-C𝑖C series comprises versatile all-rounders. With incredibly long mean times between failures, low maintenance, longevity and excellent uptimes, these future-proof spark erosion machines are designed to save time and drive down unit costs while ensuring superlative accuracy and cutting efficiency.\nDiscover the ROBOCUT Series\nROBOCUT Hardware\nIIoT Solutions\nLo"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "FANUC Czech s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 62,
+    "all_technologies": [
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Perkbox",
+        "vendor": "Perkbox",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Adobe InDesign",
+        "vendor": "Adobe Inc.",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Amazon CloudFront",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Fabric",
+        "vendor": "Microsoft Corporation",
+        "category": "Data Integration",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Oracle",
+        "vendor": "Oracle Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "SAP Human Capital Management",
+        "vendor": "SAP SE",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP SuccessFactors",
+        "vendor": "SAP SE",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Robotics",
+        "vendor": "FANUC CORPORATION",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "SAP RISE",
+        "vendor": "SAP SE",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Demand Planning",
+        "vendor": "Blue Yonder Group, Inc",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP tools",
+        "vendor": "SAP SE",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP Basis",
+        "vendor": "SAP SE",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP Analytics Cloud",
+        "vendor": "SAP SE",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "New Relic",
+        "vendor": "New Relic, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Field Service Management",
+        "vendor": "Oracle Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "F5",
+        "vendor": "F5 Networks, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Silverlight",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Visio",
+        "vendor": "Microsoft Corporation",
+        "category": "Charting",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Access",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Adobe Premiere Pro",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft PowerPoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "SAP S/4HANA",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "remise",
+        "vendor": "REMISE Corporation",
+        "category": "Payment Processing",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "F5 BIG-IP Application Security Manager",
+        "vendor": "F5 Networks, Inc.",
+        "category": "Web Application Firewalls",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Daily",
+        "vendor": "Daily.co.uk",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "SAP ERP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Python",
+        "vendor": "Python Software Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "C#",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "SAS (common)",
+        "vendor": "SAS Institute, Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Bitly",
+        "vendor": "Bitly, Inc.",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Angular",
+        "vendor": "Google LLC",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "FANUC Czech s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Shinichi",
+        "last_name": "Tanzawa",
+        "title": "President & Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "FANUC europe",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 15:33"
+}

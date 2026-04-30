@@ -1,0 +1,41 @@
+{
+  "company_key": "innomotics_s_r_o_trnit",
+  "company_name": "Innomotics, s.r.o., Trnitá",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ROMAN VALNÝ",
+        "firstName": "ROMAN",
+        "lastName": "VALNÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ZDENĚK STRNAD",
+        "firstName": "ZDENĚK",
+        "lastName": "STRNAD",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:54"
+}

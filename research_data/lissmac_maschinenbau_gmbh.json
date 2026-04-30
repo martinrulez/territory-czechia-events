@@ -1,0 +1,158 @@
+{
+  "company_key": "lissmac maschinenbau gmbh",
+  "company_name": "LISSMAC Maschinenbau GmbH",
+  "domain": "www.lissmac.com",
+  "domain_url": "https://www.lissmac.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "LISSMAC Maschinenbau GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 242,
+    "revenue": 13310,
+    "zi_company_name": "LISSMAC Maschinenbau",
+    "zi_domain": "www.lissmac.com",
+    "zi_city": "Bad Wurzach",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.lissmac.com",
+    "homepage": {
+      "title": "LISSMAC Maschinenbau – Construction Technology & Machine Concepts",
+      "description": "Construction Technology  - innovative machines for the construction sector | Metal Processing - highly efficient technology for sheet metal processing like deburring, edge rounding and oxide removal",
+      "text_excerpt": "LISSMAC Maschinenbau – Construction Technology & Machine Concepts\nMetal processing\nInnovative equipment for metal processing\nR 2 - SMD 3 – series, for those who can´t get enough of edge rounding.\nConstruction Technology\nInnovative construction technology for professionals\nMasonry saws - at home on every building construction site. Precise, quick and flexible sawing operations.\nWorking at LISSMAC\nInnovation and diversity under one roof\nOne team, that holds together\nLISSMAC – we are driven by ideas\nWe rely on experience and system competence. Against this background, LISSMAC Maschinenbau GmbH is comprised of four business divisions: Construction Technology, Metal Processing, Plant Engineering and MT handling. Worldwide, more than 400 employees at five locations in Germany, France, the USA and the United Arab Emirates ensure the highest levels of customer satisfaction.\nFour business areas\nConstruction Technology\nInnovative construction technology for professionals: Rapid. Straightforward. Effective.\nRead more\nMetal Processing\nMetalworking installations: Productive. Economical. Excellent.\nRead more\nMT-Handling\nHandling systems: Hand-held manipulators. Intelligent handling processes.\nRead more\nPlant-Engineering\nIndividual Plant Engineering: Customised. Automated. For your processes.\nRead more\nCorporate movie\nNews\nThe Importance of Deburring in Modern Manufacturing\nThe Importance of Deburring in Modern Manufacturing\nDeburring’s critical impact on product quality, workplace safety, and operational efficiency cannot be overstated. In metal processing, burrs - unwanted rough edges or protrusions - are an inevitable byproduct of cutting, machining, or welding. This article highlights the essential role of deburring in ensuring high-quality manufacturing outcomes and streamlining operations.\nWhat is Deburring, and Why is It Crucial?\nBurrs can be classified into two primary categories: thermal burrs and mechanical burrs. Thermal burrs are created during processes involving heat, such as plasma cutting, while mechanical burrs arise from metal-to-metal contact, like punching or machining. Regardless of the source, these imperfections can have far-reaching consequences if not properly addressed.\nProper deburring eliminates these rough edges, which can pose significant safety hazards and quality issues. Sharp edges can injure workers, damage manufacturing equipment, or compromise the safety of the end user. In metal fabrication facilities, workplace safety is a top priority, and deburring plays an essential role. By eliminating sharp edges, manufacturers can reduce the risk of injuries to workers handling the components. This proactive measure minimizes the likelihood of costly and concerning workers’ compensation claims and fosters a safer working environment. Deburring ensures smoother and safer handling during manufacturing and throughout the product's lifecycle. Safety isn’t just an added benefit - it’s a critical aspect of the manufacturing process that und"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.lissmac.com/products",
+      "text": "Products"
+    },
+    "contact_page": {
+      "url": "https://www.lissmac.com/contact",
+      "text": "Contact"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "LISSMAC Maschinenbau GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 11,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Ahrefs",
+        "vendor": "Ahrefs Pte. Ltd.",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Fotolia",
+        "vendor": "Adobe Inc.",
+        "category": "Stock Images Providers",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "eTracker",
+        "vendor": "etracker GmbH",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "LISSMAC Maschinenbau GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Klaus",
+        "last_name": "Kiefer",
+        "title": "Managing Director",
+        "email": "k.kiefer@lissmac.com",
+        "phone": "",
+        "company": "LISSMAC Maschinenbau",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 95.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 17:40"
+}

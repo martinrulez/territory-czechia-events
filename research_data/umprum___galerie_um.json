@@ -1,0 +1,245 @@
+{
+  "company_key": "umprum / galerie um",
+  "company_name": "UMPRUM / Galerie UM",
+  "domain": "www.umprum.cz",
+  "domain_url": "https://www.umprum.cz",
+  "events": "Designblok 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "UMPRUM / Galerie UM",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 21,
+    "revenue": 8342,
+    "zi_company_name": "Academy of Arts, Architecture and Design in Prague",
+    "zi_domain": "www.umprum.cz",
+    "zi_city": "Prague",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.umprum.cz",
+    "homepage": {
+      "title": "Úvod | Vysoká škola uměleckoprůmyslová v Praze",
+      "description": "",
+      "text_excerpt": "Úvod | Vysoká škola uměleckoprůmyslová v Praze\nPřijatí uchazeči do st. prog. - Teorie a dějiny moderního a současného umění, ak. rok 2026/27\nUchazeč\ndnes\nAI umění. Strojové vize a pokřivené sny\nNakladatelství\ndnes\nMaría Mazzanti: VOLUME\nVeřejná přednáška\nvčera\nMariann Drell: Estonian Centre for Architecture\nVeřejná přednáška\nvčera\nPostupující uchazeči do 2. kola - Teorie a dějiny moderního a současného umění - ak. rok 2026/27\nUchazeč\nvčera\nTypo života běh = Solpera\nNakladatelství\nvčera\nKomentovaná prohlídka výstavy La Villa Fuga\npřed 2 dny\nUMPRUM Online // ,,Generovat hmotu je dnes jiné úplně ve všem.” Rozhovor s Janem Němečkem\nUMPRUM Online\npřed 2 dny\nWASTED WASTE - UMPRUM na Milano Design Week 2026\nVýstava\npřed 4 dny\nTHE NEW REAL 2026: INTENZIVNÍ KURZ DIGITÁLNÍHO MÓDNÍHO NAVRHOVÁNÍ\nKurz\npřed 6 dny\nFabian Scheurer - Parametrics, Processes, Products – How to digitally scale construction?\nVeřejná přednáška\npřed 6 dny\nŠPENDLÍKOVÉ PLÁTNO NA UMPRUM\nInfo\npřed týdnem\nAlžběta Žabová & Petr Bureš: Mluvící objekty (CZ)\nVeřejná přednáška\npřed týdnem\nUMPRUM Online // Hana Sauko a… Škola – komunita – město\nUMPRUM Online\npřed týdnem\nSláva Sobotovičová autorkou obalu Výročního vinylu 2025\nGratulujeme!\npřed týdnem\nDalší"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.umprum.cz/services",
+      "text": "Úvod | Vysoká škola uměleckoprůmyslová v Praze\nPřijatí uchazeči do st. prog. - Teorie a dějiny moderního a současného umění, ak. rok 2026/27\nUchazeč\ndnes\nAI umění. Strojové vize a pokřivené sny\nNakladatelství\ndnes\nMaría Mazzanti: VOLUME\nVeřejná přednáška\nvčera\nMariann Drell: Estonian Centre for Architecture\nVeřejná přednáška\nvčera\nPostupující uchazeči do 2. kola - Teorie a dějiny moderního a současného umění - ak. rok 2026/27\nUchazeč\nvčera\nTypo života běh = Solpera\nNakladatelství\nvčera\nKomentovaná prohlídka výstavy La Villa Fuga\npřed 2 dny\nUMPRUM Online // ,,Generovat hmotu je dnes jiné úplně ve všem.” Rozhovor s Janem Němečkem\nUMPRUM Online\npřed 2 dny\nWASTED WASTE - UMPRUM na Milano Design Week 2026\nVýstava\npřed 4 dny\nTHE NEW REAL 2026: INTENZIVNÍ KURZ DIGITÁLNÍHO MÓDNÍHO NAVRHOVÁNÍ\nKurz\npřed 6 dny\nFabian Scheurer - Parametrics, Processes, Products – How to digitally scale construction?\nVeřejná přednáška\npřed 6 dny\nŠPENDLÍKOVÉ PLÁTNO NA UMPRUM\nInfo\npřed týdnem\nAlžběta Žabová & Petr Bureš: Mluvící objekty (CZ)\nVeřejná přednáška\npřed týdnem\nUMPRUM Online // Hana Sauko a… Škola – komunita – město\nUMPRUM Online\npřed týdnem\nSláva Sobotovičová autorkou obalu Výročního vinylu 2025\nGratulujeme!\npřed týdnem\nDalší"
+    },
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "UMPRUM / Módní show Fokus Broumov",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 20,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Stream",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Adobe Illustrator",
+        "vendor": "Adobe Inc.",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Forms",
+        "vendor": "Google LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bitly",
+        "vendor": "Bitly, Inc.",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Matomo",
+        "vendor": "Matomo Software",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Adobe",
+        "vendor": "Adobe Inc.",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      }
+    ],
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "UMPRUM / Galerie UM",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Katerina",
+        "last_name": "Duchac",
+        "title": "Founder, Umlab Creative Lab At Umprum",
+        "email": "katerina.duchac@umprum.cz",
+        "phone": "",
+        "company": "Academy of Arts, Architecture and Design in Prague",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Ivan",
+        "last_name": "Dlaba",
+        "title": "Founder & Chief Designer & Head of The Industrial Design Studio D1 Executive",
+        "email": "ivan.dlabac@umprum.cz",
+        "phone": "",
+        "company": "Academy of Arts, Architecture and Design in Prague",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 84.0
+      },
+      {
+        "first_name": "Jarmila",
+        "last_name": "Kemrová",
+        "title": "Vice President",
+        "email": "",
+        "phone": "",
+        "company": "Academy of Arts, Architecture and Design in Prague",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 75.0
+      },
+      {
+        "first_name": "Alena",
+        "last_name": "Hájková",
+        "title": "Head of Glasscutting Workshop",
+        "email": "alena.hajkova@umprum.cz",
+        "phone": "",
+        "company": "Academy of Arts, Architecture and Design in Prague",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 16:24"
+}

@@ -1,0 +1,156 @@
+{
+  "company_key": "xgrids",
+  "company_name": "Xgrids",
+  "domain": "xgrids.com",
+  "domain_url": "https://xgrids.com",
+  "events": "3DISE Conference 2026",
+  "event_count": 1,
+  "lead_class": null,
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Xgrids",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "zi_error": "No company found"
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://xgrids.com",
+    "homepage": {
+      "title": "XGRIDS-3D Reconstruction-Spatial Computing-Handheld Scanner",
+      "description": "XGRIDS provides high-precision 3D reconstruction, real-world 3D rendering, real-time modeling, Lixel handheld LiDAR, and 3D Gaussian splatter reconstruction.",
+      "text_excerpt": "XGRIDS-3D Reconstruction-Spatial Computing-Handheld Scanner"
+    },
+    "about": {
+      "url": "https://xgrids.com/o-nas",
+      "text": "XGRIDS-3D Reconstruction-Spatial Computing-Handheld Scanner"
+    },
+    "products": {
+      "url": "https://xgrids.com/produkty",
+      "text": "XGRIDS-3D Reconstruction-Spatial Computing-Handheld Scanner"
+    },
+    "contact_page": {
+      "url": "https://xgrids.com/kontakt",
+      "text": "XGRIDS-3D Reconstruction-Spatial Computing-Handheld Scanner"
+    }
+  },
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Abdullah Shah",
+        "firstName": "Abdullah",
+        "lastName": "Shah",
+        "jobTitle": "Chief Executive Officer",
+        "email": "a.shah@xgrid.co",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Saad Arshed",
+        "firstName": "Saad",
+        "lastName": "Arshed",
+        "jobTitle": "Chief Operating Officer",
+        "email": "saad@xgrid.co",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Tayyab Mahmood",
+        "firstName": "Tayyab",
+        "lastName": "Mahmood",
+        "jobTitle": "Vice President, Engineering & General Manager, Platforms",
+        "email": "tayyab.mahmood@xgrid.co",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jeremy Long",
+        "firstName": "Jeremy",
+        "lastName": "Long",
+        "jobTitle": "Owner and General Manager",
+        "email": "jeremy@xgridcampers.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Sidra Irshad",
+        "firstName": "Sidra",
+        "lastName": "Irshad",
+        "jobTitle": "Manager, Software Development Cloud",
+        "email": "sidra.irshad@xgrid.co",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Marcus Stefani",
+        "firstName": "Marcus",
+        "lastName": "Stefani",
+        "jobTitle": "Director",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Christopher Long",
+        "firstName": "Christopher",
+        "lastName": "Long",
+        "jobTitle": "Director, Business Operations",
+        "email": "chris@xgridcampers.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Umair Atiq",
+        "firstName": "Umair",
+        "lastName": "Atiq",
+        "jobTitle": "Senior Manager, Software Development",
+        "email": "umair.atiq@xgrid.co",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Waqar Masood",
+        "firstName": "Waqar",
+        "lastName": "Masood",
+        "jobTitle": "Senior Manager, Information Technology & Administrator",
+        "email": "waqarm@xgrid.co",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 9,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-23 19:03"
+}

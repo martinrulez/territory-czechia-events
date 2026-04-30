@@ -1,0 +1,483 @@
+{
+  "company_key": "metso czech republic s.r.o.",
+  "company_name": "Metso Czech Republic s.r.o.",
+  "domain": "metso.com",
+  "domain_url": "https://metso.com",
+  "events": "Czech Foundry Association Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Metso Czech Republic s.r.o.",
+    "opportunity_score": 33,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.68,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.68,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "60741902",
+    "official_name": "Metso Czech Republic s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "31000",
+      "43320",
+      "256",
+      "68",
+      "461",
+      "G",
+      "245",
+      "70200",
+      "711",
+      "25530",
+      "00",
+      "10",
+      "28",
+      "10",
+      "245",
+      "25620",
+      "257",
+      "28",
+      "310",
+      "461",
+      "68",
+      "702",
+      "711",
+      "G",
+      "00",
+      "43320"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Palackého 2882/16, Přerov I-Město, 75002 Přerov, Přerov, Palackého, 75002",
+    "is_client": true,
+    "current_products": "Inventor",
+    "total_seats": "2",
+    "current_acv_eur": "5600.0",
+    "potential_acv_eur": "9000.0",
+    "nearest_renewal": "2027-02-05",
+    "days_to_renewal": "288",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle with AutoCAD Mechanical, Vault, Fusion for full D&M workflow",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Vault",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Engineering Service Providers",
+    "ml_domain": "www.aumeto.cz",
+    "zi_done": true,
+    "employee_count": 17000,
+    "revenue": 5752483,
+    "zi_company_name": "Metso",
+    "zi_domain": "metso.com",
+    "zi_city": "Espoo",
+    "zi_country": "Finland",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://metso.com",
+    "homepage": {
+      "title": "Metso - Partner for positive change - Metso",
+      "description": "Metso is a frontrunner in sustainable technologies, end-to-end solutions and services for the aggregates, minerals processing and metals refining industries globally.",
+      "text_excerpt": "Metso - Partner for positive change - Metso\nSkip to main content\nMetso Loesche VRM\nSetting the benchmark in sustainable comminution\nLearn more\nWatch the video\n00:00\nDigital Services for Aggregates\nThis is where dust meets data!\nRead more\nYour #1 service partner from pit to port\nYou set the target. We provide the solution.\nRead more\nWe create positive change where we can make the biggest difference.\nRead more\nOur business\nAggregates production\nIt all comes down to keeping the process going and the cost per ton in control.\nLearn more\nAggregates\nMining\nSupporting your mining operations, from plant design expertise to equipment, parts and services for every stage of your process.\nLearn more\nMining\nWears and spares\nResponsibly produced, long-lasting parts, designed and optimized to minimize wastage, improve energy efficiency and emphasize safety.\nLearn more\nParts\nServices\nOur dedicated team of experts bring you the unique advantage of local presence backed up with a solid global network of first-class engineering, manufacturing and service.\nLearn more\nServices\nPartner for positive change\nMetso is a frontrunner in sustainable technologies, end-to-end solutions and services for the aggregates, minerals processing and metals refining industries globally. We improve our customers’ energy and water efficiency, increase their productivity, and reduce environmental risks with our product and service expertise. We are the partner for positive change.\nCurrent topics\n{{ displayTitle }}\n{{ displayIngress }}\n{{ displayTitle }}\n{{ displayIngress }}\n{{ displayTitle }}\n{{ displayIngress }}\n{{ displayTitle }}\n{{ displayIngress }}\nEvents\nAll events\nExhibition\nMetso participará en EXPOCOBRE 2026\n27–29 Apr, 2026\nCentro de Exposiciones Jockey, Lima\nLearn more\n27–29 Apr, 2026\nMetso participará en EXPOCOBRE 2026\nExhibition\nCentro de Exposiciones Jockey, Lima\nLearn more\nExhibition\nMetso Day Araxa 2026\n28 Apr, 2026\nGrande Hotel Araxá\nLearn more\n28 Apr, 2026\nMetso Day Araxa 2026\nExhibition\nGrande Hotel Araxá\nLearn more\nExhibition\nCIM CONNECT 2026\n3–5 May, 2026\nVancouver, Canada\nLearn more\n3–5 May, 2026\nCIM CONNECT 2026\nExhibition\nVancouver, Canada\nLearn more\nInsights\nAll insights\nBlog\n{{ displayTitle }}\n{{ displayIngress }}\nCustomer case\n{{ displayTitle }}\n{{ displayIngress }}\nPeople story\n{{ displayTitle }}\n{{ displayIngress }}\nLatest releases\nAll releases\nStock exchange release\nApril 22, 2026\nCommittees of Metso’s Board of Directors\nStock exchange release\nApril 22, 2026\nResolutions of Metso’s Annual General Meeting\nStock exchange release\nApril 22, 2026\nMetso’s Interim Report January 1 – March 31, 2026\nContact us\nMetso and distributors offer personal service wherever you are located. Find sales and services contacts as well as general information or submit a sales inquiry.\nGo to contacts"
+    },
+    "about": {},
+    "products": {
+      "url": "https://metso.com/products",
+      "text": "Portfolio - Metso\nSkip to main content\nFull portfolio\nSustainable technologies, end-to-end solutions and services for the aggregates, minerals processing and metals refining industries\n{{ response.filteredResultsCount }}\n{{selectedFiltersCount}}\nHide filters\n{{selectedFiltersCount}}\nFilters\n{{ response.filteredResultsCount }}\nClear all\n{{selectedFiltersCount}}\nHide filters\n{{selectedFiltersCount}}\nFilters\n{{ response.filteredResultsCount }}\n{{item.pagePurposeName}}\n{{ renderTitle(item.caption, 120) }}\n{{ renderIngress(item.text, 140) }}\n{{ industry }}\nSorry, no results. Try something else\nClear all\nCategory\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nServices\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nCategory\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nCategory\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nServices\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nServices\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nCategory\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nProduct\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}\nPlant solution\n{{ displayTitle }}\n{{ displayIngress }}\n{{ industry }}"
+    },
+    "contact_page": {
+      "url": "https://metso.com/kontakt",
+      "text": "Kontakt - Metso\nHoppa till huvudinnehåll\nKontakta Metso\nMetsos kontor och partnernätverk erbjuder personlig service oavsett var du befinner dig. Bläddra nedåt för att hitta försäljnings- och servicekontakter eller skicka en förfrågan.\nSkicka en förfrågan till våra säljare\nVänligen ange vilket område du är intresserad av.\nGruvdrift\nMetallförädling\nBallastproduktion\nÖvrigt\nVänligen fyll i formuläret och någon av våra experter kommer att höra av sig inom kort.\nVänligen fyll i formuläret och någon av våra experter kommer att höra av sig inom kort.\nVänligen fyll i formuläret och någon av våra experter kommer att höra av sig inom kort.\nYDina uppgifter är trygga hos oss. Läs vår\nintegritetspolicy\nför mer detaljer.\nTack!\nVi kontaktar dig inom kort. Du kan skicka en ny förfrågan igen efter 15 minuter.\nKontakta våra försäljningsexperter\n3B Hungária Ltd. (Aggregates)\nA.R. Thomson Group\nA.R. Thomson Group\nAIS Construction Equipment Corp.\nAIS Construction Equipment Corp.\nAIS Construction Equipment Corp.\nAIS Construction Equipment Corp.\nAIS Construction Equipment Corp.\nASCENDUM MAKİNA TİCARET ANONİM ŞİRKETİ\nAdvanced Engineering Group Pty Ltd\nAdvanced Engineering Group Pty Ltd\nAfri-Groan Engineering Services (AGES)\nArabian Truck and Construction Equipment Company\nArizona Fine Aggregate Business (AZFAB)\nAscendum Máquinas\nBIA CAMEROUN\nBIA DAKAR\nBIA France\nBIA France\nBIA France\nBIA France\nBIA France\nBIA France\nBIA GUINÉE\nBIA MALI\nBIA MAURITANIA\nBIA N.V./S.A.\nBIA TOGO/BENIN\nBSF Aufbereitungstechnik GmbH\nBiuro Handlowe Ruda Trading International\nBolder\nCAC Industrial\nCB Con-AGG | Cleveland Brothers Equipment Co., Inc.\nCamiones y Motores SA de CV (CAMOSA)\nCanal exclusivo de vendas\nCentral Service & Supply\nClark Machinery Company\nCompania Guatemalteca De Maquinaria S.A. (COGUMA)\nCompañía General de Equipos S.A. de C.V. (COGESA)\nCondict Equipment Company\nConstruction Machinery Industrial\nConstruction Machinery Industrial\nConstruction Machinery Industrial\nConstruction Machinery Industrial\n"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Metso Czech Republic s.r.o.",
+    "autodesk_products": [
+      "3ds Max",
+      "Autodesk AutoCAD",
+      "Autodesk AutoCAD Mechanical",
+      "Autodesk Inventor",
+      "Autodesk Navisworks",
+      "Autodesk Revit",
+      "Autodesk Vault",
+      "Vault Payment Solutions"
+    ],
+    "competitor_products": [
+      "ARCHICAD",
+      "Bentley STAAD",
+      "Dassault Systemes",
+      "ENOVIA",
+      "Mathcad",
+      "MicroStation",
+      "PTC Creo (Pro/ENGINEER)",
+      "PTC Integrity",
+      "Servigistics",
+      "Siemens",
+      "Siemens I-DEAS",
+      "Siemens NX",
+      "Siemens PLM",
+      "Siemens SIMATIC Automation Designer",
+      "Siemens SIMATIC WinCC",
+      "Siemens Teamcenter PLM Software",
+      "Solidworks",
+      "Tekla"
+    ],
+    "cad_bim_other": [
+      "ANSYS",
+      "ANSYS CFX",
+      "ANSYS Fluent",
+      "AVEVA PDMS",
+      "Assemble",
+      "Autodesk",
+      "Built",
+      "Cache Control",
+      "Sigma"
+    ],
+    "total_technologies": 448,
+    "all_technologies": [
+      {
+        "product": "ServiceNow",
+        "vendor": "ServiceNow, Inc.",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Kardex",
+        "vendor": "Kardex",
+        "category": "Logistics",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Frequence",
+        "vendor": "Frequence Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP Ariba",
+        "vendor": "SAP SE",
+        "category": "Procurement",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Built",
+        "vendor": "Built",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Safe Systems",
+        "vendor": "Safe Systems",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Autodesk AutoCAD Mechanical",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Jira Agile",
+        "vendor": "Atlassian",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Field Service Management",
+        "vendor": "Oracle Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Adobe Creative Cloud",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Salt",
+        "vendor": "SaltStack Inc",
+        "category": "Configuration Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Sunday",
+        "vendor": "Sunday",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Foreman",
+        "vendor": "Foreman",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SAP Financial Accounting",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Miro",
+        "vendor": "Miro Technologies",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Vault Payment Solutions",
+        "vendor": "Vault Payment Solutions Group Pty Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Informa",
+        "vendor": "Informa PLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Palantir",
+        "vendor": "Palantir Technologies Inc",
+        "category": "Advanced Analytics and Data Science",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Kyriba",
+        "vendor": "Kyriba Corp",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Boulevard",
+        "vendor": "Boulevard, Inc.",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Como",
+        "vendor": "Como",
+        "category": "Loyalty and Gamification",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "React",
+        "vendor": "Meta Open Source",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Edenred",
+        "vendor": "Edenred",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Idexx Cornerstone",
+        "vendor": "IDEXX",
+        "category": "Medical Practice Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Elina",
+        "vendor": "elina PMS",
+        "category": "Hotel Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Powerplatform",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Open AI",
+        "vendor": "Open AI",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Craft",
+        "vendor": "Craft.io Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "GEM",
+        "vendor": "Gem Software, Inc",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "ventiv",
+        "vendor": "Ventiv Technology Australia PTY Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "cyber security",
+        "vendor": "Primenet Limited",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "RobotFramework",
+        "vendor": "Robot Framework",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bench",
+        "vendor": "Bench",
+        "category": "Accounting",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Zonal",
+        "vendor": "Zonal Group",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SAP Business Technology Platform",
+        "vendor": "SAP SE",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Persona",
+        "vendor": "Persona Identities Inc",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "GOM",
+        "vendor": "ZEISS Group",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "GPS",
+        "vendor": "mbm.it",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Demand Planning",
+        "vendor": "Blue Yonder Group, Inc",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Assemble",
+        "vendor": "Autodesk, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Resolver",
+        "vendor": "Resolver",
+        "category": "Governance, Risk and Compliance",
+        "categoryParent": "Accounting and Finance"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Metso Czech Republic s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Camilla",
+        "last_name": "Hildén",
+        "title": "Executive Assistant To President and Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Metso",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 93.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 12:36"
+}

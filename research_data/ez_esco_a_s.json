@@ -1,0 +1,61 @@
+{
+  "company_key": "ez_esco_a_s",
+  "company_name": "ČEZ ESCO, a.s.",
+  "domain": "",
+  "events": "Czech Green Building Council Members, URBIS Smart Cities 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "KAMIL ČERMÁK",
+        "firstName": "KAMIL",
+        "lastName": "ČERMÁK",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "RADEK DOUBEK",
+        "firstName": "RADEK",
+        "lastName": "DOUBEK",
+        "jobTitle": "Vice-Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MARTIN KROČIL",
+        "firstName": "MARTIN",
+        "lastName": "KROČIL",
+        "jobTitle": "člen",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ONDŘEJ ŠIŠPELA",
+        "firstName": "ONDŘEJ",
+        "lastName": "ŠIŠPELA",
+        "jobTitle": "člen",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:23"
+}

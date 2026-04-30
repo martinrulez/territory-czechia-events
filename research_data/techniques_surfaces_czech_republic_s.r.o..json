@@ -1,0 +1,164 @@
+{
+  "company_key": "techniques surfaces czech republic s.r.o.",
+  "company_name": "Techniques Surfaces Czech Republic s.r.o.",
+  "domain": "www.katringplus.cz",
+  "domain_url": "https://www.katringplus.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Techniques Surfaces Czech Republic s.r.o.",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.72,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.72,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "26127385",
+    "official_name": "Techniques Surfaces Czech Republic s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "255",
+      "25300",
+      "25530",
+      "46",
+      "47780",
+      "2540",
+      "256",
+      "25620",
+      "4778",
+      "46"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Chotěbořská 575, 58263 Ždírec nad Doubravou, Ždírec nad Doubravou, Chotěbořská, 58263",
+    "zi_done": true,
+    "employee_count": 22,
+    "revenue": 5892,
+    "zi_company_name": "KATRING PLUS sro",
+    "zi_domain": "www.katringplus.cz",
+    "zi_city": "Libeň",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.katringplus.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Techniques Surfaces Czech Republic s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 8,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Matomo",
+        "vendor": "Matomo Software",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Techniques Surfaces Czech Republic s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Jan",
+        "last_name": "Gerstenberger",
+        "title": "Jednatel",
+        "email": "jan@katringplus.cz",
+        "phone": "",
+        "company": "KATRING PLUS sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 94.0
+      },
+      {
+        "first_name": "Martin",
+        "last_name": "Nekvinda",
+        "title": "Vedoucí Směny",
+        "email": "",
+        "phone": "",
+        "company": "KATRING PLUS sro",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 86.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 15:15"
+}

@@ -1,0 +1,480 @@
+{
+  "company_key": "liebherr",
+  "company_name": "Liebherr",
+  "domain": "www.liebherr.com",
+  "domain_url": "https://www.liebherr.com",
+  "events": "Connected Construction Days 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Liebherr",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.72,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.72,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "25736833",
+    "official_name": "Liebherr CZ s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "282",
+      "46630",
+      "G",
+      "33200",
+      "28220",
+      "282",
+      "28220",
+      "33200",
+      "46630",
+      "G"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Vintrovna 216/17, 66441 Popůvky, Popůvky, Vintrovna, 66441",
+    "zi_done": true,
+    "employee_count": 53659,
+    "revenue": 15393192,
+    "zi_company_name": "Liebherr-International",
+    "zi_domain": "www.liebherr.com",
+    "zi_city": "Bulle",
+    "zi_country": "Switzerland",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.liebherr.com",
+    "homepage": {
+      "title": "Liebherr – international Group & family-run company - Liebherr",
+      "description": "The Liebherr Group is one of the largest construction machine manufacturers in the world. It is also among the leading providers of technology in many",
+      "text_excerpt": "Liebherr – international Group & family-run company - Liebherr\nSkip to content\nAnnual report 2025\nAnnual report 2025\nFacts, figures and highlights from the 2025 business year\nTo the annual report\nGroup Magazine\nGroup Magazine\nRead our latest story\nTo the story\nLiebherr Connect\nLiebherr Connect\nIn  touch with your Liebherr. Ready for tomorrow.\nLearn more\nUsed Equipment Marketplace\nUsed Equipment Marketplace\nUsed machines, spare parts, accessories and attachments\nLearn more\nThe Liebherr Group\nFor more than 75 years, Liebherr has  stood for a large, continually developing range of sophisticated products and services. Exceptionally practical, seasoned and proven engineering as well as a consistent high quality level ensure customer benefit in all product areas.\nOur product programme\nRefrigeration and freezing\nEarthmoving\nMaterial handling\nDeep foundation\nMining\nConcrete technology\nTower cranes\nMobile and crawler cranes\nMaritime cranes\nAerospace and transportation systems\nGear technology and automation systems\nComponents\nHotels\nSolutions\nHighlights from the Liebherr world\nLiebherr on board the Falcon 10X\nGame of Cranes: Liebherr crowns the world’s best mobile crane operator\nWind energy\nDrive technologies\nCrossing calendars and cultures\nCareers\nLiebherr relies on competent and motivated employees. We offer exciting jobs for all levels of experience - whether for professionals, young professionals, students or pupils. Discover our diverse professional fields and individual development opportunities.\nCareers at Liebherr\nWe as an employer\nEmployee experiences\nJob vacancies\nContact\nNews\nNews\n23/04/2026\nPress releases\nMK 140‑5.1E masters roof installations for DB mega project in Cottbus\n23/04/2026\nPress releases\nWhere partnership meets performance: City Lifting erects the UK’s first 195 HC-LH\n22/04/2026\nPress releases\nLiebherr and GoJet Airlines ink leak finder service agreement\n22/04/2026\nPress releases\nA powerful première in Paris – new LTM 1400-6.1 impresses right across the board\n21/04/2026\nPress releases\nLiebherr signs landing gear overhaul agreement with Horizon Air\n21/04/2026\nNews\nA milestone year for ESG at Liebherr China\n20/04/2026\nPress releases\nMunich Fire Brigade takes delivery of two Liebherr LTM 1070-4.2 fire brigade cranes\n20/04/2026\nPress releases\nR 9350 E electric excavator delivered to Assarel copper mine\n17/04/2026\nPress releases\nHistoric milestone: Liebherr started first Airbus A350 nose landing gear overhaul\n16/04/2026\nPress releases\nLiebherr signs landing gear overhaul agreement with Envoy Air\nAll news\nAbout Liebherr\nMore than 50,000 employees help to shape technological progress in many industries. The Group is managed to this day by the Liebherr family.\nLiebherr worldwide\nLiebherr started to focus on international business and establish companies outside Germany at the end of the 1950s. The Liebherr Group now comprises over 150 companies in more than 50 countries on every continent.\nView all locations\nServices\nAside from high quality"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Liebherr",
+    "autodesk_products": [
+      "Autodesk AutoCAD"
+    ],
+    "competitor_products": [
+      "Alphacam",
+      "CATIA",
+      "CATIA V5",
+      "Dassault Dymola",
+      "Dassault Systemes",
+      "PTC Co-Create",
+      "PTC Creo",
+      "PTC Creo (Pro/ENGINEER)",
+      "PTC Creo Parametric",
+      "PTC Integrity",
+      "PTC RV&S ( PTC Integrity )",
+      "PTC Servigistics Arbortext Editor",
+      "PTC Windchill (Formerly Netregulus)",
+      "PTC Windchill PLM",
+      "Pro/Engineer",
+      "Siemens PLM",
+      "Siemens Step 7",
+      "Siemens Teamcenter PLM Software",
+      "Solidworks",
+      "ThingWorx",
+      "Trimble"
+    ],
+    "cad_bim_other": [
+      "ANSYS",
+      "ANSYS Fluent",
+      "ANSYS Mechanical",
+      "ANSYS Mechanical Enterprise",
+      "Altair HyperWorks",
+      "Assemble",
+      "Autodesk",
+      "Cache Control",
+      "InVision",
+      "Mathematica",
+      "Sigma"
+    ],
+    "total_technologies": 499,
+    "all_technologies": [
+      {
+        "product": "Cloudbees Jenkins",
+        "vendor": "Cloudbees, Inc",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Qt",
+        "vendor": "Qt",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Brunswick",
+        "vendor": "BBP Investment Holdings, LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Fortinet",
+        "vendor": "Fortinet, Inc.",
+        "category": "Threat Intelligence",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Como",
+        "vendor": "Como",
+        "category": "Loyalty and Gamification",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Simon",
+        "vendor": "Institutional Capital Network, Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Cloudflare Rocket Loader",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Boomerang",
+        "vendor": "Akamai Technologies, Inc.",
+        "category": "Real User Monitoring",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PRINCE2",
+        "vendor": "PRINCE2",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Medpro Systems",
+        "vendor": "MedPro Systems LLC",
+        "category": "Governance, Risk and Compliance",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Boulevard",
+        "vendor": "Boulevard, Inc.",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Microsoft Copilot",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Elastic",
+        "vendor": "Elastic",
+        "category": "Enterprise Search",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "LeanIX",
+        "vendor": "LeanIX GmbH",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "SAP Data Intelligence",
+        "vendor": "SAP SE",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Sentinel",
+        "vendor": "WhiteHat Security",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Figma",
+        "vendor": "Figma, Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Oracle",
+        "vendor": "Oracle Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Valor",
+        "vendor": "Mentor",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "TOGAF",
+        "vendor": "The Open Group",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP Security",
+        "vendor": "SAP SE",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "NUnit",
+        "vendor": "NUnit",
+        "category": "Testing and QA",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Logos",
+        "vendor": "LOGOS",
+        "category": "Church Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Calypso",
+        "vendor": "NASDAQ, Inc",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Application Security",
+        "vendor": "Trustwave Holdings, Inc",
+        "category": "Database Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "GitLab",
+        "vendor": "GitLab Inc.",
+        "category": "Source Code Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "ServiceNow",
+        "vendor": "ServiceNow, Inc.",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Ruby on Rails",
+        "vendor": "Ruby on Rails",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Swagger",
+        "vendor": "SmartBear Software inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Electronics Manufacturing",
+        "vendor": "Creation Technologies",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Software Asset Management",
+        "vendor": "Snow Software AB",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Adobe Creative Cloud",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Stripe",
+        "vendor": "Stripe, Inc.",
+        "category": "Payment Processing",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Resolver",
+        "vendor": "Resolver",
+        "category": "Governance, Risk and Compliance",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "DEKRA",
+        "vendor": "DEKRA North America, Inc.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Azure Databricks",
+        "vendor": "Microsoft Corporation",
+        "category": "Advanced Analytics and Data Science",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "React",
+        "vendor": "Meta Open Source",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Teams Rooms",
+        "vendor": "Microsoft Corporation",
+        "category": "Web Conferencing",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Branch",
+        "vendor": "Branch",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Singular",
+        "vendor": "Singular",
+        "category": "Marketing Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Azure Data Explorer",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Olive",
+        "vendor": "Olive",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Centricity",
+        "vendor": "GE Healthcare Inc.",
+        "category": "Medical Practice Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Knapp",
+        "vendor": "Knapp",
+        "category": "Warehouse Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Liebherr",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Jack",
+        "last_name": "Henry",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Liebherr-International",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Peter",
+        "last_name": "Kozma",
+        "title": "President",
+        "email": "",
+        "phone": "",
+        "company": "Liebherr-International",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 86.0
+      },
+      {
+        "first_name": "Hoang",
+        "last_name": "Nga",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Liebherr-International",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 75.0
+      },
+      {
+        "first_name": "Gary",
+        "last_name": "Gomersall",
+        "title": "President & Director",
+        "email": "",
+        "phone": "",
+        "company": "Liebherr-International",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 92.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 15:12"
+}

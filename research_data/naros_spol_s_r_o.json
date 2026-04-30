@@ -1,0 +1,62 @@
+{
+  "company_key": "naros_spol_s_r_o",
+  "company_name": "NAROS, spol. s r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PAVEL LHOTSKÝ",
+        "firstName": "PAVEL",
+        "lastName": "LHOTSKÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "RADEK LHOTSKÝ",
+        "firstName": "RADEK",
+        "lastName": "LHOTSKÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PAVEL LHOTSKÝ",
+        "firstName": "PAVEL",
+        "lastName": "LHOTSKÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:19:00",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.enpros.cz",
+    "homepage": {
+      "title": "ENPROS s.r.o. – Energetické stavby",
+      "description": "",
+      "text_excerpt": "ENPROS s.r.o. – Energetické stavby\nProvádíme projekci a realizaci energetických staveb:\nrozvodny VVN\nměření a regulace\nÚVOD\nREFERENCE\nKONTAKTY"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "company_key": "fenix_trading_s_r_o",
+  "company_name": "FENIX Trading, s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": true,
+    "company": "FENIX Trading, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 37,
+    "all_technologies": [
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "ClickHeat",
+        "vendor": "DugWood",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Seznam",
+        "vendor": "Imedia",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "AddToAny",
+        "vendor": "AddToAny",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Drupal 7",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "CA-PUB AdSense Publisher Id",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Google Dynamic Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Ads",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google AdSense",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Custom Search",
+        "vendor": "Google LLC",
+        "category": "Site Search",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Drupal",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Jan Jezerský",
+        "firstName": "Jan",
+        "lastName": "Jezerský",
+        "jobTitle": "Ecosun Head of Production",
+        "email": "jan.jezersky@fenixgroup.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Martin Vinkler",
+        "firstName": "Martin",
+        "lastName": "Vinkler",
+        "jobTitle": "Ecofloor Head of Production",
+        "email": "martin.vinkler@fenixgroup.cz",
+        "phone": "+420 584 495 471",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Otakar Chochola",
+        "firstName": "Otakar",
+        "lastName": "Chochola",
+        "jobTitle": "Chief Information Officer",
+        "email": "otakar.chochola@fenixgroup.cz",
+        "phone": "+420 584 495 312",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Pavel Kudelka",
+        "firstName": "Pavel",
+        "lastName": "Kudelka",
+        "jobTitle": "Managing Director",
+        "email": "pk@fenixgroup.cz",
+        "phone": "+420 584 495 445",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Katerina Jezerska",
+        "firstName": "Katerina",
+        "lastName": "Jezerska",
+        "jobTitle": "Managing Director",
+        "email": "katerina.jezerska@fenixgroup.cz",
+        "phone": "+420 584 495 410",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:05:27",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.fenix.sk",
+    "homepage": {
+      "title": "FENIX",
+      "description": "Český výrobce topných systémů. Kompletní sortiment s nadstandartní zárukou.",
+      "text_excerpt": "FENIX\nSkip to main content\nProdukty\nSálavé vykurovacie panely\nVykurovacie okruhy a rohože\nVykurovacie fólie\nPriamovýhrevné konvektory\nRegulácia vykurovania\nDoplnkový sortiment\nBatériové úložiská\nAplikácie\nPodpora\nSúbory na stiahnutie\nNávody na použitie\nČasto kladené otázky\nNajčastejšie príčiny porúch\nNáklady na prevádzku\nReferencie\nInštruktážne videa\nPredaj\nPredajcovia\nPredaj,montáž,servis,projekcia\nE-Shop\nRegistrácia záruky\nVšeobecné obch. podmienky\nReklamačný poriadok\nAktuálne\nKontakty\nKontaktný formulár\nE-SHOP\nPrehľadať\nVONKAJŠIE tienenia\nELEKTRICKÉ KÚRENIE\nELEKTRICKÉ KÚRENIE\nELEKTRICKÉ KÚRENIE\nOHREV TÚV\nbatériové ÚLOŽISKO\nELEKTRICKÉ KÚRENIE\nKLIMATIZÁCIA\nREKUPERÁCIA\nfotovoltaika\nEnergetický koncept FENIX\nBudúcnosť je elektrina\nVyberte si svoje vykurovanie\nChcem hospodáriť s energiou\nNovinky vo firme FENIX\nEnergetický koncept FENIX - nepretržité výsledky\nVytápění novostaveb: co dnes dává smysl\nRodinný dom ako aktívny hráč v energetike\nPrečo FENIX?\nVyrábame a ponúkame kompletný sortiment elektrického vykurovania pre váš dom, kanceláriu, vonkajšie aplikácie ale aj do priemyselných a poľnohospodárskych objektov.\nZobraziť viac ...\nKoncept FENIX\nNaše produkty\nPonúkame kompletný sortiment elektrického vykurovania – vykurovacie rohože, vykurovacie vodiče, vykurovacie fólie, sálavé panely, priamovykurovacie konvektory, reguláciu bytovú aj priemyselnú.\nSálavé vykurovacie panely\nECO\nSUN\nEfektívne a ekonomické infračervené vykurovanie je vhodné pre širokú škálu aplikácii, vďaka rozmanitosti designu, materiálu a výkonu.\nVykurovacie okruhy a rohože\nECO\nFLOOR\nObľúbené vykurovanie pomocou vykurovacích vodičov a rohoží je možné inštalovať v interiéroch a rôznych vonkajších aplikáciách. V spojení s vhodnou reguláciou zaisťuje vysoko ekonomickú prevádzku.\nVykurovacie fólie\nECO\nFILM\nElektrické vykurovacie fólie ECOFILM sú unikátnym výrobkom určeným pre elektrické veľkoplošné stropné alebo podlahové vykurovanie v interiéri.\nPriamovýhrevné konvektory\nECO\nFLEX\nPriamovýhrevné a sálavé konvektory ECOFLEX sú jednoduchým a efektívnym riešením pre príležitostne vykurované priestory, kde je požiadavka na okamžitú funkčnosť.\nRegulácia pre elektrické vykurovanie\nRegulácia je veľmi dôležitou súčasťou pri inštalácii vykurovacích systémov, zaisťuje bezproblémový a energeticky aj nákladovo efektívnu prevádzku.\nDoplnkový sortiment\nPodlahové izolácie a podložky, produkty Ultratherm, sušiče rúk, vykurovacie rebríky – malé, ale potrebné doplnky, ktoré zvyšujú celkový komfort v domácnosti.\nLen slnko to vie lepšie"
+    },
+    "about": {
+      "url": "https://www.fenix.sk/o-nas",
+      "text": "O nás | FENIX\nPřejít k hlavnímu obsahu\nProdukty\nSálavé topné panely\nTopné kabely a topné rohože\nTopné folie ECOFILM\nPřímotopné konvektory\nTermostaty a regulace\nDoplňkový sortiment\nBateriová úložiště\nAplikace\nPodpora\nKe stažení\nNávody k obsluze\nNejčastější dotazy\nNejčastější příčiny poruch\nProvozní náklady\nReference\nVidea\nŽádost o technickou podporu\nProdej\nProdej, montáž, projekce, servis\nProdejci\nE-Shop\nRegistrace doživotní záruky\nVšeobecné obch. podmínky\nReklamační řád\nAktuality\nKontakty společností\nKontaktní formulář\nE-SHOP\nHledat\nO nás\nObchodní skupina Fenix vznikla v roce 1990 jako jedna z prvních soukromých společností v České republice.\nZakládajícím členem byla výrobní společnost FENIX s.r.o. a prvními produkty, které společnost vyráběla, byly úspěšně prodávané elektrické sálavé topné panely ECOSUN. S nárůstem poptávky trhu po těchto produktech následovaly elektrické konvektory ECOFLEX, topné kabely a rohože ECOFLOOR a topné fólie ECOFILM, včetně regulace topných systémů a široké škály doplňkových produktů.\nDynamický růst vyžadoval rozšíření struktury společnosti a z důvodu zachování maximální flexibility byla zvolena forma holdingové společnosti, s jednotlivými a nezávislými členy. V současné době je holding tvořen jedenácti obchodními společnostmi a je jedním z největších evropských výrobců plošných elektrických topných systémů –\nsvé produkty vyváží již do\nvíce než 70 zemí\n, ležících na 4 světových kontinentech.\nSpolečnost FENIX je po celou dobu své existence výhradně českou společností, bez jakékoliv zahraniční účasti, do své struktury však má začleněno již devět společností se sídlem mimo území České Republiky. Od roku 1997 je výrobní společnost\nFENIX s.r.o. držitelem certifikátu pro Systém managementu jakosti ISO\n, který je v pravidelných tříletých cyklech úspěšně obhajován. Poslední recertifikační audit proběhl v 09/2024 dle požadavku normy\nISO 9001:2015\n, na jehož základě byl vydán\nnový certifikát\nFENIX GROUP a.s. (1995) – Řídící společnost\nNáplní této společnosti je strategické rozhodování o vývoji holdingu, správa majetku a také ekonomické a finanční služby pro členy holdingu.\nPodrobné kontakty zde ...\ne-mail:\nfenix@fenixgroup.cz\nvýpis z obchodního rejstříku\nFENIX GROUP a.s.\nŠárecká 37,\n160 00 Praha 6\nČeská republika\nFENIX s.r.o. (1990) – Výrobní společnost, zakládající člen holdingu\nVýhradně výrobní společnost, která se specializuje především na výrobu topných kabelů a rohoží Ecofloor, sálavých panelů Ecosun a sálavých skleněných a mramorových panelů GR/MR\nPodrobné kontakty zde ...\ne-mail:\nobchod@fenixgroup.cz\nvýpis z obchodního rejstříku\nFENIX s.r.o.\nJaroslava Ježka 1338/18a\nJeseník\nCzech republic\nFENIX Trading s.r.o. (1993) – Obchodní společnost\nSpolečnost zaměřená na obchodní činnost – tedy prodej výrobků dalším obchodním partnerům nebo koncovým zákazníkům a to nejen v tuzemsku, ale i mimo území ČR\nPodrobné kontakty zde ...\ne-mail:\nfenix@fenixgroup.cz\nvýpis z obchodního rejstříku\nFENIX Trading s.r.o.\nSlezská 2\n790 01 Jeseník\nCzech republic\nFENIX SLOVENSKO s.r.o. (1993) – Výrobní a obchodní společnost zastupující FENIX na Slovensku\nSpolečnost zajišťuje prodej výrobků ve Slovenské Republice a podílí se na výrobě topných rohoží Ecofloor. Díky trvale rostoucí poptávce je zde kapacity výroby postupně navyšována.\nPodrobné kontakty zde ...\ne-mail:\nfenix@fenix.sk\nvýpis z obchodního rejstříku\nwww.fenix.sk\nFENIX SLOVENSKO, s.r.o.\nZvolenská cesta 93\n974 05 Banská Bystrica\nSlovakia\nFLEXEL International Ltd. (2003) – Výrobní a obchodní společnost se sídlem ve Velké Británii\nPřední světový výrobce folií Ecofilm, který se výrobou topných folií zabývá již od roku 1972. Po začlenění do holdingu FENIX v roce 2003 byla nabídka této společnosti rozšířena na kompletní sortiment FENIX.\nPodrobné kontakty zde ...\ne-mail:\ninfo@flexel.co.uk\nwww.flexel.co.uk\nFLEXEL International Ltd\nQueensway Industrial Estate Glenrothes\nFife KY7 5QF, United Kingdom\ndemista Ltd. (2008) – Výrobní a obchodní společnost se sídlem ve Velké Británii\nSpoleč"
+    },
+    "products": {
+      "url": "https://www.fenix.sk/produkty",
+      "text": "Produkty | FENIX\nPřejít k hlavnímu obsahu\nProdukty\nSálavé topné panely\nTopné kabely a topné rohože\nTopné folie ECOFILM\nPřímotopné konvektory\nTermostaty a regulace\nDoplňkový sortiment\nBateriová úložiště\nAplikace\nPodpora\nKe stažení\nNávody k obsluze\nNejčastější dotazy\nNejčastější příčiny poruch\nProvozní náklady\nReference\nVidea\nŽádost o technickou podporu\nProdej\nProdej, montáž, projekce, servis\nProdejci\nE-Shop\nRegistrace doživotní záruky\nVšeobecné obch. podmínky\nReklamační řád\nAktuality\nKontakty společností\nKontaktní formulář\nE-SHOP\nHledat\nVyber si své elektrické vytápění\nTOPNÉ FOLIE ECOFILM®\njsou unikátním výrobkem určeným pro elektrické velkoplošné vytápění interiérů. V případě podlahového vytápění jsou určeny speciálně pro kombinaci s plovoucími podlahami\nDOPLŇKOVÝ SORTIMENT\n– podložky STARLON\ndo aplikací podlahového vytápění pod plovoucí podlahy, izolační podložky F-Board pro rychlý náběh komfortního ohřevu podlah kabely ECOFLOOR, nebo podložka HEAT-PAK pro kombinaci fólií ECOFILM s měkkými krytinami (koberce, vinyly, PVC apod.\nTOPNÉ KABELY A ROHOŽE ECOFLOOR®\ndokážou bezpečně a spolehlivě chránit venkovní plochy před vznikem náledí a hromadění sněhu. Společně s vhodnou regulací jde o plně autonomní systém s ekonomickým provozem\nTERMOSTATY A REGULACE\nzajišťují automatický a především ekonomický provoz, jsou proto velmi důležitou součástí celého systému. Patří sem regulátory pro rodinné domy, byty, kanceláře, obchody, nebo školy, ale i pro průmyslové aplikace nebo systémy protimrazové ochrany\nTOPNÉ KABELY A ROHOŽE ECOFLOOR®\npro podlahové vytápění nebo komfortní ohřevy podlah jsou jedním z nejrozšířenějších způsobů využití elektrických topných kabelů\nTOPNÉ FOLIE ECOFILM® MHF\nchrání zrcadla v koupelně před mlžením, napájení se připojí například na osvětlení zrcadla. Fólie jsou opatřeny samolepicí plochou, kterou se přilepí na zadní stranu zrcadla – jednoduché a účinné řešení\nSÁLAVÉ TOPNÉ PANELY ECOSUN®\nvyužívají principu sálavého vytápění (tzv. infračervené vytápění). Konstrukční řešení zajišťuje rovnoměrné rozložení povrchových teplot a vysoký podíl sálavé složky, různorodé materiály pak uspokojí i estetické nároky\nTOPNÉ KABELY A ROHOŽE ECOFLOOR®\npro speciální aplikace – hliníkové topné rohože AL MAT pod plovoucí podlahy do koupelen, vyhřívané pryžové rohože do vstupních čistících zón obchodů a obchodních center, topná plachta D-MAT pro průmysl a stavebnictví\nDOPLŇKOVÝ SORTIMENT\nv podobě topných žebříků, určených jako praktický doplněk především do koupelen, nebo osoušečů rukou, vhodných do nebytových aplikací – toalet v obchodních centrech, divadle a kinech, nebo čerpacích stanicích\nZima představuje pro mnoho budov velkou zátěž, kdy se ve svodech a žlabech hromadí led. Dobrým řešením pro tyto problémy jsou\nTOPNÉ KABELY ECOFLOOR®\n, instalované do svodů a žlabů\nVysokoteplotní\nSÁLAVÉ TOPNÉ PANELY ECOSUN®\njsou určeny především pro vytápění průmyslových, skladových a zemědělských objektů, své uplatnění však naleznou v jakékoliv aplik"
+    },
+    "contact_page": {
+      "url": "https://www.fenix.sk/kontakty",
+      "text": "Kontakty | FENIX\nPřejít k hlavnímu obsahu\nProdukty\nSálavé topné panely\nTopné kabely a topné rohože\nTopné folie ECOFILM\nPřímotopné konvektory\nTermostaty a regulace\nDoplňkový sortiment\nBateriová úložiště\nAplikace\nPodpora\nKe stažení\nNávody k obsluze\nNejčastější dotazy\nNejčastější příčiny poruch\nProvozní náklady\nReference\nVidea\nŽádost o technickou podporu\nProdej\nProdej, montáž, projekce, servis\nProdejci\nE-Shop\nRegistrace doživotní záruky\nVšeobecné obch. podmínky\nReklamační řád\nAktuality\nKontakty společností\nKontaktní formulář\nE-SHOP\nHledat\nKontakty\nNaši pracovníci jsou vždy ochotni a schopni poradit Vám s výběrem vhodného výrobku a zodpoví Vám veškeré dotazy týkající se instalace a použití. Kontaktovat je můžete písemně, telefonicky nebo elektronickou poštou. Veškeré kontaktní údaje získáte zde.\nFenix Trading s.r.o.\nSlezská 2, 79001 Jeseník\nČeská republika\nFenix Slovensko s.r.o.\nIliašská cesta 86, Banská Bystrica 974 05\nSlovenská republika\nFenix Trading s.r.o., prov. Bohemia\nVejvanov 17, 338 28, okr. Rokycany\nČeská republika\nFlexel International Ltd\nQueensway Industrial Estate Glenrothes\nFife KY7 5QF, United Kingdom\nFenix s.r.o.\nJaroslava Ježka 1338/18a, 79001 Jeseník\nČeská republika\nAztec (Europe) Ltd\n, c/o Flexel International Ltd\nQueensway Industrial Estate Glenrothes\nFife KY7 5QF, United Kingdom\nFenix Group, a.s.\nŠárecká 37, 16000 Praha 6\nČeská republika\nACSO\n11 bis, boulevard carnot - 81270\nLabastide-Rouairoux, France\nFENIX INVEST s.r.o.\nNa Klimentce 2736/7, Dejvice, 160 00 Praha\nČeská republika\nCEILHIT SL\nPoligono Industrial Cami Ral,C/Galileo 38-40\nGava 08850, Spain\nKonsulent Team AS\nHåndverksveien 1\n2069 Jessheim, Norway"
+    }
+  }
+}

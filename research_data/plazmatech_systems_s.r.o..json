@@ -1,0 +1,185 @@
+{
+  "company_key": "plazmatech systems s.r.o.",
+  "company_name": "PLAZMATECH SYSTEMS s.r.o.",
+  "domain": "www.plastech.cz",
+  "domain_url": "https://www.plastech.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "PLAZMATECH SYSTEMS s.r.o.",
+    "opportunity_score": 34,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.72,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.72,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "25997521",
+    "official_name": "PLAZMATECH SYSTEMS s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "256",
+      "46900",
+      "47780",
+      "25530",
+      "68310",
+      "25620",
+      "257",
+      "46900",
+      "4778",
+      "68310"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Purkyňova 3030/35d, Královo Pole, 61200 Brno, Brno, Purkyňova, 61200",
+    "is_client": true,
+    "current_products": "Fusion",
+    "total_seats": "1",
+    "current_acv_eur": "600.0",
+    "potential_acv_eur": "8200.0",
+    "nearest_renewal": "2026-08-19",
+    "days_to_renewal": "118",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Fusion Sim Ext",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other Manufacturing",
+    "ml_domain": "www.plastech.cz",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.plastech.cz",
+    "homepage": {
+      "title": "PLASTECH s.r.o.",
+      "description": "PLASTECH s.r.o. - výroba hadic a plastových produktů",
+      "text_excerpt": "PLASTECH s.r.o.\nSidebar Menu\nProfesionální výrobky s důrazem na technickou kvalitu a využití.\nO nás.\nNa trhu jsme od roku 1999\nNa trhu působíme od roku 1999, kdy bylo našim zaměřením poradenství při výrobě a užití technických hadic.\nV závislosti na vývoji domácího i zahraničního trhu došlo k užší specializaci a to především ve výrobě průmyslových hadic. Postupně jsme ustoupili od produkce hobby výrobků, které nahradily produkty vyšší třídy a top kvality.\nČíst dál\nCeníme si Vašeho zájmu a jsme připraveni Vám poskytnout dostatek otevřených informací, kvalitní výrobky a servis za přijatelné ceny.\nIng. Radek Dočkal\nNáš pokrok.\nToto je pokrok, kterého jsme dosáhli od doby, kdy jsme pro vás začali pracovat.\n10,000+\nKilometrů vyrobených hadic\n20+\nLet na trhu\n16+\nDruhů nabízených výrobků\n100+\nVariant všech výrobků\nVlastní technická řešení.\nVytváříme vlastní technická řešení a postupy. Díky tomu jsme stále inovativní.\nČíst dál\nFlexibilní hadice\nVyrábíme flexibilní hadice s výztužnou spirálou vyráběné převážně z polymerů PVC.\nOchranné prvky\nVyrábíme ochranné rohy a ochranné spirály.\nZámková dlažba\nVyrábíme zátěžovou plastovou ochrannou dlažbu.\nZjistit více\nNaše výrobky.\nNahlédněte na náš sortiment.\nHadice Pyros Sport\nHadice EKO\nHadice Pyros\nHadice Hydropool\nHadice Agros SE\nHadice Pyros R\nMáte nějaký dotaz? Zavolejte nám.\n(+420) 573 397 424\nTovární 1250, 769 01 Holešov, Czech Republic\nplastech@plastech.cz\nNajdete nás na:\nfacebook\nTwitter\ninstagram\npinterest\nCopyright © 2026 PLASTECH s.r.o.. Všechna práva vyhrazena."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "PLAZMATECH SYSTEMS s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 14,
+    "all_technologies": [
+      {
+        "product": "MooTools",
+        "vendor": "MooTools",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Debian",
+        "vendor": "Software in the Public Interest, Inc.",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Joomla",
+        "vendor": "Joomla!",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "PLAZMATECH SYSTEMS s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:27"
+}

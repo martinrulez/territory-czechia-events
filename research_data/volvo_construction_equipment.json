@@ -1,0 +1,384 @@
+{
+  "company_key": "volvo construction equipment",
+  "company_name": "Volvo Construction Equipment",
+  "domain": "www.volvoce.com",
+  "domain_url": "https://www.volvoce.com",
+  "events": "URBIS Smart Cities 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Volvo Construction Equipment",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 13000,
+    "revenue": 8875788,
+    "zi_company_name": "Volvo Construction Equipment",
+    "zi_domain": "www.volvoce.com",
+    "zi_city": "Goeteborg",
+    "zi_country": "Sweden",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.volvoce.com",
+    "homepage": {
+      "title": "Volvo Construction Equipment",
+      "description": "Volvo is a leading manufacturer of construction equipment. Choose your local website to explore our products and services – or visit our global website.",
+      "text_excerpt": "Volvo Construction Equipment\nYour local Volvo CE website\nExplore our current range of\nproducts\nand\nservices\n, find\nnews\nand\nevents\n, and get in touch with your\nVolvo CE dealer\nIt looks like you are visiting volvoce.com from\nShow\nall local websites\nAfrica and Middle East\nAfrica\nEnglish\nFrançais\nMiddle East\nEnglish\nTurkey\nTürkçe\nAsia\nChina\nEnglish\nIndia\nEnglish\nJapan\n日本語\nSouth Korea\n한국어\n- - - - -\nOther markets in Asia\nEnglish\nEurope\nAustria\nDeutsch\nDenmark\nDansk\nFinland\nSuomi\nFrance\nFrançais\nGermany\nDeutsch\nItaly\nItaliano\nNorway\nNorsk\nPoland\nPolski\nOther markets\nРусский\nSpain\nEspañol\nSweden\nSvenska\nSwitzerland\nDeutsch\n- - - - -\nOther markets in Europe\nEnglish\nLatin America and The Caribbean\nBrazil\nPortuguês\nOther markets in Latin America and the Caribbean\nEspañol\nEnglish\nNorth America\nCanada\nEnglish\nFrançais\nUnited States\nEnglish\nOceania\nAustralia\nEnglish\nNew Zealand\nEnglish\nHide all local websites\nGlobal website\nAbout Volvo Construction Equipment\nLearn all about Volvo Construction Equipment, our locations and what we offer.\nNews, events and career opportunities\nFind press releases, news stories, events, press contacts and job openings worldwide.\nArchive of past products\nFind specifications, manuals and more information about discontinued product models.\nGlobal site\nwww.volvogroup.com\nCopyright\nPrivacy\nAbout cookies"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Volvo Construction Equipment",
+    "autodesk_products": [
+      "Autodesk AutoCAD"
+    ],
+    "competitor_products": [
+      "CATIA",
+      "CATIA V5",
+      "Dassault Systemes",
+      "PTC Windchill PLM"
+    ],
+    "cad_bim_other": [
+      "Assemble",
+      "Built",
+      "InVision"
+    ],
+    "total_technologies": 142,
+    "all_technologies": [
+      {
+        "product": "Harness",
+        "vendor": "Harness Inc.",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "iMovie",
+        "vendor": "Apple Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Bench",
+        "vendor": "Bench",
+        "category": "Accounting",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Privlege Access Management",
+        "vendor": "ARCON",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "PetWise Marketing",
+        "vendor": "AVImark",
+        "category": "Healthcare Marketing",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "React",
+        "vendor": "Meta Open Source",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Docker",
+        "vendor": "Docker Inc",
+        "category": "Containerization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "OpenAI",
+        "vendor": "OpenAI",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "C#",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Azure Data Factory",
+        "vendor": "Microsoft Corporation",
+        "category": "Big Data Processing",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Dassault Systemes",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "CATIA",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SAP ERP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Cloudbees Jenkins",
+        "vendor": "Cloudbees, Inc",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Jira",
+        "vendor": "Atlassian",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Jenkins",
+        "vendor": "Jenkins",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft Visio",
+        "vendor": "Microsoft Corporation",
+        "category": "Charting",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Sunday",
+        "vendor": "Sunday",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Gradle",
+        "vendor": "Gradle Inc.",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Git",
+        "vendor": "Software Freedom Conservancy, Inc.",
+        "category": "Source Code Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Kotlin",
+        "vendor": "JetBrains s.r.o.",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "C++",
+        "vendor": "Standard C++ Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Confluence",
+        "vendor": "Atlassian",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Zonal",
+        "vendor": "Zonal Group",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "FedEx",
+        "vendor": "FedEx Corporation",
+        "category": "Logistics",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "PDI",
+        "vendor": "Professional Datasolutions, Inc",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Como",
+        "vendor": "Como",
+        "category": "Loyalty and Gamification",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Branch",
+        "vendor": "Branch",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Edenred",
+        "vendor": "Edenred",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Centricity",
+        "vendor": "GE Healthcare Inc.",
+        "category": "Medical Practice Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Mitc",
+        "vendor": "MITC",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "cyber security",
+        "vendor": "Primenet Limited",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Built",
+        "vendor": "Built",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "3D Hubs",
+        "vendor": "HUBS B.V.",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Persona",
+        "vendor": "Persona Identities Inc",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Lakeside",
+        "vendor": "Lakeside Software, LLC",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Assemble",
+        "vendor": "Autodesk, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Compose",
+        "vendor": "Casetext, Inc",
+        "category": "Legal Solutions",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Volvo Construction Equipment",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 16:35"
+}

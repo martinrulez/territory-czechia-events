@@ -1,0 +1,58 @@
+{
+  "company_key": "gt_line",
+  "company_name": "GT-Line",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Adam Palkovský",
+        "firstName": "Adam",
+        "lastName": "Palkovský",
+        "jobTitle": "Sales Director",
+        "email": "palkovsky@triline-door.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Roman Striš",
+        "firstName": "Roman",
+        "lastName": "Striš",
+        "jobTitle": "Vedoucí Výrobního Provozu",
+        "email": "stris@triline-door.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:21",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.triline-door.cz",
+    "homepage": {
+      "title": "Požární dveře | TriLine",
+      "description": "Společnost TriLine s.r.o. je českým výrobcem ocelových dveří, průmyslových vrat, požárních a kouřotěsných uzávěrů.",
+      "text_excerpt": "Požární dveře | TriLine\nHotel\nMiura\nČeladná\nDetail reference\nVinařský závod\nIN VINO\nModra\nDetail reference\nMetronom\nPraha\nBusiness centrum\nSvět\ntechniky\nOstrava\nDetail reference\nSvět\ntechniky\nOstrava\nDetail reference\nKino\nCentrum\nKarviná\nDetail reference\nBolt\nTower\nOstrava\nDetail reference\nDistribuční centrum\nTesco\nBeckov\nDetail reference\nHala Sungwoo\nHitech\nOstrava\nDetail reference\nOcelové\ndveře\nNepožární\nPožární\nHliníková\nokna, dveře a fasády\nDveře\nOkna\nFasády\nPožární\nPožární\nkonstrukce\nOcelové\nHliníkové\nAktuality\n24.10.2025\nHledáme nového kolegu na poz ...\nHledáme nového kolegu na pozici: Samosta ...\n20.11.2024\nTriLine s.r.o. - Zkoušky pož ...\nVšechny aktuality\nO firmě\nSpolečnost TriLine s.r.o. je českým výrobcem ocelových dveří, průmyslových vrat, požárních a kouřotěsných uzávěrů...\nČtěte více\nVýkresy\nOcelové plné dveře\nOcelové dveře s prosklením\nOcelové typové dveře\nTypové způsoby kotvení\nČtěte více\nOnline poptávka\nframe-scrollup\nTento web použivá soubory cookies ke zlepšení uživatelského zážitku. Používáním webu s tímto souhlasíte (zjistit\nvíce\nSouhlasím"
+    },
+    "about": {
+      "url": "https://www.triline-door.cz/firma",
+      "text": "Firma | TriLine\nDomů\nFirma\nFirma\nHistorie\nVize\nJakost a kvalita\nNabídka práce\nOcelové\ndveře\nNepožární\nPožární\nHliníková\nokna, dveře a fasády\nDveře\nOkna\nFasády\nPožární\nPožární\nkonstrukce\nOcelové\nHliníkové\nOnline poptávka\nframe-scrollup\nTento web použivá soubory cookies ke zlepšení uživatelského zážitku. Používáním webu s tímto souhlasíte (zjistit\nvíce\nSouhlasím"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.triline-door.cz/kontakt",
+      "text": "Kontaktní údaje | TriLine\nDomů\nKontaktní údaje\nKontaktní údaje\nSídlo firmy\nTriLine s.r.o.\nNovinářská 1113/3\n70900 Ostrava\nIČO: 25874888\nDIČ: CZ25874888\ntel.: +420 608 959 370\nemail:\ninfo@triline-door.cz\nObchodní oddělení\nmobil: +420 775 959 882\nemail:\nobchod@triline-door.cz\nKonstrukční oddělení\nemail:\nkonstrukce@triline-door.cz\nServisní oddělení\nemail:\nservis@triline-door.cz\nKontaktní formulář\nOdeslat\nOcelové\ndveře\nNepožární\nPožární\nHliníková\nokna, dveře a fasády\nDveře\nOkna\nFasády\nPožární\nPožární\nkonstrukce\nOcelové\nHliníkové\nOnline poptávka\nframe-scrollup\nTento web použivá soubory cookies ke zlepšení uživatelského zážitku. Používáním webu s tímto souhlasíte (zjistit\nvíce\nSouhlasím"
+    }
+  }
+}

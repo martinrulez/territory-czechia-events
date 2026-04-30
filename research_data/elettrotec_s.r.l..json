@@ -1,0 +1,331 @@
+{
+  "company_key": "elettrotec s.r.l.",
+  "company_name": "ELETTROTEC S.r.l.",
+  "domain": "www.elettrotec.com",
+  "domain_url": "https://www.elettrotec.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ELETTROTEC S.r.l.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 33,
+    "revenue": 16621,
+    "zi_company_name": "Elettrotec",
+    "zi_domain": "www.elettrotec.com",
+    "zi_city": "Milano",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.elettrotec.com",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.elettrotec.com/contacts",
+      "text": "Contatti - Elettrotec\nContatti\nHome\nContatti\nUfficio Vendite\nClicca qui per contattarci via email.\n+39 02 28851823\nUfficio Tecnico\nClicca qui per contattarci via email.\n+39 02 28851836\nUfficio Amministrativo\nClicca qui per contattarci via email.\n+39 02 28851832\nContattaci\nAruba\nAfghanistan\nAngola\nAnguilla\nIsole Åland\nAlbania\nAndorra\nEmirati Arabi Uniti\nArgentina\nArmenia\nSamoa Americane\nAntartide\nTerre Australi e Antartiche Francesi\nAntigua e Barbuda\nAustralia\nAustria\nAzerbaijan\nBurundi\nBelgio\nBenin\nBonaire, Sint Eustatius e Saba\nBurkina Faso\nBangladesh\nBulgaria\nBahrain\nBahamas\nBosnia Erzegovina\nSaint-Barthélemy\nBielorussia\nBelize\nBermuda\nBolivia\nBrasile\nBarbados\nBrunei Darussalam\nBhutan\nIsola di Bouvet\nBotswana\nRepubblica Centroafricana\nCanada\nIsole Cocos\nSvizzera\nCile\nCina\nCosta d'Avorio\nCamerun\nRepubblica Democratica del Congo\nCongo\nIsole Cook\nColombia\nComore\nCapo Verde\nCosta Rica\nCuba\nCuraçao\nIsola di Natale\nIsole Cayman\nCipro\nCzechia\nGermania\nGibuti\nDominica\nDanimarca\nRepubblica Dominicana\nAlgeria\nEcuador\nEgitto\nEritrea\nSahara Occidentale\nSpagna\nEstonia\nEtiopia\nFinlandia\nFiji\nIsole Falkland\nFrancia\nIsole Faroe\nStati Federati della Micronesia\nGabon\nUnited Kingdom of Great Britain and Northern Ireland\nGéorgie\nGuernsey\nGhana\nGibilterra\nGuinea\nGuadalupa\nGambia\nGuinea-Bissau\nGuinea Equatoriale\nGrecia\nGrenada\nGroenlandia\nGuatemala\nGuyana Francese\nGuam\nGuyana\nHong Kong\nIsola Heard e Isole McDonald\nHonduras\nCroazia\nHaiti\nUngheria\nIndonesia\nIsola di Man\nIndia\nTerritorio britannico dell'Oceano Indiano\nIrlanda\nIran, Repubblica Islamica di\nIraq\nIslanda\nIsraele\nItalia\nGiamaica\nJersey\nGiordania\nGiappone\nKazakhistan\nKenya\nKirghizistan\nCambogia\nKiribati\nSaint Kitts e Nevis\nCorea, Repubblica di\nKuwait\nLaos, Repubblica Popolare Democratica del\nLibano\nLiberia\nLibia\nSanta Lucia\nLiechtenstein\nSri Lanka\nLesotho\nLituania\nLussemburgo\nLettonia\nMacao\nSaint Martin (Francia)\nMarocco\nMonaco\nMoldavia\nMadagascar\nMaldive\nMessico\nIsole Marshall\nNorth Macedonia\nMali\nMalta\nMyanmar\nMontenegro\nMong"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "ELETTROTEC S.r.l.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 41,
+    "all_technologies": [
+      {
+        "product": "ShinyStat",
+        "vendor": "Triboo S.p.a.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WPML",
+        "vendor": "OnTheGoSystems Limited",
+        "category": "Translation",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Woo Themes",
+        "vendor": "WooCommerce",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "OVH Anycast DNS",
+        "vendor": "OVH",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Lead Champion",
+        "vendor": "Leadchampion",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA v2.0",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Website Translator",
+        "vendor": "Google LLC",
+        "category": "Translation",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Zencoder",
+        "vendor": "Brightcove Inc",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Video.js",
+        "vendor": "Brightcove Inc",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Community SMS",
+        "vendor": "Community.com, Inc",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookieyes",
+        "vendor": "CookieYes",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google AdWords",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ELETTROTEC S.r.l.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "William",
+        "last_name": "Dia",
+        "title": "Technical Manager",
+        "email": "",
+        "phone": "",
+        "company": "Elettrotec",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 18:33"
+}

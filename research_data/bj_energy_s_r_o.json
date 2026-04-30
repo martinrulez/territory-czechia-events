@@ -1,0 +1,47 @@
+{
+  "company_key": "bj_energy_s_r_o",
+  "company_name": "BJ Energy, s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "George Valik",
+        "firstName": "George",
+        "lastName": "Valik",
+        "jobTitle": "Vice President, Sales",
+        "email": "jiri.valik@ajvenergo.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:43",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ajvenergo.cz",
+    "homepage": {},
+    "about": {
+      "url": "https://www.ajvenergo.cz/o-nas",
+      "text": "AJV - ENERGO, a.s.\nWarning: mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /DISK2/WWW/ajvenergo.cz/www/index.php on line 142\nWarning: include(): Filename cannot be empty in /DISK2/WWW/ajvenergo.cz/www/index.php on line 166\nWarning: include(): Failed opening '' for inclusion (include_path='.:/usr/local/php55/lib/php') in /DISK2/WWW/ajvenergo.cz/www/index.php on line 166\nAJV - ENERGO, a.s.\nVlkov 134\n594 53 OsovÃ¡ BÃ­tÃ½Å¡ka\ne-mail: ales.valik@ajvenergo.cz\ntel: +420 731 584 678\ne-mail: jiri.valik@ajvenergo.cz\ntel: +420 733 108 600\nProgramujeme v"
+    },
+    "products": {
+      "url": "https://www.ajvenergo.cz/produkty",
+      "text": "AJV - ENERGO, a.s.\nWarning: mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /DISK2/WWW/ajvenergo.cz/www/index.php on line 142\nWarning: include(): Filename cannot be empty in /DISK2/WWW/ajvenergo.cz/www/index.php on line 166\nWarning: include(): Failed opening '' for inclusion (include_path='.:/usr/local/php55/lib/php') in /DISK2/WWW/ajvenergo.cz/www/index.php on line 166\nAJV - ENERGO, a.s.\nVlkov 134\n594 53 OsovÃ¡ BÃ­tÃ½Å¡ka\ne-mail: ales.valik@ajvenergo.cz\ntel: +420 731 584 678\ne-mail: jiri.valik@ajvenergo.cz\ntel: +420 733 108 600\nProgramujeme v"
+    },
+    "contact_page": {
+      "url": "https://www.ajvenergo.cz/kontakt",
+      "text": "Kontakt | AJV - ENERGO, a.s.\nAJV - ENERGO, a.s.\nÃvod\nAJV â ENERGO\nOpravy turbÃ­n\nVÃ½roba ND pro energetiku\nServis energetickÃ½ch zaÅÃ­zenÃ­\nNuclamid\nKontakt\nKudy k nÃ¡m\nAJV - ENERGO, a.s.\nSÃ­dlo:\nVlkov 134\n594 53 OsovÃ¡ BÃ­tÃ½Å¡ka\nKontakty\ne-mail: ales.valik@ajvenergo.cz\ntel: +420 731 584 678\ne-mail: jiri.valik@ajvenergo.cz\ntel: +420 733 108 600\nProgramujeme v"
+    }
+  }
+}

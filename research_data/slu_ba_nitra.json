@@ -1,0 +1,129 @@
+{
+  "company_key": "slu_ba_nitra",
+  "company_name": "SLUŽBA NITRA",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "SLUŽBA NITRA",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Webflow",
+        "vendor": "Webflow, Inc.",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Miroslav Fulop",
+        "firstName": "Miroslav",
+        "lastName": "Fulop",
+        "jobTitle": "Chief Executive Officer",
+        "email": "mfulop@sluzbanitra.sk",
+        "phone": "+421 911 915 110",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Stanislava Hullová",
+        "firstName": "Stanislava",
+        "lastName": "Hullová",
+        "jobTitle": "Project Manager",
+        "email": "shullova@sluzbanitra.sk",
+        "phone": "+421 37/692 14 85",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Eva Banyiova",
+        "firstName": "Eva",
+        "lastName": "Banyiova",
+        "jobTitle": "Project Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Marian Laca",
+        "firstName": "Marian",
+        "lastName": "Laca",
+        "jobTitle": "Sales Manager, Purchasing",
+        "email": "mlaca@sluzbanitra.sk",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Nikoleta Revayova",
+        "firstName": "Nikoleta",
+        "lastName": "Revayova",
+        "jobTitle": "Project Manager, Marketing",
+        "email": "nrevayova@sluzbanitra.sk",
+        "phone": "+421 37/692 14 14",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Ján Humený",
+        "firstName": "Ján",
+        "lastName": "Humený",
+        "jobTitle": "Manažer Kvality",
+        "email": "jhumeny@sluzbanitra.sk",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 6,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:09"
+}

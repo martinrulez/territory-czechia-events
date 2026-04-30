@@ -1,0 +1,68 @@
+{
+  "company_key": "westcam s.r.o.",
+  "company_name": "WESTCAM s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "WESTCAM s.r.o.",
+    "opportunity_score": 21,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.58,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.58,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "27745830",
+    "official_name": "WESTCAM s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46900",
+      "471",
+      "62200",
+      "47780",
+      "62",
+      "46900",
+      "471",
+      "4778",
+      "620",
+      "62020"
+    ],
+    "ares_segments": [
+      "M&E"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Aksamitova 1071/1, 77900 Olomouc, Olomouc, Aksamitova, 77900",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "WESTCAM s.r.o.",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:36"
+}

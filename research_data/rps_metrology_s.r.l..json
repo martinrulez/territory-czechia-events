@@ -1,0 +1,206 @@
+{
+  "company_key": "rps metrology s.r.l.",
+  "company_name": "RPS Metrology s.r.l.",
+  "domain": "www.rpsmetrology.com",
+  "domain_url": "https://www.rpsmetrology.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "RPS Metrology s.r.l.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 27,
+    "revenue": 4036,
+    "zi_company_name": "RPS Metrology",
+    "zi_domain": "www.rpsmetrology.com",
+    "zi_city": "Sona",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.rpsmetrology.com",
+    "homepage": {
+      "title": "Bracci di misura portatili a 6 e 7 assi - RPS Metrology",
+      "description": "RPS Metrology bracci di misura portatile a 6 e 7 assi EVO per controllo dimensionale 3D o reverse-engineering con tastatore a contatto o laser scanner",
+      "text_excerpt": "Bracci di misura portatili a 6 e 7 assi - RPS Metrology\nSkip to content\nHome\nProdotti\nR-EVO R 6 e 7 assi\nR-EVO S 6 e 7 assi\nR-EVO R-SCAN\nR-EVO S-SCAN\nBraccio R-EVO TUBE\nR-EVO Titanium\nTreppiedi Di Grandi Dimensioni\nTreppiedi Standard\nChi Siamo\nServizi\nTeam\nEventi\nContatti\nLA NOSTRA AZIENDA\nSTORIA CON UNO SGUARDO AL FUTURO\nPresentazione di RPS Metrology\nLa società RPS Metrology nasce dall’esperienza e dalla passione per la ricerca, lo sviluppo e la produzione dei bracci di misura articolati iniziata da oltre trent’anni.\nLa prima società denominata Garda Impianti fondata da Raffaello Dalla Mariga nasce nel 1983 e si specializza nella produzione di attrezzature per la riparazione di scocche per carrozzeria.\nNell’ambito di questa attività nel 1987 viene realizzato e brevettato da Garda Impianti il primo Sistema Mobile a Bracci snodati denominato CMS Car 3D.\nNel 1990 Garda Impianti presenta il nuovo modello Space/Explorer: la prima versione di un sistema a bracci snodati mobile a sette assi.\nSulla base del lavoro svolto negli anni precedenti da Garda Impianti, nel 1993 viene fondata una nuova società denominata Garda. Questa azienda si specializza ulteriormente a sviluppare i bracci di misura della tipologia portatile.\nIl lavoro nell’ambito tecnico e commerciale in questo settore, svolto dai tre soci fondatori Raffaello Dalla Mariga, Paolo Perbellini e Stefano Recchia, uniti da stima e amicizia, ha portato a lanciare questa sfida sul mercato dei bracci di misura ed a fondare nel 2015 la nuova società RPS Metrology.\nCertificazione ISO9001:2015\nIn linea con la nostra politica di massima qualità garantita, RPS Metrology è accreditata come azienda certificata\nISO9001:2015\nClicca qui\nper scaricare il ns. certificato\nVai al nostro Team\nI NOSTRI SERVIZI\nRPS Metrology propone alla clientela serie di attività assistenziale e di servizio nell’ambito della metrologia che sono:\nControllo e certificazione del pezzo\nControllo e certificazione del pezzo con sistema a raggi x tomografia\nRiparazione e retrofit bracci di misura\nRiparazione e retrofit bracci di misura\nRilievo con scanner laser\nRilievo con scanner laser per attività di “Reverse Engineering”\nServizi di calibrazione\nservizi di calibrazione e certificazione bracci di misura\n“DIETRO LE QUINTE”\nUN GRUPPO DI BRILLANTI PROFESSIONISTI\nRaffaello Dalla Mariga\nManaging director\nLa pietra d’angolo di RPS Metrology è rappresentata da Raffaello, pioniere dei bracci di misura giá dai primi anni ottanta. Dopo aver fondato e gestito diverse societá di successo in oltre 30 anni di carriera, oggi è alla direzione generale di RPS Metrology. Grande esperienza, intuito penetrante per gli affari, e passione nel perseguire innovazione e qualitá, in tutte le attivitá. Inoltre è in prima persona il riferimento per la clientela ed i riventori Italiani.\nLinkedin page opens in new window\nMail page opens in new window\nStefano Recchia\nDirector of Engineering\nDietro un prodotto di successo c’è un team tecnico di elevato livello. Stefan"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "RPS Metrology s.r.l.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 20,
+    "all_technologies": [
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Aruba SpA",
+        "vendor": "Aruba S.p.A.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Charts",
+        "vendor": "Google LLC",
+        "category": "Charting",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "GreenSock",
+        "vendor": "GreenSock",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Aruba Hosting",
+        "vendor": "Aruba S.p.A.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "RPS Metrology s.r.l.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Giuliano",
+        "last_name": "Marchi",
+        "title": "Designer",
+        "email": "",
+        "phone": "",
+        "company": "RPS Metrology",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 17:00"
+}

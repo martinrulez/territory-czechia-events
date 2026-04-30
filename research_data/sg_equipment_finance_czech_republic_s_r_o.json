@@ -1,0 +1,107 @@
+{
+  "company_key": "sg_equipment_finance_czech_republic_s_r_o",
+  "company_name": "SG Equipment Finance Czech Republic s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "SG Equipment Finance Czech Republic s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 2,
+    "all_technologies": [
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "DAVID FORMÁNEK",
+        "firstName": "DAVID",
+        "lastName": "FORMÁNEK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PETR NĚMEC",
+        "firstName": "PETR",
+        "lastName": "NĚMEC",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ZDENĚK KEJVAL",
+        "firstName": "ZDENĚK",
+        "lastName": "KEJVAL",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "EVA JIRÁNKOVÁ",
+        "firstName": "EVA",
+        "lastName": "JIRÁNKOVÁ",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "LIBOR KOŠÍČEK",
+        "firstName": "LIBOR",
+        "lastName": "KOŠÍČEK",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PAVEL NĚMEC",
+        "firstName": "PAVEL",
+        "lastName": "NĚMEC",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 6,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:02",
+  "website_data": {
+    "success": false,
+    "domain": "https://equipmentfinance.societegenerale.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "company_key": "automa_asopis_pro_automatiza_n_techniku_s_r_o",
+  "company_name": "Automa - časopis pro automatizační techniku, s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Petr Špůr",
+        "firstName": "Petr",
+        "lastName": "Špůr",
+        "jobTitle": "",
+        "email": "spur@automa.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:37"
+}

@@ -1,0 +1,224 @@
+{
+  "company_key": "leonardo_technology_s_r_o",
+  "company_name": "Leonardo technology s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "Leonardo technology s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 26,
+    "all_technologies": [
+      {
+        "product": "Leadinfo",
+        "vendor": "Leadinfo",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Matomo",
+        "vendor": "Matomo Software",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Canva",
+        "vendor": "Canva Pty Ltd",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Ads",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "The USERTRUST Network",
+        "vendor": "Comodo Group, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Sectigo",
+        "vendor": "Sectigo Limited",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Smartsupp",
+        "vendor": "Smartsupp.com, s.r.o.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Joomla",
+        "vendor": "Joomla!",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MAREK HAUMER",
+        "firstName": "MAREK",
+        "lastName": "HAUMER",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "LUBOŠ GLIER",
+        "firstName": "LUBOŠ",
+        "lastName": "GLIER",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:18:22",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.lt.cz",
+    "homepage": {
+      "title": "Leonardo technology s.r.o. - Automatizace průmyslového značení",
+      "description": "Leonardo technology, s.r.o., to je tým techniků, kteří zabezpečují veškeré požadavky průmyslového značení, identifikace, datamatrix kódů, RFID s vlastní výrobou spotřebních materiálů pro termotransferové tiskárny.",
+      "text_excerpt": "Leonardo technology s.r.o. - Automatizace průmyslového značení\nJiž od roku 2002 řešíme Vaše projekty průmyslového značení.\nZákaznická a servisní telefonní linka:\n+420 533 44 55 66\nE-mail:\nobchod@LT.cz\nAutomatický paletový aplikátor PA\nSpeciální automatikcý paletový aplikátor určený pro aplikování standardizovaných logistických etiket formátu A5 podle standardů GS1 na dvě strany v jednom kroku.\nZobrazit více\nProč s Leonardo technology\nJsme přátelský tým 55 vysoce talentovaných profesionálů v oboru průmyslového značení, dostatečně silný, abychom byli flexibilní a rychlí. Jsme velmi vynalézaví a kreativní pro zabezpečení i nejtěžších požadavků v automatizaci průmyslového značení, popisu a identifikace.\nChci vědět více o Leonardu\nZnačící technologie\nNaše značící zařízení jsou špičkou ve svém oboru a řešením pro všechny potřeby automatického popisu a identifikace. Dokážeme značit jak za pohybu, tak při statickém řešení v jakémkoliv průmyslovém odvětví na jakékoliv materiály včetně následné verifikace a softwarového řízení.\nChci zobrazit technologie\nNejrychlejší nonstop servis\nDíky vašim vysokým nárokům máme elitní tým 31 servisních techniků se stejným počtem plně vybavených servisních aut a 15.000 položek náhradních dílů skladem. Spolehlivá 24 hodinová servisní Hot Line linka +420 533 44 55 66 je pro vás k dispozici 24 hodin, 7 dní v týdnu.\nPotřebuji nejlepší servis\nLaserové značení\nLaserové značící systémy Solaris vytvářejí vysoce kvalitní značení na materiály jako jsou fólie, plasty, dřevo, sklo, kov a mnoho dalších.\nZnačení inkoustem InkJet\nJedinečné a patentované inkjet systémy Leibinger a TS Jet pro nekontaktní označování porézních i neporézních materiálů.\nOdsavače zplodin\nOdsávací jednotky BOFA pro čištění kontaminovaného vzduchu vznikajícího nejen při laserovém značení v průmyslu.\nDigitální tiskárny HiRes\nTiskárny ALE, TS Electronics, GSI a JetSet pro přímý nekontaktní potisk ve vysokém rozlišení jednou barvou nebo s možností až plné podpory CMYK.\nAplikátory etiket s tiskárnou\nDíky průmyslovým mechanizmům jsou tím nejspolehlivějším řešením do náročných průmyslových odvětví.\nAplikátory etiket bez tiskárny\nŠiroká škála etiketovacích systémů pro přesné a spolehlivé lepení etiket libovolného tvaru a velikosti na jakýkoli výrobek.\nTTO termotransferové tiskárny\nPrincipem je kontaktní potisk přes barvící termotransfer pásku přímo na fóliový nebo papírový obalový materiál.\nTermotransferové tiskárny etiket\nJsou pro tisk na papírové nebo RFID etikety, PE/PP, karton, vstupenky nebo také textilní visačky na oděvy apod.\nMechanický mikroúder\nMechanicky velmi odolné značení, viditelné i pod vrstvou barvy. Hrot vysokou frekvencí kmitání a tlakem vytváří písmo nebo grafiku.\nBarevná identifikace\nLevné mechanické značení inkoustovým razítkem Quintest nebo bezkontaktním inkoustovým barevným bodem JET-PEN.\nPrůmyslová automatizace\nZakázková konstrukce strojních zařízení, dopravníků a manipulátorů vč. implementace nabízených technologií.\nSpolupracující roboty\nSpolupr"
+    },
+    "about": {
+      "url": "https://www.lt.cz/o-spolecnosti",
+      "text": "Náš příběh - Leonardo technology s.r.o. - Automatizace průmyslového značení\nJiž od roku 2002 řešíme Vaše projekty průmyslového značení.\nZákaznická a servisní telefonní linka:\n+420 533 44 55 66\nE-mail:\nobchod@LT.cz\nO Leonardo technology\nJiž od roku 2002 nabízíme služby a zařízení v oblasti automatizace průmyslového značení na českém a slovenském trhu.\nObjevte svět společnosti Leonardo technology, která je hrdým průkopníkem v oblasti automatizace průmyslového značení. Stojíme v čele inovací v technologiích značení, které pomáhají firmám po celém světě zvyšovat efektivitu, bezpečnost a sledovatelnost jejich produktů a komponent.\nKaždý rok posílí naše řady noví schopní profesionálové, kteří přinášejí cenné dovednosti a znalosti, jež jsou základem našeho úspěchu. Více než 70 odborníků se denně stará o to, aby Leonardo technology fungovalo jako dobře seřízený stroj, a zajišťovalo špičkové služby pro plnou spokojenost našich zákazníků. To celé pro Vás již od roku 2002.\nVáš přehrávač nepodporuje HTML video.\nŽijeme ve světe, kde se vždy něco pos... a to i s kvalitními produkty. Takovou situaci může zachránit jediný hrdina!\nJsme přátelská skupinka vysoce talentovaných profesionálů v oboru automatizace průmyslového značení, dostatečně silná, aby byla flexibilní a rychlá. Jsme velmi vynalézaví a kreativní pro zabezpečení i nejtěžších požadavků v automatizaci průmyslového značení, popisu, identifikaci a vysledovatelnosti. Pracujeme tvrdě, nasloucháme bedlivě a dáváme důraz na špičkový non-stop servis pro všechny naše klienty v klíčových fázích výroby v jejich byznysu. Klíčem k našemu úspěchu jsou lidé, jejich rozmanitost a nápady.\nVelké zkušenosti se zahraničními partnery a přímá vývojová pomoc při realizaci nových zařízení dávají velký potenciál k rozvoji společnosti. Pracujeme pro vás, zabezpečujeme vaše požadavky na značení, přizpůsobujeme se vašim úkolům a respektujeme vás.\nV čele průmyslového značení\nKaždý rok instalujeme více než 600 nových tiskáren a značících strojů. Tyto projekty, které každoročně zajišťují více než miliardu identifikačních znaků pro rozmanité aplikace, realizujeme s důrazem na dlouhou životnost, spolehlivost a ekonomickou efektivitu. Rovněž poskytujeme servis pro více než 6 500 tiskáren a zařízení ročně. Disponujeme sklady s více než 800 000 náhradními díly k okamžité expedici. Naše služby zahrnují automatizaci průmyslového značení, software a vývoj aplikací na míru. Systémy propojujeme s kamerou pro automatickou kontrolu a verifikaci, váhami a čtečkami pro čárové či datamatrix kódy.\nZnačící systémy dokážeme efektivně integrovat s různými ERP systémy, včetně oblíbených platforem jako jsou SAP, ABRA, HELIOS, K2, ORACLE, POHODA, Qi či Dialog. Tato integrace je zprostředkována skrze podnikovou síť, což umožňuje plynulé propojení nejen s ERP systémy, ale i s existujícími systémy řízení skladu (WMS) nebo databázovými servery, a to i prostřednictvím cloudových řešení. Díky tomu mohou nadřazené systémy v reálném čase posílat údaje přímo do značícího zařízení, což značně zjednodušuje a zrychluje proces tisku a značení.\nCílem je poskytovat řešení, která přesně odpovídají potřebám zákazníků v oblasti průmyslového značení. Ať už se jedná o tisk dat, čárových kódů, datamatrix kódů, nebo o značení pro sledovatelnost a personalizaci produktů, nabízíme širokou škálu technologií a odborných znalostí, aby každý projekt byl realizován s maximální přesností a efektivitou.\nJsme přesvědčeni, že kvalitní značení je klíčem k lepší produkci a úsporám v mnoha průmyslových odvětvích. Naše technologie a služby pomáhají firmám nejen splňovat nestandardní požadavky, ale i zvyšovat jejich produktivitu a konkurenceschopnost.\nProfil firmy Leonardo technology s.r.o.\nJiž od roku 2002 nabízíme služby a zařízení v oblasti automatizace průmyslového značení na českém a slovenském trhu. Klikni pro více informací a prohlídku všech námi nabízených služeb a produktů\nStáhnout firemní profil v pdf\nOtevřít firemní profil on-line\nProměňte naše zkušenosti ve "
+    },
+    "products": {
+      "url": "https://www.lt.cz/produkty",
+      "text": "Produkty - Leonardo technology s.r.o. - Automatizace průmyslového značení\nJiž od roku 2002 řešíme Vaše projekty průmyslového značení.\nZákaznická a servisní telefonní linka:\n+420 533 44 55 66\nE-mail:\nobchod@LT.cz\nProdukty\nNaše značící zařízení jsou špičkou ve svém oboru a řešením pro všechny potřeby automatického popisu a identifikace. Dokážeme značit jak za pohybu, tak při statickém řešení v jakémkoliv průmyslovém odvětví na jakékoliv materiály včetně následné verifikace a softwarového řízení.\nLaserové značení\nLaserové značící systémy Solaris vytvářejí vysoce kvalitní značení na materiály jako jsou fólie, plasty, dřevo, sklo, kov a mnoho dalších.\nZnačení inkoustem InkJet\nJedinečné a patentované inkjet systémy Leibinger a TS Jet pro nekontaktní označování porézních i neporézních materiálů.\nOdsavače zplodin\nOdsávací jednotky BOFA pro čištění kontaminovaného vzduchu vznikajícího nejen při laserovém značení v průmyslu.\nDigitální tiskárny HiRes\nTiskárny ALE, TS Electronics, GSI a JetSet pro přímý nekontaktní potisk ve vysokém rozlišení jednou barvou nebo s možností až plné podpory CMYK.\nAplikátory etiket s tiskárnou\nDíky průmyslovým mechanizmům jsou tím nejspolehlivějším řešením do náročných průmyslových odvětví.\nAplikátory etiket bez tiskárny\nŠiroká škála etiketovacích systémů pro přesné a spolehlivé lepení etiket libovolného tvaru a velikosti na jakýkoli výrobek.\nTTO termotransferové tiskárny\nPrincipem je kontaktní potisk přes barvící termotransfer pásku přímo na fóliový nebo papírový obalový materiál.\nTermotransferové tiskárny etiket\nJsou pro tisk na papírové nebo RFID etikety, PE/PP, karton, vstupenky nebo také textilní visačky na oděvy apod.\nMechanický mikroúder\nMechanicky velmi odolné značení, viditelné i pod vrstvou barvy. Hrot vysokou frekvencí kmitání a tlakem vytváří písmo nebo grafiku.\nBarevná identifikace\nLevné mechanické značení inkoustovým razítkem Quintest nebo bezkontaktním inkoustovým barevným bodem JET-PEN.\nPrůmyslová automatizace\nZakázková konstrukce strojních zařízení, dopravníků a manipulátorů vč. implementace nabízených technologií.\nSpolupracující roboty\nSpolupracující roboty umožňují rychlé nastavení a flexibilní změnu výroby a jsou plně kompatibilní s našimi značícími technologiemi.\nVerifikátor kódů\nInspekční systémy verifikující čárové a matrix kódy podle ISO standardu, MIL, DPM a dalších s vytvořením verifikačního protokolu.\nSystém správy etiket Loftware\nNejmodernější řešení pro označování, které je k dispozici v cloudu nebo on-premise.\nProduktový software\nSoftware k ovládání, konfiguraci a monitorování vybraných tiskových zařízení.\nSpotřební materiál\nVlastní výroba termotransferových barvících pásek a etiket, prodej originálních termotransferových tiskových hlav."
+    },
+    "contact_page": {
+      "url": "https://www.lt.cz/kontakty",
+      "text": "Kontakty - Leonardo technology s.r.o. - Automatizace průmyslového značení\nJiž od roku 2002 řešíme Vaše projekty průmyslového značení.\nZákaznická a servisní telefonní linka:\n+420 533 44 55 66\nE-mail:\nobchod@LT.cz\nKontakty\nNa uvedených mobilních číslech jsme k dispozici 24 hodin, 7 dní v týdnu.\nTým holdingu Leonardo\nVedení holdingu\nEkonomické oddělení\nPersonální oddělení\nMarketingové oddělení\nProduktový management\nObchodní oddělení\nServisní oddělení\nOddělení automatizace\nVýroba etiket a pásek\nSklad\nLeasing zařízení a technologií\nVývoj a výroba JETBAG\nIT oddělení\nLeonardo technology SK"
+    }
+  }
+}

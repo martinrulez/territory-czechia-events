@@ -1,0 +1,51 @@
+{
+  "company_key": "acutec_s_r_o",
+  "company_name": "ACUTEC s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "STANISLAV BERÁNEK",
+        "firstName": "STANISLAV",
+        "lastName": "BERÁNEK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:14",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.argutec.eu",
+    "homepage": {
+      "title": "Argutec",
+      "description": "",
+      "text_excerpt": "Argutec"
+    },
+    "about": {
+      "url": "https://www.argutec.eu/o-nas",
+      "text": "Argutec"
+    },
+    "products": {
+      "url": "https://www.argutec.eu/produkty",
+      "text": "Argutec"
+    },
+    "contact_page": {
+      "url": "https://www.argutec.eu/kontakt",
+      "text": "Argutec"
+    }
+  }
+}

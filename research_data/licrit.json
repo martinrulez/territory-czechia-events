@@ -1,0 +1,277 @@
+{
+  "company_key": "licrit",
+  "company_name": "LICRIT",
+  "domain": "www.licrit.com",
+  "domain_url": "https://www.licrit.com",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "LICRIT",
+    "opportunity_score": 19,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.44,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.44,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "03102874",
+    "official_name": "LICRIT s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "00",
+      "461",
+      "74990",
+      "G",
+      "62",
+      "74300",
+      "855",
+      "81230",
+      "74200",
+      "90390",
+      "00",
+      "461",
+      "62",
+      "742",
+      "743",
+      "749",
+      "8129",
+      "855",
+      "9002",
+      "G"
+    ],
+    "ares_segments": [
+      "M&E"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Technická 2935/23, Královo Pole, 61600 Brno, Brno, Technická, 61600",
+    "zi_done": true,
+    "employee_count": 6,
+    "revenue": 2219,
+    "zi_company_name": "Licrit",
+    "zi_domain": "www.licrit.com",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.licrit.com",
+    "homepage": {
+      "title": "LICRIT | Safety-Critical Electronics and Development",
+      "description": "",
+      "text_excerpt": "LICRIT | Safety-Critical Electronics and Development\nwhen criticality\nmatters\nMaking the world better and safer by providing state of the art mission critical and life critical electronics solutions and consulting.\nWith deep expertise across the aviation, space, functional safety and railway industries, we deliver both comprehensive support and turnkey solutions. LICRIT develops highly reliable systems, certified software, and qualified hardware.\nSee our services\nYour Partner for Safety-Critical Projects\noffer\ncustomized\nservices\nfor\nthe\ndevelopment\nand\ncertification\nsafety-\ncritical\nelectronics\nand\nsoftware,\nalong\nwith\nconsulting\nand\nengineering\nsupport\nWith our expertise, you can achieve faster certification, reduce project risks, and get higher confidence at every stage of your development and certification journey.\nFrom initial concept to final certification, we deliver end-to-end solutions for safety-critical electronics and certified safety-critical software development. Our services are highly adaptable and can be combined with additional consulting and specialized training.\nGet in touch today to discover how we can support your next project as a reliable partner.\nSafety-Critical Electronics Solutions\nAt LICRIT, we specialize in the development and certification of safety-critical electronics, ensuring safety, secure, and highly reliable systems for mission-critical applications. Our expertise spans across aviation, space, railway and functional safety industries, delivering turnkey electronic systems designed to meet the most demanding technical requirements and regulatory standards.\nCertified Software Development\nFor both ongoing and planned development projects, we offer software certification solutions that empower your project success, accelerate development, and reduce costs and time to certification. LICRIT is an AS9100D certified supplier of\nDO-178C software\n, certification solutions and consulting support. We deliver highly reliable embedded software and certification packages for safety-critical applications.\nConsulting and Engineering Services\nLICRIT offers a comprehensive suite of engineering services designed to elevate customer project’s success. Our engineers have broad certification and technical expertise with hands-on experiences from many safety-critical projects, enabling us to support our customers throughout their development journey.\nOUR CUSTOMERS\nOUR CERTIFICATES\nLet’s Work Together!\nContact Us\nAt LICRIT, we actively engage as essential team members in diverse safety-critical development projects, leveraging our extensive experience from the aerospace industry and strong expertise of the regulations and standards, to ensure successful outcomes. Contact us and let’s have a chat how to work together.\nLICRIT s.r.o.\nAddress:\nTechnická 2935/23\n616 00 Brno Czech Republic.\nCRN: 03102874\nTAX ID: CZ03102874\nD-U-N-S: 36-157-5642\nCompany registered in business register administered by the Regional Court in Brno. Record No: C 8"
+    },
+    "about": {
+      "url": "https://www.licrit.com/about",
+      "text": "About | LICRIT\nYour trusted safety-critical partner\nWe have safety-critical systems in our DNA!\nAt LICRIT, we are a team of dedicated engineers comitted to deliver high-quality solutions for safety-critical industries, to guide our customers through complexities of safety-critical standards, regulations, certification process and development. We are a diverse team of professionals laveraging our combined expertise and experience from our past and recent safety-critical projects in delivering safety-critical electronics, turnkey software, software certification solutions, specialized trainings and engineering support.\nWho stands behind LICRIT?\nLukas Macisak\nCEO\nLinkedIn\nKarel Szurman\nHead of Software\nLinkedIn\nFrantisek Zouhar\nHead of Hardware\nLinkedIn\nWe are commited to make world better and safer\nWe believe that through our work we can\ncontribute to making our world better and safer. We are commited to help our clients along with their safety-critical missions and to ensure that our contribution to development of each product will improve it’s safety, security, and quality. With that goal we defined our company mission and\nquality principles which are part of our everyday work.\nThe way we work makes us different\nLICRIT establishes a working relationship based on mutual trust, respect and cooperation that leads to long-term partnerships. We work closely with our customers to understand their expectations, requirements and schedules.\nOur services and solutions are tailored to meet each of our customer’s unique needs, to reduce risk and to provide faster and more cost-effective solution. No matter when we work on a whole projoct or just support our customer with consulting on their journey, we always try to be flexible and to find the best model of cooperation.\nWe are committed to providing our customers with the highest quality and expertise in safety-critical industry."
+    },
+    "products": {
+      "url": "https://www.licrit.com/services",
+      "text": "Services | LICRIT\nWe are more than a just consultancy\nConsulting and Engineering Services\nWe are more than a consultancy; we are partners in progress, navigating the customers through complexities of safety-critical development, standards, and regulations.\nOur engineers have broad expertise and hands-on experiences from many safety-critical projects, enabling us to support our customers throughout their development journey.\nAviation Trainings\nWe offer specialized training courses designed to equip professionals in the aviation industry with the necessary expertise and practical knowledge required to navigate throughout the most controlled development environment.\nProcess Consulting\nOur Process Consulting service focuses on company development and design processes, gap analysis and overall process improvement. Process consulting is driven by standards and regulations required for the development of safety-critical systems, hardware and software in a given industry.\nVISURE Requirements ALM Platform\nWe are official distrubutor of Visure Requirements ALM platform which simplifies the process of requirements capture and management. This tool ensures complete end-to-end traceability, requirements identification and tracking, requirements version control, and it helps to increase the overall product quality. We provide also templates, checklist and support in Visure Requirements ALM platform deployment.\nDo you need support with your ongoing project or specialized training for your team before the next project starts?\nContact Us"
+    },
+    "contact_page": {
+      "url": "https://www.licrit.com/contact",
+      "text": "Contact | LICRIT\nReach Out to Our Safety-Critical Experts\nWe are here to answer any questions about our services and solutions. You can contact us in a variety of ways\nPhone\nCall us at\n+420 777 859 961\nWe’re availabe Monday to Friday from 8 AM to 5 PM CET.\nEmail\nYou can reach us at\ninfo@licrit.com\nWe’ll respond to your inquiry as soon as possible.\nFill out the contact form, and we’ll back to you as soon as we can\nWe are glad to hear from you\nName\nEmail Address\nMessage\nSubmit\nYou can find us here\nLICRIT s.r.o.\nIČ:\n03102874\nDIČ:\nCZ03102874\nD-U-N-S:\n36-157-5642\nAddress:\nTechnická 2935/23,\n616 00 Brno, Czech Republic"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "LICRIT",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 23,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WPForms",
+        "vendor": "WPForms LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "C",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "LICRIT",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Karel",
+        "last_name": "Szurman",
+        "title": "Co-Founder Head of Software",
+        "email": "karel.szurman@licrit.com",
+        "phone": "",
+        "company": "Licrit",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Frantisek",
+        "last_name": "Zouhar",
+        "title": "Consultant In Safety-Critical System Design and Development",
+        "email": "frantisek.zouhar@licrit.com",
+        "phone": "",
+        "company": "Licrit",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 95.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 15:54"
+}

@@ -1,0 +1,152 @@
+{
+  "company_key": "sg equipment finance czech republic s.r.o.",
+  "company_name": "SG Equipment Finance Czech Republic s.r.o.",
+  "domain": "equipmentfinance.societegenerale.cz",
+  "domain_url": "https://equipmentfinance.societegenerale.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SG Equipment Finance Czech Republic s.r.o.",
+    "opportunity_score": 20,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.49,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.49,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "61061344",
+    "official_name": "SG Equipment Finance Czech Republic s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "471",
+      "68200",
+      "70200",
+      "82100",
+      "772",
+      "68310",
+      "64910",
+      "661",
+      "68110",
+      "00",
+      "74",
+      "821",
+      "68100",
+      "6820",
+      "68310",
+      "702",
+      "74",
+      "772",
+      "00",
+      "471",
+      "64910",
+      "661"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "náměstí Junkových 2772/1, Stodůlky, 15500 Praha 5, Praha, náměstí Junkových, 15500",
+    "zi_done": true,
+    "employee_count": 6,
+    "revenue": 1344,
+    "zi_company_name": "SG Equipment Finance Czech Republic sro",
+    "zi_domain": "equipmentfinance.societegenerale.cz",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://equipmentfinance.societegenerale.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "SG Equipment Finance Czech Republic s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 2,
+    "all_technologies": [
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "SG Equipment Finance Czech Republic s.r.o.",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Hynek",
+        "last_name": "Konecny",
+        "title": "Program Manager, Industry & Vendor",
+        "email": "",
+        "phone": "",
+        "company": "SG Equipment Finance Czech Republic sro",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Tomsu",
+        "last_name": "Petr",
+        "title": "Relationship Asset Manager",
+        "email": "",
+        "phone": "",
+        "company": "SG Equipment Finance Czech Republic sro",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Jitka",
+        "last_name": "Rýznarová",
+        "title": "Customer Care Senior Specialist",
+        "email": "",
+        "phone": "",
+        "company": "SG Equipment Finance Czech Republic sro",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 92.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 15:43"
+}

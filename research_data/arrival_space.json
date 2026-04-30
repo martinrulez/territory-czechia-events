@@ -1,0 +1,56 @@
+{
+  "company_key": "arrival_space",
+  "company_name": "Arrival.Space",
+  "domain": "",
+  "events": "3DISE Conference 2026",
+  "technographics": {
+    "success": false,
+    "error": "No technographics found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Gero Egger",
+        "firstName": "Gero",
+        "lastName": "Egger",
+        "jobTitle": "Co-Founder & Chief Executive Officer",
+        "email": "gero@arrival.space",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Lisa Wurzinger",
+        "firstName": "Lisa",
+        "lastName": "Wurzinger",
+        "jobTitle": "Co-founder & Chief Operating Officer",
+        "email": "lisa@arrival.space",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:34",
+  "website_data": {
+    "success": true,
+    "domain": "https://arrival.space",
+    "homepage": {
+      "title": "Arrival.Space - claim. edit. share.",
+      "description": "Your 3D space on the web",
+      "text_excerpt": "Arrival.Space - claim. edit. share."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://arrival.space/contact",
+      "text": "contact by contact"
+    }
+  }
+}

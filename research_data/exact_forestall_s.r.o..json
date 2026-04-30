@@ -1,0 +1,77 @@
+{
+  "company_key": "exact forestall s.r.o.",
+  "company_name": "Exact Forestall s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Exact Forestall s.r.o.",
+    "opportunity_score": 25,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.77,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.77,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "27648401",
+    "official_name": "Exact Forestall s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "27900",
+      "68200",
+      "261",
+      "461",
+      "70200",
+      "28990",
+      "71200",
+      "72100",
+      "28290",
+      "261",
+      "27900",
+      "28290",
+      "28990",
+      "461",
+      "6820",
+      "702",
+      "7120",
+      "7219"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Na Honech 832/16, Hrabová, 72000 Ostrava, Ostrava, Na Honech, 72000",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Exact Forestall s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 14:40"
+}

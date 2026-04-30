@@ -1,0 +1,210 @@
+{
+  "company_key": "concens",
+  "company_name": "CONCENS",
+  "domain": "www.concens.de",
+  "domain_url": "https://www.concens.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "CONCENS",
+    "opportunity_score": 40,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [
+      "Hiring (1 jobs)",
+      "Public contracts"
+    ],
+    "fit_score": 0.53,
+    "component_scores": {
+      "size": 0.15,
+      "revenue": 0.2,
+      "nace_fit": 0.53,
+      "event_relevance": 0.25,
+      "signals": 0.4,
+      "client_bonus": 0.7
+    },
+    "ares_done": true,
+    "ico": "07659091",
+    "official_name": "CONCENS VENTURES s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "77220",
+      "00",
+      "43120",
+      "82100",
+      "68200",
+      "81230",
+      "00",
+      "43120",
+      "6820",
+      "77290",
+      "81290",
+      "82110"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Revoluční 655/1, Staré Město, 11000 Praha 1, Praha, Revoluční, 11000",
+    "employee_count": 6,
+    "revenue": 1235,
+    "hiring_signal": true,
+    "hiring_intensity": "low",
+    "total_jobs": 1,
+    "engineering_hiring": false,
+    "leadership_change": false,
+    "has_public_contracts": true,
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "26",
+    "current_acv_eur": "13000.0",
+    "potential_acv_eur": "122200.0",
+    "nearest_renewal": "2026-06-04",
+    "days_to_renewal": "42",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Entry",
+    "industry_segment": "Building Products & Fabricat'n",
+    "ml_domain": "www.cs-cont.cz",
+    "ml_employee_count": "5",
+    "ml_revenue": "600000",
+    "zi_done": true,
+    "zi_company_name": "Concens",
+    "zi_domain": "www.concens.de",
+    "zi_city": "Bruchsal",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.concens.de",
+    "homepage": {
+      "title": "Multiform Concens GmbH",
+      "description": "",
+      "text_excerpt": "Multiform Concens GmbH\ngerman\nintro text\nSehr geehrte Damen und Herren,\nim August 2015 übernahm Concens A/S Dänemark die Firma Multiform Industrie GmbH in Flensburg. Unter dem Namen Multiform Concens GmbH geht es weiter! Sie können sich unter\nwww.concens.com\nüber unsere Produkte informieren.\nConcens\nentwirft, entwickelt, fertigt und vertreibt elektrische In-Line Aktuatoren.\nConcens entwirft, entwickelt, fertigt und vertreibt elektrische In-Line Aktuatoren.\nDer Tradition des skandinavischen Designs folgend, bestechen die Aktuatoren von Concens mit Ihrer schnörkellosen Linienführung. Sie bereichern die Optik jeder Applikation und sind aufgrund ihrer kompakten Bauweise optimal integrierbar.\nConcens Aktuatoren werden aus hochwertigsten Materialien gefertigt und alle einer 100%-Kontrolle unterzogen. Die Bandbreite der verwendeten Materialien reicht von Aluminium bis Edelstahl. So eignen sich die Aktuatoren von Concens auch für den anspruchsvollen Outdoor-Einsatz.\nHD-Background\nSelector\nHD-Background\nSelector\nHD-Background\nSelector (2)"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.concens.de/kontakt",
+      "text": "Kontakt\nKontakt\nMultiform Concens GmbH\nGraf-Zeppelin-Straβe 18\nD-24941 Flensburg\nT +49 461 150 6360\nF +49 461 150 6363\nE info@concens.com\nwww.concens.com\nwww.concens.de\nBüroleiterin\nBüroleiterin\nHeike\nChristiansen\nhch@concens.com\nT +49 (0) 461 150 6360\nSales\nManager\nSales Manager\nKenny Wachtel\nkwa\noncens.com\nM +49 (0) 151 617 241 57\nspace\nHD-Background\nSelector\nHD-Background\nSelector\nHD-Background\nSelector (2)\nHD-Background\nSelector (2)"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "CONCENS",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 11,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Cloud Platform",
+        "vendor": "Google LLC",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Cloud Web Serving",
+        "vendor": "Google LLC",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PETR KALINA",
+        "firstName": "PETR",
+        "lastName": "KALINA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-23 12:10",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

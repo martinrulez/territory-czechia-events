@@ -1,0 +1,38 @@
+{
+  "company_key": "lk_studio_s_r_o",
+  "company_name": "LK Studio s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "LUDĚK KOLAŘÍK",
+        "firstName": "LUDĚK",
+        "lastName": "KOLAŘÍK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:38",
+  "website_data": {
+    "success": false,
+    "domain": "https://www.studioala.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

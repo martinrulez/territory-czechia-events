@@ -1,0 +1,233 @@
+{
+  "company_key": "tribotec, spol. s r.o.",
+  "company_name": "TRIBOTEC, spol. s r.o.",
+  "domain": "www.tribotec.cz",
+  "domain_url": "https://www.tribotec.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "TRIBOTEC, spol. s r.o.",
+    "opportunity_score": 29,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.47,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.47,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "60737221",
+    "official_name": "TRIBOTEC, spol. s r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "74",
+      "28990",
+      "47120",
+      "00",
+      "47190",
+      "74",
+      "00",
+      "28990"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Na výsluní 201/13, Strašnice, 10000 Praha 10, Praha, Na výsluní, 10000",
+    "is_client": true,
+    "current_products": "Fusion + EAGLE",
+    "total_seats": "1",
+    "current_acv_eur": "1000.0",
+    "potential_acv_eur": "4550.0",
+    "nearest_renewal": "2027-03-07",
+    "days_to_renewal": "318",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle 1 standalone D&M tools into one collection",
+    "all_upsells": "PDMC; Flex",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other",
+    "ml_domain": "www.britec.cz",
+    "zi_done": true,
+    "employee_count": 10,
+    "revenue": 1405,
+    "zi_company_name": "TriboTec",
+    "zi_domain": "www.tribotec.cz",
+    "zi_city": "Brno",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.tribotec.cz",
+    "homepage": {
+      "title": "TRIBOTEC – Centrální mazání a systémy pro kolejová vozidla",
+      "description": "",
+      "text_excerpt": "TRIBOTEC – Centrální mazání a systémy pro kolejová vozidla\nLinkedin\nYoutube\nCENTRÁLNÍ\nMAZÁNÍ\nPŘEJÍT NA WEB\nSYSTÉMY PRO\nKOLEJOVÁ VOZIDLA\nPŘEJÍT NA WEB\nCENTRÁLNÍ\nMAZÁNÍ\nPŘEJÍT NA WEB\nSYSTÉMY PRO\nKOLEJOVÁ VOZIDLA\nPŘEJÍT NA WEB\nTRIBOTEC, spol. s r.o., Košuličova 4, 619 00 Brno, Czech republic | +420 543 425 611 | tribotec@tribotec.cz\nCopyright © Všechna práva vyhrazena TRIBOTEC spol. s r.o."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "TRIBOTEC, spol. s r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 15,
+    "all_technologies": [
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Adobe DreamWeaver",
+        "vendor": "Adobe Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WPForms",
+        "vendor": "WPForms LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Adobe Flash",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "TRIBOTEC, spol. s r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Pavel",
+        "last_name": "Rosendorf",
+        "title": "Department Head of Technical",
+        "email": "pavel.rosendorf@tribotec.cz",
+        "phone": "+420 543 425 619",
+        "company": "TriboTec",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Roman",
+        "last_name": "Švábík",
+        "title": "Design Engineer",
+        "email": "roman.svabik@tribotec.cz",
+        "phone": "",
+        "company": "TriboTec",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Michal",
+        "last_name": "Vasicek",
+        "title": "řEditel Společnosti",
+        "email": "mv@tribotec.cz",
+        "phone": "+420 543 425 621",
+        "company": "TriboTec",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 99.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 08:47"
+}

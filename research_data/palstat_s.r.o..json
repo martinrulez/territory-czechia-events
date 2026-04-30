@@ -1,0 +1,262 @@
+{
+  "company_key": "palstat s.r.o.",
+  "company_name": "PALSTAT s.r.o.",
+  "domain": "www.palstat.cz",
+  "domain_url": "https://www.palstat.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "PALSTAT s.r.o.",
+    "opportunity_score": 30,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.53,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.53,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "48171654",
+    "official_name": "PALSTAT s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "72",
+      "00",
+      "62",
+      "46900",
+      "71200",
+      "471",
+      "00",
+      "46900",
+      "471",
+      "620",
+      "71209",
+      "72"
+    ],
+    "ares_segments": [
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Bucharova 230, Hořejší Vrchlabí, 54302 Vrchlabí, Vrchlabí, 54302",
+    "is_client": true,
+    "current_products": "Advance Steel | AutoCAD LT",
+    "total_seats": "3",
+    "current_acv_eur": "3800.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2027-12-02",
+    "days_to_renewal": "588",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "GRAITEC s.r.o",
+    "maturity_label": "Foundation",
+    "industry_segment": "Construction Services",
+    "zi_done": true,
+    "employee_count": 16,
+    "revenue": 4192,
+    "zi_company_name": "Palstat",
+    "zi_domain": "www.palstat.cz",
+    "zi_city": "Vrchlabí",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.palstat.cz",
+    "homepage": {
+      "title": "Kvalita a Jakost, PalstatCAQ",
+      "description": "✅ Systém řízení kvality ✅, management kvality PALSTAT CAQ norem IATF, VDA",
+      "text_excerpt": "Kvalita a Jakost, PalstatCAQ\nJakost a kvalita, čeština\nQuality management, English\nPalstat\nCAQ\nsystém řízení kvality\nŘÍZENÍ KVALITY\nDLE POŽADAVKŮ NOREM PRO JAKOST\nISO9001, IATF 16949, VDA, AIAG, AQAP2110, ISO/IWA 1\nZajistíme snadné plnění požadavků zákazníků a norem v oblasti řízení kvality.\nPROPOJENÍ ERP\nSYNCHRONIZACE DAT\nPropojení do řady běžně používaných ERP systémů pro snadnou synchronizaci klíčových dat.\nDatabáze dílů, kontaktů, pracovníků, zakázek, atd.\nMONITOROVÁNÍ\nSBĚR A VYHODNOCENÍ DAT\nSběr naměřených dat z měřidel a měřicích strojů, jejich vyhodnocení krátkodobé i dlouhodobé způsobilosti.\nSPC, Vstupní a výstupní kontrola, Mezioperační kontrola, Statistické přejímky.\nREPORTING\nDESKTOP - WEB - EMAIL\nMožnost úpravy výstupů a tvorby vlastních reportů dostupných na různých koncových zařízeních.\nVyužijte podrobných možností notifikací na nastavitelné události.\nSCHÉMA SYSTÉMU\nZJISTĚTE JAKÉ MÁTE MOŽNOSTI\nUcelený přehled celého balíku pro jakost a kvalitu PALSTAT CAQ.\nS rozšířením CAQserver získáte možnost přistupovat k datům pomocí API.\nKALIBRACE MĚŘIDEL\nZJEDNODUŠENÍ A DIGITALIZACE PROCESU\nPalstatCAQ umožňuje efektivní propojení Vaší evidence měřidel s externí kalibrační laboratoří.\nZjednodušení procesu externí kalibrace od přípravy k odeslání až po zanesení informací o kalibraci.\nNOVINKY\nMOŽNÁ ŘEŠENÍ A NASAZENÍ\nNOVÁ VERZE 2026.01.000\nNovinkou této verze je přesun většiny konfiguračních nastavení do modulu Správa systému. Poprvé je také možné využít funkce překladů textů založené na AI a nechybí řada dalších vylepšení a oprav.\nNová verze 2025.02.000\nNová verze umožňuje uživatelům snadno editovat emailové adresy reportů a notifikací. Novinkami jsou také rozdělení nářadí podle výdejen, zadávání geometrických tolerancí i lícovací soustavy do SPC v textové podobě a řada dalších změn..\nNová verze 2025.01.000\nAktualizace obsahuje možnost připojení sestav z modulu Reporting přímo do tiskových sestav některých modulů. Novinkou jsou i širší možnosti notifikací a další vylepšení. Tato verze vyžaduje SQL server 2012 nebo vyšší..\ndalší novinky ››\nŠKOLENÍ\nZÚČASTNĚTE SE PRAVIDELNÝCH ŠKOLENÍ\nNová školení pro Vás připravujeme.\nRegistrovaní zákazníci budou informování emailem ihned při otevření nového školení.\nočekávejte:\nMetrologie\nTiskové sestavy\nProcesy a dokumentace\nMSA - Analýza měřicích systémů\nukázat školení ››\nZÁKAZNICKÝ PORTÁL\nVZDÁLENÁ POMOC\nAKTUALIZACE - 2026.01.001\nSYSTÉM ŘÍZENÍ KVALITY\nIMPLEMENTACE NOREM ČSN EN ISO9001, IATF 16949, VDA\nPalstat CAQ umožňuje vybudovat efektivní\nsystém řízení kvality\nve společnostech všech velikostí a zaměření. Modulární design zajišťuje snadné naplnění vybraných požadavků zákazníků i norem v oblasti\nřízení kvality\nmetrologie\núdržby\na dalších.\nSystém je určen pro implementaci norem ČSN EN\nISO 9001\n, požadavků automobilového průmyslu\nIATF 16949\nharmonizováno s\nVDA\n, potravinářství\nHACCP\n, zdravotnictví ISO/IWA 1, vojenského průmyslu\nAQAP 2110\nEMS ISO 14001\nSpolečnost PALSTAT s.r.o. působí v oblasti řízení kvality již o"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "PALSTAT s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 17,
+    "all_technologies": [
+      {
+        "product": "Silktide",
+        "vendor": "Silktide Ltd",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Nium",
+        "vendor": "Nium Pte. Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Apple (common)",
+        "vendor": "Apple Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Play Badges",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "PALSTAT s.r.o.",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Marek",
+        "last_name": "Mergl",
+        "title": "Founder",
+        "email": "marekm@palstat.cz",
+        "phone": "+420 499 422 044",
+        "company": "Palstat",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 93.0
+      },
+      {
+        "first_name": "Tom",
+        "last_name": "Han",
+        "title": "Lead Software Developer",
+        "email": "tomh@palstat.cz",
+        "phone": "",
+        "company": "Palstat",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 82.0
+      },
+      {
+        "first_name": "Lukas",
+        "last_name": "Havlas",
+        "title": "Technik Software, Hardware",
+        "email": "lukash@palstat.cz",
+        "phone": "",
+        "company": "Palstat",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Jaromír",
+        "last_name": "Divecký",
+        "title": "Technický Konzultant",
+        "email": "jaromird@palstat.cz",
+        "phone": "",
+        "company": "Palstat",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 12:51"
+}

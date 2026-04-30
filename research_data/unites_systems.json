@@ -1,0 +1,307 @@
+{
+  "company_key": "unites systems",
+  "company_name": "UNITES SYSTEMS",
+  "domain": "www.unites-systems.com",
+  "domain_url": "https://www.unites-systems.com",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "UNITES SYSTEMS",
+    "opportunity_score": 29,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.47,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.47,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "25863665",
+    "official_name": "UNITES Systems a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "471",
+      "47",
+      "4779",
+      "72100",
+      "74",
+      "772",
+      "46900",
+      "71200",
+      "461",
+      "95100",
+      "27900",
+      "62",
+      "27900",
+      "461",
+      "46900",
+      "47",
+      "471",
+      "47790",
+      "620",
+      "71209",
+      "7219",
+      "74",
+      "772",
+      "95110"
+    ],
+    "ares_segments": [
+      "AEC",
+      "D&M",
+      "M&E"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Kpt. Macha 1372, 75701 Valašské Meziříčí, Valašské Meziříčí, Kpt. Macha, 75701",
+    "is_client": true,
+    "current_products": "AEC Collection | AutoCAD | PDMC | Vault",
+    "total_seats": "38",
+    "current_acv_eur": "95600.0",
+    "potential_acv_eur": "95000.0",
+    "nearest_renewal": "2026-10-01",
+    "days_to_renewal": "161",
+    "top_upsell": "Forma",
+    "top_upsell_reason": "Early-stage design and sustainability for AEC Collection users",
+    "all_upsells": "Forma; BIM Collaborate Pro; ACC Build",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Construction Services",
+    "ml_domain": "www.unis.cz",
+    "zi_done": true,
+    "employee_count": 94,
+    "revenue": 5945,
+    "zi_company_name": "UNITES Systems",
+    "zi_domain": "www.unites-systems.com",
+    "zi_city": "Valašské Meziříčí",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "revenue_growth": 0.0,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.unites-systems.com",
+    "homepage": {
+      "title": "InovativnÃ­ ATE ÅeÅ¡enÃ­, polovodiÄovÃ© testovÃ¡nÃ­ a mÄÅenÃ­ | UNITES Systems a.s.",
+      "description": "VyvÃ­jÃ­me a vyrÃ¡bÃ­me mÄÅÃ­cÃ­ a testovacÃ­ techniku (testery a jejich ÄÃ¡sti - ATE), poskytujeme sluÅ¾by v oblasti mÄÅenÃ­ a testovÃ¡nÃ­ polovodiÄovÃ½ch souÄÃ¡stek.",
+      "text_excerpt": "InovativnÃ­ ATE ÅeÅ¡enÃ­, polovodiÄovÃ© testovÃ¡nÃ­ a mÄÅenÃ­ | UNITES Systems a.s."
+    },
+    "about": {
+      "url": "https://www.unites-systems.com/o-nas",
+      "text": "InovativnÃ­ ATE ÅeÅ¡enÃ­, polovodiÄovÃ© testovÃ¡nÃ­ a mÄÅenÃ­ | UNITES Systems a.s."
+    },
+    "products": {
+      "url": "https://www.unites-systems.com/produkty",
+      "text": "InovativnÃ­ ATE ÅeÅ¡enÃ­, polovodiÄovÃ© testovÃ¡nÃ­ a mÄÅenÃ­ | UNITES Systems a.s."
+    },
+    "contact_page": {
+      "url": "https://www.unites-systems.com/kontakt",
+      "text": "InovativnÃ­ ATE ÅeÅ¡enÃ­, polovodiÄovÃ© testovÃ¡nÃ­ a mÄÅenÃ­ | UNITES Systems a.s."
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "UNITES SYSTEMS",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 17,
+    "all_technologies": [
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Acuity Scheduling",
+        "vendor": "Acuity Scheduling, Inc.",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "WhatsApp",
+        "vendor": "WhatsApp",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "LabVIEW",
+        "vendor": "National Instruments Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "The USERTRUST Network",
+        "vendor": "Comodo Group, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Sectigo",
+        "vendor": "Sectigo Limited",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Smartsupp",
+        "vendor": "Smartsupp.com, s.r.o.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "UNITES SYSTEMS",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Karel",
+        "last_name": "Neřád",
+        "title": "Manager, Sales",
+        "email": "knerad@unites.cz",
+        "phone": "",
+        "company": "UNITES Systems",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Petr",
+        "last_name": "Borovička",
+        "title": "Manager, Department Fct & Ict Testers",
+        "email": "pborovicka@unites.cz",
+        "phone": "",
+        "company": "UNITES Systems",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Jakub",
+        "last_name": "Ježík",
+        "title": "Manager, Research & Development",
+        "email": "jjezik@unites.cz",
+        "phone": "",
+        "company": "UNITES Systems",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Martin",
+        "last_name": "Šíma",
+        "title": "Project Manager",
+        "email": "",
+        "phone": "",
+        "company": "UNITES Systems",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Tomas",
+        "last_name": "Vaculin",
+        "title": "Manager, Quality & Logistic",
+        "email": "tvaculin@unites.cz",
+        "phone": "",
+        "company": "UNITES Systems",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:56",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "vault",
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "company_key": "3d-utu technologies",
+  "company_name": "3D-UTU Technologies",
+  "domain": "www.utu.io",
+  "domain_url": "https://www.utu.io",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "3D-UTU Technologies",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 18,
+    "revenue": 4121,
+    "zi_company_name": "UTU technologies",
+    "zi_domain": "www.utu.io",
+    "zi_city": "Nairobi",
+    "zi_country": "Kenya",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.utu.io",
+    "homepage": {
+      "title": "UTU – The trust network of the internet, designed for real humans,  not brands or bots.",
+      "description": "",
+      "text_excerpt": "UTU – The trust network of the internet, designed for real humans,  not brands or bots.\nThe internet broke\ntrust.\nUTU reclaims it\nfor Humanity.\nUTU is the trust network of the internet, designed for real\nhumans,  not brands or bots.\nOur mission\nis to restore authentic trust online by connecting people with the reviews and recommendations of humans they actually know and trust, and to incentivise everyone with rewards pegged to creating good outcomes for others online.\nUTU Trust App\nBuild Your Trust Network - Connect to Earn!\nConnect your social media accounts to build your trust network and earn UTU Trust Tokens (UTT) for each social you connect— reputation you can put on the line to back your reviews.\nGet Trusted Recommendations about anything you can find online, just in time!\nSee feedback exclusively from real people in your network—no anonymous reviews, no bot manipulation, just authentic insights from people you trust from across your social networks.\nShare Authentic Feedback  Review to Earn!\nLeave honest reviews and endorsements on anything you discover online or IRL, from websites to wallet addresses to places, phone numbers, bank accounts, emails and more. You own your content and earn from it when it helps others.  Only your networks will see your reviews and content.\nTry the UTU App.\nUTU Trust Browser Extension\nBrowse with Confidence​\nBring UTU with you to stay safe and review to earn, as you browse the web\nConnect\nConnect to d-apps without fear, with the collective wisdom of your social network to protect you.\nYou Social Safety Network​​\nUTU works exclusively on social relationships so you’ll never see random signals from bots, BS, and scammers.\nGet the UTU Trust Browser Extension\nThe UTU Trust Snap (MetaMask Plugin)\nUnparalleled protection for your MetaMask Wallet!\nNo more test transactions. No more burner wallets to connect to web 3 games and apps. Just your collective social network’s wisdom and experience, providing insights as you go.\nConnect, Send, Sign, and Swap without fear!\nGet unfiltered signal from only people you trust at just the right place and time when you need it most.\nEarn UTT and $UTU when your endorsements help your network!\nGet paid to help your loved ones navigate the web. This is the core value proposition of UTU Trust.\nEarn reputation and UTU Coin when your reviews help your people find things they love online. No bots, No randoms, No BS. Just unfiltered signals and a Trust Model built around humans, not brands.\nGet the UTU Trust Snap for MetaMask\n“In a networked world, trust is the most important currency.”\n-Eric Schmidt, Executive Chairman, Google\nWhat types of things can I review with UTU?\nMpesa Paybill and Till Numbers:\nMobile Money\nOn-Chain Addresses:\nYes, Wallets, Tokens, dapps, etc.\nPlaces, Phone's, & Emails:\nYes, yes, and Yes.\nWebsites and Pages:\nYes, any page on the web.\nHow UTU pays you for building trust online.\nUTU Trust Token (UTT)\nUTT is your reputation on the internet. It’s a non-transferable toke"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "3D-UTU Technologies",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 29,
+    "all_technologies": [
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Docs",
+        "vendor": "Google LLC",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "HubSpot Marketing Free",
+        "vendor": "HubSpot, Inc",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Intercom",
+        "vendor": "Intercom, Inc.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Dynamics 365 Business Central",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "HubSpot Form Builder",
+        "vendor": "HubSpot, Inc",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "HubSpot",
+        "vendor": "HubSpot, Inc",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "3D-UTU Technologies",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Leah",
+        "last_name": "Njuguna",
+        "title": "Senior Machine Learning Engineer",
+        "email": "",
+        "phone": "",
+        "company": "UTU technologies",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 84.0
+      },
+      {
+        "first_name": "Sharon",
+        "last_name": "Jebitok",
+        "title": "Web3 Software Engineer",
+        "email": "",
+        "phone": "",
+        "company": "UTU technologies",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Debrah",
+        "last_name": "Neema",
+        "title": "Chief of Staff",
+        "email": "",
+        "phone": "",
+        "company": "UTU technologies",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Ali",
+        "last_name": "Mwalau",
+        "title": "Project Coordinator",
+        "email": "",
+        "phone": "",
+        "company": "UTU technologies",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 18:58"
+}

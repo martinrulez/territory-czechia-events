@@ -1,0 +1,379 @@
+{
+  "company_key": "manutan_s_r_o",
+  "company_name": "Manutan, s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "Manutan, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 75,
+    "all_technologies": [
+      {
+        "product": "Amazon CloudFront",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Jira",
+        "vendor": "Atlassian",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Rapleaf",
+        "vendor": "Rapleaf",
+        "category": "Marketing Data Providers",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "MediaWallah",
+        "vendor": "MediaWallah, LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "CMerTV",
+        "vendor": "CMerTV, Inc.",
+        "category": "Video Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Dojo",
+        "vendor": "The JS Foundation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Oracle Marketing Cloud",
+        "vendor": "Oracle Corporation",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "RhythmOne",
+        "vendor": "RhythmOne",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Daily",
+        "vendor": "Daily.co.uk",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "BidSwitch",
+        "vendor": "IPONWEB GmbH",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "ContentSquare",
+        "vendor": "ContentSquare, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Java",
+        "vendor": "Oracle Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Looker",
+        "vendor": "Looker Data Sciences, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Power BI",
+        "vendor": "Microsoft Corporation",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "IBM Websphere Commerce",
+        "vendor": "IBM",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Improve Digital",
+        "vendor": "Improve Digital",
+        "category": "Video Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "TripleLift",
+        "vendor": "TripleLift Inc",
+        "category": "Native Advertising",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PubMatic",
+        "vendor": "PubMatic, Inc.",
+        "category": "Supply Side Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Criteo Publishers",
+        "vendor": "Criteo SA",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "IBM Websphere",
+        "vendor": "IBM",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Oath Native & Search",
+        "vendor": "Oath Inc.",
+        "category": "Native Advertising",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "AB Tasty",
+        "vendor": "AB TASTY PTE. LTD",
+        "category": "A/B Testing",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LiveRamp",
+        "vendor": "Acxiom LLC",
+        "category": "Data Management Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Trustpilot",
+        "vendor": "Trustpilot, Inc",
+        "category": "Online Review Management",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "AppDynamics End User Monitoring",
+        "vendor": "Cisco Systems, Inc",
+        "category": "Real User Monitoring",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SOASTA mPulse",
+        "vendor": "Akamai Technologies, Inc.",
+        "category": "Real User Monitoring",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Rocket Fuel",
+        "vendor": "Sizmek, Inc.",
+        "category": "Data Management Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Turn",
+        "vendor": "Amobee, Inc",
+        "category": "Data Management Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Yandex.Direct",
+        "vendor": "Yandex LLC",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PIERRE - OLIVIER BRIAL",
+        "firstName": "PIERRE - OLIVIER",
+        "lastName": "BRIAL",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "XAVIER, EMMANUEL GUICHARD",
+        "firstName": "XAVIER, EMMANUEL",
+        "lastName": "GUICHARD",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "KATARZYNA JOANNA RACZKA",
+        "firstName": "KATARZYNA JOANNA",
+        "lastName": "RACZKA",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "AGNIESZKA FILLINGEROVÁ",
+        "firstName": "AGNIESZKA",
+        "lastName": "FILLINGEROVÁ",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:18:45",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.manutan.cz",
+    "homepage": {
+      "title": "Manutan.cz",
+      "description": "Manutan vám nabízí vybavení pro vaši firmu, sklady, dílnu a průmyslové prostory",
+      "text_excerpt": "Manutan.cz\nČasový limit vaší relace brzy vyprší v důsledku neaktivity. Kliknutím na tlačítko OK prodloužíte časový limit o dalších 480 minut.\n4/5 recenze zákazníků\nDo 24 hodin odpověď na poptávku\nDoprava zdarma nad 1500 Kč\nVrácení zboží do 30 dní\nHledat\nNavrhovaný obsah stránky a nabídka historie vyhledávání\nMůj účet\nPřihlášení/Nový\nPřidali jste % položek(ky) do košíku:\nPřidali jste do košíku položku:\nPřejít do košíku\nPokračovat v nákupu\n[ { \"identifierGMC1\" : \"GMC01700\", \"nameGMC1\" : \"Bezpečnost a zdraví\", \"categoryGMC2\" : [ {\"nameGMC2\" : \"Alarmy, kamery a interkomy\"}, {\"nameGMC2\" : \"Bariéry a ochranné sloupky\"}, {\"nameGMC2\" : \"Bezpečnostní značení\"}, {\"nameGMC2\" : \"Chrániče a ochranné profily\"}, {\"nameGMC2\" : \"Docházkové systémy\"}, {\"nameGMC2\" : \"Dopravní a pozorovací zrcadla\"}, {\"nameGMC2\" : \"Osobní ochranné prostředky (OOPP)\"}, {\"nameGMC2\" : \"Pohotovost a první pomoc\"}, {\"nameGMC2\" : \"Požární ochrana\"}, {\"nameGMC2\" : \"Přístupnost\"}, {\"nameGMC2\" : \"Rehabilitace a opětovné začlenění\"}, {\"nameGMC2\" : \"Skladování nebezpečných látek a odpadů\"}, {\"nameGMC2\" : \"Sorbenty a mycí stoly\"}, {\"nameGMC2\" : \"Trezory, skříňky a schránky na klíče\"}, {\"nameGMC2\" : \"Záchytné vany a skladování kapalin\"}, {\"nameGMC2\" : \"Zámky a kování\"}, {\"nameGMC2\" : \"Zdravotní a bezpečnostní regály\"}, {\"nameGMC2\" : \"Zdravotnické vybavení a nábytek\"} ] }, { \"identifierGMC1\" : \"GMC01704\", \"nameGMC1\" : \"Hygiena, úklid a koše\", \"categoryGMC2\" : [ {\"nameGMC2\" : \"Čištění a údržba\"}, {\"nameGMC2\" : \"Čisticí prostředky\"}, {\"nameGMC2\" : \"Leštičky bot\"}, {\"nameGMC2\" : \"Mýdlo a osobní hygiena\"}, {\"nameGMC2\" : \"Odpadkové koše a popelnice\"}, {\"nameGMC2\" : \"Papírové ručníky a zásobníky\"}, {\"nameGMC2\" : \"Průmyslové utěrky a zásobníky\"}, {\"nameGMC2\" : \"Sanitární zařízení, sprcha a koupelna\"}, {\"nameGMC2\" : \"Toaletní papír a kapesníky\"}, {\"nameGMC2\" : \"Úklidová technika\"}, {\"nameGMC2\" : \"Úklidové vozíky\"}, {\"nameGMC2\" : \"Vozíky na prádlo a prádelní skříně\"}, {\"nameGMC2\" : \"Zařízení a přípravky proti hmyzu\"} ] }, { \"identifierGMC1\" : \"GMC01701\", \"nameGMC1\" : \"Kancelář\", \"categoryGMC2\" : [ {\"nameGMC2\" : \"Akustické paravány a nábytek\"}, {\"nameGMC2\" : \"Archivace\"}, {\"nameGMC2\" : \"Audiovizuální technika\"}, {\"nameGMC2\" : \"Flipcharty a tabule\"}, {\"nameGMC2\" : \"Hodiny a dekorace\"}, {\"nameGMC2\" : \"Informační tabulky a jmenovky\"}, {\"nameGMC2\" : \"Kancelářské podnožky\"}, {\"nameGMC2\" : \"Kancelářské potřeby a doplňky\"}, {\"nameGMC2\" : \"Kancelářské regály\"}, {\"nameGMC2\" : \"Kancelářské skříně, zásuvkové boxy a stojany\"}, {\"nameGMC2\" : \"Kancelářské stroje a vybavení\"}, {\"nameGMC2\" : \"Klimatizace, vytápění a čističky vzduchu\"}, {\"nameGMC2\" : \"Nástěnky a vývěsky\"}, {\"nameGMC2\" : \"Osvětlení\"}, {\"nameGMC2\" : \"Pokladny, počítačky a čtečky čárových kódů\"}, {\"nameGMC2\" : \"Prezentační stojany a držáky\"}, {\"nameGMC2\" : \"Řečnické pulty\"}, {\"nameGMC2\" : \"Rošty a rohože pro kanceláře a veřejné prostory\"}, {\"nameGMC2\" : \"Sedací nábytek\"}, {\"nameGMC2\" : \"Telefony a náhlavní soupravy\"}, {\"nameGMC2\" : \"Věšáky a stojany\"}, {\"name"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

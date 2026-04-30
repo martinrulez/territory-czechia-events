@@ -1,0 +1,41 @@
+{
+  "company_key": "sielaff_bohemia_s_r_o",
+  "company_name": "SIELAFF Bohemia s. r. o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "KAREL ZACHARDA",
+        "firstName": "KAREL",
+        "lastName": "ZACHARDA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MICHAL PAVÍZA",
+        "firstName": "MICHAL",
+        "lastName": "PAVÍZA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:04"
+}

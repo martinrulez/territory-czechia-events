@@ -1,0 +1,297 @@
+{
+  "company_key": "ulma architectural solutions",
+  "company_name": "ULMA ARCHITECTURAL SOLUTIONS",
+  "domain": "www.ulmaarchitectural.com",
+  "domain_url": "https://www.ulmaarchitectural.com",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ULMA ARCHITECTURAL SOLUTIONS",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Revit LT",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "7200.0",
+    "nearest_renewal": "2026-09-02",
+    "days_to_renewal": "132",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Complete AEC workflow with AutoCAD, Civil 3D, Navisworks",
+    "all_upsells": "AEC Collection; Revit (full); Forma",
+    "maturity_label": "Entry",
+    "industry_segment": "Architecture Services",
+    "zi_done": true,
+    "employee_count": 143,
+    "revenue": 28573,
+    "zi_company_name": "ULMA Architectural Solutions",
+    "zi_domain": "www.ulmaarchitectural.com",
+    "zi_city": "Onate",
+    "zi_country": "Spain",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ulmaarchitectural.com",
+    "homepage": {
+      "title": "ULMA Architectural | Prefabricados en Hormigón Polímero",
+      "description": "Expertos en prefabricados en hormigón polímero para tus proyectos. Canales de Drenaje, Fachadas Ventiladas, Vierteaguas y Albardillas. ¡Contáctanos!",
+      "text_excerpt": "ULMA Architectural | Prefabricados en Hormigón Polímero\nCanales de drenaje\nTe ayudamos a elegir la mejor solución de drenaje optimizada en coste.\nArquitectura\nTe ayudamos con las mejores soluciones de prescripción para arquitectura\nFachadas ventiladas\nTe ayudamos a crear fachadas diferentes y únicas para llevar tus proyectos a otro nivel.\nCerramientos\nCerramientos de fachada en seco para crear obras más rentables y sostenibles.\nMobiliario Urbano\nMobiliario Urbano de gran durabilidad y un diseño exclusivo.\nPrefabricados\nPrefabricados personalizados para cada proyecto, además de la gama de vierteaguas, albardillas o dinteles estándar.\nCatálogos\nDossier Técnico Drenaje\nDescargar\nLookbook Fachadas\nDescargar\nDossier Prefabricados\nDescargar\nCatálogo Mobiliario Urbano\nDescargar\nNoticias\nSeguimos nuestro camino hacia soluciones de drenaje más sostenibles\nMejoramos nuestros servicios con el apoyo del programa HAZITEK\nProyecto DRAINFIL, desarrollo de sistemas de drenaje sostenible\nMás noticias\nPrefabricados para edificación y obra civil\nEn ULMA Architectural Solutions diseñamos y fabricamos prefabricados para edificación y obra civil.\nCreamos prefabricados innovadores, de alta durabilidad y sostenibles, para que puedas implementar en tu proyecto soluciones competitivas y adaptadas a las exigencias del mercado.\nDesarrollamos soluciones para el Drenaje, Fachadas Ventiladas, Cerramiento en Seco, Prefabricados estándar y personalizados, y Mobiliario Urbano."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "ULMA ARCHITECTURAL SOLUTIONS",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 29,
+    "all_technologies": [
+      {
+        "product": "Acuity Scheduling",
+        "vendor": "Acuity Scheduling, Inc.",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Plone CMS",
+        "vendor": "PLONE FOUNDATION",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Python",
+        "vendor": "Python Software Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Dynamics 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "reCAPTCHA v2.0",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Varnish",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigitalOcean",
+        "vendor": "DigitalOcean Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Ads",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google AdSense",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Varnish 6.0",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ULMA ARCHITECTURAL SOLUTIONS",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Joseba",
+        "last_name": "Agirregomezkorta",
+        "title": "Director De Innovación Y Sistemas De Gestión",
+        "email": "",
+        "phone": "",
+        "company": "ULMA Architectural Solutions",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 86.0
+      },
+      {
+        "first_name": "Mikel",
+        "last_name": "Izurieta",
+        "title": "Director Gerente",
+        "email": "",
+        "phone": "",
+        "company": "ULMA Architectural Solutions",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 81.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 08:54",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks",
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

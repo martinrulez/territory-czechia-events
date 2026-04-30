@@ -1,0 +1,109 @@
+{
+  "company_key": "pilana_wood_s_r_o",
+  "company_name": "Pilana Wood s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "PILANA Wood s.r.o.",
+    "autodesk_products": [
+      "reCAPTCHA"
+    ],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 8,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Jan Rytir",
+        "firstName": "Jan",
+        "lastName": "Rytir",
+        "jobTitle": "Manager, Purchasing",
+        "email": "rytir@pilanawood.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Radim Plaek",
+        "firstName": "Radim",
+        "lastName": "Plaek",
+        "jobTitle": "Product Manager",
+        "email": "radim.placek@pilana.cz",
+        "phone": "+420 573 328 236",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:05:46",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.pilanawood.cz",
+    "homepage": {
+      "title": "Pilana Wood",
+      "description": "Zajišťujeme výrobu pilových kotoučů s diamantovými řeznými břity, na cirkulárku či kotouče s břity ze slinutého karbidu na řezání dřeva a kovů. Nabízíme výrobky pro řezání materiálu jako jsou heraklit, pórobeton, desky z minerálních vláken, ocel, hliník i měď. Provádíme také servis.",
+      "text_excerpt": "Pilana Wood\nSK pilové kotouče\nPKD nástroje\nPilové pásy\nServis SK a PKD\nkotoučů\nCo je SK pilový kotouč?\nServis SK a PKD nástrojů\nPoradenství a technická podpora\nVážení zákazníci,\nOznamujeme Vám,že s platností od 1. 2. 2021 budeme akceptovat objednávky na svařování pilových pásů dle následujících podmínek:\nTruhlářské PP\nMinimální odběr 3ks svárů a pouze provedení ROK\nKmenové PP (Wood-Mizer)\nMinimální odběr 2ks svárů ,všechna provedení\nNový katalog pro rok 2023.\nVšechny reference"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

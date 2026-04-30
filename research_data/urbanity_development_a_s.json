@@ -1,0 +1,31 @@
+{
+  "company_key": "urbanity_development_a_s",
+  "company_name": "Urbanity Development a.s.",
+  "domain": "",
+  "events": "Czech Green Building Council Members",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ROLAND HOFMAN",
+        "firstName": "ROLAND",
+        "lastName": "HOFMAN",
+        "jobTitle": "člen správní rady",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:25"
+}

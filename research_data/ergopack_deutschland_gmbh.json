@@ -1,0 +1,185 @@
+{
+  "company_key": "ergopack deutschland gmbh",
+  "company_name": "ErgoPack Deutschland GmbH",
+  "domain": "www.ergopack.de",
+  "domain_url": "https://www.ergopack.de",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ErgoPack Deutschland GmbH",
+    "opportunity_score": 19,
+    "estimated_deal_eur": 8000,
+    "primary_segment": "unknown",
+    "size_tier": "mid",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.4,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.5,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 85,
+    "revenue": 17422,
+    "zi_company_name": "ErgoPack",
+    "zi_domain": "www.ergopack.de",
+    "zi_city": "Vantaa",
+    "zi_country": "Finland",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ergopack.de",
+    "homepage": {
+      "title": "Home - ErgoPack",
+      "description": "Healthy pallet strapping Secure load units ergonomic, easy and efficient On-site appointment Play Avoided bend overs by ErgoPack Times strapped the globe Healthy and happy users The Solution Strapping pallets spine-friendly and quick Healthy back through less bend overs. This is our attempt for almost 25 years. Avoid …",
+      "text_excerpt": "Home - ErgoPack\nHealthy\npallet strapping\nSecure load units ergonomic, easy and efficient\nOn-site appointment\nPlay\nAvoided bend overs by ErgoPack\nTimes strapped the globe\nHealthy and happy users\nThe Solution\nStrapping pallets\nspine-friendly\nand\nquick\nHealthy back through less bend overs.\nThis is our attempt for almost 25 years. Avoid painful and harmful bend overs when strapping pallets and additionally save valuable time. With ErgoPack this is possible. We can show you how!\nmore\nAccessories\nErgoPack 3D Tour\nThe ergonomic and mobile pallet strapping system by ErgoPack. Made in Germany – Home in the world!\nStart Tour\nFree\nSchedule your on-site appointment now\nYou want to see the ErgoPack live? An ErgoPack expert can demonstrate you the system and its benefits at your site with your pallets. Free of charge and without obligation. Just send an inquiry form and schedule an appointment.\nFree of charge\nOn-site appointment\nCustomers\nService and downloads\nOur satisfied customers say\nOperations Manager\nUsers\nMetal and Electronics\nOperations Manager\nUsers\nMetal and Electronics\nFair\n21.04.2026–24.04.2026\nIntertool\nWels\nmore\nFair\n07.05.2026–13.05.2026\nInterpack\nDüsseldorf\nmore\nFair\n10.06.2026–13.06.2026\nProPak Asia\nBangkok\nmore\nShop"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.ergopack.de/kontakt",
+      "text": "Kontakt - ErgoPack\nSenden Sie jetzt\neine unverbindliche Anfrage\nInteressiert?\nJa, ich will mehr wissen\nServiceanfrage: Ersatzteile, Reparatur und Wartung\nMehr\nHändler international: Direktkontakt zu den Standorten\nMehr\nOnlinebewerbung: Jetzt online bei ErgoPack bewerben\nMehr\nZum Shop"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "ErgoPack Deutschland GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 16,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Dynamics 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Adobe Typekit",
+        "vendor": "Adobe Inc.",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ErgoPack Deutschland GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Tymur",
+        "last_name": "Maistrenko",
+        "title": "Departnemt Head of Analytics",
+        "email": "",
+        "phone": "",
+        "company": "ErgoPack",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 87.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 12:38"
+}

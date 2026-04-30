@@ -1,0 +1,270 @@
+{
+  "company_key": "di industrial spol. s r.o.",
+  "company_name": "DI industrial spol. s r.o.",
+  "domain": "www.diindustrial.com",
+  "domain_url": "https://www.diindustrial.com",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "DI industrial spol. s r.o.",
+    "opportunity_score": 36,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.8,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.8,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "60710268",
+    "official_name": "DI industrial spol. s r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "952",
+      "25530",
+      "27110",
+      "47120",
+      "25400",
+      "25510",
+      "282",
+      "25500",
+      "25610",
+      "25620",
+      "27110",
+      "282",
+      "47190",
+      "952"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Purkyňova 3050/99a, Královo Pole, 61200 Brno, Brno, Purkyňova, 61200",
+    "is_client": true,
+    "current_products": "Fusion",
+    "total_seats": "1",
+    "current_acv_eur": "600.0",
+    "potential_acv_eur": "8200.0",
+    "nearest_renewal": "2027-04-21",
+    "days_to_renewal": "363",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Fusion Sim Ext",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Construction Services",
+    "ml_domain": "www.aquaindustrial.cz",
+    "zi_done": true,
+    "employee_count": 75,
+    "revenue": 12037,
+    "zi_company_name": "DI Industrial",
+    "zi_domain": "www.diindustrial.com",
+    "zi_city": "Brno",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.diindustrial.com",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "DI industrial spol. s r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 17,
+    "all_technologies": [
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "C",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Joomla",
+        "vendor": "Joomla!",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "DI industrial spol. s r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Veronika",
+        "last_name": "Kubešová",
+        "title": "Manager, Integrated Management System (Ims)",
+        "email": "veronika.kubesova@diindustrial.com",
+        "phone": "",
+        "company": "DI Industrial",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Petr",
+        "last_name": "Pokoj",
+        "title": "Manager, Purchasing",
+        "email": "petr.pokoj@diindustrial.com",
+        "phone": "+420 541 162 891",
+        "company": "DI Industrial",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Zaneta",
+        "last_name": "Koukalova",
+        "title": "Personalistka",
+        "email": "",
+        "phone": "",
+        "company": "DI Industrial",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Martin",
+        "last_name": "Vorel",
+        "title": "Technolog Strojní Výroby",
+        "email": "martin.vorel@diindustrial.com",
+        "phone": "",
+        "company": "DI Industrial",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 94.0
+      },
+      {
+        "first_name": "Miroslav",
+        "last_name": "Chaloupka",
+        "title": "",
+        "email": "miroslav.chaloupka@diindustrial.com",
+        "phone": "",
+        "company": "DI Industrial",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:15"
+}

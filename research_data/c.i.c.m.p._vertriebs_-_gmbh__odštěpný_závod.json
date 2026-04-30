@@ -1,0 +1,183 @@
+{
+  "company_key": "c.i.c.m.p. vertriebs - gmbh, odštěpný závod",
+  "company_name": "C.I.C.M.P. Vertriebs - GmbH, odštěpný závod",
+  "domain": "www.cicmp.at",
+  "domain_url": "https://www.cicmp.at",
+  "events": "MSV 2025 Exhibitor Catalog,MSV 2025 Full Exhibitor List",
+  "event_count": 2,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "C.I.C.M.P. Vertriebs - GmbH, odštěpný závod",
+    "opportunity_score": 23,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.47,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.47,
+      "event_relevance": 0.5,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "22281339",
+    "official_name": "C.I.C.M.P. Vertriebs - GmbH, odštěpný závod",
+    "legal_form": "421",
+    "nace_codes": [
+      "G",
+      "81230",
+      "28",
+      "32",
+      "32",
+      "81290",
+      "28",
+      "G"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Brněnská 668, 66442 Modřice, Modřice, Brněnská, 66442",
+    "zi_done": true,
+    "employee_count": 17,
+    "revenue": 2335,
+    "zi_company_name": "Cicmp",
+    "zi_domain": "www.cicmp.at",
+    "zi_city": "Kirchberg",
+    "zi_country": "Austria",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.cicmp.at",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.cicmp.at/kontakt",
+      "text": "Kontakt | CICMP\nLogin\nFehler beim Login!\nMerken?\nPasswort vergessen\nSuche\nKontakt\nSie haben weitere Fragen? Hier bekommen Sie Hilfe:\nTelefon:\n+43 (0) 7221 63430\nE-mail:\noffice@cicmp.at\nSchauen Sie auch gerne in unsere\nFAQs\nCICMP Vertriebs-GmbH\nPaschinger Straße 110\n(Navi: Aistenthal 40, 4061 Pasching)\nA-4062 Kirchberg-Thening\nÖffnungszeiten\nMo-Do 07:00 - 16:00 Uhr\nFr         07:00 - 11:30 Uhr\nSprachen\nDeutsch\nEnglisch\nTschechisch\nPasswort vergessen\nFirmenname\nund\nBenutzername\noder\nEmail\nPasswort senden\nHier ist ein Fehler passiert!\nPasswort vergessen\nDie Email wurde versandt!\nPopup schließen\n3D-Ansicht\nPasswort vergessen\nMerken?\nLogin\nFehler beim Login!"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "C.I.C.M.P. Vertriebs - GmbH, odštěpný závod",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 13,
+    "all_technologies": [
+      {
+        "product": "Umbraco CMS",
+        "vendor": "Umbraco A/S",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WPForms",
+        "vendor": "WPForms LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bullhorn",
+        "vendor": "Bullhorn, Inc",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "C.I.C.M.P. Vertriebs - GmbH, odštěpný závod",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Martin",
+        "last_name": "Aichinger",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Cicmp",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 15:20"
+}

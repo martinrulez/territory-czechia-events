@@ -1,0 +1,80 @@
+{
+  "company_key": "bambulab gmbh",
+  "company_name": "Bambulab GmbH",
+  "domain": "www.print3dkw.com",
+  "domain_url": "https://www.print3dkw.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Bambulab GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 17,
+    "revenue": 4250,
+    "zi_company_name": "BambuLab",
+    "zi_domain": "www.print3dkw.com",
+    "zi_city": "Shuwaikh",
+    "zi_country": "Kuwait",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.print3dkw.com",
+    "homepage": {
+      "title": "BambuLab 3D Printers at Cheap Prices",
+      "description": "Shop for Top-Quality 3D Printers, Filaments & Tools TODAY!Kuwait 3D Printing Store | 3D Printer Repair Shop | Filament Manufacturer | raspberry in Kuwait",
+      "text_excerpt": "BambuLab 3D Printers at Cheap Prices\nSkip to content\nAuthorised Distributor of Kexcelled Filaments\nYour Trusted 3D Printing Service in Kuwait\nWe Print Your Ideas to Life\nThe Best 3D Printing Service in Kuwait for\nYour Ready to 3D Print Files or if you need\nSupport from Our Expert 3D Designer.\nAs one of the top 3D Printer distributors in Kuwait,\nwe offer a wide range of 3D filaments and Accessories from\nBambu Lab, Anycubic, Elegoo, Sunlu, Creality & more.\nShop by Brand\nOur Best Sellers\nLotmaxx Shark V3\nBest Seller Under 100 KWD!!\nSUNLU Filament Splicer\nBambu Lab A1 Combo\nBest Seller!\nBambu Lab P1S Combo\nGot a 3D Design  you want to print?\nNeed help creating your 3D Design?\nWhether you have your own 3D files or need\nCustom designs created from scratch\nPrint3dkw offers high-quality 3D printing\nservices tailored to your needs.\nWhatsapp Us\nTalk to our designer\nTestimonials\nWhat our customers say...\nÂ© Copyright PRINT3DKW - All Rights Reserved\nShopping Cart\nScroll to Top"
+    },
+    "about": {
+      "url": "https://www.print3dkw.com/about",
+      "text": "About us - Print3dkw\nSkip to content\nWelcome to PRINT3DKW - Pioneering Innovation in 3D Printing\nAt PRINT3DKW, we believe in the transformative power of 3D printing to revolutionize creativity, prototyping, and manufacturing. Founded with a passion for pushing the boundaries of technology, we have emerged as a leading destination for high-quality 3D printers and filaments.\nOur Mission:\nEmpowering Imagination, Creating Possibilities\nOur mission is simple yet profound – to empower individuals, businesses, and innovators to unleash their imagination and turn ideas into reality. We strive to be at the forefront of the 3D printing revolution, providing cutting-edge solutions that redefine the way we design, prototype, and manufacture.\nWho We Are:\nInnovation Fueled by Expertise\nFounded by a team of dedicated professionals with a deep understanding of 3D printing technology, PRINT3DKW is more than just a marketplace. We are a community of makers, creators, and visionaries who are passionate about pushing the boundaries of what’s possible.\nWhat Sets Us Apart:\nQuality, Precision, and Unmatched Support\nAt PRINT3DKW, we take pride in curating a selection of 3D printers and filaments that meet the highest standards of quality and precision. We understand that every project is unique, and our commitment to excellence is reflected in the reliability and performance of our products.\nOur Promise:\nYour Success, Our Priority\nYour success is our priority. Whether you’re a seasoned professional or a hobbyist exploring the world of 3D printing, we are dedicated to providing you with the tools, resources, and support you need to succeed. From choosing the right filament to troubleshooting technical issues, we’re here for you every step of the way.\nJoin Our Community:\nInspiration, Collaboration, and Innovation\nAt PRINT3DKW, we believe in the power of community. Join our forums, share your experiences, and be inspired by the incredible creations of fellow makers. We’re not just a provider of 3D printing solutions; we’re a hub for collaboration and innovation.\nContact Us:\nLet’s Create Something Extraordinary Together\nWe invite you to explore our range of 3D printers, filaments, and accessories. Have a question? Need assistance? Our dedicated customer support team is just a message away. At PRINT3DKW, we’re not just selling products; we’re building a community and a future where creativity knows no bounds.\nThank you for choosing PRINT3DKW – where imagination takes shape in three dimensions.\nPRINT3D Team\n© Copyright PRINT3DKW - All Rights Reserved\nShopping Cart\nScroll to Top"
+    },
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Bambulab GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "W.",
+        "last_name": "Jerry",
+        "title": "CV系统工程师",
+        "email": "",
+        "phone": "",
+        "company": "BambuLab",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 86.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 18:51"
+}

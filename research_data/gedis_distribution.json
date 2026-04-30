@@ -1,0 +1,138 @@
+{
+  "company_key": "gedis distribution",
+  "company_name": "Gedis Distribution",
+  "domain": "www.gedis.sk",
+  "domain_url": "https://www.gedis.sk",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Gedis Distribution",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 3,
+    "revenue": 4646,
+    "zi_company_name": "GEdis Distribution, sro",
+    "zi_domain": "www.gedis.sk",
+    "zi_city": "Bratislava",
+    "zi_country": "Slovakia",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.gedis.sk",
+    "homepage": {
+      "title": "Home | www.gedis.sk",
+      "description": "This is the homepage of the website",
+      "text_excerpt": "Home | www.gedis.sk\nSkip to Content\nZlepšite OEE a ušetrite náklady\nZlepšenie dostupnosti, účinnosti a kapacity zariadení\nZistite viac\nProcesné digitálne dvojča\nZlepšite výkonnosť zariadení a procesov\nČítajte ďalej\nOptimalizácia energetickej efektívnosti výroby\nAko prostredníctvom analytiky na báze AI/ML ušetriť náklady na energie\nZistite viac\nPrevious\nNext\nWe use cookies to provide you a better user experience on this website.\nPravidlá používania súborov cookie\nOnly essentials\nI agree"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Gedis Distribution",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 9,
+    "all_technologies": [
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Gedis Distribution",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Hamza",
+        "last_name": "Dakhlaoui",
+        "title": "Superviseur Commercial",
+        "email": "",
+        "phone": "",
+        "company": "GEdis Distribution, sro",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 16:23"
+}

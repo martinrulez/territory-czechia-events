@@ -1,0 +1,187 @@
+{
+  "company_key": "puraset",
+  "company_name": "Puraset",
+  "domain": "www.puraset.hu",
+  "domain_url": "https://www.puraset.hu",
+  "events": "URBIS Smart Cities 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Puraset",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 4,
+    "revenue": 4940,
+    "zi_company_name": "Puraset",
+    "zi_domain": "www.puraset.hu",
+    "zi_city": "Jaszfenyszaru",
+    "zi_country": "Hungary",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.puraset.hu",
+    "homepage": {
+      "title": "Főoldal  | Puraset",
+      "description": "",
+      "text_excerpt": "Főoldal  | Puraset\nMagyar\nEnglish\nKincsünk\nA tiszta víz\nAdszorbensek\nPurAID®\nPuraWELL\nVideó\nVállalatunkat 1998-ban a víz és fém iparág területén elszánt kutató-fejlesztő mérnökök alapították. Munkásságuknak köszönhetően társaságunk gyárat épített Jászfényszarun elsősorban arzén-, másodsorban bór-, jód- és fluormentesítő vízszűrőanyagok, regenerálható adszorbensek gyártására. Ezzel a készségünkkel éves szinten 100 ezer háztartás teljes vízszükségletének, és közel 10 millió ember ivóvízének tisztítását kiszolgáló adszorbens gyártását tudjuk biztosítani.\nMagas gyártási és technológiai színvonalat képviselő regenerálható adszorbenseinkkel költséghatékonyan, helyi vegyszer és adalékanyag kezelés nélkül, környezetkímélő módon biztosítjuk az ivóvíz tisztítását. Fejlesztéseinknek köszönhetően termékcsaládunk tovább bővült a végpontokon vizet arzén mentesítő PuraWell készülékkel, majd külpiaci tevékenységeink során szerzett tapasztalatokra és igényekre alapozva létrehoztuk a PurAID® moduláris, raklap méretű víztisztító berendezést.\nHiszünk abban, hogy szakmai tapasztalatunkkal és elkötelezettségünkkel, hozzá tudunk járulni a tiszta víz értékének tudatossá tételéhez és annak megőrzéséhez, hogy a világon jelenleg mintegy 750 millió biztonságos víz nélkül élő ember számára megoldást kínálunk.\nEmellett mindennapi munkánk során a tiszta víz értékét tudatosítjuk szakmai és lakossági csatornákon.\nVíziónk, hogy hazánk és a kelet-közép-európai és balkáni régió meghódítása mellett, a világ országaiba is eljuttassuk termékeinket, különös tekintettel az ázsiai és afrikai célpiacainkra, ahol más termékekkel már most is jelen vagyunk.\nTovább olvasok ›\n2026-03-24 09:33:00\nHWP-PASA együttműködési megállapodás - új fejezet, kiemelt mérföldkő a magyar-afrikai szennyvíztisztítási szakmai kooperációk sorában\nRészletek\n2025-05-22 11:52:00\nPitch a regenerálható arzénmentesi technológiáról az IAWD-n\nRészletek\n2025-03-21 13:12:00\nA magyar vízipar ázsiai sikereit tovább erősítette a Water Korea nemzetközi seregszemlén tett HWP és MaSzeSz elnökségi látogatás és aktív közreműködés\nRészletek\n2024-06-26 14:28:00\nNagy büszkeséggel mutatjuk be, új megoldásunkat a PurAID® DRINKING WATER koncepciót\nRészletek\n2024-11-04 15:32:00\n2024. október 22-én a Magyarország Újdelhi Nagykövetsége által szervezett workshop keretében zárult az AsFree Water projekt.\nRészletek\nTovábbi hírek\n2022-12-02 11:21:00\nJászfényszarui gyárunkban többféle regenerálható adszorbens anyagot gyártunk. A kész termékeket víz alatt tárolva, 200 literes hordóban szállítjuk.\nRészletek\n2022-12-02 11:21:00\nPurAID® - moduláris költséghatékony víztisztítási megoldás vidéki települések, közösségek számára\nRészletek\n2022-12-02 11:21:00\nA PuraWELL, az arzénnal szennyezett vezetékes vizet a végpontokon tisztító arzénmentesítő „patronos”, kisberendezés.\nRészletek\nTovábbi termékek\nTovábbi referenciák\nKépgaléria\nszupra_kotes_005.jpg\n2022-11-28 12:45:00\nIntro\nLegutóbbi kutatásunk a CERN számára egy olyan technológia kidolgozása volt, a"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Puraset",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 19,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Rollbar",
+        "vendor": "ROLLBAR, INC.",
+        "category": "Error and Exception Monitoring",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Concrete CMS",
+        "vendor": "PortlandLabs Inc",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Puraset",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 17:05"
+}

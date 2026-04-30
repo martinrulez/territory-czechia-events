@@ -1,0 +1,123 @@
+{
+  "company_key": "tatra_metalurgie_a_s",
+  "company_name": "TATRA METALURGIE a.s.",
+  "domain": "www.tatrametalurgie.cz",
+  "events": "Czech Foundry Association Members",
+  "technographics": {
+    "success": true,
+    "company": "TATRA METALURGIE a.s.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 9,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "UIkit",
+        "vendor": "Uikit",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "formy",
+        "vendor": "Leapy, Inc.",
+        "category": "Site Search",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "OpenStreetMap",
+        "vendor": "Open Street Map",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Revize",
+        "vendor": "Revize",
+        "category": "Enterprise Content Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Leaflet",
+        "vendor": "LeafletJS",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "RADIM VRBATA",
+        "firstName": "RADIM",
+        "lastName": "VRBATA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DANIEL BEKEŠ",
+        "firstName": "DANIEL",
+        "lastName": "BEKEŠ",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MIROSLAV HOLČÁK",
+        "firstName": "MIROSLAV",
+        "lastName": "HOLČÁK",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:49",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.tatrametalurgie.cz",
+    "homepage": {
+      "title": "TATRA METALURGIE a.s.",
+      "description": "TATRA METALURGIE a.s. je významným českým výrobcem odlitků a výkovků, které jsou dodávány pro strojírenské aplikace v mnoha evropských zemích.",
+      "text_excerpt": "TATRA METALURGIE a.s.\nVÍTEJTE\nna stránkách společnosti TATRA METALURGIE a.s., dceřiné společnosti firmy\nTATRA  TRUCKS a.s.\n, tradičního výrobce nákladních automobilů.\nTATRA METALURGIE a.s. je významným českým výrobcem odlitků a výkovků, které jsou dodávány pro strojírenské aplikace v mnoha evropských zemích.\nObchodní činnost společnosti navazuje na dlouhodobé obchodní vztahy se zákazníky slévárny (Tafonco a.s.) a kovárny (Taforge a.s.) s cílem jejich dalšího posílení a rozvoje.\nOdlitky a výkovky směřují do automobilového průmyslu, železničního průmyslu, k výrobcům zemědělských strojů, stavebních strojů a manipulační techniky. Své uplatnění naleznou i v oblasti všeobecného strojírenství i speciálních aplikací.\nZveme  Vás k návštěvě naší společnosti, abyste mohli posoudit, jak se můžeme podílet na řešení Vašich představ a požadavků.\nWE CAST AND FORGE YOUR IDEAS\nDotační programy\nSpolečnost je zapsaná v obchodním rejstříku vedeném Krajským soudem v Ostravě, oddíl B, vložka 10641\nNapište nám\nOdlitky Fe\nAreál Tatry 1448/5, 742 21 Kopřivnice\nVolná místa\nOdlitky Al\nTel.: (+420) 730 590 721,\nE-mail: tatrametalurgie@tatra.cz\nLaboratoře a zkušebny\nVýkovky\nCopyright (c) 2021 TATRA METALURGIE a.s.\nDownload\nOznamovací systém\nDEVELOPED BY"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

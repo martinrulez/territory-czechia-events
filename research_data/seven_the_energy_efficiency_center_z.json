@@ -1,0 +1,31 @@
+{
+  "company_key": "seven_the_energy_efficiency_center_z",
+  "company_name": "SEVEn, The Energy Efficiency Center, z.ú.",
+  "domain": "",
+  "events": "Czech Green Building Council Members",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JURAJ KRIVOŠÍK",
+        "firstName": "JURAJ",
+        "lastName": "KRIVOŠÍK",
+        "jobTitle": "ředitel",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:02"
+}

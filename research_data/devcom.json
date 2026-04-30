@@ -1,0 +1,487 @@
+{
+  "company_key": "devcom",
+  "company_name": "Devcom",
+  "domain": "www.devcom.com",
+  "domain_url": "https://www.devcom.com",
+  "events": "Game Access Conference '26",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Devcom",
+    "opportunity_score": 35,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.74,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.74,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "25787594",
+    "official_name": "DevCom, spol. s r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "471",
+      "25300",
+      "33140",
+      "43210",
+      "62",
+      "28230",
+      "47780",
+      "95100",
+      "2540",
+      "28230",
+      "3314",
+      "43210",
+      "471",
+      "4778",
+      "620",
+      "95110"
+    ],
+    "ares_segments": [
+      "D&M",
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Božanovská 884/10, Horní Počernice, 19300 Praha 9, Praha, Božanovská, 19300",
+    "is_client": true,
+    "current_products": "PDMC",
+    "total_seats": "3",
+    "current_acv_eur": "12600.0",
+    "potential_acv_eur": "17350.0",
+    "nearest_renewal": "2027-02-13",
+    "days_to_renewal": "296",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Advanced CAM and manufacturing capabilities",
+    "all_upsells": "Fusion Mfg Ext; Moldflow; Flex",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Civil Infrastructure",
+    "ml_domain": "www.dicom.cz",
+    "zi_done": true,
+    "employee_count": 100,
+    "revenue": 21006,
+    "zi_company_name": "Devcom",
+    "zi_domain": "www.devcom.com",
+    "zi_city": "Port Orange",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.devcom.com",
+    "homepage": {
+      "title": "DevCom: Software Development Company",
+      "description": "Established in 2000, DevCom is a full-service custom software development company.",
+      "text_excerpt": "DevCom: Software Development Company\n+1 (800) 780 8560\nwelcome@devcom.com\nServices\nTailored development process for high-impact, advanced solutions that create lasting results\nServices We Offer\nCustom Software Development\nCustom Salesforce Development\nDiscovery Phase and IT Consulting\nStartup Audit\nMobile Application Development\nWeb Development\nUI/UX Design & Development\nQA and Testing\nSoftware Support\nSoftware Audit\nSoftware Code Audit\nSource Code Review\nTechnology Assessment\nSchedule a Free Consultation\nExpertise\nArtificial Intelligence Development\nAI Readiness Assessment\nLLM Development\nChatGPT Development\nAI-Powered Chatbot Development\nAI Assistant Development\nAI Сopilot Development\nAI Agent Development\nAgentic AI Development\nAI Recommendation Engine Development\nCloud & DevOps\nCloud Computing\nCloud Migration\nAWS Migration\nAzure Migration\nGoogle Migration\nCloud Consulting\nDevOps\nServerless App Development\nDynamoDB Development\nSaaS Development\nPayment Solutions\nPayment Gateway Development\nBilling Software Development\nBusiness Intelligence (BI)\nAPI Services\nAPI Development\nAPI Testing\nFrameworks\nAngular Development\nTailwind CSS Development\n.NET Development\nBlockchain & Web3\nWeb3 Development\nNFT Development\nBlockchain Development\nDeFi Development\nCase Studies\nIndustries\nTrusted software partner that delivers solutions personalized to our clients’ needs across industries\nIndustries we serve\nHealthcare\nСonstruction\nEnergy\nHome Improvement\nFintech\nLogistics & Transportation\nMedia & Entertainment\nSales and Marketing\nSports\nRetail\nSee Our Newest Case Study\nCompany\nDelivering digital transformations with 200+ engineers and two decades of proven client-centered experience\nAbout DevCom\nHow We Work\nCareer\nArticles & News\nClients\nTestimonials\nRead Our Latest Article\nContact Us\nWe do\nI.T.\ntogether\n25+ years of customer success with our reliable\noutsourcing software development.\nWatch Dima Semensky, CEO of DevCom,\ndiscuss AI in a recent interview\nContact us\nServices\nAll the services we offer go together with a customer-centric approach and cutting-edge tech\nexpertise. You can request a full product launch, a dedicated development team, or a single developer.\nCustom Software Development\nWe deliver full-cycle software development services in a variety of technology stacks and business domains.\nWe strive to build custom solutions that make businesses more efficient while making our customers’ lives easier.\nMobile Application Development\nOur dedicated teams provide the full-cycle of mobile app development services. We build native, hybrid, cross-platform\nmobile products, and enterprise mobility solutions across all major platforms – Android, iOS, Windows.\nWeb Development Services\nOur web development services are known for their high standards, quality, affordability, focus, and meeting the expectations\nof our clients. You can trust us with any web project you have – web application, portal, or framework development.\nSoftware Support Services\nWe strive to give ou"
+    },
+    "about": {
+      "url": "https://www.devcom.com/about-us",
+      "text": "About DevCom - Custom Software Development Company | DevCom\n+1 (800) 780 8560\nwelcome@devcom.com\nServices\nTailored development process for high-impact, advanced solutions that create lasting results\nServices We Offer\nCustom Software Development\nCustom Salesforce Development\nDiscovery Phase and IT Consulting\nStartup Audit\nMobile Application Development\nWeb Development\nUI/UX Design & Development\nQA and Testing\nSoftware Support\nSoftware Audit\nSoftware Code Audit\nSource Code Review\nTechnology Assessment\nSchedule a Free Consultation\nExpertise\nArtificial Intelligence Development\nAI Readiness Assessment\nLLM Development\nChatGPT Development\nAI-Powered Chatbot Development\nAI Assistant Development\nAI Сopilot Development\nAI Agent Development\nAgentic AI Development\nAI Recommendation Engine Development\nCloud & DevOps\nCloud Computing\nCloud Migration\nAWS Migration\nAzure Migration\nGoogle Migration\nCloud Consulting\nDevOps\nServerless App Development\nDynamoDB Development\nSaaS Development\nPayment Solutions\nPayment Gateway Development\nBilling Software Development\nBusiness Intelligence (BI)\nAPI Services\nAPI Development\nAPI Testing\nFrameworks\nAngular Development\nTailwind CSS Development\n.NET Development\nBlockchain & Web3\nWeb3 Development\nNFT Development\nBlockchain Development\nDeFi Development\nCase Studies\nIndustries\nTrusted software partner that delivers solutions personalized to our clients’ needs across industries\nIndustries we serve\nHealthcare\nСonstruction\nEnergy\nHome Improvement\nFintech\nLogistics & Transportation\nMedia & Entertainment\nSales and Marketing\nSports\nRetail\nSee Our Newest Case Study\nCompany\nDelivering digital transformations with 200+ engineers and two decades of proven client-centered experience\nAbout DevCom\nHow We Work\nCareer\nArticles & News\nClients\nTestimonials\nRead Our Latest Article\nContact Us\nAbout DevCom\nEstablished in 2000, DevCom is a trusted technology partner for many of the world’s leading enterprises, SMEs and technology innovators.\nWe help businesses to solve their challenges with innovative technology solutions, product design, cloud, DevOps, QA, testing, and IT consultancy services.\nHome\nAbout\nWe do I.T. together\nAll the technologies you need and 20 years of customer success\nwith our reliable outsourcing software development\nEstablished in 2000, DevCom is a full-cycle custom software engineering firm, with headquarter in the USA (Florida).\nDevCom handles project development throughout the entire lifecycle: starting with strategic planning and UX/UI design, through application development and\nquality assurance, to technical delivery, production maintenance, and support – all delivered with speed and agility to effectively support businesses in dynamic\nmarkets.\nAt DevCom, we comply with the latest development and technology standards, apply effective software engineering methodologies and integration procedures.\nOur goal is to provide excellent IT services that meet our clients’ needs, timeframes, and budget without compromises.\nWe take pride in every solution we’ve developed and cheer at the success of every client we’ve helped. If there is a way we can help you meet your goals with\nsoftware, don’t hesitate to drop us a line. Let's do IT together!\nServices\nDevCom specialises in custom software development for enterprises, DevOps and cloud computing (AWS, MS Azure),\nweb/mobile/desktop development, SaaS and API development, application re-engineering, blockchain, BI, big data, project\nmanagement, UI/UX, testing and quality assurance, technology consulting.\nCore Tech Stack\n.NET, Java, JS, Angular, Cloud (AWS, MS Azure), RDBMS (MS SQL, MySQL, Oracle), Android, iOS.\nClients\nWith over 20 years of software development experience as a reliable outsourcing technology partner, DevCom provides\ncomplex and cost-effective IT solutions for companies of all sizes – from small businesses to international groups.\nVerticals\nLogistics & Transportation, Healthcare, Non-profit, FinTech, Construction & Engineering, Gas & Oil, Retail\n& eCommer"
+    },
+    "products": {
+      "url": "https://www.devcom.com/services",
+      "text": "DevCom: Software Development Company\n+1 (800) 780 8560\nwelcome@devcom.com\nServices\nTailored development process for high-impact, advanced solutions that create lasting results\nServices We Offer\nCustom Software Development\nCustom Salesforce Development\nDiscovery Phase and IT Consulting\nStartup Audit\nMobile Application Development\nWeb Development\nUI/UX Design & Development\nQA and Testing\nSoftware Support\nSoftware Audit\nSoftware Code Audit\nSource Code Review\nTechnology Assessment\nSchedule a Free Consultation\nExpertise\nArtificial Intelligence Development\nAI Readiness Assessment\nLLM Development\nChatGPT Development\nAI-Powered Chatbot Development\nAI Assistant Development\nAI Сopilot Development\nAI Agent Development\nAgentic AI Development\nAI Recommendation Engine Development\nCloud & DevOps\nCloud Computing\nCloud Migration\nAWS Migration\nAzure Migration\nGoogle Migration\nCloud Consulting\nDevOps\nServerless App Development\nDynamoDB Development\nSaaS Development\nPayment Solutions\nPayment Gateway Development\nBilling Software Development\nBusiness Intelligence (BI)\nAPI Services\nAPI Development\nAPI Testing\nFrameworks\nAngular Development\nTailwind CSS Development\n.NET Development\nBlockchain & Web3\nWeb3 Development\nNFT Development\nBlockchain Development\nDeFi Development\nCase Studies\nIndustries\nTrusted software partner that delivers solutions personalized to our clients’ needs across industries\nIndustries we serve\nHealthcare\nСonstruction\nEnergy\nHome Improvement\nFintech\nLogistics & Transportation\nMedia & Entertainment\nSales and Marketing\nSports\nRetail\nSee Our Newest Case Study\nCompany\nDelivering digital transformations with 200+ engineers and two decades of proven client-centered experience\nAbout DevCom\nHow We Work\nCareer\nArticles & News\nClients\nTestimonials\nRead Our Latest Article\nContact Us\nWe do\nI.T.\ntogether\n25+ years of customer success with our reliable\noutsourcing software development.\nWatch Dima Semensky, CEO of DevCom,\ndiscuss AI in a recent interview\nContact us\nServices\nAll the services we offer go together with a customer-centric approach and cutting-edge tech\nexpertise. You can request a full product launch, a dedicated development team, or a single developer.\nCustom Software Development\nWe deliver full-cycle software development services in a variety of technology stacks and business domains.\nWe strive to build custom solutions that make businesses more efficient while making our customers’ lives easier.\nMobile Application Development\nOur dedicated teams provide the full-cycle of mobile app development services. We build native, hybrid, cross-platform\nmobile products, and enterprise mobility solutions across all major platforms – Android, iOS, Windows.\nWeb Development Services\nOur web development services are known for their high standards, quality, affordability, focus, and meeting the expectations\nof our clients. You can trust us with any web project you have – web application, portal, or framework development.\nSoftware Support Services\nWe strive to give ou"
+    },
+    "contact_page": {
+      "url": "https://www.devcom.com/contact",
+      "text": "Contact Us | DevCom Development Centers And Locations\n+1 (800) 780 8560\nwelcome@devcom.com\nServices\nTailored development process for high-impact, advanced solutions that create lasting results\nServices We Offer\nCustom Software Development\nCustom Salesforce Development\nDiscovery Phase and IT Consulting\nStartup Audit\nMobile Application Development\nWeb Development\nUI/UX Design & Development\nQA and Testing\nSoftware Support\nSoftware Audit\nSoftware Code Audit\nSource Code Review\nTechnology Assessment\nSchedule a Free Consultation\nExpertise\nArtificial Intelligence Development\nAI Readiness Assessment\nLLM Development\nChatGPT Development\nAI-Powered Chatbot Development\nAI Assistant Development\nAI Сopilot Development\nAI Agent Development\nAgentic AI Development\nAI Recommendation Engine Development\nCloud & DevOps\nCloud Computing\nCloud Migration\nAWS Migration\nAzure Migration\nGoogle Migration\nCloud Consulting\nDevOps\nServerless App Development\nDynamoDB Development\nSaaS Development\nPayment Solutions\nPayment Gateway Development\nBilling Software Development\nBusiness Intelligence (BI)\nAPI Services\nAPI Development\nAPI Testing\nFrameworks\nAngular Development\nTailwind CSS Development\n.NET Development\nBlockchain & Web3\nWeb3 Development\nNFT Development\nBlockchain Development\nDeFi Development\nCase Studies\nIndustries\nTrusted software partner that delivers solutions personalized to our clients’ needs across industries\nIndustries we serve\nHealthcare\nСonstruction\nEnergy\nHome Improvement\nFintech\nLogistics & Transportation\nMedia & Entertainment\nSales and Marketing\nSports\nRetail\nSee Our Newest Case Study\nCompany\nDelivering digital transformations with 200+ engineers and two decades of proven client-centered experience\nAbout DevCom\nHow We Work\nCareer\nArticles & News\nClients\nTestimonials\nRead Our Latest Article\nContact Us\nGet In Touch\nFill in the form below, and DevCom representative will contact you\nby the end of the next business day.\nBy checking this box, I accept\nPRIVACY POLICY\nand\nCOOKIE POLICY\n, I "
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Devcom",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 76,
+    "all_technologies": [
+      {
+        "product": "Amazon CloudFront",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "JavaScript",
+        "vendor": "Netscape",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Java",
+        "vendor": "Oracle Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft SQL Server",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "React",
+        "vendor": "Meta Open Source",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Stripe Billing",
+        "vendor": "Stripe, Inc.",
+        "category": "Recurring Billing",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Amazon",
+        "vendor": "Amazon.com, Inc.",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "MassTransit",
+        "vendor": "MassTransit",
+        "category": "Data Integration",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Amazon CloudWatch",
+        "vendor": "Amazon.com, Inc.",
+        "category": "IT Infrastructure Monitoring",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "React Native",
+        "vendor": "Facebook, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Angular Material",
+        "vendor": "Google LLC",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Calendly",
+        "vendor": "Calendly, LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "WPForms",
+        "vendor": "WPForms LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "NoSQL",
+        "vendor": "",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Laravel",
+        "vendor": "Laravel LLC",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Daily",
+        "vendor": "Daily.co.uk",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Mocha",
+        "vendor": "Mocha",
+        "category": "Testing and QA",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Git",
+        "vendor": "Software Freedom Conservancy, Inc.",
+        "category": "Source Code Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Node.js",
+        "vendor": "Node.js Foundation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Python",
+        "vendor": "Python Software Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "TensorFlow",
+        "vendor": "Google LLC",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Amazon DynamoDB",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Docker",
+        "vendor": "Docker Inc",
+        "category": "Containerization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "MySQL",
+        "vendor": "Oracle Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "MongoDB",
+        "vendor": "MongoDB, Inc.",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Clutch",
+        "vendor": "Clutch Corp.",
+        "category": "Online Review Management",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "reCAPTCHA v2.0",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Devcom",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Matt",
+        "last_name": "Krei",
+        "title": "President & Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Devcom",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Amber",
+        "last_name": "DePaola",
+        "title": "President",
+        "email": "",
+        "phone": "",
+        "company": "Devcom",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Devin",
+        "last_name": "Leclaire",
+        "title": "Owner",
+        "email": "devin.leclaire@devcom.com",
+        "phone": "",
+        "company": "Devcom",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      },
+      {
+        "first_name": "Parkie",
+        "last_name": "Mbozi",
+        "title": "Managing Partner, Founder",
+        "email": "",
+        "phone": "",
+        "company": "Devcom",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 84.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 12:21",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "moldflow",
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

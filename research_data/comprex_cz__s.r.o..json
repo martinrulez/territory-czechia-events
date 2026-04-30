@@ -1,0 +1,77 @@
+{
+  "company_key": "comprex cz, s.r.o.",
+  "company_name": "COMPREX CZ, s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Exhibitor Catalog,MSV 2025 Full Exhibitor List",
+  "event_count": 2,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "COMPREX CZ, s.r.o.",
+    "opportunity_score": 23,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.46,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.46,
+      "event_relevance": 0.5,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "27684946",
+    "official_name": "COMPREX CZ s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "471",
+      "731",
+      "46900",
+      "63",
+      "47400",
+      "74",
+      "461",
+      "49410",
+      "711",
+      "461",
+      "46900",
+      "471",
+      "47410",
+      "49410",
+      "63",
+      "711",
+      "731",
+      "74"
+    ],
+    "ares_segments": [
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "K Novému nádraží 2256, 59401 Velké Meziříčí, Velké Meziříčí, K Novému nádraží, 59401",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "COMPREX CZ, s.r.o.",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:20"
+}

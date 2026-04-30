@@ -1,0 +1,80 @@
+{
+  "company_key": "rpa dotace s.r.o.",
+  "company_name": "RPA Dotace s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "RPA Dotace s.r.o.",
+    "opportunity_score": 18,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.43,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.43,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "01399357",
+    "official_name": "RPA Dotace, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "461",
+      "71120",
+      "74990",
+      "82100",
+      "79110",
+      "68200",
+      "G",
+      "K",
+      "74300",
+      "855",
+      "72",
+      "461",
+      "682",
+      "7112",
+      "72",
+      "743",
+      "749",
+      "7911",
+      "8211",
+      "855",
+      "G",
+      "J"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Koutného 2269/3, Líšeň, 62800 Brno, Brno, Koutného, 62800",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "RPA Dotace s.r.o.",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:58"
+}

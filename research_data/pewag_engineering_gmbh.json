@@ -1,0 +1,131 @@
+{
+  "company_key": "pewag engineering gmbh",
+  "company_name": "pewag engineering GmbH",
+  "domain": "www.pwe.at",
+  "domain_url": "https://www.pwe.at",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "pewag engineering GmbH",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Fusion",
+    "total_seats": "1",
+    "current_acv_eur": "600.0",
+    "potential_acv_eur": "8200.0",
+    "nearest_renewal": "2027-01-12",
+    "days_to_renewal": "264",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Fusion Sim Ext",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other Manufacturing",
+    "zi_done": true,
+    "employee_count": 32,
+    "revenue": 10442,
+    "zi_company_name": "pewag engineering",
+    "zi_domain": "www.pwe.at",
+    "zi_city": "Kapfenberg",
+    "zi_country": "Austria",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.pwe.at",
+    "homepage": {
+      "title": "pewag engineering - pewag engineering",
+      "description": "",
+      "text_excerpt": "pewag engineering - pewag engineering\npewag engineering – your automation solution\nWir, die\npewag engineering\n, bieten verschiedenste maßgeschneiderte Leistungen im Bereich des Sondermaschinenbaus an. Dabei sind wir ein eigenständiges Unternehmen innerhalb der pewag group. Im Fokus unserer Lösungsangebote stehen unter anderem Montageanlagen, Prüf- und Vermessungsvorrichtungen, sowie Roboter-Applikationen.\npewag engineering group – your vision our precision\nDie\npewag engineering group\nist eine eigenständig agierende Unternehmensgruppe innerhalb der pewag group. Unsere spezialisierten Unternehmen können mit ihrem modernen Maschinenpark langjährige Erfahrung in der Einzelteil- (CNC drehen/fräsen, schneiden, umformen) als auch Schweißgruppenfertigung vorweisen.\nProdukte\npewag engineering ist eines der führenden Unternehmen im Bereich der Produktentwicklung verschiedener Hebetechnik-Lösungen.\nTechnologien\nWir bieten unseren Kunden aus verschiedensten Branchen effiziente und maßgeschneiderte Komplettangebote.\nLohnfertigung\nUnsere spezialisierten Unternehmen können mit ihrem modernen Maschinenpark langjährige Erfahrung in der Einzelteil- (CNC drehen/fräsen, schneiden, umformen) als auch Schweißgruppenfertigung vorweisen."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.pwe.at/kontakt",
+      "text": "Kontakt - pewag engineering\nFür weitere Informationen und Beratung für Ihr Projekt stehen Ihnen unsere Experten gerne zur Seite!\nKontaktformular pewag engineering\nKontaktformular pwe de\nName\nE-Mail\nFirma\nTelefonnummer\nNachricht\nFür welchen Bereich interessieren Sie sich?\nRoboterapplikationen\nPrüflehren und Richtanlagen\nRundtaktanlagen\nTransferstraßen\nGriff in die Kiste\nMontageautomation\nReibschweißapplikationen\nStanzmaschinen und Pressen\nKleinserienmaschinen\nBitte dieses Feld NICHT ausfüllen!"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "pewag engineering GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Issuu",
+        "vendor": "Issuu, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Shutterstock",
+        "vendor": "Shutterstock, Inc.",
+        "category": "Stock Images Providers",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "TYPO3 CMS",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "pewag engineering GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 08:57"
+}

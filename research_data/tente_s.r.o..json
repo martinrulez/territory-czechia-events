@@ -1,0 +1,132 @@
+{
+  "company_key": "tente s.r.o.",
+  "company_name": "TENTE s.r.o.",
+  "domain": "www.tente.cz",
+  "domain_url": "https://www.tente.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "TENTE s.r.o.",
+    "opportunity_score": 35,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.77,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.77,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "25323148",
+    "official_name": "TENTE s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "25990",
+      "25400",
+      "25510",
+      "25620",
+      "46900",
+      "22",
+      "471",
+      "47810",
+      "25530",
+      "22",
+      "25500",
+      "25610",
+      "25620",
+      "25720",
+      "25990",
+      "451",
+      "46900",
+      "471"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "č.p. 550, 69666 Sudoměřice, Sudoměřice, 69666",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "2",
+    "current_acv_eur": "1000.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-09-06",
+    "days_to_renewal": "136",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "GRAITEC s.r.o",
+    "maturity_label": "Entry",
+    "industry_segment": "Construction Services",
+    "ml_domain": "www.tecont.cz",
+    "zi_done": true,
+    "employee_count": 19,
+    "revenue": 1813,
+    "zi_company_name": "TENTE",
+    "zi_domain": "www.tente.cz",
+    "zi_city": "Wermelskirchen",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "revenue_growth": -97.8,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.tente.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "TENTE s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 3,
+    "all_technologies": [
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "The USERTRUST Network",
+        "vendor": "Comodo Group, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "TENTE s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 12:20"
+}

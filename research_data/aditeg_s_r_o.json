@@ -1,0 +1,178 @@
+{
+  "company_key": "aditeg_s_r_o",
+  "company_name": "ADITEG s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "ADITEG s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 20,
+    "all_technologies": [
+      {
+        "product": "Smartsupp",
+        "vendor": "Smartsupp.com, s.r.o.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Seznam",
+        "vendor": "Imedia",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Dynamic Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Ads",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "LUKÁŠ DYML",
+        "firstName": "LUKÁŠ",
+        "lastName": "DYML",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:16",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.aditeg.cz",
+    "homepage": {
+      "title": "Ujišťujeme se, že nejste robot!",
+      "description": "",
+      "text_excerpt": "Ujišťujeme se, že nejste robot!\nUjišťujeme se, že nejste robot!\nNačítám...\nVidíte to proto, že správce této webové stránky nastavil Anubis na ochranu serveru před pohromou AI společností, které agresivně stahují webové stránky. To může a skutečně způsobuje výpadky webových stránek, čímž se jejich zdroje stávají pro všechny nedostupnými.\nAnubis je kompromis. Anubis používá schéma Proof-of-Work v duchu Hashcash, návrhu schématu proof-of-work pro snížení e-mailového spamu. Myšlenka je, že na individuálních úrovních je dodatečná zátěž zanedbatelná, ale na úrovni masového použití se sčítá a činí stahování mnohem dražším.\nV konečném důsledku se jedná o zástupné řešení, aby bylo možné věnovat více času otiskům prstů a identifikaci bezhlavých prohlížečů (např. podle toho, jak vykreslují písma), aby se stránka s důkazem práce nemusela zobrazovat uživatelům, kteří jsou mnohem pravděpodobněji legitimní.\nUpozorňujeme, že Anubis vyžaduje použití moderních funkcí JavaScriptu, které rozšíření jako JShelter omezují. Prosím zakažte JShelter nebo jiná podobná rozšíření pro tuto doménu."
+    },
+    "about": {
+      "url": "https://www.aditeg.cz/o-nas",
+      "text": "Ujišťujeme se, že nejste robot!\nUjišťujeme se, že nejste robot!\nNačítám...\nVidíte to proto, že správce této webové stránky nastavil Anubis na ochranu serveru před pohromou AI společností, které agresivně stahují webové stránky. To může a skutečně způsobuje výpadky webových stránek, čímž se jejich zdroje stávají pro všechny nedostupnými.\nAnubis je kompromis. Anubis používá schéma Proof-of-Work v duchu Hashcash, návrhu schématu proof-of-work pro snížení e-mailového spamu. Myšlenka je, že na individuálních úrovních je dodatečná zátěž zanedbatelná, ale na úrovni masového použití se sčítá a činí stahování mnohem dražším.\nV konečném důsledku se jedná o zástupné řešení, aby bylo možné věnovat více času otiskům prstů a identifikaci bezhlavých prohlížečů (např. podle toho, jak vykreslují písma), aby se stránka s důkazem práce nemusela zobrazovat uživatelům, kteří jsou mnohem pravděpodobněji legitimní.\nUpozorňujeme, že Anubis vyžaduje použití moderních funkcí JavaScriptu, které rozšíření jako JShelter omezují. Prosím zakažte JShelter nebo jiná podobná rozšíření pro tuto doménu."
+    },
+    "products": {
+      "url": "https://www.aditeg.cz/produkty",
+      "text": "Ujišťujeme se, že nejste robot!\nUjišťujeme se, že nejste robot!\nNačítám...\nVidíte to proto, že správce této webové stránky nastavil Anubis na ochranu serveru před pohromou AI společností, které agresivně stahují webové stránky. To může a skutečně způsobuje výpadky webových stránek, čímž se jejich zdroje stávají pro všechny nedostupnými.\nAnubis je kompromis. Anubis používá schéma Proof-of-Work v duchu Hashcash, návrhu schématu proof-of-work pro snížení e-mailového spamu. Myšlenka je, že na individuálních úrovních je dodatečná zátěž zanedbatelná, ale na úrovni masového použití se sčítá a činí stahování mnohem dražším.\nV konečném důsledku se jedná o zástupné řešení, aby bylo možné věnovat více času otiskům prstů a identifikaci bezhlavých prohlížečů (např. podle toho, jak vykreslují písma), aby se stránka s důkazem práce nemusela zobrazovat uživatelům, kteří jsou mnohem pravděpodobněji legitimní.\nUpozorňujeme, že Anubis vyžaduje použití moderních funkcí JavaScriptu, které rozšíření jako JShelter omezují. Prosím zakažte JShelter nebo jiná podobná rozšíření pro tuto doménu."
+    },
+    "contact_page": {
+      "url": "https://www.aditeg.cz/kontakt",
+      "text": "Ujišťujeme se, že nejste robot!\nUjišťujeme se, že nejste robot!\nNačítám...\nVidíte to proto, že správce této webové stránky nastavil Anubis na ochranu serveru před pohromou AI společností, které agresivně stahují webové stránky. To může a skutečně způsobuje výpadky webových stránek, čímž se jejich zdroje stávají pro všechny nedostupnými.\nAnubis je kompromis. Anubis používá schéma Proof-of-Work v duchu Hashcash, návrhu schématu proof-of-work pro snížení e-mailového spamu. Myšlenka je, že na individuálních úrovních je dodatečná zátěž zanedbatelná, ale na úrovni masového použití se sčítá a činí stahování mnohem dražším.\nV konečném důsledku se jedná o zástupné řešení, aby bylo možné věnovat více času otiskům prstů a identifikaci bezhlavých prohlížečů (např. podle toho, jak vykreslují písma), aby se stránka s důkazem práce nemusela zobrazovat uživatelům, kteří jsou mnohem pravděpodobněji legitimní.\nUpozorňujeme, že Anubis vyžaduje použití moderních funkcí JavaScriptu, které rozšíření jako JShelter omezují. Prosím zakažte JShelter nebo jiná podobná rozšíření pro tuto doménu."
+    }
+  }
+}

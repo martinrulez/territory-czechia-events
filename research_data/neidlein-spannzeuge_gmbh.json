@@ -1,0 +1,140 @@
+{
+  "company_key": "neidlein-spannzeuge gmbh",
+  "company_name": "Neidlein-Spannzeuge GmbH",
+  "domain": "www.neidlein.de",
+  "domain_url": "https://www.neidlein.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Neidlein-Spannzeuge GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 6,
+    "revenue": 976,
+    "zi_company_name": "NEIDLEIN-SPANNZEUGE",
+    "zi_domain": "www.neidlein.de",
+    "zi_city": "Bodelshausen",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.neidlein.de",
+    "homepage": {
+      "title": "Willkommen - NEIDLEIN-SPANNZEUGE GmbH",
+      "description": "",
+      "text_excerpt": "Willkommen - NEIDLEIN-SPANNZEUGE GmbH\n+49 7471 9608-0\nStirnmit­nehmer\nBefestigungs­elemente\nRollspitzen\nFeste Spitzen\nSpanndorne\nDrehgreifer & Drehherzen\nAllgemeines ZubehÃ¶r\nSonder­applikationen\nProzessorientierte SpannlÃ¶sungen\nmit maximaler DrehmomentÃ¼bertragung und hÃ¶chster Genauigkeit\nMittelstÃ¤ndisch, weltweit vertreten, innovativ:\nNEIDLEIN-SPANNZEUGE GmbH trÃ¤gt mit seinen Produkten dazu bei, FertigungsablÃ¤ufe zu optimieren und Produktionskosten zu senken.\nUnsere Werkzeuge spannen die WerkstÃ¼cke zwischen Spitzen. Durch dieses wegweisende Arbeitskonzept entstehen WerkstÃ¼ckkonturen in nur einer Aufspannung, zum Beispiel durch\nDrehen\nHartdrehen\nSchleifen\nFrÃ¤sen\nDrehfrÃ¤sen"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Neidlein-Spannzeuge GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 5,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "1&1 Hosting",
+        "vendor": "1&1 IONOS Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Adobe DreamWeaver",
+        "vendor": "Adobe Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Neidlein-Spannzeuge GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Stefanie",
+        "last_name": "Barendt",
+        "title": "Vertrieb Sales",
+        "email": "",
+        "phone": "",
+        "company": "NEIDLEIN-SPANNZEUGE",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 82.0
+      },
+      {
+        "first_name": "Dirk",
+        "last_name": "Farger",
+        "title": "Design and Support",
+        "email": "",
+        "phone": "",
+        "company": "NEIDLEIN-SPANNZEUGE",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 82.0
+      },
+      {
+        "first_name": "Elke",
+        "last_name": "Ruf",
+        "title": "Konstruktion Design",
+        "email": "e.ruf@neidlein.de",
+        "phone": "",
+        "company": "NEIDLEIN-SPANNZEUGE",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 82.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 17:28"
+}

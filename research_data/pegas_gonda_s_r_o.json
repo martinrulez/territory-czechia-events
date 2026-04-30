@@ -1,0 +1,95 @@
+{
+  "company_key": "pegas_gonda_s_r_o",
+  "company_name": "PEGAS - GONDA s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "PEGAS - GONDA s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 6,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JOSEF GONDA",
+        "firstName": "JOSEF",
+        "lastName": "GONDA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "LUBOŠ GONDA",
+        "firstName": "LUBOŠ",
+        "lastName": "GONDA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:39:50",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.pegas-gonda.cz",
+    "homepage": {
+      "title": "Pásové pily na kov | PEGAS-GONDA - Domů",
+      "description": "Pásová pila na kov Pegas. Jsme česká firma, která vyrábím a prodává pásové pily na kov, kotoučové pily, pilové pásy a kotouče, dopravník a vynašeče třísek.",
+      "text_excerpt": "Pásové pily na kov | PEGAS-GONDA - Domů\nnew\nNovinka: PEGAS-GONDA a sociální sítě\nKloubové pásové pily\nDvousloupové pásové pily: dělení profilů pod úhlem\nDvousloupové pásové pily: dělení svazků profilů\nDvousloupové pásové pily: vysokoproduktivní\nKotoučové pily\nPilové pásy a kotouče E-shop\nTento web používá cookies k dosažení potřebné funkcionality. Dalším jeho použitím s tímto souhlasíte.\nVíce informací.\nRozumím"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

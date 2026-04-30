@@ -1,0 +1,94 @@
+{
+  "company_key": "3r systems",
+  "company_name": "3R SYSTEMS",
+  "domain": "www.3rsystems.com.au",
+  "domain_url": "https://www.3rsystems.com.au",
+  "events": "MSV 2025 Exhibitor Catalog,MSV 2025 Full Exhibitor List",
+  "event_count": 2,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "3R SYSTEMS",
+    "opportunity_score": 29,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.77,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.77,
+      "event_relevance": 0.5,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "25013262",
+    "official_name": "3R Systems s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "25620",
+      "221",
+      "289",
+      "4779",
+      "72100",
+      "222",
+      "221",
+      "222",
+      "25720",
+      "289",
+      "47790",
+      "7219"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Národní 980, Pražské Předměstí, 55101 Jaroměř, Jaroměř, Národní, 55101",
+    "zi_done": true,
+    "employee_count": 16,
+    "revenue": 3161,
+    "zi_company_name": "3R Systems",
+    "zi_domain": "www.3rsystems.com.au",
+    "zi_city": "",
+    "zi_country": "Australia",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.3rsystems.com.au",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "LUBOŠ ROZKOŠNÝ",
+        "firstName": "LUBOŠ",
+        "lastName": "ROZKOŠNÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-23 13:01"
+}

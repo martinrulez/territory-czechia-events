@@ -1,0 +1,68 @@
+{
+  "company_key": "siemens_s_r_o",
+  "company_name": "Siemens, s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Barbara Liskova",
+        "firstName": "Barbara",
+        "lastName": "Liskova",
+        "jobTitle": "BU Controller and Commercial Project Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Miroslav Sova",
+        "firstName": "Miroslav",
+        "lastName": "Sova",
+        "jobTitle": "Head of Finance, Business Unit",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Nikola Husakova",
+        "firstName": "Nikola",
+        "lastName": "Husakova",
+        "jobTitle": "Head of Finance, Gas & Power",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Radek Jasek",
+        "firstName": "Radek",
+        "lastName": "Jasek",
+        "jobTitle": "Head of Sales, Department Medium Voltage & Systems",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:35",
+  "website_data": {
+    "success": false,
+    "domain": "https://www.siemens.sk",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

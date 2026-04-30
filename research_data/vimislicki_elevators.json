@@ -1,0 +1,271 @@
+{
+  "company_key": "vimislicki elevators",
+  "company_name": "VIMISLICKI elevators",
+  "domain": "www.vimislicki.com",
+  "domain_url": "https://www.vimislicki.com",
+  "events": "Designblok 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "VIMISLICKI elevators",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.69,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.69,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "14356341",
+    "official_name": "VIMISLICKI ELEVATORS s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "772",
+      "433",
+      "461",
+      "41000",
+      "46900",
+      "33120",
+      "431",
+      "52100",
+      "82920",
+      "471",
+      "64923",
+      "68200",
+      "33140",
+      "43210",
+      "00",
+      "26110",
+      "282",
+      "439",
+      "00",
+      "26110",
+      "282",
+      "33120",
+      "33140",
+      "4120",
+      "431",
+      "43210",
+      "433",
+      "439",
+      "461",
+      "46900",
+      "471",
+      "52100",
+      "64923",
+      "6820",
+      "772",
+      "82920"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Dlouhá 717/40, Staré Město, 11000 Praha 1, Praha, Dlouhá, 11000",
+    "zi_done": true,
+    "employee_count": 20,
+    "revenue": 4486,
+    "zi_company_name": "Vimislicki Elevators",
+    "zi_domain": "www.vimislicki.com",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.vimislicki.com",
+    "homepage": {
+      "title": "VIMISLICKI |",
+      "description": "",
+      "text_excerpt": "VIMISLICKI |\nelevators\ninterior design\nwindows\nfire\nopen\no nás\nJmenuji se Jakub Vymyslický a jsem zakladatelem společnosti VIMISLICKI. V oblasti prémiového bydlení působím již více než 20 let a ve své práci kladu největší důraz na detail, design a funkčnost každého produktu, který naše společnost vyrábí.\nSpecializujeme se na navrhování a výrobu unikátních výtahů, hliníkových oken a interiérů na míru, které překračují očekávání a nastavují nové standardy. Spojením špičkových technologií a elegantního designu se snažíme dosáhnout dokonalé harmonie a vytvářet řešení, která přirozeně zapadají do architektonického konceptu.\nNaším cílem je přinést vám nejen pohodlí a funkčnost, ale také inspiraci a trvalou hodnotu. Věříme, že každý prostor může být výjimečný, a proto se zaměřujeme na vytváření řešení, která jsou nejen vizuálně atraktivní, ale také vyráběná s maximální precizností a řemeslnou zručností.\nTěšíme se na spolupráci.\nkontakt\n+420 737 211 301\ninfo@vimislicki.com\nDlouhá 717/40, Praha\njméno\ne-mailová adresa\nobsah zprávy\n12 + 1\nodeslat zprávu\n© 2026 VIMISLICKI\nNavrženo pro inspiraci, vyrobeno pro odolnost.\nI   Všechna práva vyhrazena. I"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "VIMISLICKI elevators",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 21,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Pinterest for Business",
+        "vendor": "Pinterest, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Tweet Button",
+        "vendor": "Twitter, Inc.",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare Rocket Loader",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "VIMISLICKI elevators",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Tereza",
+        "last_name": "Dynková",
+        "title": "",
+        "email": "tereza@vimislicki.com",
+        "phone": "",
+        "company": "Vimislicki Elevators",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 84.0
+      },
+      {
+        "first_name": "Monika",
+        "last_name": "Hájková",
+        "title": "",
+        "email": "monika@vimislicki.com",
+        "phone": "",
+        "company": "Vimislicki Elevators",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 82.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:13"
+}

@@ -1,0 +1,79 @@
+{
+  "company_key": "tong shin pack co., ltd.",
+  "company_name": "Tong Shin Pack Co., Ltd.",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Tong Shin Pack Co., Ltd.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Tong Shin Pack Co., Ltd.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Paul",
+        "last_name": "Hyun",
+        "title": "Owner",
+        "email": "",
+        "phone": "",
+        "company": "Tong Shin Pack",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 87.0
+      },
+      {
+        "first_name": "Mira",
+        "last_name": "Lee",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "company": "Tong Shin Pack",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 77.0
+      },
+      {
+        "first_name": "John",
+        "last_name": "Kim",
+        "title": "",
+        "email": "john@tongshinpack.com",
+        "phone": "",
+        "company": "Tong Shin Pack",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 70.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 14:49"
+}

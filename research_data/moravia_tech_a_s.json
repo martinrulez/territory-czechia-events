@@ -1,0 +1,79 @@
+{
+  "company_key": "moravia_tech_a_s",
+  "company_name": "Moravia Tech, a.s.",
+  "domain": "www.moraviatech.cz",
+  "events": "Czech Foundry Association Members",
+  "technographics": {
+    "success": true,
+    "company": "Moravia Tech, a.s.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 5,
+    "all_technologies": [
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "OVH Hosting",
+        "vendor": "OVH",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      }
+    ],
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JIŘÍ BINKO",
+        "firstName": "JIŘÍ",
+        "lastName": "BINKO",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:18:58",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.moraviatech.cz",
+    "homepage": {
+      "title": "Moravia Tech, a. s.",
+      "description": "",
+      "text_excerpt": "Moravia Tech, a. s.\nTvoříme společně\nBaví nás tvořit\nKdyž spolupracujeme s našimi zákazníky, vzájemně se lépe poznáváme. Naši zákazníci s námi rádi spolupracují právě proto, že se vždy snažíme hledat to nejlepší řešení. Naše řešení je součástí toho, co naši zákazníci tvoří. A tvořit nás baví.\nCo hledá tvůrce?\nSprávný tvůrce chce vytvářet co nejlepší řešení. Stejně tak i my chceme našim zákazníkům nabídnout jistotu prvotřídní kvality, potřebnou flexibilitu, větší kapacity a moderní technologie.\nProto chceme v příštích letech výrazněji investovat do modernizace a rozšíření provozu, abychom mohli našim zákazníkům nabídnout větší kapacity, využití moderních technologií a ještě lepší služby.\nPojďte tvořit s námi\nNeváhejte se na nás obrátit s jakoukoliv otázkou či tvůrčím záměrem. Pokusíme se společně našít vhodné řešení.\nChceme tvořit i pro vás.\nKontakt\nIng. Jiří Binko\npředseda představenstva\n(+420) 602 771 844\njiri.binko@moraviatech.cz"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

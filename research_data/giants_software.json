@@ -1,0 +1,469 @@
+{
+  "company_key": "giants software",
+  "company_name": "Giants Software",
+  "domain": "www.giants-software.com",
+  "domain_url": "https://www.giants-software.com",
+  "events": "Game Access Conference '26",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Giants Software",
+    "opportunity_score": 40,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [
+      "Hiring (1 jobs)"
+    ],
+    "fit_score": 0.62,
+    "component_scores": {
+      "size": 0.15,
+      "revenue": 0.2,
+      "nace_fit": 0.62,
+      "event_relevance": 0.25,
+      "signals": 0.3,
+      "client_bonus": 0.7
+    },
+    "ares_done": true,
+    "ico": "07062567",
+    "official_name": "GIANTS Software CZ s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "26",
+      "02400",
+      "28",
+      "016",
+      "01610",
+      "25",
+      "18200",
+      "331",
+      "255",
+      "01480",
+      "02100",
+      "18",
+      "58",
+      "01493",
+      "016",
+      "01610",
+      "02100",
+      "02400",
+      "18",
+      "18200",
+      "25",
+      "256",
+      "26",
+      "28",
+      "331",
+      "58"
+    ],
+    "ares_segments": [
+      "D&M",
+      "M&E"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Šumavská 525/33, Veveří, 60200 Brno, Brno, Šumavská, 60200",
+    "employee_count": 81,
+    "revenue": 15372,
+    "hiring_signal": true,
+    "hiring_intensity": "low",
+    "total_jobs": 1,
+    "engineering_hiring": false,
+    "leadership_change": false,
+    "has_public_contracts": false,
+    "is_client": true,
+    "current_products": "M&E Collection | Maya",
+    "total_seats": "27",
+    "current_acv_eur": "73400.0",
+    "potential_acv_eur": "0.0",
+    "nearest_renewal": "2026-04-29",
+    "days_to_renewal": "6",
+    "reseller": "NTI Deutschland GmbH",
+    "maturity_label": "Collection",
+    "industry_segment": "Advert'g, Publ'g & Graphic Des",
+    "ml_employee_count": "5",
+    "ml_revenue": "300000",
+    "zi_done": true,
+    "zi_company_name": "GIANTS Software",
+    "zi_domain": "www.giants-software.com",
+    "zi_city": "Schlieren",
+    "zi_country": "Switzerland",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.giants-software.com",
+    "homepage": {
+      "title": "GIANTS Software | Home",
+      "description": "GIANTS Software company page",
+      "text_excerpt": "GIANTS Software | Home\nDiscover GIANTS Software!\nWe are the creators behind the globally renowned Farming Simulator series. But our expertise extends beyond development—we’re also a publisher, engine developers, modding enthusiasts, and more. Plus, we’re growing our team!\nJoin the GIANTS Software team!\nWhether you're a talented programmer, a dynamic marketing professional, a creative graphic designer or video editor, a dedicated community manager, or a skilled event organizer, we're always looking to expand our team. Visit our careers page to learn more!\nGet in Touch with GIANTS Software!\nWe are always looking to meet new people, make new contacts, start new partnerships. Whether for the game, if you are interested in representation of your brand, or for a professional or casual exchange at events. Feel free to contact us, anytime!\nLATEST NEWS\nGIANTS Software will be part of the PAX East line-up again.\nWe will once again be at one of the world’s most celebrated gaming culture events, presenting the successful Farming Simulator franchise and the latest version of Project Motor Racing.\nFrom March 26th to the 29th, we are looking forward to meeting fans and friends at the Thomas M. Menino Convention & Exhibition Center in Boston (MA).\nWith a wide variety of interesting panels and gaming exhibits, as well as stage shows, PAX East visitors can expect to have hours of fun meeting old friends and making new ones. Find out more about PAX East on the official event website.\nMore\nFarming Simulator: Signature Edition is out now on Nintendo Switch™ 2. From managing fields and forests to raising livestock and building a thriving agricultural empire, Farming Simulator: Signature Edition offers endless possibilities: Production chains, construction projects, and a broad range of farming activities await both seasoned players and newfound farmers.\n“Farming Simulator: Signature Edition offers the most varied, relaxing, and rewarding experience we’ve ever created for Nintendo players,” says Boris Stefan, CSO of GIANTS Software. “We’re excited to bring the farming fun to the Nintendo Switch 2!”\nThe Signature Farming Experience\nPlayers can choose from three vibrant regions as their starting point and grow their skills across a variety of agricultural scenarios: North America, Europe, and East Asia. With 25 crops, including rice, spinach, wheat, and sunflowers, plus greenhouse produce and various tree species, the farming experience is richer than ever.\nWith over 400 meticulously recreated machines from more than 150 well-known manufacturers, including Case IH, CLAAS, Fendt, John Deere, Kubota, Massey Ferguson, New Holland, Valtra, and many more, Farming Simulator: Signature Edition delivers authenticity for both machinery fans and simulation enthusiasts.\nMore Content Planned\nThe recent deal between GIANTS Software and Daimler Truck AG, which saw the debut of Mercedes-Benz Trucks in the series, is also incorporated into the Signature Edition.  As always, GIANTS Softw"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Giants Software",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "3D-Coat",
+      "Autodesk",
+      "Autodesk MotionBuilder"
+    ],
+    "total_technologies": 104,
+    "all_technologies": [
+      {
+        "product": "Autodesk",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Orion",
+        "vendor": "Orion Advisor Solutions, Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Edenred",
+        "vendor": "Edenred",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Google AI",
+        "vendor": "Google LLC",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Beumer Group",
+        "vendor": "Beumer Group",
+        "category": "Logistics",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Shiji",
+        "vendor": "Shiji Group",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Affinity",
+        "vendor": "Affinity",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "LinkedIn Learning",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Nifty",
+        "vendor": "Nifty Technologies, Inc",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Search Console",
+        "vendor": "Google LLC",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Truly",
+        "vendor": "Truly",
+        "category": "Call Tracking",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Sirius",
+        "vendor": "Sirius Computer Solutions, Inc",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Oracle",
+        "vendor": "Oracle Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "aaa",
+        "vendor": "American Automobile Association, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Operative",
+        "vendor": "SintecMedia Ltd.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "WeChat",
+        "vendor": "Tencent Holdings Limited",
+        "category": "Unified Communications",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "TestRail",
+        "vendor": "Gurock",
+        "category": "Testing and QA",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP SuccessFactors Employee Central Payroll",
+        "vendor": "SAP SuccessFactors",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP SuccessFactors Employee Central",
+        "vendor": "SAP SE",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP Human Resources (HR)",
+        "vendor": "SAP SE",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "PRINCE2",
+        "vendor": "PRINCE2",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "JavaScript",
+        "vendor": "Netscape",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Grasshopper",
+        "vendor": "Grasshopper",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Fintech",
+        "vendor": "Fintech",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Adobe Creative Suite",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "macOS",
+        "vendor": "Apple Inc.",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Linux",
+        "vendor": "Linux Kernel Organization",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "3D-Coat",
+        "vendor": "Pilgway LLC",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Google Sheets",
+        "vendor": "Google LLC",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Autodesk MotionBuilder",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Adobe InDesign",
+        "vendor": "Adobe Inc.",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Adobe After Effects",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Final Cut Pro",
+        "vendor": "Apple Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft PowerPoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Lua",
+        "vendor": "UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bugzilla",
+        "vendor": "",
+        "category": "Testing and QA",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "SAP S/4HANA",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "SAP Human Capital Management",
+        "vendor": "SAP SE",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Braze",
+        "vendor": "Braze, Inc.",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Giants Software",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Tomas",
+        "last_name": "Dostal",
+        "title": "Head of Art Department - Brno",
+        "email": "tdostal@giants-software.com",
+        "phone": "",
+        "company": "GIANTS Software",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 92.0
+      },
+      {
+        "first_name": "Siddhant",
+        "last_name": "Patni",
+        "title": "Head of Outsourcing Associate Producer",
+        "email": "spatni@giants-software.com",
+        "phone": "",
+        "company": "GIANTS Software",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 12:11",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "maya"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "company_key": "informační centrum Čkait, s.r.o.",
+  "company_name": "Informační centrum ČKAIT, s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Informační centrum ČKAIT, s.r.o.",
+    "opportunity_score": 23,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.65,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.65,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "25930028",
+    "official_name": "INFORMAČNÍ CENTRUM ČKAIT s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46900",
+      "8559",
+      "581",
+      "74300",
+      "63",
+      "711",
+      "46900",
+      "581",
+      "63",
+      "711",
+      "74300",
+      "8559"
+    ],
+    "ares_segments": [
+      "AEC",
+      "M&E"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Sokolská 1498/15, Nové Město, 12000 Praha 2, Praha, Sokolská, 12000",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Informační centrum ČKAIT, s.r.o.",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:19"
+}

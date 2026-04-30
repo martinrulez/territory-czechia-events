@@ -1,0 +1,154 @@
+{
+  "company_key": "flovex srl",
+  "company_name": "FLOVEX Srl",
+  "domain": "www.flovex.it",
+  "domain_url": "https://www.flovex.it",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "FLOVEX Srl",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 24,
+    "revenue": 3778,
+    "zi_company_name": "Flovex",
+    "zi_domain": "www.flovex.it",
+    "zi_city": "Grezzago",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.flovex.it",
+    "homepage": {
+      "title": "Flovex – Scambiatori di calore",
+      "description": "",
+      "text_excerpt": "Flovex – Scambiatori di calore\nVai al contenuto\nPRODOTTI\nINGEGNERIZZATI\nScopri di più >\nScambiatori su misura, per rispondere alle necessità dei singoli clienti.\nPRODOTTI\nSTANDARD\nScopri di più >\nUna linea di scambiatori standard applicabili a diversi utilizzi.\nSETTORI\nE APPLICAZIONI\nScopri di più >\nScopri l’ampio spettro di applicazioni dei nostri scambiatori.\nLA NOSTRA AZIENDA\n40 anni di esperienza\nnel settore degli scambiatori di calore\nDal 1977 abbiamo progettato e costruito per il mercato oleodinamico più di 20.000 scambiatori di calore.\nGli scambiatori di calore per applicazioni industriali su specifica sono diventati il ​​nostro core business per soddisfare le esigenze di progetti ingegneristici complessi. Sono più di 3000 le console Lube secondo API che operano nel mondo con scambiatori di calore progettati e prodotti da Flovex.\nL’ampia gamma di configurazioni disponibili e l’esperienza in un ampio spettro di industrie e applicazioni hanno reso questi prodotti durevoli la prima scelta per una varietà di settori tra cui: Oil&Gas, compressori, turbine, pompe, idraulico, trasformatori, termoelettrico, biogas, recupero energetico, navale.\nScopri di più ▸\nCERTIFICAzioni\nFlovex è certificata in conformità ai requisiti di diverse normative nazionali e internazionali.\nPARTNERS\nFlovex da anni collabora con agenzie sul territorio nazionale e internazionale.\nTrova qui il contatto più vicino a te e chiedi informazioni o consulenza direttamente ai nostri partner.\nREFERENCE\nFlovex lavora nel mondo degli scambiatori di calore a oltre quarant’anni e sono innumerevoli le aziende che si sono appoggiate al nostro know how.\nSOLUZIONI A IDROGENO\nNell’ottica del “go-green” scopri le soluzioni progettate da Flovex per l’idrogeno.\nOFFERTA\nnuovo progetto\nPer un progetto personalizzato, chiedi ai nostri esperti\nEntra\nOFFERTA\nricambio\nPer ricambi o guarnizioni, chiedi al nostro team\nEntra\nOFFERTA\nnuovo progetto\nPer un progetto personalizzato, chiedi ai nostri esperti\nEntra ▸\nOFFERTA\nricambio\nPer ricambi o guarnizioni, chiedi al nostro team.\nEntra ▸"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.flovex.it/contact",
+      "text": "Contatti – Flovex\nVai al contenuto\nCONTATTI\nDove siamo\nFlovex s.r.l.\nVia Lega Lombarda no. 342, 24040 Stezzano (BG)\nTelefono\n+39 035 0404900\nEmail\nflo@flovex.it\nNome\nCognome\nEmail\nOggetto\nVendite\nAcquisti\nQualità\nAltro\nMessaggio\nPrivacy Policy\nAccetto i termini della privacy policy\nInvia\nOFFERTA\nnuovo progetto\nPer un progetto personalizzato, chiedi ai nostri esperti.\nEntra\nOFFERTA\nricambio\nPer ricambi o guarnizioni, chiedi al nostro team\nEntra\nOFFERTA\nnuovo progetto\nPer un progetto personalizzato, chiedi ai nostri esperti\nEntra ▸\nOFFERTA\nricambio\nPer ricambi o guarnizioni, chiedi al nostro team.\nEntra ▸"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "FLOVEX Srl",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 13,
+    "all_technologies": [
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "iubenda",
+        "vendor": "iubenda s.r.l",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Sectigo",
+        "vendor": "Sectigo Limited",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "FLOVEX Srl",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 18:23"
+}

@@ -1,0 +1,237 @@
+{
+  "company_key": "technick_s_t_brno",
+  "company_name": "Technické sítě Brno",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026",
+  "technographics": {
+    "success": true,
+    "company": "Technické sítě Brno",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 27,
+    "all_technologies": [
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "WPML",
+        "vendor": "OnTheGoSystems Limited",
+        "category": "Translation",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "particles.js",
+        "vendor": "",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "jQuery Mobile",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Debian",
+        "vendor": "Software in the Public Interest, Inc.",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Gravity Forms",
+        "vendor": "Rocketgenius, Inc.",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MICHAL CHLÁDEK",
+        "firstName": "MICHAL",
+        "lastName": "CHLÁDEK",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ZDENĚK MACHŮ",
+        "firstName": "ZDENĚK",
+        "lastName": "MACHŮ",
+        "jobTitle": "Vice-Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "SABINA BENEŠOVÁ",
+        "firstName": "SABINA",
+        "lastName": "BENEŠOVÁ",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:07",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.tsb.cz",
+    "homepage": {
+      "title": "Technické sítě Brno | akciová společnost",
+      "description": "",
+      "text_excerpt": "Technické sítě Brno | akciová společnost\nZELENÁ LINKA (HLÁŠENÍ PORUCH):\n800 100 312\nKOLEKTORY (REZERVACE PRO FIRMY)\nŽÁDOST O VYJÁDŘENÍ\nVEŘEJNÉ ZAKÁZKY\nVIDEO PREZENTACE\nKolektor Česká–Středova »\ninformace o projektu\nTECHNICKÉ SÍTĚ BRNO\nsvítíme\npropojujeme\ndigitalizujeme\nVEŘEJNÉ OSVĚTLENÍ\nKOLEKTORY\nREKLAMA\nINFORMAČNÍ A KOMUNIKAČNÍ TECHNOLOGIE\nProhlášení k petici „Chraňme pražskou noc! Nechceme škodlivé bílé světlo v ulicích“\nSpolečnost pro rozvoj veřejného osvětlení, z. s., IČO 18626653 (dále jen „SRVO“), jehož jsme členem, se znepokojením sleduje situaci kolem veřejné petice s názvem „Chraňme pražskou noc, nechceme bílé světlo v ulicích“, založené dne 29. 12. 2025 panem Mikulášem...\nčíst více\nBrno má český unikát: první dobíjecí stanici ukrytou přímo ve stožáru veřejného osvětlení\nBrno má český unikát: první dobíjecí stanici ukrytou přímo ve stožáru veřejného osvětlení V řadě stožárů veřejného osvětlení v brněnské ulici Marie Majerové přibyl jeden, který zcela mění po-hled na městskou infrastrukturu. Sloup před mateřskou školkou s číslem...\nčíst více\nKolektor Česká–Středova postaví sdružení tří firem\nRada města Brna na svém zasedání 11.6.2025 vybrala nejvýhodnější nabídku v zadávacím řízení na výstavbu nového kolektoru, který povede pod ulicí Česká. Zhotovitelem se stane sdružení tří společností. Po uplynutí zákonné 15denní lhůty na podání námitek bude možné ze...\nčíst více\nUnikátní robot HUGO zrychlí a usnadní technikům TSB měření  osvětlenosti\nJe rychlejší a přesnější, proto je také efektivnější a zvládne toho za stejný čas udělat více. Autonomní pozemní robot HUGO bude nyní nově pomáhat s měřením osvětlenosti komunikací pracovníkům Technických sítí Brno. Právě na základě jejich nápadu a požadavků ho pro...\nčíst více\nPřejít na Blog\nKONCERN BRNO\nSpolečnost je členem Koncernu SMB, jehož řídící osobou je statutární město Brno, IČO: 449 92 785, se sídlem Dominikánské náměstí 196/1, 602 00 Brno.\nVedle Technických sítí Brno, akciová společnost, jsou řízenými osobami následující obchodní společnosti:\nBrněnské komunikace\nPohřební a hřbitovní služby města Brna\nArena Brno\nDopravní podnik města Brna\nTeplárny Brno\nSAKO\nČLENSTVÍ V ODBORNÝCH SPOLEČNOSTECH\nTechnické sítě Brno,\nakciová společnost\nBarvířská 5, 602 00 Brno (\nmapa\nIČ: 25512285\nDIČ: CZ25512285\nRecepce: 545 424 030\nE-mail: podatelna@tsb.cz\nID datové schránky: 55kgizb\nPro hlášení poruch kontaktujte centrální dispečink:\nBezplatná linka: 800 100 312\nE-mail: dispecink@tsb.cz\nDotační projekty\nKolektory - rezervace pro firmy\nKlíčové činnosti\n____\nVeřejné osvětlení\nKolektory\nSlužby ICT a KB\nVenkovní reklama\nStaráme se o\n____\nSlavnostní osvětlení\nBrněnské Vánoce\nBrněnský orloj\nPolygon veřejného osvětlení\nPro městské části\n____\nSlužby datových center\nSlužby kybernetické bezpečnosti\nNasvětlení přechodů pro chodce\nCeloroční nabídka stánků\nKvětinová výzdoba\nSlužby specialistů\n____\nMěření intenzity osvětlení\nMěření statiky sloupů osvětlení\nInvestice a projekce\nVytyčení sítí veřejného osvětlení\nVyjádření ke stave"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.tsb.cz/sluzby",
+      "text": "Služby | Technické sítě Brno\nZELENÁ LINKA (HLÁŠENÍ PORUCH):\n800 100 312\nKOLEKTORY (REZERVACE PRO FIRMY)\nŽÁDOST O VYJÁDŘENÍ\nVEŘEJNÉ ZAKÁZKY\nVIDEO PREZENTACE\nTECHNICKÉ SÍTĚ BRNO\nNabídka služeb\nsvítíme\npropojujeme\ndigitalizujeme\nVEŘEJNÉ OSVĚTLENÍ\nKOLEKTORY\nREKLAMA\nINFORMAČNÍ A KOMUNIKAČNÍ TECHNOLOGIE\nTechnické sítě Brno,\nakciová společnost\nBarvířská 5, 602 00 Brno (\nmapa\nIČ: 25512285\nDIČ: CZ25512285\nRecepce: 545 424 030\nE-mail: podatelna@tsb.cz\nID datové schránky: 55kgizb\nPro hlášení poruch kontaktujte centrální dispečink:\nBezplatná linka: 800 100 312\nE-mail: dispecink@tsb.cz\nDotační projekty\nKolektory - rezervace pro firmy\nKlíčové činnosti\n____\nVeřejné osvětlení\nKolektory\nSlužby ICT a KB\nVenkovní reklama\nStaráme se o\n____\nSlavnostní osvětlení\nBrněnské Vánoce\nBrněnský orloj\nPolygon veřejného osvětlení\nPro městské části\n____\nSlužby datových center\nSlužby kybernetické bezpečnosti\nNasvětlení přechodů pro chodce\nCeloroční nabídka stánků\nKvětinová výzdoba\nSlužby specialistů\n____\nMěření intenzity osvětlení\nMěření statiky sloupů osvětlení\nInvestice a projekce\nVytyčení sítí veřejného osvětlení\nVyjádření ke stavebním záměrům\nLokalizace poruch vedení\nSlužby GIS\nO společnosti\n____\nKontakty\nProfil společnosti\nOrgány společnosti\nSystémy řízení\nVýroční zprávy\nVeřejné zakázky\nOchrana osobních údajů\nCompliance program\nCeník služeb\nKariéra\nInformace podle zákona\nMédia\n____\nVideo prezentace\nPro média\nFacebook\nPoužíváme cookies, abychom vám zajistili bezproblémové zobrazování internetových stránek.\nVíce informací o tom, které soubory cookies používáme, nebo jejich vypnutí najdete v\nnastavení\nZavřít cookie lištu GDPR\nPřijmout\nOdmítnout\nNastavení\nZavřít cookie lištu GDPR\nZavřít nastavení souborů cookie GDPR\nPřehled ochrany osobních údajů\nNezbytně nutné soubory cookies\nPowered by Technické sítě Brno, akciová společnost\nGDPR Cookie Compliance\nPřehled ochrany osobních údajů\nTSB přistupuje k ochraně osobních údajů s maximální zodpovědností. Přehled ochrany osobních údajů včetně kontaktu pro oblast ochrany osobních údajů naleznete\nzde\nDalší odkazy:\nProhlášení o zpracování osobních údajů a o právech a povinnostech s tímto spojených\n(PDF)\nŽádost subjektu údajů k uplatnění práv\n(PDF)\nSlovník pojmů GDPR\n(PDF)\nNezbytně nutné soubory cookies\nNezbytně nutné soubory cookie by měli být vždy povoleny, aby bylo možno uložit vaše preference nastavení souborů cookie a nedošlo ke komplikacím při zobrazování internetových stránek tsb.cz.\nPovolit nebo zakázat cookies\nPovoleno\nVypnuto\nPovolit vše\nUložit změny"
+    },
+    "contact_page": {
+      "url": "https://www.tsb.cz/kontakt",
+      "text": "Kontakty | Technické sítě Brno\nZELENÁ LINKA (HLÁŠENÍ PORUCH):\n800 100 312\nKOLEKTORY (REZERVACE PRO FIRMY)\nŽÁDOST O VYJÁDŘENÍ\nVEŘEJNÉ ZAKÁZKY\nVIDEO PREZENTACE\nKONTAKTNÍ ÚDAJE\nCENTRÁLNÍ DISPEČINK\nPro hlášení poruch kontaktujte:\nBezplatná linka:\n800 100 312\nE-mail: dispecink@tsb.cz\nProvoz centrálního dispečinku je NONSTOP.\nKONTAKT PRO MÉDIA\nE-mail: media@tsb.cz\nPODATELNA, RECEPCE\nAdresa:\nBarvířská 5, Brno – Zábrdovice\nProvozní doba: pondělí až pátek 6 – 18 h.\nTelefon: 545 424 030\nID datové schránky: 55kgizb\nE-mail: podatelna@tsb.cz\n(tento email primárně používejte pro komunikaci, včetně zasílání e-faktur)\nInformace o provozu podatelny a o podmínkách přijímání dokumentů\nSPECIALIZOVANÁ PRACOVIŠTĚ\nOddělení GIS:\nSvážná 29, Brno – Nový Lískovec\nTelefon: 545 424 094\nE-mail: gis@tsb.cz\nHodiny pro veřejnost:\nPondělí, Středa  8 – 14h\nOdbor správy majetku:\nBarvířská 5, Brno – Zábrdovice\nTelefon: 545 424 072\nHodiny pro veřejnost:\nPondělí, Středa 8 – 14h\nKONTAKTNÍ ÚDAJE JEDNOTLIVÝCH ÚSEKŮ\nÚsek GŘ\n______________________\nSekretariát GŘ / Kontakt pro média\nVedoucí sekretariátu GŘ\nMgr. Kristýna Maradová\ntel: 545 424 012\ne-mail: sekretariat@tsb.cz\nAsistentka GŘ\nMgr. Michaela Gerychová\nVeronika Kachlíková\ntel: 545 424 032\nManager HR\nJana Maťovčíková\ntel: 545 424 014\ne-mail: personalista@tsb.cz\nManager kvality a bezpečnosti / Kontakt pro oblast ochrany osobních údajů\nIng. Zdeněk Forman, LL.M.\ntel: 545 424 017\ne-mail: oou@tsb.cz\nManažer kybernetické bezpečnosti / Kontakt pro oblast KB\nRoman Veselý\ntel: 545 424 023\ne-mail: kb@tsb.cz\nPrávník\nMgr. Petra Lavická, Ph.D.\ntel: 545 424 024\ne-mail: lavicka@tsb.cz\nÚsek EŘ\n______________________\nEkonomický ředitel\nIng. Petr Šmerda, MBA., LL.M.\ntel: 545 424 020\nOdbor Hospodářské správy a nákupu\nIng. Jiří Pokorný\ntel: 545 424 076\nOdbor reklama\ntel.: 545 424 069 – obchodní referentka\ntel.: 545 424 051 – referentka, fakturantka\ne-mail: reklama@tsb.cz\nÚsek PTŘ\n______________________\nProvozně-technický ředitel\nIng. Josef Šaroun\ntel: 545 424 065\nReferent V"
+    }
+  }
+}

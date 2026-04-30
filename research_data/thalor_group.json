@@ -1,0 +1,114 @@
+{
+  "company_key": "thalor group",
+  "company_name": "THALOR Group",
+  "domain": "",
+  "domain_url": "",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "THALOR Group",
+    "opportunity_score": 20,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.5,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.5,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "17523451",
+    "official_name": "THALOR Group a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "82100",
+      "G",
+      "K",
+      "00",
+      "28",
+      "68200",
+      "14",
+      "00",
+      "14",
+      "28",
+      "6820",
+      "8211",
+      "G",
+      "J"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Aditivní 1443/1, 78985 Mohelnice, Mohelnice, Aditivní, 78985",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "TOMÁŠ DOKOUPIL",
+        "firstName": "TOMÁŠ",
+        "lastName": "DOKOUPIL",
+        "jobTitle": "předseda správní rady",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "FILIP DOKOUPIL",
+        "firstName": "FILIP",
+        "lastName": "DOKOUPIL",
+        "jobTitle": "člen správní rady",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DAVID PALOUŠEK",
+        "firstName": "DAVID",
+        "lastName": "PALOUŠEK",
+        "jobTitle": "člen správní rady",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DAVID KADLČÍK",
+        "firstName": "DAVID",
+        "lastName": "KADLČÍK",
+        "jobTitle": "člen správní rady",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-23 15:46"
+}

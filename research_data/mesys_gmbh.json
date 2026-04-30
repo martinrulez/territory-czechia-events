@@ -1,0 +1,170 @@
+{
+  "company_key": "mesys gmbh",
+  "company_name": "MeSys GmbH",
+  "domain": "www.mesys.ch",
+  "domain_url": "https://www.mesys.ch",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "MeSys GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 9,
+    "revenue": 3830,
+    "zi_company_name": "Mesys",
+    "zi_domain": "www.mesys.ch",
+    "zi_city": "Zürich",
+    "zi_country": "Switzerland",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.mesys.ch",
+    "homepage": {
+      "title": "MESYS AG | Software für technische Berechnungen im Maschinenbau",
+      "description": "",
+      "text_excerpt": "MESYS AG | Software für technische Berechnungen im Maschinenbau\nEnglish\nDeutsch\nEspañol\n日本語\nItaliano\nMESYS Software für technische Berechnungen im Maschinenbau\nWellenberechnung\nDie Wellenberechnung erlaubt die Berechnung von koaxialen Wellensystemen mit Berücksichtigung nichtlinearer Lagersteifigkeiten. Wellenfestigkeit nach DIN 743 sowie die Berechnung von Eigenfrequenzen sind integriert.\nDetails\nWälzlagerberechnung\nDie MESYS Wälzlagerberechnung bestimmt die Lastverteilung sowie die Lebensdauer nach DIN 26281. Damit lässt sich der Einfluss von Kippwinkeln und Lagerspiel berücksichtigen.\nDetails\nKugelgewindetriebe\nDie Lastverteilung und Lebensdauer von Kugelgewindetrieben wird analog DIN 26281 berechnet. Dies erlaubt neben Axialkräften auch Radialkräfte und Kippmomente zu berücksichtigen.\nDetails\nAxial-Radial-Rollenlager\nDie FE-basierte Berechnung für Axial-Radial-Rollenlager erlaubt die Berücksichtigung der Deformation der Lagerringe auf die Lastverteilung im Lager. Axial-, Radial-, Kreuz- und Schrägrollenlager werden unterstützt.\nDetails\nWellensysteme\nDie Wellensystemberechnung erlaubt die Berechnung von Wellensystemen mit Kopplung der Wellen durch Verzahnungen und Riemen. Lastkollektive, Eigenfrequenzen auf Systemebene sowie Schnittstellen zu Verzahnungsberechnungen erweitern die Möglichkeiten der Wellenberechnung.\nDetails\nFEM-Integration\nDie FEM-Integration in der Wellenberechnung erlaubt die genauere Berücksichtigung von Steifigkeiten über 3D-elastische Bauteile für Wellen, Gehäuse und Planetenträger. Elastische Lagerringe und elastische Radkörper werden unterstützt.\nDetails\nStirnradberechnung\nBerechnung von Verzahnungsgeometrie sowie Festigkeit nach ISO 6336 von Stirnradpaaren als eigenständiges Programm oder integriert in die Wellensystemberechnung.\nDetails\nDie MESYS AG in Zürich entwickelt Software für technische Berechnungen im Maschinenbau. Der Schwerpunkt ist die Auslegung von Maschinenelementen (Verzahnungen, Wälzlager, Schrauben, …). Neben Standardsoftware wird auch kundenspezifische Software entwickelt. Lassen Sie uns Ihre Software modernisieren.\nWir unterstützen Sie auch in der Auslegungen von Maschinenelementen insbesondere von Verzahnungen oder bei der Erstellung von Festigkeitsnachweisen mit moderner Berechnungssoftware.\nDie MESYS Software wird bereits von Kunden aus 32 Ländern auf vier Kontinenten eingesetzt.\nWälzlagerberechnung\nDie MESYS Wälzlagerberechnung bestimmt die Lastverteilung sowie die Lebensdauer nach DIN 26281. Damit lässt sich der Einfluss von Kippwinkeln und Lagerspiel berücksichtigen.\nWellensysteme\nDie Wellensystemberechnung erlaubt die Berechnung von Wellensystemen mit Kopplung der Wellen durch Verzahnungen und Riemen. Lastkollektive, Eigenfrequenzen auf Systemebene sowie Schnittstellen zu Verzahnungsberechnungen erweitern die Möglichkeiten der Wellenberechnung.\nStirnradberechnung\nBerechnung von Verzahnungsgeometrie sowie Festigkeit nach ISO 6336 von Stirnradpaaren als eigenständiges Programm oder integriert in "
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "MeSys GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 8,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Hetzner",
+        "vendor": "Hetzner Online GmbH",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "MeSys GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Maurits",
+        "last_name": "Vanwassenaer",
+        "title": "Manager",
+        "email": "maurits.vanwassenaer@mesys.ch",
+        "phone": "",
+        "company": "Mesys",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 77.0
+      },
+      {
+        "first_name": "Erik",
+        "last_name": "Hinselmann",
+        "title": "Test Engineer",
+        "email": "erik.hinselmann@mesys.ch",
+        "phone": "",
+        "company": "Mesys",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 76.0
+      },
+      {
+        "first_name": "Elom",
+        "last_name": "Awator",
+        "title": "Technicien Permanent à La BIDC (Remplacant)",
+        "email": "eawator@mesys.ch",
+        "phone": "",
+        "company": "Mesys",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 92.0
+      },
+      {
+        "first_name": "Herodote",
+        "last_name": "Adjaho",
+        "title": "BP 37 Badou",
+        "email": "herodote.adjaho@mesys.ch",
+        "phone": "",
+        "company": "Mesys",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 82.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 17:34"
+}

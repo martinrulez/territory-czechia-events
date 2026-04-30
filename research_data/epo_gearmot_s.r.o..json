@@ -1,0 +1,158 @@
+{
+  "company_key": "epo gearmot s.r.o.",
+  "company_name": "EPO GEARMOT s.r.o.",
+  "domain": "www.epogm.cz",
+  "domain_url": "https://www.epogm.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "EPO GEARMOT s.r.o.",
+    "opportunity_score": 25,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.77,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.77,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "29455260",
+    "official_name": "EPO GEARMOT s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "G",
+      "33200",
+      "331",
+      "25",
+      "00",
+      "28",
+      "00",
+      "25",
+      "28",
+      "331",
+      "33200",
+      "G"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Vlčovice 310, 74221 Kopřivnice, Kopřivnice, 74221",
+    "zi_done": true,
+    "employee_count": 23,
+    "revenue": 972,
+    "zi_company_name": "EPO GEARMOT sro",
+    "zi_domain": "www.epogm.cz",
+    "zi_city": "Kopřivnice",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.epogm.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "EPO GEARMOT s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 1,
+    "all_technologies": [
+      {
+        "product": "SiteWit",
+        "vendor": "SiteWit, Corp",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "EPO GEARMOT s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Bohdana",
+        "last_name": "Harabišová",
+        "title": "Logistik",
+        "email": "harabisova@epogm.cz",
+        "phone": "",
+        "company": "EPO GEARMOT sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 95.0
+      },
+      {
+        "first_name": "Martin",
+        "last_name": "Gonos",
+        "title": "Jednatel",
+        "email": "patrik.gonos@epogm.cz",
+        "phone": "",
+        "company": "EPO GEARMOT sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Patrik",
+        "last_name": "Gonos",
+        "title": "Jednatel",
+        "email": "gonos@epogm.cz",
+        "phone": "",
+        "company": "EPO GEARMOT sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Daniel",
+        "last_name": "Bartoš",
+        "title": "Technická Podpora",
+        "email": "bartos@epogm.cz",
+        "phone": "",
+        "company": "EPO GEARMOT sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 94.0
+      },
+      {
+        "first_name": "Jan",
+        "last_name": "Zatopek",
+        "title": "Obchodník",
+        "email": "zatopek@epogm.cz",
+        "phone": "",
+        "company": "EPO GEARMOT sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 87.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 14:40"
+}

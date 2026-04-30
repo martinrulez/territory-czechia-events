@@ -1,0 +1,95 @@
+{
+  "company_key": "vŠb  – technickÁ univerzita ostrava",
+  "company_name": "VŠB  – TECHNICKÁ UNIVERZITA OSTRAVA",
+  "domain": "",
+  "domain_url": "",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "VŠB  – TECHNICKÁ UNIVERZITA OSTRAVA",
+    "opportunity_score": 12,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "05636230",
+    "official_name": "ZO VOS Fakulta materiálově-technologická, VŠB - Technická univerzita Ostrava",
+    "legal_form": "707",
+    "nace_codes": [
+      "94200",
+      "94200"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "17. listopadu 2172/15, Poruba, 70800 Ostrava, Ostrava, 17. listopadu, 70800",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "VŠB  – TECHNICKÁ UNIVERZITA OSTRAVA",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Jana",
+        "last_name": "Hakalová",
+        "title": "",
+        "email": "jana.hakalova@vsb.cz",
+        "phone": "",
+        "company": "Ekonomická fakulta, VŠB - Technická univerzita Ostrava",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 95.0
+      },
+      {
+        "first_name": "Xenie",
+        "last_name": "Lukoszová",
+        "title": "Docent",
+        "email": "",
+        "phone": "",
+        "company": "Ekonomická fakulta, VŠB - Technická univerzita Ostrava",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Jiri",
+        "last_name": "Franek",
+        "title": "Proděkan",
+        "email": "",
+        "phone": "",
+        "company": "Ekonomická fakulta, VŠB - Technická univerzita Ostrava",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 19:25"
+}

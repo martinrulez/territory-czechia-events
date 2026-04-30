@@ -1,0 +1,41 @@
+{
+  "company_key": "herrmann_ultrazvuk_s_r_o",
+  "company_name": "Herrmann Ultrazvuk s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "THOMAS MARKUS HERRMANN",
+        "firstName": "THOMAS MARKUS",
+        "lastName": "HERRMANN",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ANDRÉ DEPONTE",
+        "firstName": "ANDRÉ",
+        "lastName": "DEPONTE",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:35"
+}

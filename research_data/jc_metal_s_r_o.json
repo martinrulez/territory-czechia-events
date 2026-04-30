@@ -1,0 +1,218 @@
+{
+  "company_key": "jc_metal_s_r_o",
+  "company_name": "JC - METAL s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "JC - METAL s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 25,
+    "all_technologies": [
+      {
+        "product": "Facebook Analytics",
+        "vendor": "Facebook, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cookie Script",
+        "vendor": "Objectis Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "tawk.to",
+        "vendor": "tawk.to inc.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Google Dynamic Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "JQuery 1.11.1",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "KAREL TOMANEC",
+        "firstName": "KAREL",
+        "lastName": "TOMANEC",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "TAŤÁNA MALÁ",
+        "firstName": "TAŤÁNA",
+        "lastName": "MALÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:00",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.jcmetal.cz",
+    "homepage": {
+      "title": "JC-Metal - Výrobce upínacího nářadí",
+      "description": "Prodej svařovacích stavebnic Siegmund a výroba upínacího nářadí. Na trhu od roku 1997. Skvělá zákaznická podpora.",
+      "text_excerpt": "JC-Metal - Výrobce upínacího nářadí\nNabízíme\nProdukty\nŠiroký sortiment kvalitních produktů, nástrojů a svařovacích přípravků pro strojírenskou výrobu.\nVíce o produktech\nJak pracujeme\nProjekční a konstrukční práce na zakázku. Příprava individuálních přípravků a řešení v oblasti svařování, obrábění kovu a další strojařské výroby.\nVíce informací\nSlužby\nDíky kvalitnímu vybavení pro obrábění, povrchovou úpravu a další zpracování kovů nabízíme širokou škálu služeb v těchto oblastech.\nVíce o službách\nO nás\nVysoká kvalita\nRozumná cena\nRychlé dodání\nNaše hodnoty\nPrávě teď na e-shopu\nHáková Upínka 415\nKoupit na e-shopu\nHáková Upínka 430\nKoupit na e-shopu\nRukojeť\nKoupit na e-shopu\nVíce\nproduktů\nna e-shopu\nAktuálně z JC-METAL\nMSV ve znamení pevného spojení\nPřečíst celý článek\nPřijďte se za námi podívat na MSV v Brně\nPřečíst celý článek\nS technikou to umíme. Nyní zvyšujeme výkon i v komunikaci\nPřečíst celý článek\nZobrazit více aktualit\nZajímají vás novinky ze světa strojařiny?\nOdebírejte náš newsletter\nKariéra\nZákladem firmy jsou její zaměstnanci\nPřidejte se k nám\nLíbí se vám naše práce?\nKontaktujte nás\neco mode\noff"
+    },
+    "about": {
+      "url": "https://www.jcmetal.cz/o-nas",
+      "text": "O nás\nZaručený standard kvality\nPečlivou a svědomitou prací na všech úrovních udržujeme trvale vysokou kvalitu.\nKrátké dodací termíny\nObjednávky skladových položek vyřizujeme do 24 hodin.\nZáruka\nZaručujeme dodržování maximální kvality v průběhu celého výrobního procesu. Případné připomínky vyřizujeme seriózně, ihned, a je-li to možné i po záruční době.\nOdborné poradenství\nZaměstnáváme lidi, kteří rozumějí své práci. S řešením vašich problémů pomohou rychle a spolehlivě naši odborní pracovníci. Stačí zavolat.\nIndividuální vývoj\nStane-li se, že vám sortiment našich výrobků nevyhovuje, společně navrhneme zvláštní provedení výrobku, případně celou novou konstrukci.\nGalerie\nŘekněte nám\nvaše přání\nKontaktujte nás\nKontaktní formulář\nNapište nám v chatu\nInspirujte se\nUpínací klec Siegmund\nprohlédnout spolupráci\nNová svařovna s výbavou Siegmund\nprohlédnout spolupráci\nMAGNA – Portálové zařízení\nprohlédnout spolupráci\nZajímají vás novinky ze světa strojařiny?\nOdebírejte náš newsletter\neco mode\noff"
+    },
+    "products": {
+      "url": "https://www.jcmetal.cz/produkty",
+      "text": "Produkty | JC Metal\nRychloupínky RY-UP\nRychloupínky RY-UP a rychloupínací svěrky jsou určeny především pro upínání ve svařovacích, montážních nebo měřicích přípravcích a svařovacích polohovadlech. Předností rychloupínek RY-UP je precizní provedení s důrazem na životnost.\nVíce informací\nKoupit na e-shopu\nSvařovací stavebnice Siegmund\nStavebnice Siegmund s univerzálním systémem upínacích prvků jsou konstruovány jako modulární a nabízíme je v několika rozměrových řadách. Ačkoliv je celý systém stavebnice navržen především pro upínání při svařování, lze jej použít rovněž v jiných oblastech, např. pro upínání v měřicích či montážních přípravcích.\nVíce informací\nKoupit na e-shopu\nOtočný vozík\nUniverzální otáčecí mechanický vozík je určen pro robotizovaná svařovací pracoviště a je konstruován pro umístění na ocelové upínací podlaze Siegmund (nebo obdobné) s odpovídajícím rastrem a velikostí upínacích otvorů.\nVíce informací\nSvařovací buňka\nS pomocí nové svařovací buňky od společnosti Siegmund se vaše sériová výroba dostane na novou úroveň.\nVíce informací\nLaserová svařovací buňka\nRuční laserové svařování se rychle stalo důležitou součástí svařovací techniky. Aby byly splněny zvýšené bezpečnostní požadavky ručního laserového svařování, vyvinul Siegmund vhodnou buňku pro své svařovací stoly. Laserová svařovací buňka poskytuje povinnou ochranu před rozptýleným zářením a odrazy pro okolní lidi a předměty. Laserová svařovací buňka také snižuje rušení způsobené vnějšími faktory, jako je proudění vzduchu nebo částice nečistot.\nVíce informací\nSvěrky\nParalelní svěrky JC-Metal disponují dvěma šrouby se závitem, což umožňuje jejich rovnoběžné nastavení.\nVíce informací\nKoupit na e-shopu\nUpínací podlahy\nStatická podlaha se symetricky uspořádaným rastrem umožňuje přesné ukotvení přípravku a jejich zaindexování.\nVíce informací\nPolohovadla\nManuální a motorická polohovadla pro svařování umožňují snadnou manipulaci se svařovanými dílci, jejich nastavení do optimální polohy, a tudíž dosažení preciznějších svarů.\nVíce informací\nKoupit na e-shopu\nFaro Tracer\nlaserový projektor\nLaserový projektor Faro Tracer\npřesně promítá linku laseru na povrch nebo objekt a poskytuje tak virtuální vzor, který mohou operátoři a montéři použít pro rychlé a přesné pozicování komponent s absolutní jistotou. Lze jej uchytit například na svařovací stavebnici Siegmund.\nVíce informací\nMagnety Strong Hand\nVhodným doplňkem k výrobkům firmy JC-Metal a svařovacím stolům a příslušenství Siegmund jsou produkty společnosti Strong Hand Tools. Rozmanitá provedení magnetů (magnetických úhlových upínek) vám pomohou rozšířit vaše možnosti při řešení problematiky ustavení a upínání různých dílů.\nVíce informací\nKoupit na e-shopu\nUpínací kleště\nUpínací kleště mají promyšlený a robustní design, jejich použití je snadné, ale hlavně – zrychlí a zpřesní vaši práci.\nVíce informací\nKoupit na e-shopu\nDezinfekční stojan\nProdukt v podobě stojanu na dezinfekci nabízíme do veřejných budov, kanceláří a továren.\nVíce infor"
+    },
+    "contact_page": {
+      "url": "https://www.jcmetal.cz/kontakt",
+      "text": "Kontakt | JC Metal\nAdresa\nJC - METAL s. r. o.\nBobrky 2298\n75501 Vsetín\nTel: 571 811 990\nFakturační údaje\nJC - METAL s.r.o.\nBobrky 2298,\nVsetín, PSČ 75501\nIČ - 25366963 / DIČ - CZ25366963\nSpisová značka C 15824 vedená u Krajského soudu\nv Ostravě\nRychlý kontakt\nRychlý kontakt\n+420 571 811 990\njc-metal@jc-metal.cz\nVedení společnosti\nTaťána Malá\nJednatelka společnosti\nTel.:\n+420 603 586 434\nE-mail:\ntatana.mala@jc-metal.cz\nObchodní oddělení\nMichaela Pazderová\nObchodní oddělení\nTel.:\n+420 571 811 990\nMob.:\n+420 739 503 773\nE-mail:\nmichaela.pazderova@jc-metal.cz\nDalší oddělení\nKarel Tomanec\nKonstrukční oddělení\nTel.:\n+420 571 811 999\nMob.:\n+420 732 811 502\nE-mail:\nkarel.tomanec@jc-metal.cz\nOndřej Zdražil\nVedoucí výroby\nTel.:\n+420 571 811 997\nMob.:\n+420 604 401 199\nE-mail:\nvyroba@jc-metal.cz\nTereza Staňková\nEkonomické oddělení\nTel.:\n+420 571 811 992\nMob.:\n+420 733 181 950\nE-mail:\nfakturace@jc-metal.cz\nKarel Tomanec\nProjekty Siegmund\nTel.:\n+420 571 811 999\nMob.:\n+420 732 811 502\nE-mail:\nkarel.tomanec@jc-metal.cz\nVeronika Janušová\nProdej rychloupínek RY-UP\nTel.:\n+420 571 811 996\nMob.:\n+420 733 712 602\nE-mail:\nupinky@jc-metal.cz\nŽaneta Dorňáková\nRecepce\nTel.:\n+420 571 811 990\nMob.:\n+420 733 532 642\nE-mail:\nrecepce@jc-metal.cz\nOndřej Zdražil\nTPV\nTel.:\n+420 571 811 997\nMob.:\n+420 604 401 199\nE-mail:\nondrej.zdrazil@jc-metal.cz\nSpráva a údržba majetku\nMob.:\n+420 732 999 425\nE-mail:\nprovoz@jc-metal.cz\nMarketingové oddělení\nMob.:\n+420 603 471 140\nE-mail:\nmarketing@jc-metal.cz\nBankovní spojení pro CZK\nRaiffeisenbank a.s.\nČíslo účtu: 5024501654/5500\nBIC kód: RZBCCZPP\nIBAN: CZ9255000000005024501654\nBankovní spojení pro EUR\nRaiffeisenbank a.s.\nČíslo účtu: 5024501662/5500\nBIC kód: RZBCCZPP\nIBAN: CZ7055000000005024501662\nBankovní spojení pro PLN\nRaiffeisenbank a.s.\nČíslo účtu: 5024501654/5500\nBIC kód: RZBCCZPP\nIBAN: CZ9255000000005024501654\nZajímají vás novinky ze světa strojařiny?\nOdebírejte náš newsletter\neco mode\noff"
+    }
+  }
+}

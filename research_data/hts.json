@@ -1,0 +1,107 @@
+{
+  "company_key": "hts",
+  "company_name": "HTS",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "HTS",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "00371000",
+    "official_name": "Honeywell, spol. s r.o. - HTS CZ o.z.",
+    "legal_form": "501",
+    "nace_codes": [],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Tuřanka 1387/100, Slatina, 62700 Brno, Brno, Tuřanka, 62700",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "HTS",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Akinpelumi",
+        "last_name": "Adeniran",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "HTS",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Elena",
+        "last_name": "Nesterova",
+        "title": "Founder & Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "HTS",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 84.0
+      },
+      {
+        "first_name": "Billy",
+        "last_name": "Phillips",
+        "title": "Principal Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "HTS",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Nadson",
+        "last_name": "Souza",
+        "title": "Chief Executive Officer & Executive & Consultant & Corporate Advisor",
+        "email": "",
+        "phone": "",
+        "company": "HTS",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 18:05"
+}

@@ -1,0 +1,51 @@
+{
+  "company_key": "str_nsk_a_petr_k_pneumatick_v_lce_spol_s_r_o",
+  "company_name": "STRÁNSKÝ A PETRŽÍK, PNEUMATICKÉ VÁLCE, spol. s r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "TOMÁŠ PETRŽÍK",
+        "firstName": "TOMÁŠ",
+        "lastName": "PETRŽÍK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PETR STRÁNSKÝ",
+        "firstName": "PETR",
+        "lastName": "STRÁNSKÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "BOHUMÍRA HORÁKOVÁ",
+        "firstName": "BOHUMÍRA",
+        "lastName": "HORÁKOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:23"
+}

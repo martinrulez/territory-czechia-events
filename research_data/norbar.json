@@ -1,0 +1,81 @@
+{
+  "company_key": "norbar",
+  "company_name": "Norbar",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Norbar",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 4,
+    "revenue": 770,
+    "zi_company_name": "Norbar",
+    "zi_domain": "",
+    "zi_city": "West Chester",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No technographics found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Norbar",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Keith",
+        "last_name": "Daiber",
+        "title": "President",
+        "email": "",
+        "phone": "",
+        "company": "Norbar Torque Tools",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "William",
+        "last_name": "Brodey",
+        "title": "Founder",
+        "email": "",
+        "phone": "",
+        "company": "Norbar Torque Tools",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 79.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 17:19"
+}

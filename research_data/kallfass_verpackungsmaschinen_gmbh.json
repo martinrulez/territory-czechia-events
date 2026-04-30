@@ -1,0 +1,185 @@
+{
+  "company_key": "kallfass verpackungsmaschinen gmbh",
+  "company_name": "KALLFASS VERPACKUNGSMASCHINEN GmbH",
+  "domain": "www.kallfass.de",
+  "domain_url": "https://www.kallfass.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "KALLFASS VERPACKUNGSMASCHINEN GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 67,
+    "revenue": 11817,
+    "zi_company_name": "Kallfass Verpackungsmaschinen",
+    "zi_domain": "www.kallfass.de",
+    "zi_city": "Nurtingen",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.kallfass.de",
+    "homepage": {
+      "title": "Home - KALLFASS",
+      "description": "Kallfass Verpackungsmaschinen GmbH",
+      "text_excerpt": "Home - KALLFASS\nLogin\nMenu\nKallfass-Wrap®\nReceived another award!\nYour Career at Kallfass\nWe are looking for you!\nSustainable & future-oriented\nWe pack in paper\nPackaging rethought\nKallfass is granted patent\nWhich machine for your product?\nVideos\nMachines\nNews\nPackaging principles\nService\n© 2026 Kallfass Verpackungsmaschinen GmbH  ǀ\nImprint\nData protection\nContact"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.kallfass.de/kontakt",
+      "text": "Kontakt - KALLFASS\nLogin\nMenü\nSie haben eine Frage zu unseren Produkten und Dienstleistungen oder wünschen ein konkretes Angebot? Wir sind gerne für Sie da und beantworten Ihre Anfrage telefonisch oder per E-Mail.\nKontakt per Telefon: +49 (0) 7022 607-0\nOnline Kontakt / Anfrage / Bewerbung\nAngaben\nAnrede\nHerr\nFrau\nName\nUnternehmen\nTelefon\nE-Mail\nIhre Nachricht\nPrivacy information / Datenschutz\nYes, i have read the\ndata protection information\n. I agree.\nJa, Ich habe die\nDatenschutzinformationen\ngelesen. Ich stimme zu.\nDiese Feld nicht ausfüllen!\n© 2026 Kallfass Verpackungsmaschinen GmbH  ǀ\nImpressum\nDatenschutz\nKontakt"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "KALLFASS VERPACKUNGSMASCHINEN GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 14,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "TYPO3 CMS",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Parsley",
+        "vendor": "",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "KALLFASS VERPACKUNGSMASCHINEN GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Harald",
+        "last_name": "Bayer",
+        "title": "Project Manager",
+        "email": "h.bayer@kallfass.com",
+        "phone": "+49 7022 607226",
+        "company": "Kallfass Verpackungsmaschinen",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Thorsten",
+        "last_name": "Jabben",
+        "title": "Project Manager",
+        "email": "t.jabben@kallfass.com",
+        "phone": "+49 7022 607238",
+        "company": "Kallfass Verpackungsmaschinen",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 86.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 17:53"
+}

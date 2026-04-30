@@ -1,0 +1,31 @@
+{
+  "company_key": "goodvision_s_r_o",
+  "company_name": "GoodVision s.r.o.",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "DANIEL ŠTOFAN",
+        "firstName": "DANIEL",
+        "lastName": "ŠTOFAN",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:23"
+}

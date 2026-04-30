@@ -1,0 +1,24 @@
+{
+  "company_key": "ampco_metal_s_r_o",
+  "company_name": "Ampco Metal s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {},
+  "research_timestamp": "2026-04-24 17:06:33",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.metalmb.cz",
+    "homepage": {
+      "title": "",
+      "description": "",
+      "text_excerpt": ""
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

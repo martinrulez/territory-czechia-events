@@ -1,0 +1,202 @@
+{
+  "company_key": "enika_cz_s_r_o",
+  "company_name": "ENIKA.CZ s.r.o.",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026",
+  "technographics": {
+    "success": true,
+    "company": "ENIKA.CZ s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 16,
+    "all_technologies": [
+      {
+        "product": "BPMN",
+        "vendor": "Object Management Group",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Smartsupp",
+        "vendor": "Smartsupp.com, s.r.o.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Adobe Typekit",
+        "vendor": "Adobe Inc.",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Daniel Sacky",
+        "firstName": "Daniel",
+        "lastName": "Sacky",
+        "jobTitle": "Product Manager",
+        "email": "d.sacky@enika.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Norbert Wilhelm",
+        "firstName": "Norbert",
+        "lastName": "Wilhelm",
+        "jobTitle": "Manager, Strategic Business",
+        "email": "n.wilhelm@enika.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Pavel Macak",
+        "firstName": "Pavel",
+        "lastName": "Macak",
+        "jobTitle": "Manager, Research & Development",
+        "email": "p.macak@enika.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Iva Bockova",
+        "firstName": "Iva",
+        "lastName": "Bockova",
+        "jobTitle": "Manager, Purchasing & Logistics",
+        "email": "i.bockova@enika.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Marián Tomášik",
+        "firstName": "Marián",
+        "lastName": "Tomášik",
+        "jobTitle": "Head of Sales, System Solutions",
+        "email": "m.tomasik@enika.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Radovan Smidrkal",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "sales manager ve společnosti ENIKA",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.linkedin.com/company/enika.cz"
+      }
+    ],
+    "total_found": 6,
+    "sources_used": [
+      "zoominfo",
+      "website"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:05:26",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.enika.eu",
+    "homepage": {
+      "title": "Enika Nova Paka",
+      "description": "Czech manufacturer of wireless technologies, distributor of lighting and electrical components.",
+      "text_excerpt": "Enika Nova Paka\nContact us\nLoad\nSystem solutions\nControl system Poseidon®\nControl system Poseidon® City\nEnergy consumption monitoring system Navisys\nLuminaires\nIndustry\nSports ground\nOffice and retail\nWorkplace-System Luminaires\nAdvertising surface\nPublic places\nMagnifying glass with lighting\nGarden and architecture\nDisinfection UV-C luminaires\nShow the whole assortment\nMore than 20 000\nitems in stock\nComponents\nProtection\nCooling systems\nSwitching\nConnecting\nPower supply\nWireless communication\nMotions\nMeasurement and controls\nSensors\nElectromechanical components\nClearance sale\nKomponenty pro obnovitelné zdroje energií\nShow the whole assortment\nMore than 20 000\nitems in stock\nAbout us\nContacts\nCareers\nLog In\nCart\nSearch\nCZECH MANUFACTURER OF WIRELESS TECHNOLOGIES\nDISTRIBUTOR OF LIGHTING AND ELECTRICAL COMPONENTS\nSystem solutions\nControl system POSEIDON®\nControl system POSEIDON® City\nEnergy consumption  monitoring system NAVISYS\nMore »\nLighting\nIndustrial lights\nLights for sports grounds\nGarden lights\nArchitectural lights\nMore »\nElectro- components\nElectomechanical components\nPower supply\nSensors and drivers\nStructural elements\nMore »\nNews\nJmenování nového ředitele společnosti\n15. 4. 2025\nS účinností od 15. dubna 2025 se pan Lukáš Majkuth stává novým generálním ředitelem a prokuristou společnosti ENIKA.CZ s.r.o.\nPřečíst\nENIKA.cz se zapojuje do digitální transformace s podporou EU\n3. 2. 2025\nNaše firma je hrdou součástí projektu Digitální transformace podniku ENIKA.CZ s.r.o., který nám umožní modernizovat procesy, zefektivnit výrobu a posílit naši konkurenceschopnost.\nPřečíst\nZapomeňte na kabely\n3. 10. 2024\nProdražení projektu díky kabeláži a elektromontážním pracím patří minulosti. Díky bezdrátovému systému si můžete přizpůsobit osvětlení podle vašich potřeb kdykoliv a odkudkoliv, včetně míst, která jsou pro běžnou instalaci nedostupná či nebezpečná (mokré prostory, hořlavé podklady, sklo atd.).\nPřečíst\nOlder\nAktuální informace naleznete na našem\nLinkedIn profilu\nAbout us\nWe are a purely Czech company that was founded in 1990. We are one of the leading manufacturers of wireless control systems with our own development base. Our portfolio includes systems for light and shade control, wireless sensors, switches and receivers, thermostats, programmable contact-making clocks and dimmers. We are also exclusive distributors of a whole range of renowned international companies supplying lighting appliances and electrical components. Our portfolio includes brands such as Waldmann, PiL, Spittler, Carlo Gavazzi, Omega, Italtronic and other.\nYears in the market\nExport countries\nSuccess factors\n-&nbspOur Employees\n16045\nItems on eshop\nDo you have a query?\n+420 493 773 331\nenika@enika.cz\nInformation panel\nZÍSKALI JSME ODZNAK ECOVADIS !\nZískali jsme odznak 'Commited' od systému EcoVadis, který ocenil naše úsilí v oblasti udržitelnosti a sociální odpovědnosti. Toto ocenění bereme nejen jako potvrzení dosavadního úsilí, ale také jako výzvu k dalšímu zlepšování.\nP"
+    },
+    "about": {
+      "url": "https://www.enika.eu/o-nas",
+      "text": "About us - Enika Nová Paka\nContact us\nLoad\nSystem solutions\nControl system Poseidon®\nControl system Poseidon® City\nEnergy consumption monitoring system Navisys\nLuminaires\nIndustry\nSports ground\nOffice and retail\nWorkplace-System Luminaires\nAdvertising surface\nPublic places\nMagnifying glass with lighting\nGarden and architecture\nDisinfection UV-C luminaires\nShow the whole assortment\nMore than 20 000\nitems in stock\nComponents\nProtection\nCooling systems\nSwitching\nConnecting\nPower supply\nWireless communication\nMotions\nMeasurement and controls\nSensors\nElectromechanical components\nClearance sale\nKomponenty pro obnovitelné zdroje energií\nShow the whole assortment\nMore than 20 000\nitems in stock\nAbout us\nContacts\nCareers\nLog In\nCart\nSearch\nMain page\nAbout us\nAbout us\nOur mission\nWe are a Czech company with tradition and a personal approach. Thanks to innovation, quality and teamwork, we bring smart solutions to our customers.\nOur vision\nTo be the first customer choice for individual and demanding projects.\nWHAT WE DO\nDEVELOPMENT & PRODUCTION - AN IMPORTANT PILLAR OF THE COMPANY\nOur areas of specialization are wireless technologies and smart solutions for industrial complexes, office buildings, sports facilities, and towns and cities. We are also exclusive distributors of lighting products and electrical components. We provide our customers with comprehensive solutions in the areas of lighting, lighting control, energy metering, access systems, and custom development tailored to their specific needs.\nReference\nOUR COMPANY VALUES\nEach letter in our company name represents one of the values that underpin our work and relationships. Together, they form the foundation of our corporate culture - how we think, how we act and how we work together. These values guide us in every decision we make - from product development to the everyday communication between ourselves and our partners.\nAre you interested in our direction? See if we have a suitable position for you.\nCareer\nCOMPANY HISTORY\nThe foundations of the company ENIKA.CZ were laid by friends Michal Geisler and Jiří Vávra back in 1990, when they together produced connecting cables for audio and video. Gradually, through cables, repairs of small electronics, and motion sensors for security technology, they got to switching lighting, which is the essence of what ENIKA.CZ is still doing today.\nRead about how it all started in the articles below.\nHow it all began\n35 years of Enika.cz\nEXCLUSIVE COLLABORATION\nBased on customer requirements, we\ndevelop and manufacture turnkey electronics and electronic devices\naccording to applicable technical standards and within the framework of an established quality management system according to ISO 9001.\nLONG-TERM COOPERATION WITH MANUFACTURERS ALL OVER THE WORLD\nWe have been developing a long-term sales representation for a wide portfolio of foreign lighting equipment manufacturers, automation component manufacturers, and electromechanical component manufacturers.\nOur customers include most large electrical installation companies and specialized wholesalers in the Czech and Slovak Republics.\nOUR PRODUCTS TO THE WHOLE WORLD\nOur constantly expanding distribution network across Europe confirms that our products meet even the most stringent criteria and can withstand a highly competitive environment. At the same time, it is a huge motivation for us to improve, innovate and develop our products.\nCooperation\nYears in the market\nExport countries\nSuccess factors\n-&nbspOur Employees\n16045\nItems on eshop\nWe can make a tailor-made solution. We understand the principles, the design, we can test the product and modify it so that it really works. That is our strength – flexibility and practical experience. When development is in someone else's hands, communication is lost and the price increases. With us, everything is by personal agreement, therefore more efficient.\n- interview with the owner Jiří Vávra (35 years ENIKA.CZ - 12/2025)\nContact form\nSubscribe to newslette"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.enika.eu/kontakt",
+      "text": "Kontakty - Enika Nová Paka\nContact us\nLoad\nSystem solutions\nControl system Poseidon®\nControl system Poseidon® City\nEnergy consumption monitoring system Navisys\nLuminaires\nIndustry\nSports ground\nOffice and retail\nWorkplace-System Luminaires\nAdvertising surface\nPublic places\nMagnifying glass with lighting\nGarden and architecture\nDisinfection UV-C luminaires\nShow the whole assortment\nMore than 20 000\nitems in stock\nComponents\nProtection\nCooling systems\nSwitching\nConnecting\nPower supply\nWireless communication\nMotions\nMeasurement and controls\nSensors\nElectromechanical components\nClearance sale\nKomponenty pro obnovitelné zdroje energií\nShow the whole assortment\nMore than 20 000\nitems in stock\nAbout us\nContacts\nCareers\nLog In\nCart\nSearch\nMain page\nContacts\nCONTACTS\nENIKA.CZ s.r.o.\nVlkov 33\n509 01 Nová Paka\nCzech Republic\nIČO 28218167\nDIČ CZ28218167\nOperating hours:\nMonday - Friday 7:30 - 16:00\ntel.\n+420 493 773 311\nenika@enika.cz\nInvoices:\nfaktury@enika.cz\nBank account number 261232301/0300 ČSOB\nThe company is registered at the Regional Court in Hradec Králové, file mark C 49375\ncontact form\nsales representatives\nmore about us\ncareer\nENIKA.SK S.R.O.\nZámocká 30\n811 01 Bratislava\nSlovenská republika\ntel.\n+421 255 574 515\nIČO: 35952849\nIČ DPH: SK2022051361\nBank account number: 4011 536 159 / 7500, ČSOB a.s. Bratislava\nThe company is registered at the Municipal Court Bratislava III, file mark 37390/B\nCUSTOMER CARE DEPARTMENT\nprodej@enika.cz\ntel.\n+420 493 773 311\nCOMPANY MANAGEMENT\nvedeni@enika.cz\nCLAIMS DEPARTMENT\nreklamace@enika.cz\ntel.\n+420 493 773 338\nACCOUNTING DEPARTMENT\nuctarna@enika.cz\ntel.\n+420 493 773 381\nWHISTLEBLOWER PROTECTION\nvos@enika.cz\nSubscribe to newsletters\nAnd get an overview of all the news and events\nSubmit\nEnika.cz\nBuilding automation\nComponents\nReferences\nNews\nCooperation\nCertificates\nContacts\nAbout us\nDalší odkazy\nCareers\nDownloads\nTutorials\nCustomised development\nSearch\nMedia\nWe support\nTake-back of old electrical equipment/batteries\nSocial networks\n©"
+    }
+  }
+}

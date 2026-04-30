@@ -1,0 +1,123 @@
+{
+  "company_key": "sankov",
+  "company_name": "Sankov",
+  "domain": "www.paltower.com",
+  "domain_url": "https://www.paltower.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Sankov",
+    "opportunity_score": 33,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.65,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.65,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "48126098",
+    "official_name": "Svetozar ŠANKOV",
+    "legal_form": "101",
+    "nace_codes": [
+      "471",
+      "62",
+      "471",
+      "620"
+    ],
+    "ares_segments": [
+      "M&E"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Vaníčkova 1911/5, Břevnov, 16900 Praha 6, Praha, Vaníčkova, 16900",
+    "is_client": true,
+    "current_products": "PDMC | Vault",
+    "total_seats": "3",
+    "current_acv_eur": "9800.0",
+    "potential_acv_eur": "17350.0",
+    "nearest_renewal": "2026-06-28",
+    "days_to_renewal": "66",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Advanced CAM and manufacturing capabilities",
+    "all_upsells": "Fusion Mfg Ext; Moldflow; Flex",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Industrial Machinery",
+    "ml_domain": "www.sukov.cz",
+    "zi_done": true,
+    "employee_count": 8,
+    "revenue": 1563,
+    "zi_company_name": "Maurer Industrieprodukte",
+    "zi_domain": "www.paltower.com",
+    "zi_city": "Hudiksvall",
+    "zi_country": "Sweden",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.paltower.com",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Sankov",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 1,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Heinz Maurer",
+        "firstName": "Heinz",
+        "lastName": "Maurer",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-23 08:41",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "vault",
+        "moldflow"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

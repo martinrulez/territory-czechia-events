@@ -1,0 +1,94 @@
+{
+  "company_key": "worldia europe gmbh",
+  "company_name": "Worldia Europe GmbH",
+  "domain": "www.worldia-europe.com",
+  "domain_url": "https://www.worldia-europe.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Worldia Europe GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 27,
+    "revenue": 14702,
+    "zi_company_name": "Worldia Europe",
+    "zi_domain": "www.worldia-europe.com",
+    "zi_city": "Herrenberg",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.worldia-europe.com",
+    "homepage": {
+      "title": "Worldia Europe GmbH",
+      "description": "Worldia Europe GmbH",
+      "text_excerpt": "Worldia Europe GmbH\nSkip to content\nSHAPING YOUR WORLD WITH DIAMOND\nShop Now\nSHAPING YOUR WORLD WITH DIAMOND\nShipping from  71083 Herrenberg , Germany\nWhat We Stand For\nWorldia is a leading manufacturer of high-quality, superhard cutting tools (PCD, CVDD, PCBN) based in China and employing more than 1100 people worldwide. The company has been in existence for over 20 years and is listed on the Chinese stock market. Innovation, a focus on technology, highest quality standards and consistent customer orientation have enabled Worldia to grow steadily and invest in new product areas and locations.\nInsert collections\nPCD Inserts\nPCD Inserts\nCBN Inserts\nCBN Inserts\nView all\nSubscribe to our newsletter\nBe the first to know about new collections and exclusive offers!\nEmail\nChoosing a selection results in a full page refresh.\nOpens in a new window."
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.worldia-europe.com/products",
+      "text": "Collections\n– Worldia Europe GmbH\nSkip to content\nSHAPING YOUR WORLD WITH DIAMOND\nCollections\nSurper Hard Cutting Tools\nSHOP NOW\nAll products\nAll products\nPCBN Inserts\nPCBN Inserts\nCBN Inserts\nCBN Inserts\nPCD Inserts\nPCD Inserts\nCBN Standard Turning Insert\nCBN Standard Turning Insert\nPCD Standard Turning Insert\nManaNova is the name for Worldia's stock-keeping standard product portfolio. lt provides...\nPCD Standard Turning Insert\nSpecial Tools\nSpecial Tools\nRound Tools\nRound Tools\nPCD/ CBN Milling Insert\nPCD/ CBN Milling Insert\nPCD Turning Insert\nPCD Turning Insert\nPCD Tools\nPCD Tools\nPCD Threading Tools\nPCD Threading Tools\nPCD Reaming Tools\nPCD Reaming Tools\nPCD Mill Cutter\nPCD Mill Cutter\nPCD Grooving Insert\nPCD Grooving Insert\nPCD Face Milling Cutter\nPCD Face Milling Cutter\nPCD Boring Cutter\nPCD Boring Cutter\nMilling Cutters\nMilling Cutters\nDiamond Scrbing Wheel\nDiamond Scrbing Wheel\nCVD Diamond\nCVD Diamond\nCBN Turning Insert\nCBN Turning Insert\nCBN Tools\nCBN Tools\nCBN Grooving Tools\nCBN Grooving Tools\nCBN Face Milling Cutter\nCBN Face Milling Cutter\nSubscribe to our emails\nBe the first to know about new collections and exclusive offers.\nEmail\nChoosing a selection results in a full page refresh.\nOpens in a new window."
+    },
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Worldia Europe GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Tao",
+        "last_name": "Fang",
+        "title": "Managing Director",
+        "email": "",
+        "phone": "",
+        "company": "Worldia Europe",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Yue",
+        "last_name": "Yang",
+        "title": "Internal Sales",
+        "email": "",
+        "phone": "",
+        "company": "Worldia Europe",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 16:32"
+}

@@ -1,0 +1,104 @@
+{
+  "company_key": "supfina grieshaber gmbh & co. kg",
+  "company_name": "Supfina Grieshaber GmbH & Co. KG",
+  "domain": "www.supfina.de",
+  "domain_url": "https://www.supfina.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Supfina Grieshaber GmbH & Co. KG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 49,
+    "revenue": 11026,
+    "zi_company_name": "Supfina Grieshaber",
+    "zi_domain": "www.supfina.de",
+    "zi_city": "North Kingstown",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.supfina.de",
+    "homepage": {
+      "title": "Supfina - Supfina",
+      "description": "Supfina Grieshaber has many decades’ experience of superfinishing using stones and tapes as well as in economical machining systems for double-sided and tape grinding operations",
+      "text_excerpt": "Supfina - Supfina\nSelect your language\nDeutsch\nEnglish\nFrançais\n简体中文(中国)\nEngineering with High Precision\nNo matter the tolerance or requirements, let our decades of process know-how and machine tool building experience help you to improve efficiency and profitability.\nEngineering with High Precision\nNo matter the tolerance or requirements, let our decades of process know-how and machine tool building experience help you to improve efficiency and profitability.\nFunctionally perfect surfaces\nUnique applications - Custom solutions\nWhether it’s low-volume attachments or complete machining solutions with automation, we work together with you to review your existing production structure and meet any requirements in the following areas:\nSuperfinishing\nSuperfinishing\nFlat Finishing\nPrecision Abrasive Machining\nFine Grinding\nDouble-Disk Grinding\nAttachments and Tools\nSuperfinishing Attachments\nTools\nPrecision Robotics Machining\nAutomation\nRobotics\nServices\nProving Precision\nOur technology centers provide the ability to run your workpieces on our machines in a practical environment, partnering with you to develop the optimal process for your application. A climate-controlled Metrology Lab with state-of-the-art measuring equipment delivers precise and reliable results.\nChallenge us!\nSupfina North America\n+1 401-294-6600\nThis email address is being protected from spambots. You need JavaScript enabled to view it.\n75 Years of Supfina\nYears of experience. Years of innovation. Years of teamwork.\nSince 1951, Supfina has stood for the highest level of precision in surface finishing. What began as a specialist in fine grinding technology has grown into a leading global technology partner. Our solutions improve efficiency, quality, and sustainability across a wide range of industries worldwide.\nFor us, 75 years of experience doesn’t mean standing still — it means moving forward. Together with our customers, we continuously drive progress through innovation and an uncompromising commitment to excellence.\nSeventy-five years of Supfina also represent teamwork, technological expertise, and always staying one decisive step ahead — together.\nSuperfinishing\nAlso called Micro finishing\nor short stroke honing\n3 terms - 1 process with exceptional properties. See here the Supfina solutions for this surface treatment.\nRaceway machining for roller bearings\nThroughfeed machining for rolling elements\nGrooving for shafts\nSpherical machining for ball bearings\nLearn more about\nSuperfinishing\nFor the flat surface\nAlways the right choice\nSuitable for every requirement, we offer the optimal process.\nMore about ...\nFlat Finishing\nMore about ...\nFine Grinding\nMore about ...\nDouble-Disk Grinding\nAttachments\nFor every application\nFrom Superfinishing attachments or add-on units for lathes and grinders to complete LeanSystems with automation.\nAre you looking for a solution? We have it.\nLearn more about\nAttachments\nTest Center\nUtilize our test center with a complete production area of superfin"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Supfina Grieshaber GmbH & Co. KG",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 1,
+    "all_technologies": [
+      {
+        "product": "GlobalSign",
+        "vendor": "GMO Registry, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Supfina Grieshaber GmbH & Co. KG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Thomas",
+        "last_name": "Berenbach",
+        "title": "Gebietsverkaufsleiter",
+        "email": "",
+        "phone": "",
+        "company": "Supfina Grieshaber",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Juergen",
+        "last_name": "Ketterer",
+        "title": "Konstrukteur",
+        "email": "",
+        "phone": "",
+        "company": "Supfina Grieshaber",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 16:49"
+}

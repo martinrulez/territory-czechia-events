@@ -1,0 +1,289 @@
+{
+  "company_key": "porr_a_s",
+  "company_name": "PORR a.s.",
+  "domain": "porr.cz",
+  "events": "BIM DAY 2026",
+  "technographics": {
+    "success": true,
+    "company": "PORR a.s.",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autodesk Revit"
+    ],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 37,
+    "all_technologies": [
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "SAP Human Capital Management",
+        "vendor": "SAP SE",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP SuccessFactors",
+        "vendor": "SAP SE",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "EFI Digital StoreFront",
+        "vendor": "Electronics For Imaging, Inc.",
+        "category": "Other E-Commerce Software",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Project",
+        "vendor": "Microsoft Corporation",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Autodesk Revit",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Autodesk AutoCAD",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "C",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Hetzner",
+        "vendor": "Hetzner Online GmbH",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "TYPO3 CMS",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DocuSign",
+        "vendor": "DocuSign Inc.",
+        "category": "Electronic Signatures",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Pavel Chronc",
+        "firstName": "Pavel",
+        "lastName": "Chronc",
+        "jobTitle": "Head of HR, Cz & Sk",
+        "email": "pavel.chronc@porr.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Lubos Bunata",
+        "firstName": "Lubos",
+        "lastName": "Bunata",
+        "jobTitle": "Head of HR, Department Cz Sk",
+        "email": "lubos.bunata@porr-group.com",
+        "phone": "+420 267 226 219",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:40:01",
+  "website_data": {
+    "success": true,
+    "domain": "https://porr.cz",
+    "homepage": {
+      "title": "PORR - Home of Construction - PORR Česká republika",
+      "description": "PORR – moderní, mezinárodně působící stavební koncern s pobočkami po celém Česku, 150 let zkušeností, činný v 16 zemích, Full-Service Provider",
+      "text_excerpt": "PORR - Home of Construction - PORR Česká republika\nHOME OF\nCONSTRUCTION\nTO BUILD A BETTER WORLD\nPORR Česká republika – stavíme budoucnost s respektem k lidem i planetě.\nJsme synonymem udržitelného stavebnictví, technologických inovací a férového partnerství. Naše projekty propojují kvalitu s efektivitou a vytvářejí hodnoty, které přetrvají – pro města, komunity i budoucí generace.\nVítejte u PORRu v České republice – spolehlivého partnera na cestě k lepší budoucnosti.\nAktuální zprávy\nPORR v České republice\nMediatéka\nStavební projekty\n13.04.2026\n/ Praha\nPORR jde do sporu kvůli miliardové Palmovce\nUdržitelnost\n07.04.2026\n/ Vídeň\nESG strategie společnosti PORR přináší již v prvním roce jasné výsledky\nObchodní údaje/kapitálový trh\n26.03.2026\n/ Vídeň\nPORR dosahuje v roce 2025 vynikajících výsledků\nObchodní údaje/kapitálový trh\n04.03.2026\n/ Vídeň\nNejúspěšnější rok v historii společnosti PORR\nDigitalizace / inovace\n17.02.2026\n/ Vídeň\nKdyž do asfaltu a betonu vstupuje umělá inteligence\nStavební projekty\n19.01.2026\n/ Vídeň / Varšava\nPORR postaví část významného infrastrukturního projektu Západní obchvat Štětína\nStavební projekty\n12.01.2026\n/ Vídeň/Pasov\nPORR, HABAU a FELBERMAYR zmodernizují plavební komoru Kachlet v Pasově\nStavíme pro budoucnost\nSilná řešení pro náročné výzvy\nNaší vizitkou jsou kvalitní projekty! Od bytových domů až po dálnice.\nVíce o projektech\nPORR\nHome of Construction\nV PORRu věříme, že stavebnictví dokáže měnit svět k lepšímu.\nSpojujeme moderní technologie, odpovědnost k životnímu prostředí a sílu týmové spolupráce. Stavíme prostory pro život, rozvíjíme infrastrukturu a propojujeme regiony, města i lidi.\nAť už jde o silnici, most nebo budovu – u každého projektu stojí člověk vždy na prvním místě.\nVíce o společnosti\nRozsah činnosti\nVaše budoucnost\nzačíná na staveništi\nV PORRu na tebe čekají rozmanité výzvy, silný tým a skutečné možnosti růstu. Přidej se k nám a podílej se na projektech, které mají smysl.\nObjevte kariéru ve společnosti PORR\nVždy blízko vás\nNaše pobočky v České republice\nČesko patří vedle Rakouska, Německa, Polska a Švýcarska k domovským trhům skupiny PORR. Vedle naší pražské centrály jsme zastoupeni po celé zemi i dalšími působištěmi a četnými obalovnami. Naše hustá síť poboček a zařízení nám umožňuje zásobovat stavby po celé České republice rychle a efektivně materiálem a posouvat se kupředu díky našemu obsáhlému know-how.\nPůsobiště"
+    },
+    "about": {
+      "url": "https://porr.cz/spolecnost",
+      "text": "Společnost - PORR Česká republika\nSpolečnost\nInteligentní stavění spojuje lidi.\nV PORRu jednáme dle motta: Inteligentní stavění spojuje lidi. Naším cílem je uvést v soulad naše vysoké nároky na kvalitu, techniku a efektivitu spolu s požadavky všech, kteří se na našich projektech podílejí, ať už jde o zadavatele, projektanty, subdodavatele či uživatele. Ostatně, stavíme s lidmi a pro lidi.\nHodnoty jako důvěryhodnost, spolehlivost a zaměření na zákazníka, týmovost a partnerská spolupráce jsou součástí naší každodenní práce a identity.\nO nás\nVedení společnosti\nPředstavenstvo PORR a.s.\nPéče o kvalitu a stabilitu.\nVíce o strategii\nStrategie\nPro udržitelný úspěch.\nVíce o organizaci\nOrganizace\nSe zaměřením na regionální přítomnost.\nVíce o systému řízení\nSystém řízení / GDPR\nMá u nás dlouhou tradici.\nVíce o zdraví a bezpečnosti\nZdraví a bezpečnost\nZdraví a bezpečnost jsou naší nejvyšší prioritou.\nJenotlivá působiště\nPůsobiště\nOcenění\nJiž od roku 1991 stavěl PORR a.s. na území České republiky, jakožto člen skupiny PORR, projekty v oblasti pozemního stavitelství. Fúzí se společnostmi Pražské silniční a vodohospodářské stavby, a.s. v roce 2012 a s ALPINE Bau CZ s.r.o. v roce 2018 rozšířila společnost své portfolio o oblast\ndopravního stavitelství\nvodohospodářských staveb\n. Od svého spojení se Stump – Geospol s.r.o. v roce 2014 realizuje PORR a.s. i projekty\nspeciálního zakládání\nNezáleží na tom, zda se jedná o budovu, komunikaci, most, vodohospodářský projekt či zakázku speciálního zakládání – PORR a.s. se vždy postará o hladký průběh stavby a bezchybné stavebně technické provedení splňující nejvyšší standardy kvality.\nTo v neposlední řadě dokládají i naše renomovaná ocenění:\n2021\nProjekt \"Rekonstrukce traťového úseku Křižanov - Sklené nad Oslavou\" realizovaný společností PORR ve sdružení se společností Vysočina (TSS GRADE, ELTRA, FIRESTA-Fišer a Doprastav)\nzvítězil v soutěži Železniční stavba roku 2021\nv kategorii „Rekonstrukce a opravy železničních tratí“.\n2019\n“Čestné uznání v rámci soutěže Presta – prestižní stavba jižních Čech 2016 – 2018” pro projekt Skladová hala Budějovického Budvaru, II. Etapa\n“Mostní dílo roku 2017“ za realizaci\nmostů s evidenčními čísly 1403-1 a 1403-2 v Zátaví\n“Cena vyhlašovatele ČKAIT v rámci soutěže Presta – prestižní stavba jižních Čech 2016 – 2018” pro mosty v Zátaví s evidenčními čísly 1403-1 a 1403-2\n“HOF Awards 2019” – vítězství Obchodního centra Letňany v kategorii “Refurbish/Recommercial/Rebrand/Relaunch“\n“Zvláštní ocenění v soutěži Vodohospodářská stavba roku 2018” pro projekt “Velký rybník – obnova spodních výpustí”\n2016\n„Cena Svazu Dopravy ČR – Česká dopravní stavba, technologie, inovace roku 2016“ pro projekt Obchvat Chrudimi I/37\n2014\n„Stavba roku 2014 – cena ČKAIT“ pro projekt\nVodní dílo Šance\n– drenážní štola v Ostravici\n2013\n„Cena veřejnosti“ pro\nmost přes Jižní spojku\nDruhé místo v soutěži „TOP STAVEBNÍ SPOLEČNOST”\n2009\n„Stavba roku“ a „Best of Realty“ pro projekt\nClassic 7\n„Vodohospodářská stavba roku“ pro projekt úprava koryta řeky Litavky v Králově Dvoře\n2004\n„Best of Realty“ pro projekt\nThe Park"
+    },
+    "products": {},
+    "contact_page": {}
+  }
+}

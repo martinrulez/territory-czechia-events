@@ -1,0 +1,95 @@
+{
+  "company_key": "bj energy, s.r.o.",
+  "company_name": "BJ Energy, s.r.o.",
+  "domain": "www.ajvenergo.cz",
+  "domain_url": "https://www.ajvenergo.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "BJ Energy, s.r.o.",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Fusion",
+    "total_seats": "1",
+    "current_acv_eur": "600.0",
+    "potential_acv_eur": "8200.0",
+    "nearest_renewal": "2026-09-05",
+    "days_to_renewal": "135",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Fusion Sim Ext",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other",
+    "ml_domain": "www.ajvenergo.cz",
+    "zi_done": true,
+    "zi_error": "No company found"
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ajvenergo.cz",
+    "homepage": {
+      "title": "AJV - ENERGO, a.s.",
+      "description": "SpoleÄnost AJV-ENERGO, a.s. je typicky rodinnÃ¡ firma pracujÃ­cÃ­ v oblasti oprav a rekonstrukce parnÃ­ch turbÃ­n, spalovacÃ­ch turbÃ­n , vodnÃ­ch turbÃ­n , turbogenerÃ¡torÅ¯, armatur, vysokotlakÃ½ch aktivnÃ­ch regulaÄnÃ­ch prvkÅ¯ parnÃ­ch turbÃ­n, ventilÃ¡torÅ¯ a Äerpadel.",
+      "text_excerpt": "AJV - ENERGO, a.s.\nAJV - ENERGO, a.s.\nÃvod\nAJV â ENERGO\nOpravy turbÃ­n\nVÃ½roba ND pro energetiku\nServis energetickÃ½ch zaÅÃ­zenÃ­\nNuclamid\nKontakt\nmontÃ¡Å¾e u zÃ¡kaznÃ­ka\npÅelopatkovÃ¡nÃ­ rotorÅ¯\nvÃ½robnÄ opravÃ¡renskÃ½ zÃ¡vod\nAJV - ENERGO, a.s.\nSÃ­dlo:\nVlkov 134\n594 53 OsovÃ¡ BÃ­tÃ½Å¡ka\nKontakty\ne-mail: ales.valik@ajvenergo.cz\ntel: +420 731 584 678\ne-mail: jiri.valik@ajvenergo.cz\ntel: +420 733 108 600\nProgramujeme v"
+    },
+    "about": {
+      "url": "https://www.ajvenergo.cz/o-nas",
+      "text": "AJV - ENERGO, a.s.\nWarning: mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /DISK2/WWW/ajvenergo.cz/www/index.php on line 142\nWarning: include(): Filename cannot be empty in /DISK2/WWW/ajvenergo.cz/www/index.php on line 166\nWarning: include(): Failed opening '' for inclusion (include_path='.:/usr/local/php55/lib/php') in /DISK2/WWW/ajvenergo.cz/www/index.php on line 166\nAJV - ENERGO, a.s.\nVlkov 134\n594 53 OsovÃ¡ BÃ­tÃ½Å¡ka\ne-mail: ales.valik@ajvenergo.cz\ntel: +420 731 584 678\ne-mail: jiri.valik@ajvenergo.cz\ntel: +420 733 108 600\nProgramujeme v"
+    },
+    "products": {
+      "url": "https://www.ajvenergo.cz/produkty",
+      "text": "AJV - ENERGO, a.s.\nWarning: mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /DISK2/WWW/ajvenergo.cz/www/index.php on line 142\nWarning: include(): Filename cannot be empty in /DISK2/WWW/ajvenergo.cz/www/index.php on line 166\nWarning: include(): Failed opening '' for inclusion (include_path='.:/usr/local/php55/lib/php') in /DISK2/WWW/ajvenergo.cz/www/index.php on line 166\nAJV - ENERGO, a.s.\nVlkov 134\n594 53 OsovÃ¡ BÃ­tÃ½Å¡ka\ne-mail: ales.valik@ajvenergo.cz\ntel: +420 731 584 678\ne-mail: jiri.valik@ajvenergo.cz\ntel: +420 733 108 600\nProgramujeme v"
+    },
+    "contact_page": {
+      "url": "https://www.ajvenergo.cz/kontakt",
+      "text": "Kontakt | AJV - ENERGO, a.s.\nAJV - ENERGO, a.s.\nÃvod\nAJV â ENERGO\nOpravy turbÃ­n\nVÃ½roba ND pro energetiku\nServis energetickÃ½ch zaÅÃ­zenÃ­\nNuclamid\nKontakt\nKudy k nÃ¡m\nAJV - ENERGO, a.s.\nSÃ­dlo:\nVlkov 134\n594 53 OsovÃ¡ BÃ­tÃ½Å¡ka\nKontakty\ne-mail: ales.valik@ajvenergo.cz\ntel: +420 731 584 678\ne-mail: jiri.valik@ajvenergo.cz\ntel: +420 733 108 600\nProgramujeme v"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "BJ Energy, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 1,
+    "all_technologies": [
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "BJ Energy, s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 15:08"
+}

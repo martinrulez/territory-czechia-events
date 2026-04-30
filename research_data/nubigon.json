@@ -1,0 +1,157 @@
+{
+  "company_key": "nubigon",
+  "company_name": "Nubigon",
+  "domain": "www.nubigon.com",
+  "domain_url": "https://www.nubigon.com",
+  "events": "3DISE Conference 2026",
+  "event_count": 1,
+  "lead_class": null,
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Nubigon",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 8,
+    "revenue": 3822,
+    "zi_company_name": "NUBIGON",
+    "zi_domain": "www.nubigon.com",
+    "zi_city": "Gänserndorf",
+    "zi_country": "Austria",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.nubigon.com",
+    "homepage": {
+      "title": "NUBIGON | Point Cloud Software",
+      "description": "NUBIGON Pro is a point cloud visualization and animation software that helps the reality capture industry to showcase their services with ease and appeal.",
+      "text_excerpt": "NUBIGON | Point Cloud Software\nShowcase Your Reality Capture & Scan-to-BIM Projects\nImpress your audiences with eye-catching renders of point clouds, CAD drawings, BIM models, meshes, and Gaussian splats\nEXPLORE USER PROJECTS\nEXPLORE USER PROJECTS\nTrusted by Leaders & Innovators\nNUBIGON\nThe 3D Rendering Software for Reality Capture & Scan-to-BIM\nNUBIGON is a premium visualization and animation software for reality capture and scan-to-BIM deliverables. It helps reality capture professionals display, analyze, and present complex data clearly and efficiently.\nWhat can you do with NUBIGON?\nVISUALIZE\nProduce appealing visuals from all reality capture and scan-to-BIM assets and deliver insights\nANIMATE\nShowcase your laser scanning & scan-to-BIM projects with captivating point cloud videos\nCOMBINE\nShow all point clouds, CAD, BIM, mesh, and 3DGS assets in one place\nDOCUMENT\nExtract high-quality orthophotos & screenshots directly from point clouds\nMEASURE\nTake virtual measures, minimize site visits, and improve site documentation\nANNOTATE\nAnnotate points of interest &\ncreate guided tours for virtual site exploration\nEXPLORE FEATURES\nEXPLORE FEATURES\nWhy NUBIGON?\nVisual quality\nEasy to use\nMade to impress\nGET STARTED\nGET STARTED\nAngle Up"
+    },
+    "about": {
+      "url": "https://www.nubigon.com/about",
+      "text": "NUBIGON | About\nPoint cloud solutions\nfor the reality capture industry\nOur mission is to help our users efficiently engage with massive point clouds, easily combine deliverables, and effectively showcase their services.\nOur Story\nEmerging Trends\nDuring the doctoral research of our co-founder Murat Arikan at the Vienna University of Technology, our team started to explore opportunities to bring his research to market. We noticed early on that a new generation of laser scanners was improving the quality of reality capture data while driving down the costs. This was drawing in a new generation of service providers, intensifying competition among surveying and engineering firms.\nInitial Steps\nAs Murat’s research got published in renowned peer-reviewed journals, we began working on ideas that could help service providers to stand out. Addressing two challenges became crucial: improving workflow efficiency through better data management and delivering tools for service providers to showcase their projects. Building on these findings, we set out to develop solutions to visualize and animate massive volumes of photos and laser scanner data.\nLaying the foundations\nTo take our innovation to market, we joined the Teknopark Istanbul Research Park and the incubator program of accent Gruenderservice GmbH in Austria. Soon after that, we received a seed investment from the Netherlands-based Diffusion Capital Fund Cooperatief U.A. and the AWS impulse XS grant from the Austrian government. These opportunities allowed us to build our company, establish a US presence, and accelerate our R&D efforts.\nFrom Prototype to Product\nSubsequently, we started developing prototypes and test them with pilot projects in collaboration with partners from the architecture, engineering, and construction industries (AEC). These projects helped us refine our software and finally release our Minimum Viable Product (MVP) in late 2019.\nGrowing with the Market\nRight off the get-go, our software received considerable attention and allowed us to build two go-to-market pipelines consisting of software subscriptions and channel partnerships. Our quarterly release schedule helps us quickly incorporate incoming feedback and expand the feature-set while our social-media centered marketing allows us to reach a growing audience.\nMeet the founders\nOur Backers\nWe are thankful for the support of...\nEU And The Republic Of Turkey\nThis project is partly financed with funding by the European Union and the Republic of Turkey.\nAccent\nThis project is supported by accent Gruenderservice GmbH.\nAws Impulse XS\nThis project is supported by the \"aws impulse XS\" Grant Program, funded by the Federal Ministry of Science, Research and Economy of the Republic of Austria, and administered by the Austria Wirtschaftsservice GmbH.\nAngle Up"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.nubigon.com/contact",
+      "text": "NUBIGON | Contact Us\nContact us.\nWe would love to hear from you!\nTo learn more about our software and how our users deploy our solutions effectively, don’t hesitate to reach out.\nSubmit your message, and we will be in touch with you shortly.\nSupport Inquiries\nSubmit a ticket\nSubmit a ticket\nGeneral & Partnership Inquiries\nOffice\n99 Hudson Street\n5th Floor PMB 5062\nNew York, NY 10013\nT: +1 (917) 600-8857\nAngle Up"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Nubigon",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 13,
+    "all_technologies": [
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "GoDaddy DNS",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Squarespace Online Stores",
+        "vendor": "Squarespace, Inc.",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Adobe Typekit",
+        "vendor": "Adobe Inc.",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bing Ads",
+        "vendor": "Microsoft Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Squarespace",
+        "vendor": "Squarespace, Inc.",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Nubigon",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 19:06"
+}

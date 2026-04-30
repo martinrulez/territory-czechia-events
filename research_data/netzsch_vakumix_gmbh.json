@@ -1,0 +1,116 @@
+{
+  "company_key": "netzsch vakumix gmbh",
+  "company_name": "NETZSCH Vakumix GmbH",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "NETZSCH Vakumix GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "NETZSCH Vakumix GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 1,
+    "all_technologies": [
+      {
+        "product": "EuroDNS DNS",
+        "vendor": "EuroDNS S.A.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "NETZSCH Vakumix GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Wolfram",
+        "last_name": "Illgen",
+        "title": "Managing Director",
+        "email": "",
+        "phone": "",
+        "company": "Netzsch Vakumix",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Burkhard",
+        "last_name": "Heinrichs",
+        "title": "Elekroingenieur",
+        "email": "",
+        "phone": "",
+        "company": "Netzsch Vakumix",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Sylvia",
+        "last_name": "Milbrandt",
+        "title": "Einkäufer",
+        "email": "",
+        "phone": "",
+        "company": "Netzsch Vakumix",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Heiko",
+        "last_name": "Oetting",
+        "title": "Senior Systemingenieur",
+        "email": "",
+        "phone": "",
+        "company": "Netzsch Vakumix",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 87.0
+      },
+      {
+        "first_name": "Stefan",
+        "last_name": "Hüfe",
+        "title": "Servicemanager",
+        "email": "",
+        "phone": "",
+        "company": "Netzsch Vakumix",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:59"
+}

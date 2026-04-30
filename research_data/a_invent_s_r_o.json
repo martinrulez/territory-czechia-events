@@ -1,0 +1,268 @@
+{
+  "company_key": "a_invent_s_r_o",
+  "company_name": "A - INVENT s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": true,
+    "company": "A - INVENT s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 36,
+    "all_technologies": [
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "GreenSock",
+        "vendor": "GreenSock",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "osTicket",
+        "vendor": "osTicket",
+        "category": "Help Desk",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "MySQL",
+        "vendor": "Oracle Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Dynamic Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Ads",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Kotlin",
+        "vendor": "JetBrains s.r.o.",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "TeamViewer",
+        "vendor": "TeamViewer GmbH",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "HEINZ-DIETER KARG",
+        "firstName": "HEINZ-DIETER",
+        "lastName": "KARG",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:09",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.e-invent.eu",
+    "homepage": {
+      "title": "Domovská stránka | E-invent",
+      "description": "Co nabízíme Vývoj SW a mobilních app Vytvoříme pro Vás mobilní apku nebo celý informační systém přesně podle Vašich požadavků […]",
+      "text_excerpt": "Domovská stránka | E-invent\nPřeskočit na obsah\nvizual-2\nvizual-3\nvizual-4\nvizual-5\nvizual-7\nCo nabízíme\nVývoj SW a mobilních app\nVytvoříme pro Vás mobilní apku nebo celý informační systém přesně podle Vašich požadavků a podnikových procesů. Řekněte nám, co potřebujete a my to uděláme!\nKomplexní správa sítě\nPřevezmeme na sebe péči i zodpovědnost za chod veškeré Vaší IT infrastruktury – počítače, servery, tiskárny. Chcete-li mít o starost méně, přenechte outsourcing IT zcela nám a věnujte se tak plně svému podnikání.\nICT poradenství\nVyslechneme Vaše potřeby, analyzujeme stávající stav, poradíme vhodný postup nebo řešení. Zajistíme školení pro Vaše pracovníky.\nProdukty\nManažerský informační systém\nOnline hostování souborů ownCloud\nTvorba webových stránek\nv RS WordPress\nKybernetická bezpečnost\nO společnosti e‑invent\ne-invent je přední česká společnost působící v oblasti ICT. Na trhu jsme od roku 1996, kdy bratři Vlastimil a Tomáš Čejpovi založili firmu zaměřenou na hardware a software. Postupně se z ní vyvinula skupina e-invent, která má nyní několik divizí:\ne‑invent\ne‑support\nNGI Service\nCan21\nProxima\nDigiAkademie\nDnes vyvíjíme informační systémy na míru a zajišťujeme komplexní podporu provozu informačních a komunikačních technologií. O naše služby se opírají stovky zákazníků. Zaměstnáváme desítky odborníků, jsme na trhu téměř 30 let a náš roční obrat přesahuje 100 milionů korun.\nV roce 2010 nás společnost Deloitte umístila na 5. místo v žebříčku nejrychleji rostoucích ICT firem ve střední Evropě. Od r. 2012 nás pravidelně hodnotí magazín Business World. V prestižní soutěži TOP 100 ICT v České republice jsme se poprvé umístili s pořadovým číslem 128 a od té doby se každý rok posouváme o několik příček. Za r. 2017 jsme obsadili 86.&NBSPmísto a poprvé se probojovali do první stovky největších českých ICT firem. Za rok 2024 jsme se v žebříčku posunuli na krásné 68. místo.\nNaši partneři\nAJŤÁKŮ\n+ mil\nROČNÍ OBRAT VŠECH DIVIZÍ\nREALIZOVANÝCH PROJEKTŮ\nDOSTUPNÝCH SERVERŮ\nCelá skupina e-invent\ndbá nejen na pečlivou práci, spokojenost zákazníků a návratnost jejich investic, ale snažíme se současně chovat odpovědně i k přírodě a okolnímu prostředí. Soustředíme se na implementování nejnovějších úsporných technologií ve vlastním provozu, i ve službách poskytovaných zákazníkům, aby naše práce nezanechávala trvalé jizvy na prostředí kolem nás. Jak přesně se\ne-invent\nsnaží snížit vlastní uhlíkovou stopu, a vyvíjet moderní firmu dbající na své okolí?\nHned několika způsoby.\nPracujeme s moderními technologiemi\nPro koho pracujeme\nBanky a fintech\nEnergetika\nPrávo\nPrůmysl a elektromobilita\nSpolečnost\nStát a samospráva\nVzdělávání\nZdravotnictví\nNaši klienti ...\nPodílíme se na zavedení inovativní platformy „Virtuální servisman“ na trh za účelem zefektivnění automatizace a digitalizace procesů v oboru spravovaných tiskových služeb (Managed Print Services)\nKontakt\nTelefonní číslo:\n+420 270 005 027\nE-mail:\ninfo@e-invent.eu\nAdresa:\nNa Cihlářce 3177/30, 150 00 Praha 5 – Smíchov\nJa"
+    },
+    "about": {
+      "url": "https://www.e-invent.eu/spolecnost",
+      "text": "Společnost | E-invent\nPřeskočit na obsah\nSpolečnost\nMezi naše klienty nepatří jen vysoce oborově specializované firmy, ale také máme společenský zaměřené zákazníky. Ať se jedná o neziskové organizace, publikační činnost, či módní značky, máme širokou zkušenost s nejrůznějšími společenskými odvětvími a jsme schopní zajistit jak\nkomplexní správu sítě\n, přes\ntvorbu software na míru\nči naplnění dalších IT potřeb zákazníka.\nNezisková organizace ADRA\nMezinárodní nezisková organizace ADRA, jejíž hlavním posláním je pomáhat v nouzi druhým, pořádat veřejné sbírky, sdružovat dobrovolníky po celé České republice a mnoho dalších obdivuhodných činností. V české republice působí již od roku 1992.\nPro Společnost Adra jsme vytvořili a spravujeme rozhraní pro interaktivní online hlasování o Cenu Michala Velíška, která se uděluje každým rokem. Hlasovací rozhraní je určené především pro shromažďování dat, export reportů, a plné zautomatizování celého procesu hlasování. Dále také  spravujeme všechny www prezentace.\nPro společnost Adra jsme také vykonali kompletní modernizaci sítě. Po kompletní obnově serverů došlo i na upgrade zaměstnaneckých PC po celé ČR. Rovněž zákazníkovi dodáváme na požádání nový HW a SW. Mimo klasickou správu sítě jsme zřídili zákazníkovi zcela nové UTP rozvody a zásuvky.\nKlub Sportovních Novinářů\nKSN ČR je sdružení profesionálních novinářů, fotoreportérů, filmařů, televizních a rozhlasových reportérů, kteří se pohybují ve světě sportů, a zabývají se proto jeho problematikou. Klub byl založen v roce 1923 a od té doby zastupuje zájmy svých členů v jednání se sportovními kluby, svazy apod. s cílem zajištění vhodných podmínek pro novinářskou práci. KSN ČR je vyhlašovatelem anket Sportovec roku a Zlatý míč ČR.\nPro klienta jsme pracovali na vytvoření přehledného webu, založeného na našem redakčním systému, který měl fungovat ne jen jako webová reprezentace, ale i funkční správa členů a soutěžního hlasování. Pro zákazníka jsme tedy připravili hlasovací systém pro anketu Sportovec roku, či Zlatý míč, který je navázán na systém registrovaných členů klubu. Tento důkladně propracovaný systém registrace do klubu je připraven v našem redakčním systému, a i po aktualizaci Webového rozhraní do modernějšího WorPresového základu, zůstává přihlašovací systém provázán s tímto redakčním systém.\nCacio\nCACIO je Česká asociace manažerů informačních technologií, která sdružuje vrcholové vedoucí z oblasti informačních technologií. Byla založena v červnu 1998 a její členové reprezentují nejvyšší vedoucí a manažery v oblasti IT pro jednotlivé organizace. Základní cíle asociace jsou shrnuty ve třech rovinách – sdílení informací, prezentace odborného názoru a pomoc legislativě v odborné oblasti IT.\nPro společnost Cacio jsme připravovali jejich webové stránky, které i nadále hostujeme  a spravujeme.\nParfums Christian Dior\nSpolečnost Christian Dior parfums, je pobočka módní značky Dior, zaměřující se na distribuci parfémů. Dříve patřila pod firmu Optimum distribution, která se zabývala distribucí selektivní kosmetiky. Oddělením od společnosti Optimum distribution, vznikla samostatná firma, která se následně přestěhovala do nového sídla.\nSoučasně s přestěhováním do nových prostor se počítačová síť kompletně propojila s mateřskou sítí LVMH – ikonou francouzského luxusu a veškeré rozhodování týkající se IT přešlo pod francouzskou mateřskou firmu Christian Dior. U zákazníka technicky spravujeme počítače a NAS servery a po schválení mateřskou firmou dodáváme i veškeré HW vybavení mimo PC.\nVogue CS\nMezinárodní časopis Vogue vycházející v měsíčních vydáních, je zaměřen na módu, design a životní styl. Poprvé začal vycházet v New Yorku roku 1892 jako týdenní noviny. Za svou již staletou historii se stal jedním z nejprestižnějších časopisů v oblasti módy a životního stylu. v současné době vychází v 26 jazykových variacích po celém světě.\nPro kancelář vydavatelství české mutace časopisu Vogue zajišťujeme IT servis. Technické řešení je zde komplet postaveno na počí"
+    },
+    "products": {},
+    "contact_page": {}
+  }
+}

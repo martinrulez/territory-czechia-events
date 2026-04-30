@@ -1,0 +1,134 @@
+{
+  "company_key": "google maps",
+  "company_name": "Google Maps",
+  "domain": "www.googlemapsmanagement.com",
+  "domain_url": "https://www.googlemapsmanagement.com",
+  "events": "URBIS Smart Cities 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Google Maps",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 5,
+    "revenue": 1409,
+    "zi_company_name": "Google Maps",
+    "zi_domain": "www.googlemapsmanagement.com",
+    "zi_city": "",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.googlemapsmanagement.com",
+    "homepage": {
+      "title": "googlemapsmanagement.com",
+      "description": "GoogleMaps, Business, Marketing",
+      "text_excerpt": "googlemapsmanagement.com\nHome\nContact\nHome\nContact\nMore\nMore child\nGoogleMaps\nManagement\nLET  THE\nWORLD\nKNOW  WHERE  YOU  ARE\nMY ROUTE\nWelcome to\nGoogle\nMaps\nManagement\n, a place where we manage all aspects of your business presence on Google Maps.\nNew for 2026 we are undertaking a new website design to show all of our service for you hardworking business owners. We invite your questions regarding best online practices and trends now in vouge on the web.\nAs a business owner can you\nafford not have an up-to-date presence on\nGoogleMaps?\nMORE\nCopyright @ All Rights Reserved"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.googlemapsmanagement.com/contact",
+      "text": "Contact | googlemapsmanagement.com\nHome\nContact\nHome\nContact\nMore\nMore child\nGoogleMaps\nManagement\nCONNECT\nWITH US\nName *\nEmail *\nMessage *\nsome-randome-random\nGET IN TOUCH WITH US\nWhatever question you would like to know about GoogleMaps just ask and we'll do our best to furnish you with the best answer we can.\n189 Southwark Park Road,\nBermondsey, London SE16 3TX\n07 393 74 18 74\nEmail: info@googlemapsmanagement.com\nCopyright @ All Rights Reserved"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Google Maps",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 10,
+    "all_technologies": [
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Varnish",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Google Maps",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 18:14"
+}

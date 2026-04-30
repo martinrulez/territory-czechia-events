@@ -1,0 +1,76 @@
+{
+  "company_key": "visioncraft s.r.o.",
+  "company_name": "VisionCraft s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List,URBIS Smart Cities 2026",
+  "event_count": 2,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "VisionCraft s.r.o.",
+    "opportunity_score": 28,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.65,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.65,
+      "event_relevance": 0.6,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "07400942",
+    "official_name": "VisionCraft s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "26",
+      "81230",
+      "G",
+      "62",
+      "265",
+      "74990",
+      "71200",
+      "00",
+      "620",
+      "71209",
+      "7490",
+      "81290",
+      "265",
+      "26",
+      "G",
+      "00"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC",
+      "M&E"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Výstaviště 405/1, Pisárky, 60300 Brno, Brno, Výstaviště, 60300",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "VisionCraft s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 13:38"
+}

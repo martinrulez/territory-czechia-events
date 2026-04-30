@@ -1,0 +1,95 @@
+{
+  "company_key": "anton_n_tom_ek_hong_kong_design_institute",
+  "company_name": "Antonín Tomášek & Hong Kong Design Institute",
+  "domain": "",
+  "events": "Designblok 2026",
+  "technographics": {
+    "success": true,
+    "company": "Antonín Tomášek & Hong Kong Design Institute",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 6,
+    "all_technologies": [
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "The USERTRUST Network",
+        "vendor": "Comodo Group, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Sectigo",
+        "vendor": "Sectigo Limited",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Red Hat Enterprise Linux",
+        "vendor": "Red Hat, Inc.",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Jillian Lee",
+        "firstName": "Jillian",
+        "lastName": "Lee",
+        "jobTitle": "Design Head of Communication",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Keith Tam",
+        "firstName": "Keith",
+        "lastName": "Tam",
+        "jobTitle": "Vice Principal and Deputy Academic Director",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:33",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.hkdi.edu.hk",
+    "homepage": {
+      "title": "",
+      "description": "",
+      "text_excerpt": ""
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

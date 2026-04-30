@@ -1,0 +1,389 @@
+{
+  "company_key": "racelogic ltd",
+  "company_name": "Racelogic ltd",
+  "domain": "www.racelogic.co.uk",
+  "domain_url": "https://www.racelogic.co.uk",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Racelogic ltd",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "AEC Collection",
+    "total_seats": "1",
+    "current_acv_eur": "4200.0",
+    "potential_acv_eur": "5000.0",
+    "nearest_renewal": "2026-09-28",
+    "days_to_renewal": "158",
+    "top_upsell": "Forma",
+    "top_upsell_reason": "Early-stage design and sustainability for AEC Collection users",
+    "all_upsells": "Forma; BIM Collaborate Pro; ACC Build",
+    "reseller": "GRAITEC s.r.o",
+    "maturity_label": "Collection",
+    "industry_segment": "Civil Infrastructure",
+    "ml_domain": "www.hc-logic.cz",
+    "zi_done": true,
+    "employee_count": 90,
+    "revenue": 17216,
+    "zi_company_name": "RACELOGIC",
+    "zi_domain": "www.racelogic.co.uk",
+    "zi_city": "Buckingham",
+    "zi_country": "United Kingdom",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.racelogic.co.uk",
+    "homepage": {
+      "title": "RACELOGIC - Experts in positioning, data\nlogging and video",
+      "description": "RACELOGIC design and manufacture electronic systems to measure, record, display, analyse and simulate data from moving vehicles.",
+      "text_excerpt": "RACELOGIC - Experts in positioning, data\nlogging and video\nSkip to main content\nPrivacy & Cookies\nDistributor area\nSuppliers\nSupport Centre\nExperts in positioning, data\nlogging and video\nVehicle Testing\nVBOX is internationally recognised as a quality standard in speed measurement, braking distance measurement, vehicle dynamics and tyre testing.\nvboxautomotive.co.uk\nMotorsport\nDesigned for racing drivers, track day enthusiasts, and teams, the VBOX Motorsport range includes graphically enhanced\nvideo data loggers, lap timers and performance meters\n– all built to help you go faster.\nvboxmotorsport.co.uk\nGNSS Simulation\nCompact, battery powered, and versatile, LabSat GNSS simulators allow you to\nrecord live-sky satellite signals\n, synchronised with CAN and digital inputs, for\nreplay in the lab\nlabsat.co.uk\nCamera Tracking\nAirPixel delivers cutting-edge\ncamera tracking\nfor AR in broadcast, virtual production, and live events. Its ultra-precise position and orientation data, combined with integrated FIZ and genlock, make it ideal for both\nstudio and wide-area environments.\nairpixel.com\nGPS Underground\nTunnelSat is an advanced tunnel GPS system that extends reliable\nsatellite navigation underground\n, delivering accurate, real-time positioning signals.\ntunnelsat.com\nPositioning\nWe provide advanced 3D positioning and measurement systems for indoor and GPS denied environments, delivering an accuracy of ±2 cm.\nvboxpositioning.com\nMining\nOur cost-effective GPS solutions help mining companies around the world to measure precise vehicle movements and reduce tyre, fuel and maintenance costs for mining vehicles.\nvboxmining.com\nOver 30 years of innovation\nRACELOGIC design and manufacture electronic systems to measure, record, display, analyse and simulate data from moving vehicles.\nRACELOGIC thrives on technical innovation and has grown steadily since its formation in 1992, employing more than 100 people across three locations.\nWe have a global customer-base with sales to over 100 countries made via our distributor network which is based in more than 50 countries.\nWith a heritage originating in automotive and motorsport, our innovations have taken us into new sectors including aerospace, rail, marine, defence and security, health, agriculture, and most recently, film and gaming.\nRead more\nRACELOGIC UK\nin Buckingham, UK\nRACELOGIC Germany\nin Wetzlar, Hesse\nRACELOGIC France\nin Saint-Quentin-Fallavier\nRACELOGIC USA\nin Novi, Michigan\nJoin the team\nHead of Engineering (UK)\nYou will have direct responsibility for the day-to-day operational leadership of four core engineering departments: Hardware Design, Firmware, Software, and Testing.\nReporting to the Chief Technology Officer, the role encompasses line management of four department managers, end-to-end ownership of engineering delivery, and cross-functional coordination across all Racelogic brands.\nSee full job description\nProduction Technician (UK)\nWe are seeking a Production Technician to support the build, diagnosi"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Racelogic ltd",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "Assemble"
+    ],
+    "total_technologies": 66,
+    "all_technologies": [
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Wufoo",
+        "vendor": "SurveyMonkey Inc.",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Assemble",
+        "vendor": "Autodesk, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cadence",
+        "vendor": "Cadence Design Systems",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookieyes",
+        "vendor": "CookieYes",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cookie Script",
+        "vendor": "Objectis Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "GPS",
+        "vendor": "mbm.it",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Operative",
+        "vendor": "SintecMedia Ltd.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "FreeRTOS",
+        "vendor": "Real Time Engineers",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Adobe After Effects",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Adobe Premiere Pro",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Altium",
+        "vendor": "Altium LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "UIkit",
+        "vendor": "Uikit",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Teams",
+        "vendor": "Microsoft Office",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Adobe Photoshop",
+        "vendor": "Adobe Inc.",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "FedEx",
+        "vendor": "FedEx Corporation",
+        "category": "Logistics",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "YourAddChoices",
+        "vendor": "Digital Advertising Alliance",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "YourOnlineChoices",
+        "vendor": "European Interactive Digital Advertising Alliance",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Xero",
+        "vendor": "Xero Limited",
+        "category": "Accounting",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Leaflet",
+        "vendor": "LeafletJS",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "C",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Python",
+        "vendor": "Python Software Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "C++",
+        "vendor": "Standard C++ Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Django",
+        "vendor": "Django Software Foundation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "SharpSpring",
+        "vendor": "Sharpspring, Inc.",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "OpenX Ad Exchange",
+        "vendor": "Openx Software Ltd",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Freshbooks",
+        "vendor": "FreshBooks USA Inc.",
+        "category": "Accounting",
+        "categoryParent": "Accounting and Finance"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Racelogic ltd",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 08:57"
+}

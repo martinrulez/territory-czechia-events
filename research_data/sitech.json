@@ -1,0 +1,194 @@
+{
+  "company_key": "sitech",
+  "company_name": "SITECH",
+  "domain": "www.sitech.com",
+  "domain_url": "https://www.sitech.com",
+  "events": "Connected Construction Days 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SITECH",
+    "opportunity_score": 33,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.68,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.68,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "11980044",
+    "official_name": "Brose Sitech s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "G",
+      "952",
+      "25510",
+      "71120",
+      "72",
+      "73110",
+      "00",
+      "28",
+      "25530",
+      "25",
+      "256",
+      "00",
+      "25",
+      "25610",
+      "25620",
+      "257",
+      "28",
+      "7112",
+      "72",
+      "73110",
+      "952",
+      "G"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Průmyslový park 302, Vlčovice, 74221 Kopřivnice, Kopřivnice, Průmyslový park, 74221",
+    "is_client": true,
+    "current_products": "Fusion + PowerMill | Inventor | PDMC | Vault",
+    "total_seats": "8",
+    "current_acv_eur": "23400.0",
+    "potential_acv_eur": "69400.0",
+    "nearest_renewal": "2026-11-03",
+    "days_to_renewal": "194",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Add CAM, nesting, and generative design capabilities",
+    "all_upsells": "Fusion Mfg Ext; Moldflow; Flex",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Building Products & Fabricat'n",
+    "ml_domain": "www.sterch.com",
+    "zi_done": true,
+    "employee_count": 16,
+    "revenue": 6171,
+    "zi_company_name": "Systems Integration Technologies",
+    "zi_domain": "www.sitech.com",
+    "zi_city": "Saint John",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "revenue_growth": 0.0,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.sitech.com",
+    "homepage": {
+      "title": "",
+      "description": "",
+      "text_excerpt": ""
+    },
+    "about": {
+      "url": "https://www.sitech.com/o-nas",
+      "text": ""
+    },
+    "products": {
+      "url": "https://www.sitech.com/produkty",
+      "text": ""
+    },
+    "contact_page": {
+      "url": "https://www.sitech.com/kontakt",
+      "text": ""
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "SITECH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "Network Solutions DNS",
+        "vendor": "Network Solutions, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Network Solutions Web Hosting",
+        "vendor": "Network Solutions, LLC",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "F5 Silverline DDoS Protection",
+        "vendor": "F5 Networks, Inc.",
+        "category": "DDoS and Bot Protection",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Web.com Website hosting",
+        "vendor": "Web.com Group, Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Web.com Lead Stream",
+        "vendor": "Web.com Group, Inc",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Sectigo",
+        "vendor": "Sectigo Limited",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PETR ŽMIJ",
+        "firstName": "PETR",
+        "lastName": "ŽMIJ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-23 08:40",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "inventor",
+        "vault",
+        "powermill",
+        "moldflow"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

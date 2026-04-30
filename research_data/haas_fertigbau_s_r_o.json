@@ -1,0 +1,222 @@
+{
+  "company_key": "haas_fertigbau_s_r_o",
+  "company_name": "Haas Fertigbau s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": true,
+    "company": "Haas Fertigbau s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 24,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Forms",
+        "vendor": "Google LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Shutterstock",
+        "vendor": "Shutterstock, Inc.",
+        "category": "Stock Images Providers",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "JQuery 1.11.1",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "LUKÁŠ ZRŮST",
+        "firstName": "LUKÁŠ",
+        "lastName": "ZRŮST",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "KAMILA PŘÍHODOVÁ",
+        "firstName": "KAMILA",
+        "lastName": "PŘÍHODOVÁ",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DENISA ROLLEROVÁ",
+        "firstName": "DENISA",
+        "lastName": "ROLLEROVÁ",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:33",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.haas-fertigbau.cz",
+    "homepage": {
+      "title": "Dřevostavby Haas Fertigbau - montované bungalovy a patrové domy na klíč",
+      "description": "Dřevostavby Haas Fertigbau - Stavíme kvalitní nízkoenergetické dřevostavby díky unikátnímu certifikovanému systému. Vybírejte z naší nabídky bungalovů nebo patrových domů, které zhotovíme od hrubé stavby až po dřevostavbu na klíč.",
+      "text_excerpt": "Dřevostavby Haas Fertigbau - montované bungalovy a patrové domy na klíč\ninfo@haas-fertigbau.cz\n+420 281 000 882\nKatalog zdarma\nKlientská zóna\nNavštivte náš nový\nVZOROVÝ DŮM\nZjistit víc\nKontaktujte nás\nDřevostavby Haas Fertigbau\nVyberte si rodinný dům podle Vašich představ...\nBungalov\nPatrový\nDvojdům\nPro podnikání\nCena\n1 000 000 - 20 000 000\nUžitná plocha\n22 - 300\nDispozice domu\n--vyberte--\n1+KK\n1+KK - ∞+KK\n2 x 3+KK\n2 x 4+KK\n2 x 5+KK\n2+1\n2+KK\n2+KK - ∞+KK\n2x3+KK\n2x4+KK\n3+KK\n4 + KK\n4+1\n4+1+provoz\n4+KK\n4+KK + 2+KK\n4+KK+provoz\n5+1\n5+KK\n6+KK\n7+KK\nTyp domu\n--vyberte--\nDvougenerační domy\nLuxusní domy\nMalé domy\nModerní domy\nVelké domy\nTvar domu\n--vyberte--\nDo tvaru I\nDo tvaru L\nDo tvaru T\nDo tvaru U\nPříslušenství\n--vyberte--\nBalkon\nGaráž\nPodkroví\nProvozovna\nTerasa\nZastavěná plocha\n33 - 220\nTvar střechy\nPlochá\nPultová\nSedlová\nValbová\nRozšířené vyhledávání\n500 000 Kč\nBungalovy\nPatrové\nIndividuální\nObjevte nový domov HAAS\nv Parku Mirotice!\nNenechte si ujít možnost pořídit si dům HAAS na nových parcelách v Miroticích!\nVYBAVENÍ DOMU\nV HODNOTĚ 500 000 Kč\nK domu HAAS nyní získáte vybavení v hodnotě 500 000 Kč. Tepelné čerpadlo, podlahové topení a centrální rekuperaci vzduchu.\n43 DŮVODŮ\nPROČ STAVĚT S NÁMI\nVybrali jsme 43 důvodů, které by vám měli pomoci v rozhodování, proč zvolit Haas Fertigbau jako dodavatele svého nového, lepšího domova.\nPEVNĚ GARANTOVANÉ CENY\nJSOU U NÁS STANDARD\nNa čem se domluvíme, to platí! Haas standardně garantuje pevnou cenu domu celý rok od podpisu smlouvy.  Žádné dodatečné navýšení, žádná inflace. Držíme slovo i cenu.\nProč stavět s námi\nTradice\nStavíme dřevostavby od roku 1972, celkově jsme realizovali přes 50 000 staveb. Disponujeme výrobní kapacitou 1 000 staveb ročně.\nKvalita\nNaše domy vyrábíme na moderní automatické lince v Německu. Pravidelně kontrolujeme kvalitu vstupních materiálů a montáže našich dřevostaveb.\nGarance ceny\nNašim zákazníkům garantujeme pevnou cenu.  Neúčtujeme žádné skryté náklady za vícepráce.\nZáruky\nNa kompletní stavbu domu dáváme prodlouženou záruku 36 měsíců, na konstrukční prvky potom 30 let.\nVývoj a inovace\nNeustále vyvíjíme a zdokonalujeme vlastní konstrukční systém Thermo-Protect\n, používáme výhradně dřevo s rodokmenem.\nNabídka domů\nMáme širokou nabídku 56 typových domů s možností individuálních úprav. Realizujeme také individuální stavby dle vlastních projektů.\nUdržitelnost\nMyslíme na přírodu, proto klademe důraz na udržitelnou, CO\nneutrální výrobu i ekologický způsob výstavby.\nDalších 43 důvodů\nProjděte si všech 43 důvodů, které vám pomohou v rozhodování, proč zvolit Haas Fertigbau jako svého dodavatele nového, lepšího domova.\nPODĚKOVÁNÍ KLIENTŮ\n„Chtěli bychom touto cestou poděkovat firmě Haas Fertigbau. Velký dík patří obchodnímu zástupci, který nám pomáhal od začátku nad rámec svých možností. Od prvního dne zahájení stavby, šlo vše podle plánu, svoji profesionalitu nám předvedla stavební parta, která  během sedmi dní postavila kostru domu i se střechou, zbytek domu dodělala firma Guzman a firma Haas Fe"
+    },
+    "about": {
+      "url": "https://www.haas-fertigbau.cz/o-nas",
+      "text": "O nás - Aktuální pracovní místa v Haas Fertigbau\ninfo@haas-fertigbau.cz\n+420 281 000 882\nKatalog zdarma\nKlientská zóna\nNavštivte náš nový\nVZOROVÝ DŮM\nZjistit víc\nKontaktujte nás\nO nás\nVize společnosti Haas\nHaas je rodinný podnik, působící v oboru montovaných staveb. Již více než 50 let projektuje, vyrábí a realizuje vyšší segment rodinných domů, výrobních a průmyslových staveb, ale i zemědělských budov, to vše na bázi dřeva a hybridních technologií, a to formou dílčích dodávek nebo kompletních staveb na klíč. Haas se věnuje i novým obchodním oblastem, například dodávkám sestav pro tesařské a stavební podniky nebo bytovou výstavbu.\nFirma je regionálně propojená se společnostmi v Německu, Rakousku a České republice a působí v sousedních zemích střední Evropy – především prostřednictvím exportu dodávek stavebních dílů v rámci obchodů typu B2B. Usilujeme o to, abychom patřili k vedoucím společnostem v této branži a pomocí silné značky Haas Fertigbau neustále posilovali naše postavení na trhu.\nStředobodem našeho zájmu je zákazník. Snažíme se o to, abychom nejen dostáli důvěře, kterou nám zákazník projevuje, ale aby byl našimi službami natolik nadšený, že nás bude dále doporučovat.\nJako zaměstnavatel nabízíme moderní a kreativní pracovní prostředí, aniž bychom ovšem přestali klást důraz na tradice. Podporujeme, vyžadujeme a rozvíjíme vzájemný respekt. Díky tomu máme motivované a angažované pracovníky s nadprůměrnými odbornými kompetencemi. Díky tomu, že svým pracovníkům nabízíme zajímavé úkoly a možnosti rozvoje, jsme pro současné i potenciální pracovníky atraktivním zaměstnavatelem. Týmy, zdravě složené z dlouholetých zkušených pracovníků a mladých nadšenců s tahem na branku, nám pomáhají minimalizovat rizika a udržovat firmu mladou a plnou elánu.\nDíky standardizaci a vysokému stupni prefabrikace jsme mimořádně efektivní, dosahujeme v našich projektech krátkých realizačních dob a nadprůměrně vysoké kvality.\nNaše produkty a řešení vždy odpovídají nejmodernějším technickým poznatkům a průběžně je dále zdokonalujeme – i ve spolupráci s výzkumnými ústavy a partnerskými firmami. Naším cílem je, abychom udávali standardy v naší branži a díky šetrnému zacházení s přírodními zdroji a díky odpovídajícímu výběru materiálů přispívali k zachování životního prostředí.\nDíky silné síti kvalifikovaných partnerských firem, dodržujících na svých trzích naše výkonnostní standardy, dokážeme zákazníkům nabízet rozsáhlé portfolio výkonů ve standardně vysoké kvalitě, a to ve všech oborech. Vsázíme na dlouhodobé obchodní vztahy a dbáme na férový a partnerský přístup k našim dodavatelům a spolupracujícím podnikům.\nSvou činností dosahujeme výnosů, díky nimž má náš podnik trvale zajištěnu budoucnost, protože neustále v přiměřené míře investujeme a dokážeme se vyrovnat i s hospodářskými výkyvy.\nUž v roce 1977, v době, kdy ještě nikdo veřejně nehovořil o tepelně izolačních parametrech, jsme přišli s energeticky úsporným domem, který měl hodnotu součinitele prostupu tepla U=0,22 W / m²K.\nČíst dále...\nJsme opravdoví odborníci\nDřevu a stavbám z tohoto skvělého materiálu opravdu rozumíme - vedle rodinných domů realizuje Haas Fertigbau stále častěji i mateřské školky, stavby sportovních a volnočasových areálů či budov pro podnikatelskou činnost. Výrobní zázemí a um projektantů dovolují na těchto objektech nabídnout střešní a nosné konstrukce, které vycházejí vstříc požadavkům nejnáročnějších investorů.\nToto jsou naše priority!\nKvalita. Rychlost. Servis. Záruky. Certifikace. Tradice.\nTo jsou zásadní kréda Haas Fertigbau - společnosti s téměř stoletou tradicí ve výstavbě montovaných staveb na bázi dřeva. Původně ryze česká výrobní a stavební společnost se v roce 1994 stala součástí rodinného koncernu Haas Group se sídlem v bavorském Falkenbergu. Od té doby hrdě nese jméno Haas Fertigbau s.r.o.\nPromyšlená řešení jsou pro nás prioritou!\nU rodinných domů i u staveb pro veřejný sektor oceňují klienti originální spojení technicky dokonalých a promyšlených řešení a servisu"
+    },
+    "products": {
+      "url": "https://www.haas-fertigbau.cz/sluzby",
+      "text": "Lepší služby - www.haas-fertigbau.cz\ninfo@haas-fertigbau.cz\n+420 281 000 882\nKatalog zdarma\nKlientská zóna\nNavštivte náš nový\nVZOROVÝ DŮM\nZjistit víc\nKontaktujte nás\nLepší služby\nLEPŠÍ SLUŽBY\nNaše služby vám usnadní stavbu domu\nHaas Fertigbau\nvíme, že se stavbou domu je spojena spousta starostí a zařizování. Proto jsme pro všechny klienty nově připravili řadu služeb, které jim pořízení domu usnadní. Postavte svůj\nrodinný dům\ns námi.\nPomůžeme vám:\nvyřídit\nstavební povolení\nzařídit\nžádost o dotaci\nv programu Nová zelená úsporám ve výši až 800 000 Kč\nPoskytneme vám:\nmožnost\núschovy\nu naší smluvní\nadvokátní kanceláře\nProvedeme:\nblower-door test\n“, který změří vzduchotěsnost vašeho domu\nZhotovíme:\nnávrhy koupelen\nprofesionálním designérským softwarem\nOzvěte se nám a my vám postavíme\nlepší domov\nBez starostí.\nStáhnout KATALOG HAAS v pdf\nkatalog zdarma\nNáš nový\nVZOROVÝ DŮM\nDŮVODY, PROČ STAVĚT S NÁMI\nCHCI ZNÁT VŠECHNY DŮVODY\nVYBERTE SI SVŮJ LEPŠÍ DOMOV\nPROHLÉDNOUT KATALOG\nKONTAKTUJTE NÁS\nPomáháme svým klientům navrhnout vysněný domov do všech detailů, díky nimž si v něm užijí každý den.\nBungalovy\nPatrové domy\nBestsellery\nIndividuální\nLepší domov\nVzorové domy\nNení pro vás lehké představit si rodinný dům z katalogu v reálném provedení? Přijďte se podívat na vzorové domy, kterými vás rádi osobně provedeme.\nProhlédnout vzorové domy\nUžitečné odkazy\nO nás\nJak se u nás staví\nKontaktujte nás\nDům na klíč\nReference\nFAQ\nOchrana osobních údajů\n© 2017 Haas Fertigbau s.r.o."
+    },
+    "contact_page": {
+      "url": "https://www.haas-fertigbau.cz/kontakt",
+      "text": "Kontakt - Kontaktuje nás - dřevostavby Haas Fertigbau\ninfo@haas-fertigbau.cz\n+420 281 000 882\nKatalog zdarma\nKlientská zóna\nNavštivte náš nový\nVZOROVÝ DŮM\nZjistit víc\nKontaktujte nás\nKontakt\nMŮŽETE NÁS KONTAKTOVAT NA\n+420 281 000 882\nInfo@Haas-Fertigbau.cz\nKONTAKT NA OBCHODNÍ ZÁSTUPCE\nKONTAKT NA SPOLEČNOST\nStáhnout KATALOG HAAS v pdf\nkatalog zdarma\nNáš nový\nVZOROVÝ DŮM\nMám zájem o ZASLÁNÍ KATALOGU výměnou za sdělení kontaktu pro odběr novinek\nza těchto podmínek\nMám zájem o ODBĚR NOVINEK společnosti Haas Fertigbau s.r.o.\nza těchto podmínek.\nBeru na vědomí\nPodmínky zpracování osobních údajů.\nODESLAT\nODESLAT\n* Položky označené hvězdičkou jsou povinné\nNajděte svého\nregionálního zástupce\nNačíst další\nNačítať ďalšie\n{CustomField_54}\n{CustomField_55}\n{CustomField_56}\nKontaktovat\n{CustomField_58}\n{CustomField_59}\n{CustomField_60}\nKONTAKT NA SPOLEČNOST\nSídlo a vedení společnosti\nČeská republika\nObchodní centrum\nČeská republika\nVzorové a referenční domy\nKONTAKT NA\nSídlo a vedení společnosti\nČeská republika\nHaas Fertigbau s.r.o.\nKlostermannova 629, 342 01 Sušice\ntel.: +420 372 483 111\ne-mail:\nInfo@Haas-Fertigbau.cz\nZOBRAZIT NA MAPĚ\nSpolečnost je zapsána v obchodním rejstříku vedeného Krajským soudem v Plzni.\nOddíl C, vložka 14416.\nIdentifikační číslo: 624 96 867\nHaas Fertigbau s.r.o. náleží ve smyslu §79 zákona č.90/2012 Sb.,o obchodních korporacích k mezinárodnímu koncernu Haas Fertigbau Group.\nKONTAKT NA\nObchodní centrum Praha\nČeská republika\nČernokostelecká 616/143, 108 00 Praha 10\ntel.: +420 281 000 882\ne-mail:\nInfo@Haas-Fertigbau.cz\nZOBRAZIT NA MAPĚ\nPomáháme svým klientům navrhnout vysněný domov do všech detailů, díky nimž si v něm užijí každý den.\nBungalovy\nPatrové domy\nBestsellery\nIndividuální\nLepší domov\nVzorové domy\nNení pro vás lehké představit si rodinný dům z katalogu v reálném provedení? Přijďte se podívat na vzorové domy, kterými vás rádi osobně provedeme.\nProhlédnout vzorové domy\nUžitečné odkazy\nO nás\nJak se u nás staví\nKontaktujte nás\nDům na klíč\nReference\nFAQ\n"
+    }
+  }
+}

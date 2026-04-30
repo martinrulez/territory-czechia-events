@@ -1,0 +1,398 @@
+{
+  "company_key": "cts gmbh",
+  "company_name": "CTS GmbH",
+  "domain": "www.ctscorp.com",
+  "domain_url": "https://www.ctscorp.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "CTS GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 3492,
+    "revenue": 541319,
+    "zi_company_name": "CTS",
+    "zi_domain": "www.ctscorp.com",
+    "zi_city": "Lisle",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ctscorp.com",
+    "homepage": {
+      "title": "Home",
+      "description": "",
+      "text_excerpt": "Home\nSkip to Content\nYour Partner In Smart Solutions\nCTS is a leading designer and manufacturer of sensors, actuators, and electronic components for original equipment manufacturers (OEMs) in a variety of markets.\nLearn More About CTS\nMain Content\nYour Partner in Smart Solutions\nProducts We Offer\nCTS aims to be at the forefront of technology, delivering innovative sensing, connectivity and motion solutions to enable an intelligent and seamless world.\nOur Products\nMarkets We Serve\nCTS serves an assortment of applications in a variety of markets spanning the globe.\nOur products are recognized in many industries for their performance, reliability and engineering excellence. Our customers value us for our outstanding and consistent level of service as well as for our ability to partner with them.\nAll Markets\nPlease wait while we gather your results.\nAerospace & Defense\nIndustrial\nMedical\nTransportation\nLearn about What's New at CTS\nPlease wait while we gather your results.\nSeries 552 Pedal for Heavy Duty Vehicles\n3-in-1 Control for Medical, Industrial and Commercial Applications\nThe series 293 joystick encoder from CTS corporation offers excellent control of medical, industrial and commercial applications, combining a 4-directional joystick with an optical encoder and a pushbutton switch.\n5 Features of the New CTS Website\nThe revamped website showcases an entirely new navigation system, intuitive product selection tables, extensive technical resource downloads, and a dynamic blog section.\nView All News\nLooking for Support?\nReach out to us for any inquiries, feedback, or assistance you may need. We're here to help!\nContact Us"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.ctscorp.com/products",
+      "text": "Products\nSkip to Content\nProducts\nMain Content\nActuators\nCurrent Sensors\nPassive Components\nPedals and Foot Controls\nPiezoelectric\nPosition Sensors\nSwitches\nTemperature Sensors\nLegacy Products\nDisclaimer\nThe images and descriptions of the products contained herein are for promotional and informational purposes only and are not warranties, representations, or guarantees of performance; any and all such warranties to the extent applicable will be set forth in formal contracts, purchase orders, supply agreements, and the like, as well as in CTS’s General Terms and Conditions available at ctscorp.com.\nLooking for Support?\nReach out to us for any inquiries, feedback, or assistance you may need. We're here to help!\nContact Us"
+    },
+    "contact_page": {
+      "url": "https://www.ctscorp.com/contact",
+      "text": "Contact Us\nSkip to Content\nContact Us\nMain Content\nCommon Questions, and Resources\nDatasheets, REACH and RoHS documents\nDownload Resources\nFind distributor inventory\nStock Check\nFrequently asked questions\nFAQ Page\nGeneral Contact Us Form\nSubscribe to the CTS Email Newsletter\nSubscribe\nBuild Your Career with CTS Corporation\nCTS Careers"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "CTS GmbH",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autodesk Moldflow",
+      "Commvault"
+    ],
+    "competitor_products": [
+      "CATIA V5",
+      "Dassault Systemes",
+      "PTC Integrity",
+      "Siemens PLM",
+      "Siemens Teamcenter PLM Software",
+      "Solidworks"
+    ],
+    "cad_bim_other": [
+      "ANSYS",
+      "Assemble",
+      "Autodesk",
+      "Cache Control",
+      "InVision",
+      "Sigma",
+      "Stratasys"
+    ],
+    "total_technologies": 628,
+    "all_technologies": [
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Branch",
+        "vendor": "Branch",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Asc",
+        "vendor": "Assessment Systems Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Dayforce",
+        "vendor": "Dayforce, Inc.",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Oracle",
+        "vendor": "Oracle Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "C",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Dayforce HCM",
+        "vendor": "Ceridian HCM, Inc.",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Altium",
+        "vendor": "Altium LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Sas",
+        "vendor": "SAS Institute, Inc.",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Craft",
+        "vendor": "Craft.io Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Electronics Manufacturing",
+        "vendor": "Creation Technologies",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Google Meet",
+        "vendor": "Google LLC",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "ventiv",
+        "vendor": "Ventiv Technology Australia PTY Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Sora",
+        "vendor": "Sora",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Persona",
+        "vendor": "Persona Identities Inc",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "PCI",
+        "vendor": "PCI",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Demand Planning",
+        "vendor": "Blue Yonder Group, Inc",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Atera",
+        "vendor": "Atera Networks Ltd.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "ASIC",
+        "vendor": "AnySilicon",
+        "category": "Server Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Assemble",
+        "vendor": "Autodesk, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "glassdoor",
+        "vendor": "Glassdoor, Inc",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Zendesk",
+        "vendor": "Zendesk, Inc.",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Lean Manufacturing",
+        "vendor": "Gemba Academy LLC",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Ideal",
+        "vendor": "O5 Systems Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "XML Explorer",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WinSCP",
+        "vendor": "WinSCP",
+        "category": "Enterprise Data Storage",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Web Service Definition Language (WSDL)",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Visual Basic .NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Telnet",
+        "vendor": "Telnet Worldwide",
+        "category": "Communication Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "Sun Fire Server Systems",
+        "vendor": "Oracle Corporation",
+        "category": "Server Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Spectralink",
+        "vendor": "Spectralink Corporation",
+        "category": "Enterprise Mobility Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SMART Board",
+        "vendor": "SMART Technologies",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Sigma",
+        "vendor": "Sigma Software",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Selenium",
+        "vendor": "Selenium HQ",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "RWS Tridion",
+        "vendor": "RWS",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "SAP NetWeaver BPM",
+        "vendor": "SAP SE",
+        "category": "Business Process Management",
+        "categoryParent": "Operations"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "CTS GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 18:41"
+}

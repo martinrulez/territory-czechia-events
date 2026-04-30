@@ -1,0 +1,97 @@
+{
+  "company_key": "s_f_e_brands",
+  "company_name": "S.F.E. Brands",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "S.F.E. Brands",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 3,
+    "all_technologies": [
+      {
+        "product": "GoDaddy DNS",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Shannon McClure",
+        "firstName": "Shannon",
+        "lastName": "McClure",
+        "jobTitle": "Director, Human Resources",
+        "email": "shannon.mcclure@sweetfrog.com",
+        "phone": "(804) 616-4290",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Rachel Selsky",
+        "firstName": "Rachel",
+        "lastName": "Selsky",
+        "jobTitle": "Manager, Human Resources",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Zach Foust",
+        "firstName": "Zach",
+        "lastName": "Foust",
+        "jobTitle": "Assistant District Manager",
+        "email": "zach.foust@sfebrands.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Pat Galleher",
+        "firstName": "Pat",
+        "lastName": "Galleher",
+        "jobTitle": "",
+        "email": "pat.galleher@sfebrands.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:40:54",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.sfebrands.com",
+    "homepage": {
+      "title": "",
+      "description": "",
+      "text_excerpt": ""
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

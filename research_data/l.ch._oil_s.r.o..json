@@ -1,0 +1,81 @@
+{
+  "company_key": "l.ch. oil s.r.o.",
+  "company_name": "L.CH. Oil s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "L.CH. Oil s.r.o.",
+    "opportunity_score": 18,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.43,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.43,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "07322534",
+    "official_name": "L.CH.Oil s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "016",
+      "81",
+      "32",
+      "47",
+      "731",
+      "82100",
+      "255",
+      "855",
+      "20",
+      "46900",
+      "71200",
+      "016",
+      "20",
+      "256",
+      "32",
+      "46900",
+      "47",
+      "712",
+      "731",
+      "81",
+      "821",
+      "855"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Rozárčina 1480/7, Krč, 14000 Praha 4, Praha, Rozárčina, 14000",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "L.CH. Oil s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:59"
+}

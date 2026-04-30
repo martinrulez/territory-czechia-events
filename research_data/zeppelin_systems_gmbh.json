@@ -1,0 +1,304 @@
+{
+  "company_key": "zeppelin systems gmbh",
+  "company_name": "Zeppelin Systems GmbH",
+  "domain": "www.zeppelin-systems.com",
+  "domain_url": "https://www.zeppelin-systems.com",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Zeppelin Systems GmbH",
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 1249,
+    "revenue": 134494,
+    "zi_company_name": "ZEPPELIN",
+    "zi_domain": "www.zeppelin-systems.com",
+    "zi_city": "Garching bei Munchen",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 300000,
+    "primary_segment": "unknown",
+    "size_tier": "large",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 1.0,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.zeppelin-systems.com",
+    "homepage": {
+      "title": "Individuelle Lösungen für Schüttguthandling & Anlagenbau | Zeppelin Systems",
+      "description": "Von Engineering über Komponenten bis zu Services – maßgeschneiderte Anlagenlösungen für Lebensmittel, Chemie, Kunststoffe & Recycling",
+      "text_excerpt": "Individuelle Lösungen für Schüttguthandling & Anlagenbau | Zeppelin Systems\nKontakt & Standorte\nDeutschland | DE\nchevron-down\nIndustrien\nKompetenzen\nProdukte\nServices\nUnternehmen\nKontakt & Standorte\nDeutschland | DE\nchevron-down\nIndustrien\nKompetenzen\nProdukte\nServices\nUnternehmen\nWE CREATe SOLUTIONS\nKontakt aufnehmen\nWE CREATe SOLUTIONS\nKontakt aufnehmen\nZeppelin Systems schafft Lösungen im Anlagenbau\nAls weltweit führendes Anlagenbau-Unternehmen für das Handling hochwertiger Schüttgüter bearbeiten wir die Industriezweige Kunststoff, Gummi- und Reifen, Chemie und Lebensmittel. Zeppelin Systems liefert vom Basic-Engineering über die Produktion eigener Komponenten und eigener Steuerungstechnik bis zur endgültigen Montage und umfassenden After Sales Service alle Leistungen im Anlagenbau aus einer Hand. Da wir jede Projektphase in Eigenregie begleiten können, kommen alle Ansprechpartner aus einem Haus. So werden Schnittstellen minimiert und ein reibungsloser Projektablauf gewährleistet.\nIndustrien\nAlle Leistungen im Anlagenbau aus einer Hand\nLebensmittel\nKunststoffe\nGummi & Reifen\nChemie\nSeit der Gründung 1950\nAnlagenbauer und Profi für das Handling hochwertiger Schüttgüter\nLänder\nAktiv in Belgien, Brasilien, China, Frankreich, Vereinigtes Königreich, Indien, Italien, Saudi-Arabien, Singapur und den USA\n1.800\nMitarbeitende\nIn Summe 1.800 Mitarbeitende, davon rund 600 in Deutschland\n500.000\nEngineering-Stunden\nStarkes Engagement in nachhaltigen Branchen wie Kunststoffrecycling, Batteriemassenherstellung sowie Reifenrecycling\n475 MIO.\nUmsatz\nim Jahr 2024\nZEPPELIN SYSTEMS Produkte\nKompromisslose Qualität von Zeppelin Systems\nLagern & Austragen\nFördern\nWiegen & Dosieren\nMischen & Kneten\nTrennen\nAufbereiten\nUnsere Kompetenzen\nUnsere Kompetenz ist die Basis für Ihren Erfolg\nAnlagenbau\nRecycling\nTechnikum\nAutomatisierungslösungen\nZeppelin Systems SERVICES\nImmer an Ihrer Seite\nTechnikum\nEngineering Services\nCustomer Services\nDürfen wir Sie bei der Lösungsfindung unterstützen?\nKontaktanfrage stellen\nNachhaltigkeit bei Zeppelin SYSTEMS\nVerantwortung / CSR\nIn Anlehnung an die Nachhaltigkeitsstrategie des Zeppelin Konzerns bedeutet Corporate Social Responsibility für den Anlagenbauer Zeppelin Systems und alle Tochtergesellschaften weltweit, langfristig einen authentischen Beitrag für Umwelt und Gesellschaft als zukunftsfähiges und wirtschaftlich erfolgreiches Unternehmen zu leisten.\nZu Verantwortung\nNews, Messen & Events\nPressemitteilungen & News\nBleiben Sie informiert über die neusten Entwicklungen.\nZu Presse\nMessen & Events\nZeppelin Systems ist in seinen Branchen auf allen wichtigen Fachmessen weltweit vertreten – wir freuen uns, Sie auf der nächsten Messe begrüßen zu dürfen.\nZu Messen & Events\nZeppelin systems unternehmen\nErfahren sie mehr über zeppelin Systems\nUnternehmen\nKarriere\nKontakt & Standorte\nWeiterführende Themen\nIndustrien\nAlle Industrien\narrow-long-right\nKunststoffe\narrow-long-right\nGummi & Reifen\narrow-long-right\nChemie\narrow-long-right\nLebensmi"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Zeppelin Systems GmbH",
+    "autodesk_products": [],
+    "competitor_products": [
+      "Dassault Systemes"
+    ],
+    "cad_bim_other": [],
+    "total_technologies": 36,
+    "all_technologies": [
+      {
+        "product": "Dassault Systemes",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Amazon CloudFront",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Workday Recruiting",
+        "vendor": "Workday, Inc.",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Workday",
+        "vendor": "Workday, Inc.",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Windows 11",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "CM.com",
+        "vendor": "CM.com",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "OneTrust",
+        "vendor": "OneTrust, LLC",
+        "category": "Data Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Optanon",
+        "vendor": "OneTrust, LLC",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "OneTrust Cookie Consent",
+        "vendor": "OneTrust, LLC",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cookie Consent",
+        "vendor": "Silktide Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Jira",
+        "vendor": "Atlassian",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "C#",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Java",
+        "vendor": "Oracle Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Adobe Experience Manager",
+        "vendor": "Adobe Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Adobe Experience Cloud",
+        "vendor": "Adobe Inc.",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Flowplayer Platform",
+        "vendor": "Flowplayer AB.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Zeppelin Systems GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Michael",
+        "last_name": "Hoech",
+        "title": "Vice President",
+        "email": "",
+        "phone": "",
+        "company": "ZEPPELIN",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 14:57"
+}

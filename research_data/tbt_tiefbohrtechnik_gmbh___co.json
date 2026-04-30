@@ -1,0 +1,212 @@
+{
+  "company_key": "tbt tiefbohrtechnik gmbh + co",
+  "company_name": "TBT Tiefbohrtechnik GmbH + Co",
+  "domain": "www.tbt.de",
+  "domain_url": "https://www.tbt.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "TBT Tiefbohrtechnik GmbH + Co",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 246,
+    "revenue": 5614,
+    "zi_company_name": "TBT Tiefbohrtechnik",
+    "zi_domain": "www.tbt.de",
+    "zi_city": "Dettingen an der Erms",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.tbt.de",
+    "homepage": {
+      "title": "TBT Tiefbohrtechnik GmbH & Co.",
+      "description": "Marktführer in der Fertigungstechnologie Tiefbohren. Produzent von Tiefbohrmaschinen und Tiefbohrwerkzeugen. Direkt-Einsatz in der Lohnfertigung. TBT Tiefbohrtechnik gehört zur international agierenden Nagel Group.",
+      "text_excerpt": "TBT Tiefbohrtechnik GmbH & Co.\nDie Definition von Präzision\nTBT – diese drei Buchstaben stehen seit mehr als 55 Jahren für höchste Qualität, Präzision und Kundennähe in der Fertigungstechnologie Tiefbohren. Wir stellen Tiefbohrmaschinen und Tiefbohrwerkzeuge her und führen Lohnaufträge aus.\nAls Marktführer unserer Branche treibt uns vor allem eines an:\nUnseren Kunden absolute Kompetenz und Verlässlichkeit auf all unseren Geschäftsfeldern zu bieten.\nKatalog anfordern\nUnsere Maschinen & Werkzeuge\nTBT Weltweit\nMaschinen- & Werkzeugvertretung\nKontakt\nAlle Ansprechpartner auf einen Blick\nJob & Karriere\nArbeiten bei der TBT\nFolgen\nFolgen\nFolgen\nFolgen\nTiefbohr­­maschinen\nVorführ- und Gebrauchtmaschinen\n➔ Second Life im Angebot\nMaschinenservice\nUnser bewährter Teleservice ermöglicht es, Ihnen über große Distanzen unser gesamtes Know-how zur Verfügung zu stellen.\nmehr erfahren\nRetrofit\nEine Tiefbohrmaschine, die bereits in die Jahre gekommen ist, kann nach einigen Handgriffen von uns die neuesten Standards erfüllen.\nmehr erfahren\nZubehör\nWir bieten spezifische Ersatzteile auch für Tiefbohrmaschinen der Fabrikate Nagel, GKT, SIG und Heidenreich & Harbeck an.\nmehr erfahren\n4.0 Ready\nVom einfachen Roboterhandling bis zum flexiblen Fertigungssystem – bei uns erhalten Sie maßgeschneiderte Lösungen.\nmehr erfahren\nTiefbohr­werkzeuge\nZubehör\nBei uns finden Sie die gesamte Palette an Zubehör für Tiefbohrwerkzeuge.\nmehr erfahren\n48H Express Service\nWir verkürzen für Sie die Produktionszeit Ihrer Werkzeuge gern auf 48 Stunden.\nmehr erfahren\nHome\nTiefbohrmaschinen\nMaschinen\nML-Serie\nB-Serie\nBW-Serie Tiefbohrzentren\nMatrizenmaschinen\nSonderlösungen\nSteuerung | 4.0 Ready\nVorführ- & Gebrauchtmaschinen\nService\nFernwartung\nRetrofit\nErsatzteile\nTiefbohrverfahren\nDichtgehäuseverfahren\nTauchverfahren für geringe Bohrtiefen\nBearbeitungszentren\nTiefbohr-Eckdaten\nTiefbohrwerkzeuge\n48h Express Service\nBohrer\nEinlippenbohrer\nEinlippenbohrer mit Wendeplatten\nZweilippenbohrer\nHigh-Speed-Tools\nTSTS-Werkzeuge\nSonderwerkzeuge\nWerkzeugzubehör\nLängeneinstellung & Schleifmaschinen\nLohnfertigung\nÜber uns\nDas Unternehmen\nMesse\nTBT Weltweit\nAGB\nAnsprechpartner\nAnfahrt\nPressespiegel\nJobs & Karriere"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "TBT Tiefbohrtechnik GmbH + Co",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 21,
+    "all_technologies": [
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "particles.js",
+        "vendor": "",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "jQuery Mobile",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WPForms",
+        "vendor": "WPForms LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "GoDaddy DNS",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Starfield Technologies",
+        "vendor": "Starfield Technologies",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Joomla",
+        "vendor": "Joomla!",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "MooTools",
+        "vendor": "MooTools",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "TBT Tiefbohrtechnik GmbH + Co",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Peter",
+        "last_name": "Wörner",
+        "title": "Manager, Production",
+        "email": "",
+        "phone": "",
+        "company": "TBT Tiefbohrtechnik",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 16:47"
+}

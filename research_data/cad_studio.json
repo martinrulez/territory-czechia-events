@@ -1,0 +1,166 @@
+{
+  "company_key": "cad studio",
+  "company_name": "CAD Studio",
+  "domain": "www.cadstudio.cz",
+  "domain_url": "https://www.cadstudio.cz",
+  "events": "CADforum 2026 (Arkance Systems)",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "CAD Studio",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2028-10-04",
+    "days_to_renewal": "895",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Entry",
+    "industry_segment": "Other",
+    "ml_domain": "www.studioala.cz",
+    "zi_done": true,
+    "employee_count": 11,
+    "revenue": 10355,
+    "zi_company_name": "CAD Studio",
+    "zi_domain": "www.cadstudio.cz",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://cadstudio.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "CAD Studio",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 2,
+    "all_technologies": [
+      {
+        "product": "Proofpoint",
+        "vendor": "Proofpoint, Inc.",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "CAD Studio",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Petra",
+        "last_name": "Trojanová",
+        "title": "Platinum CAD & GIS Solutions Partner",
+        "email": "petra.trojanova@cadstudio.cz",
+        "phone": "",
+        "company": "CAD Studio",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      },
+      {
+        "first_name": "David",
+        "last_name": "Kozma",
+        "title": "Technical Services Specialist",
+        "email": "david.kozma@cadstudio.cz",
+        "phone": "",
+        "company": "CAD Studio",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 76.0
+      },
+      {
+        "first_name": "Daniel",
+        "last_name": "Erhart",
+        "title": "BIM Specialist",
+        "email": "",
+        "phone": "",
+        "company": "CAD Studio",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 77.0
+      },
+      {
+        "first_name": "Tomas",
+        "last_name": "Dosedla",
+        "title": "Technical Consultant",
+        "email": "tomas.dosedla@cadstudio.cz",
+        "phone": "",
+        "company": "CAD Studio",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 82.0
+      },
+      {
+        "first_name": "Jarda",
+        "last_name": "Vojtášek",
+        "title": "Obchodní Specialista-Senior CAD and CAM",
+        "email": "",
+        "phone": "",
+        "company": "CAD Studio",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:08",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

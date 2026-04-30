@@ -1,0 +1,88 @@
+{
+  "company_key": "demm calibri",
+  "company_name": "DEMM CALIBRI",
+  "domain": "www.albridge.cz",
+  "domain_url": "https://www.albridge.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "DEMM CALIBRI",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Inventor",
+    "total_seats": "1",
+    "current_acv_eur": "2800.0",
+    "potential_acv_eur": "9000.0",
+    "nearest_renewal": "2028-01-29",
+    "days_to_renewal": "646",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle with AutoCAD Mechanical, Vault, Fusion for full D&M workflow",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Vault",
+    "reseller": "M&P® spol. s r. o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Buildings",
+    "ml_domain": "www.albridge.cz",
+    "zi_done": true,
+    "zi_error": "No company found"
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.albridge.cz",
+    "homepage": {
+      "title": "Albridge s.r.o.",
+      "description": "",
+      "text_excerpt": "Albridge s.r.o.\nALBRIDGE s.r.o.\nSpoleÄnost ALBRIDGE s.r.o. je typickou menÅ¡Ã­ firmou, kterÃ¡ vznikla na zÃ¡kladech pracovitosti, vynalÃ©zavosti a houÅ¾evnatosti ÄeskÃ©ho ÄlovÄka a dnes se mÅ¯Å¾e pochlubit odbornÃ½m prodejem ocelovÃ½ch potrubnÃ­ch dÃ­lcÅ¯, jako jsou pÅÃ­ruby, redukce, T-kusy a mnohÃ© dalÅ¡Ã­. V nÃ¡vaznosti na potÅeby zÃ¡kaznÃ­kÅ¯ a pruÅ¾nosti dodÃ¡vek i v ÄasovÄ vyhrocenÃ½ch situacÃ­ch jsme naÅ¡i Äinnost rozÅ¡Ã­Åili a stÃ¡le rozÅ¡iÅujeme o vÃ½robnÃ­ prostÅedky jako je kovoobrÃ¡bÄnÃ­, svaÅovÃ¡nÃ­ a dalÅ¡Ã­...\nClose\nODESLAT NA E-MAIL"
+    },
+    "about": {
+      "url": "https://www.albridge.cz/o-nas",
+      "text": "O nÃ¡s | Albridge s.r.o.\nO nÃ¡s\nKontakty\n+420 602 334 805\ninfo@albridge.cz\nALBRIDGE s.r.o.\nAreÃ¡l ZD 305\nVeverskÃ© KnÃ­nice\n664 81\nClose\nODESLAT NA E-MAIL"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.albridge.cz/kontakty",
+      "text": "Kontakt | Albridge s.r.o.\nKontakty\nKontakty\nÅeditel / jednatel spoleÄnosti\nOndÅej Å½ilka\nE-mail: info@albridge.cz\nTel.: +420 602 334 805\nObchodnÃ­ zÃ¡stupce\nJiÅÃ­ IzÃ¡k\nE-mail:\nalbridge.sro@gmail.com\njiri@albridge.cz\nTel.: +420 602 603 795\nVedoucÃ­ skladu\nJan ÄadÃ­k\nTel.: +420 720 993 359\nVÃ½robnÃ­ hala a korespondenÄnÃ­ adresa\nAlbridge s.r.o.\nAreÃ¡l ZD 305\nVeverskÃ© KnÃ­nice, 66481\nÄeskÃ¡ republika\nIÄ:\n26928302\nDIÄ:\nCZ26928302\nRegistrace:\nKrajskÃ½ soud v BrnÄ, oddÃ­l C, vloÅ¾ka 46095\nKONTAKTUJTE NÃS\nJmÃ©no\nE-mail\nTelefon\nVaÅ¡e zprÃ¡va\nOdeslat poptÃ¡vku\nClose\nODESLAT NA E-MAIL"
+    }
+  },
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "DEMM CALIBRI",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 14:46",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "inventor",
+        "vault"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "company_key": "dawell_cz_s_r_o",
+  "company_name": "DAWELL CZ s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "DAWELL CZ s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 32,
+    "all_technologies": [
+      {
+        "product": "Cookieyes",
+        "vendor": "CookieYes",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Woo Themes",
+        "vendor": "WooCommerce",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Seznam",
+        "vendor": "Imedia",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Jira",
+        "vendor": "Atlassian",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "C",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "MATLAB",
+        "vendor": "The MathWorks, Inc.",
+        "category": "Advanced Analytics and Data Science",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Atlassian",
+        "vendor": "Atlassian",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Lubos Nedvedicky",
+        "firstName": "Lubos",
+        "lastName": "Nedvedicky",
+        "jobTitle": "Chief Executive Officer and ŘEditel Ve Společnosti DAWELL CZ",
+        "email": "l.nedvedicky@dawell.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jakub Kuba",
+        "firstName": "Jakub",
+        "lastName": "Kuba",
+        "jobTitle": "Sales Manager",
+        "email": "j.kuba@dawell.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Radek Finda",
+        "firstName": "Radek",
+        "lastName": "Finda",
+        "jobTitle": "Export Manager",
+        "email": "r.finda@dawell.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Vlado Murár",
+        "firstName": "Vlado",
+        "lastName": "Murár",
+        "jobTitle": "Manager, Sales",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Ondřej Kukla",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Territory Service and Sales Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.dawell.cz/kontakt"
+      },
+      {
+        "fullName": "Tomáš Chovan",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Sales Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.dawell.cz/kontakt"
+      },
+      {
+        "fullName": "Sales Manager",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Exportní manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.dawell.cz/kontakt"
+      },
+      {
+        "fullName": "Andrea Dufková",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "HR Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.dawell.cz/kontakt"
+      }
+    ],
+    "total_found": 8,
+    "sources_used": [
+      "zoominfo",
+      "website"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:05:23",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.dawell.cz",
+    "homepage": {
+      "title": "Home - DAWELL CZ",
+      "description": "Mobilní indukční ohřevy pro servis a údržbuŘada EasyFix navržená přímo pro autoservisy, údržbu a další opravárenské provozy.Více zdeMobilní indukční ohřevy...",
+      "text_excerpt": "Home - DAWELL CZ\nSkip to main content\nScroll Top\nNo products in the cart.\nMobilní indukční ohřevy pro servis a údržbu\nŘada EasyFix navržená přímo pro autoservisy, údržbu a další opravárenské provozy.\nVíce zde\nMobilní indukční ohřevy pro průmysl\nIndukční ohřevy řady CoilPro jsou univerzální a výkonné stroje určené pro širokou škálu aplikací.\nVíce zde\nMobilní indukční ohřevy pro svářecí trh\nŘada FlatFix představuje stroje optimalizované především pro rovnání po svařování.\nVíce zde\nMobilní indukční ohřevy pro pájení\nIndukční ohřevy řady BrazeMaster navržené speciálně pro tvrdé i měkké pájení.\nVíce zde\nOdporový ohřev\nMobilní invertorový zdroj pro řízený předehřev a žíhání.\nVíce zde\nVymazat filtr\nLetošní výstavy\n29. 1. 2026\nLetošní výstavy\nDen firem na SPŠ Třebíč​\n28. 1. 2026\nDen firem na SPŠ Třebíč​\nInovovaný fokusační induktor\n26. 1. 2026\nInovovaný fokusační induktor\nRozhovor s CEO firmy Lubošem Nedvědickým\n12. 12. 2025\nRozhovor s CEO firmy Lubošem Nedvědickým\nZobrazit další články\nKvalita\nPropracovaný a optimalizovaný výrobní proces.\nZkušenosti\n200+ distributorů po světě,\n75 000 prodaných ohřevů.\nNávratnost\nNízké provozní náklady bez nutnosti certifikace obsluhy.\nInovace\nNeustále reagujeme na potřeby zákazníků.\nOEM\nMožnost výroby ohřevů v barvách našich partnerů.\nVšestrannost\nŠiroké portfolio příslušenství pro různé aplikace.\nEkologie\nNízká emisní stopa při výrobě a užívání našich ohřevů.\nPoprodejní péče\nVždy dosažitelní a ochotní poradit.\nPoptávka / Inquiry / Anfrage\n\"Home\"\nHidden fields\nKonečný spotřebitel\nProdejce\nPoužitím tohoto formuláře souhlasíte s ukládáním Vámi zadaných údajů. Tyto údaje nebudou dále sdíleny.\nVyplňte prosím požadované údaje a odešlete formulář. Co nejdříve Vás budeme kontaktovat s cenovou nabídkou.\nPlease fill in the required information and submit the form. We will contact you with a quote as soon as possible.\nBitte füllen Sie die erforderlichen Angaben aus und senden Sie das Formular ab. Wir werden uns schnellstmöglich mit einem Angebot bei Ihnen melden.\nHidden fields\nMám zájem o pozici*\nTechnik/technička kvality\nSpecialista/ka zakázkových aplikací\nManažer/ka obchodního týmu\nObchodní manažer/ka pro zahraniční trhy\nVývojový inženýr/ka výkonové elektroniky\n*Pouze poptávám*\nNahrát životopis (PDF, DOC)\nPoužitím tohoto formuláře souhlasím se zpracováním zadaných údajů (\nvíce zde\nZaslání životopisu\nVyplňte prosím požadované údaje, připojte svůj strukturovaný životopis (formát PDF nebo DOC, velikost max. 10 MB) a odešlete formulář. Co nejdříve Vás budeme kontaktovat.\nClose\nPředvolby soukromí\nWhen you visit our website, it may store information through your browser from specific services, usually in form of cookies. Here you can change your privacy preferences. Please note that blocking some types of cookies may impact your experience on our website and the services we offer.\nPrivacy Policy\nYou have read and agreed to our privacy policy\nRequired\nTracking\nTento web používá pro vylepšování uživatelského zážitku sledovací službu Go"
+    },
+    "about": {
+      "url": "https://www.dawell.cz/about",
+      "text": "O společnosti DAWELL CZ\nSkip to main content\nScroll Top\nNo products in the cart.\nO společnosti\nSpolečnost\nDAWELL CZ s.r.o.\nbyla založena v roce 2012 s vizí vybudování vývojově-výrobní a exportní společnosti. Hlavní činností se tak v prvé řadě stal vývoj vlastních produktů v průmyslové oblasti mobilních odporových a indukčních ohřevů a jejich následná výroba a prodej po celém světě.\nVývoj mobilních odporových a indukčních ohřevů\nNa základě průzkumu trhu provedeném v roce 2011 a 2012 a zkušenostech zaměstnanců\nDAWELL CZ\nz předchozích činností se vedení rozhodlo vyvinout mobilní odporové ohřevy série DHM/DHC, které nebyly na trhu dostupné. Po zkušenostech s mobilními odporovými ohřevy, které přinesly nové vize a znalosti trhu, se vývojové oddělení pustilo do návrhu malých mobilních indukčních ohřevů DHI-15, určených pro autoservisy a dílny, a následně i do větších indukčních ohřevů řady DHI-44, DHI-45, DHI-100 a DHI-120, určených taktéž pro autoservisy, dílny, průmyslové a výrobní provozy.\nVýrobní zázemí a vývojové pracoviště\nProdej zařízení DHC a DHI předčil všechna očekávání. Pomohl vybudovat výrobní zázemí firmy\nDAWELL CZ\nv Třebíči a vývojové pracoviště v Brně. Vývojové pracoviště je zaměřeno na kompletní vývoj nových zařízení pro vlastní produkci s úzkou vazbou na výrobní a obchodní oddělení v Třebíči. Nové obchodní a vývojové zkušenosti nám ukázaly zajímavý potenciál trhu s mobilními ohřevy, který hodlá tým\nDAWELL CZ\ndále rozvíjet.\nMOTTO\nDAWELLING is the flameless way of heating.\nOBOR\nCertifikované indukční a odporové ohřevy evropské kvality.\nČINNOST\nVývoj, výroba, prodej, distribuce, pronájem, servis, marketing.\nMISE\nTransformovat tradiční metody ohřevu plamenem na indukční technologii, která je synonymem pro kvalitu, bezpečnost, ekologii, úsporu a efektivitu.\nVIZE\nJako inovativní technologická společnost chceme být evropským lídrem na trhu mobilních indukčních ohřevů. Být hrdí na to, že naše zařízení vyrábíme v srdci Evropy a svým zákazníkům přinášíme unikátní, spolehlivé a dostupné produkty i služby s vysokým standardem kvality.\nZajímavá čísla\nlet na trhu\nprodaných zařízení\nzákladních typů strojů\nexportních destinací\nprofesionálů v týmu\nm² výrobní plochy\naktivních B2B partnerů\nmil.\nKč obrat v roce 2025\nmilníky společnosti\n2011 | Idea a průzkum trhu\nPrvotní vize, nápady, plánování strategie a zkoumání.\n2012 | Založení společnosti\nPříležitost nalezena, příběh se rozjíždí.\n2013 | První produkt - DHC 6510R\nUvedení prvního odporového ohřevu na trh.\n2014 | První mezinárodní výstava\nPoprvé se účastníme mezinárodního veletrhu – Essen.\n2014 | Úspěch s DHI-15\nVýznamný vstup na zahraniční trhy s novým ohřevem.\n2016 | Nový produkt DHI-44\nUvedení větších indukčních ohřevů pro průmysl.\n2018 | 30.000 kusů\n…vyrobeno a prodáno k tomuto datu.\n2019 | Rozšíření portfolia\nNové produkty DHI-100 / 120 a kompaktní ohřev DCI-12.\n2020 | Rosteme a rozšiřujeme\nNové sídlo a větší výrobní kapacity.\n2022 | 10 let a 50.000 strojů\nPrvní dekáda úspěšně za námi! Těšíme se na další!\n2023 | Nový produkt DHI-190\nUvedení nejvýkonnějšího stroje, co jsme kdy zatím vyrobili.\n2024 | Další rozvoj\nZvýšení výrobních kapacit, nové stroje, rozšíření týmu.\n2025 | Nový produkt DHI-48\n… a další rozšiřování firmy.\n2026 | Nové produkty\nRozšíření portfolia malých strojů o DHI-16 / 20 / 30.\n2011\nIdea a průzkum trhu\nPrvotní vize, nápady, plánování strategie a zkoumání.\n2012\nZaložení společnosti\nPříležitost nalezena, příběh se rozjíždí.\n2013\nPrvní produkt – DHC 6510R\nUvedení prvního odporového ohřevu na trh.\n2014\nPrvní mezinárodní výstava\nPoprvé se účastníme mezinárodního veletrhu – Essen.\n2014\nÚspěch s DHI-15\nVýznamný vstup na zahraniční trhy s novým ohřevem.\n2016\nNový produkt DHI-44\nUvedení větších indukčních ohřevů pro průmysl.\n2018\n30.000 kusů\n…vyrobeno a prodáno k tomuto datu.\n2019\nRozšíření portfolia\nNové produkty DHI-100 / 120 a kompaktní ohřev DCI-12.\n2020\nRosteme a rozšiřujeme\nNové sídlo a větší výrobní kapacity.\n2022\n10 let a 50.000 strojů\nPrvní dekáda úspěšně za námi"
+    },
+    "products": {
+      "url": "https://www.dawell.cz/produkty",
+      "text": "Produkty - DAWELL CZ\nSkip to main content\nScroll Top\nNo products in the cart.\nProdukty dawell\nKategorie produktů\nZobrazit vše\nServis\nPrůmysl\nPájení\nPříslušenství\nRovnání\nPředehřev a žíhání\nInduktory pro DCI-13 / DHI-15\nInduktory pro DHI-44E / DHI-45F\nInduktory pro DHI-121 / DHI-161 / DHI-191\nInduktory pro DHI-120\nInduktory pro DHI-160 / DHI-190\nInduktory pro DHI-45C\nPříslušenství pro DHC\nOstatní příslušenství\nInduktory pro DHI-48B\nPro stroj\nZobrazit vše\nDHI-15\nDHI-45C\nDHI-190F HD\nDHI-44E\nDHI-45F\nDHI-121C HD\nDHI-120F HD\nDHI-121F\nDHI-121E\nDHI-191C HD\nDHI-48B\nDCI-13\nDHI-161C HD\nDHI-160E\nDHI-190E\nDHI-160F HD\nSmazat varianty\nBrazeMaster DHI-48B\nBrazeMaster DHI-48B\nChladicí kapalina 10 l\nChladicí kapalina 10 l\nChladicí kapalina 3 l\nChladicí kapalina 3 l\nCoilPro DHI-121C HD\nCoilPro DHI-121C HD\nCoilPro DHI-161C HD\nCoilPro DHI-161C HD\nCoilPro DHI-191C HD\nCoilPro DHI-191C HD\nCoilPro DHI-45C\nCoilPro DHI-45C\nEasyFix DCI-13\nEasyFix DCI-13\nEasyFix DHI-121E\nEasyFix DHI-121E\nEasyFix DHI-15\nEasyFix DHI-15\nEasyFix DHI-160E\nEasyFix DHI-160E\nEasyFix DHI-190E\nEasyFix DHI-190E\nEasyFix DHI-44E\nEasyFix DHI-44E\nFlatFix DHI-120F HD\nFlatFix DHI-120F HD\nFlatFix DHI-121F\nFlatFix DHI-121F\nZobrazit další produkty\nPřidáno do košíku\nZobrazit košík\nSouhrn\nPoptávka / Inquiry / Anfrage\n\"Produkty\"\nHidden fields\nKonečný spotřebitel\nProdejce\nPoužitím tohoto formuláře souhlasíte s ukládáním Vámi zadaných údajů. Tyto údaje nebudou dále sdíleny.\nVyplňte prosím požadované údaje a odešlete formulář. Co nejdříve Vás budeme kontaktovat s cenovou nabídkou.\nPlease fill in the required information and submit the form. We will contact you with a quote as soon as possible.\nBitte füllen Sie die erforderlichen Angaben aus und senden Sie das Formular ab. Wir werden uns schnellstmöglich mit einem Angebot bei Ihnen melden.\nHidden fields\nMám zájem o pozici*\nTechnik/technička kvality\nSpecialista/ka zakázkových aplikací\nManažer/ka obchodního týmu\nObchodní manažer/ka pro zahraniční trhy\nVývojový inženýr/ka výkonové elektroniky\n*Pouze poptávám*\nNahrát životopis (PDF, DOC)\nPoužitím tohoto formuláře souhlasím se zpracováním zadaných údajů (\nvíce zde\nZaslání životopisu\nVyplňte prosím požadované údaje, připojte svůj strukturovaný životopis (formát PDF nebo DOC, velikost max. 10 MB) a odešlete formulář. Co nejdříve Vás budeme kontaktovat.\nClose\nPředvolby soukromí\nWhen you visit our website, it may store information through your browser from specific services, usually in form of cookies. Here you can change your privacy preferences. Please note that blocking some types of cookies may impact your experience on our website and the services we offer.\nPrivacy Policy\nYou have read and agreed to our privacy policy\nRequired\nTracking\nTento web používá pro vylepšování uživatelského zážitku sledovací službu Google Analytics.\nYouTube\nTento web používá službu YouTube ke zobrazení a sdílení video obsahu.\nGoogle Maps\nTento web používá službu Google Maps pro zobrazení interaktivní mapy.\nRequired\nGoogle Fonts\nTento web používá "
+    },
+    "contact_page": {
+      "url": "https://www.dawell.cz/kontakt",
+      "text": "Kontakt DAWELL CZ\nSkip to main content\nScroll Top\nNo products in the cart.\nKontaktní údaje\nHlavní kontakt:\nsales@dawell.cz\nDAWELL CZ s.r.o.\nBudischowského 1073\n674 01 Třebíč, Česká republika\nIČ:\n293 78 362\n, DIČ/VAT:\nCZ29378362\n76993 C, Krajský soud v Brně\nČíslo účtu: 255776679/0300\nIban: CZ68 0300 0000 0002 5616 1799\nSwift: CEKOCZPP\nVývojové oddělení\nPodnikatelská 2956/6, 612 00 Brno\nTechnologický park\nvyvoj@dawell.cz\nFacebook\nInstagram\nLinkedin\nYoutube\nGoogle-drive\nOndřej Kukla\nTerritory Service and Sales Manager\nObchodně technický zástupce pro Českou republiku, Slovenskou republiku a Polsko\n+420 702 160 066\no.kukla@dawell.cz\nTomáš Chovan\nSales Manager\nExportní manager\n+420 725 536 306\nt.chovan@dawell.cz\nVlado Murár\nSales Manager\nObchodní zástupce pro německy mluvicí země\n+420 602 768 171\nv.murar@dawell.cz\nBc. Andrea Dufková\nHR Manager\nKontakt pro uchazeče o zaměstnání\n+420 725 369 170\na.dufkova@dawell.cz\nServisní oddělení\nKontakt pro nahlášení servisu a informace o opravách\n+420 602 769 487\nservis@dawell.cz\nJiří Slatinský\nMarketing and Promotion\nGrafické práce a reklama pro obchodní partnery\n+420 725 067 296\nj.slatinsky@dawell.cz\nPoptávka / Inquiry / Anfrage\n\"Kontakt\"\nHidden fields\nKonečný spotřebitel\nProdejce\nPoužitím tohoto formuláře souhlasíte s ukládáním Vámi zadaných údajů. Tyto údaje nebudou dále sdíleny.\nVyplňte prosím požadované údaje a odešlete formulář. Co nejdříve Vás budeme kontaktovat s cenovou nabídkou.\nPlease fill in the required information and submit the form. We will contact you with a quote as soon as possible.\nBitte füllen Sie die erforderlichen Angaben aus und senden Sie das Formular ab. Wir werden uns schnellstmöglich mit einem Angebot bei Ihnen melden.\nHidden fields\nMám zájem o pozici*\nTechnik/technička kvality\nSpecialista/ka zakázkových aplikací\nManažer/ka obchodního týmu\nObchodní manažer/ka pro zahraniční trhy\nVývojový inženýr/ka výkonové elektroniky\n*Pouze poptávám*\nNahrát životopis (PDF, DOC)\nPoužitím tohoto formuláře souhlasím se zprac"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "company_key": "preteq cnc solutions s.r.o.",
+  "company_name": "Preteq CNC Solutions s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Preteq CNC Solutions s.r.o.",
+    "opportunity_score": 25,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.77,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.77,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "26091313",
+    "official_name": "Preteq CNC Solutions s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "74",
+      "25530",
+      "68310",
+      "25620",
+      "68310",
+      "74"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Vožická 3149, 39002 Tábor, Tábor, Vožická, 39002",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Preteq CNC Solutions s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 14:42"
+}

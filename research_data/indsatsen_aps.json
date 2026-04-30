@@ -1,0 +1,112 @@
+{
+  "company_key": "indsatsen aps",
+  "company_name": "Indsatsen ApS",
+  "domain": "www.indsatsen.dk",
+  "domain_url": "https://www.indsatsen.dk",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Indsatsen ApS",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 6,
+    "revenue": 1228,
+    "zi_company_name": "Indsatsen",
+    "zi_domain": "www.indsatsen.dk",
+    "zi_city": "Vinderup",
+    "zi_country": "Denmark",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.indsatsen.dk",
+    "homepage": {
+      "title": "Velkommen",
+      "description": "",
+      "text_excerpt": "Velkommen\nHvem er vi?\nIndsatsen ApS er en teknisk funderet virksomhed, som er distributør for førende virksomheder, som udvikler og producerer produkter til værktøjs-, plast- og trykstøbebranchen.\nVEGA\n, hydraulik komponenter til værktøjsbranchen\nMasterFlow\n, varmekanal systemer til formværktøj\nErmanno Balzi\n, normdele til værktøj\nTracytec\n, svejse- og poleremaskiner til formindustrien\nPageDesign.dk"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.indsatsen.dk/kontakt",
+      "text": "Kontakt\nKontakt\nKontakt\nIndsatsen ApS\nDjeldvej 62 ▪ Djeld\n7830 Vinderup\nDanmark\nwww.indsatsen.com\nJes V. Willumsen\ne-mail: jes@indsatsen.com\nTel.: +45 97 44 33 99\nMob.: +45 22 70 50 99\nPrivat: +45 97 44 88 22\nEmail\nDit navn\nBesked\nSend\nDin besked er sendt"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Indsatsen ApS",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 6,
+    "all_technologies": [
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LiteSpeed Web Server",
+        "vendor": "LiteSpeed Technologies Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Matomo",
+        "vendor": "Matomo Software",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Indsatsen ApS",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 17:59"
+}

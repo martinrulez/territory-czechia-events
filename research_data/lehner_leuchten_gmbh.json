@@ -1,0 +1,170 @@
+{
+  "company_key": "lehner leuchten gmbh",
+  "company_name": "Lehner Leuchten GmbH",
+  "domain": "www.lehner.de",
+  "domain_url": "https://www.lehner.de",
+  "events": "URBIS Smart Cities 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Lehner Leuchten GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 14,
+    "revenue": 3831,
+    "zi_company_name": "Lehner WerkMetall Jürgen Lehner",
+    "zi_domain": "www.lehner.de",
+    "zi_city": "Burglengenfeld",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.lehner.de",
+    "homepage": {
+      "title": "Inspiration in Licht und Design - Lehner Leuchten GmbH - Inspirationen in Licht und Design",
+      "description": "Lehner Leuchten GmbH. Kompetent – Zuverlässig – Freundlich. Zuerst erblickt man das Licht der Welt, mit etwas Glück geht einem",
+      "text_excerpt": "Inspiration in Licht und Design - Lehner Leuchten GmbH - Inspirationen in Licht und Design\nL E H N E R   -   L E U C H T E N\nLehner Leuchten GmbH\nKompetent – Zuverlässig – Freundlich\nZuerst erblickt man das Licht der Welt, mit etwas Glück geht einem hier und da ein Licht auf, und dann braucht man sein Licht auch nicht unter den Scheffel zu stellen. Andernfalls bringt vielleicht ein anderer Licht ins Dunkel und hilft all jenen, die das Licht am Ende des Tunnels nicht sehen. Das Licht hat in unserem Alltag eine sehr große Relevanz, weshalb wir es uns zur Aufgabe gemacht haben, die Welt um ein weiteres Stück zu erleuchten. Durch unsere Vielfalt an Produkten schaffen wir abwechslungsreiche und innovative Beleuchtungen für Straßen, Parks, Industrie oder auch auf privaten Anlagen.\nAls Hersteller von technischen, dekorativen und historischen Leuchten sowie hochwertigem Stadtmobiliar bieten wir Kommunen und Städten eine große Vielfalt von Lichtlösungen für die Stadt- und Freiraumgestaltung und erfüllen die hohen Anforderungen an die Straßenbeleuchtung im öffentlichen Raum. Dazu gehören Mastleuchten, Wandleuchten und Lichtstelen in unterschiedlichen Ausführungen gleichermaßen wie Seilleuchten und Pollerleuchten.\nIn unserer Manufaktur werden Mithilfe unserer langjährigen Erfahrung und der engen Zusammenarbeit mit Architekten und Lichtplanern individuelle Lösungen von hoher Qualität für den Außenbeleuchtung entwickelt. Bei unzähligen realisierten Projekten - national und international - haben wir unsere Verlässlichkeit im Bereich Lichtgestaltung und Design für urbane Räume bewiesen. Immer wichtiger wird energieeffiziente Beleuchtung mit LED, smarten Lösungen und modularen Sensoren für die Smart City Projekte. Entdecken Sie hierzu unsere Smart Lighting Produkte und Referenzprojekte. Mit der Lehner Leuchten GmbH haben Sie einen starken Partner an Ihrer Seite - von der Beratung, über Planung bis zur Inbetriebnahme.\nSie sehen gerade einen Platzhalterinhalt von\nYouTube\n. Um auf den eigentlichen Inhalt zuzugreifen, klicken Sie auf die Schaltfläche unten. Bitte beachten Sie, dass dabei Daten an Drittanbieter weitergegeben werden.\nMehr Informationen\nInhalt entsperren\nErforderlichen Service akzeptieren und Inhalte entsperren\nDIE MANUFAKTUR\nLehner ist eine erstklassige Leuchten Manufaktur. Die Produkte sind handwerklich auf höchstem Niveau verarbeitet und bei der Fertigung wird neben der vollautomatischen maschinellen Techniken auch noch mit „klassischen“ Verfahren gearbeitet. Wir legen bei der Produktion viel Wert darauf, unsere Produkte selbst herzustellen. Moderne Beleuchtungskonzepte erfordern Flexibilität in der Auswahl und Bearbeitung des Materials. Nur eine langjährige Erfahrung mit den unterschiedlichen Materialien gewährleistet ein optimales Ergebnis in der Leuchtenproduktion.\nSie sehen gerade einen Platzhalterinhalt von\nGoogle Maps\n. Um auf den eigentlichen Inhalt zuzugreifen, klicken Sie auf die Schaltfläche unten. Bitte beachten Sie, dass dabei Daten an D"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Lehner Leuchten GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 14,
+    "all_technologies": [
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "1&1 Hosting",
+        "vendor": "1&1 IONOS Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Lehner Leuchten GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Karlheinz",
+        "last_name": "Hils",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "company": "Lehner WerkMetall Jürgen Lehner",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 79.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 16:20"
+}

@@ -1,0 +1,99 @@
+{
+  "company_key": "blaser swisslube cz, s.r.o.",
+  "company_name": "Blaser Swisslube CZ, s.r.o.",
+  "domain": "www.blaser.cz",
+  "domain_url": "https://www.blaser.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Blaser Swisslube CZ, s.r.o.",
+    "opportunity_score": 12,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "00545368",
+    "official_name": "Blaser Swisslube CZ, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46850",
+      "46810",
+      "46900",
+      "52100",
+      "72100",
+      "74",
+      "461",
+      "49410",
+      "461",
+      "4671",
+      "46750",
+      "46900",
+      "49410",
+      "52100",
+      "7219",
+      "74"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Jihlavská 320/2, 66441 Troubsko, Troubsko, Jihlavská, 66441",
+    "zi_done": true,
+    "employee_count": 19,
+    "revenue": 2153,
+    "zi_company_name": "Blaser Swisslube CZ sro",
+    "zi_domain": "www.blaser.cz",
+    "zi_city": "",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.blaser.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Blaser Swisslube CZ, s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Pavel",
+        "last_name": "Vecerka",
+        "title": "Director",
+        "email": "p.vecerka@blaser.com",
+        "phone": "",
+        "company": "Blaser Swisslube CZ sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 99.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 19:16"
+}

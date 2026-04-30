@@ -1,0 +1,359 @@
+{
+  "company_key": "chcnav",
+  "company_name": "CHCNAV",
+  "domain": "www.chcnav.com",
+  "domain_url": "https://www.chcnav.com",
+  "events": "3DISE Conference 2026",
+  "event_count": 1,
+  "lead_class": null,
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "CHCNAV",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 848,
+    "revenue": 138411,
+    "zi_company_name": "CHC Navigation",
+    "zi_domain": "www.chcnav.com",
+    "zi_city": "Shanghai",
+    "zi_country": "China",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.chcnav.com",
+    "homepage": {
+      "title": "Build a Smart World with CHCNAV Precision Solutions",
+      "description": "CHCNAV delivers high-precision navigation, positioning, and mapping solutions for surveying, construction, marine, agriculture, and autonomous systems worldwide.",
+      "text_excerpt": "Build a Smart World with CHCNAV Precision Solutions\nBuilding a Smart World with CHC Navigation Precision Solutions\nSmarter Precision in Every World\nEmpower your daily operations with our advanced mapping, positioning, and navigation solutions.\nHOME_BUTTON\nScroll\nScroll\nGEOSPATIAL\nCHC Navigation is a leader in the geospatial industry, delivering advanced geospatial technology that transforms mapping and surveying. Our geospatial solutions integrate GNSS, LiDAR, UAV, and USV systems to achieve high-precision results. Designed for professionals, CHCNAV empowers smarter decisions and sustainable development through geospatial innovation.\nGo to Geospatial\nMACHINE CONTROL\nCHC Navigation delivers advanced machine control solutions that improve precision, productivity, and efficiency in earthmoving. Our GPS machine control systems for excavators, dozers, graders, and compactors are complemented by GNSS rovers and CAD field software empowering your jobsite to stay on schedule and within spec.\nGo to Machine Control\nNAVIGATION\nWe lead innovation in GNSS navigation with hybrid GNSS+INS technologies built for unmanned systems, robotics, and autonomous vehicles. CHC Navigation GPS RTK sensors and chipsets enable high-accuracy, reliable performance for integrators in automotive, logistics, mining, and construction, powering scalable autonomous navigation applications.\nGo to Navigation\nAGRICULTURE\nImprove your precision agriculture practices with smart agriculture solutions built for farms of any size. CHC Navigation’s tractor guidance and auto-steering systems, powered by GPS farming technologies, optimize planting, irrigation, and harvesting, helping you increase yields, cut costs, and drive sustainability across every stage of their operation.\nGo to Agriculture\nEXPLORE OUR SOLUTIONS\nInnovating Global Navigation & Mapping Solutions\nCHC Navigation is advancing mapping, navigation, and positioning technologies. We are boosting efficiency and affordability in geospatial, digital construction, precision agriculture, and navigation industries. Our commitment to innovation makes CHCNAV your trustworthy partner, offering personalized support and solutions worldwide.\nLearn More\nyears of innovation​\nglobal experts\ncountries served worldwide\nR&D Engineers\nLATEST NEWS\nGeospatial\nApr 17, 2026\nWhat Is RTK GPS and How Does It Improve Positioning Accuracy?\nLearn More\nGeospatial\nApr 10, 2026\nA Smarter Indoor Survey Workflow: Handheld SLAM Scanning with the CHCNAV RS7\nLearn More\nGeospatial\nApr 9, 2026\nCHC Navigation Launches AlphaAir 6, a Long-Range Airborne LiDAR System for UAV Mapping and Aerial Surveying\nLearn More\nGeospatial\nApr 8, 2026\nCHC Navigation Confirms Readiness for Upcoming BeiDou System Upgrade\nLearn More\nGeospatial\nApr 2, 2026\nHow to Choose the Right Land Surveying Equipment for Your Project\nLearn More\nGeospatial\nMar 31, 2026\nCHC Navigation Announces Major Updates to i93, i85, i76 and iBase GNSS Receivers\nLearn More\nAgriculture\nMar 25, 2026\nOne Terminal, Unlimit"
+    },
+    "about": {
+      "url": "https://www.chcnav.com/o-nas",
+      "text": "404\nSorry, that page can’t be found.\nNavigate to our\nHome Page\n, where we'll help you find your way."
+    },
+    "products": {
+      "url": "https://www.chcnav.com/produkty",
+      "text": "404\nSorry, that page can’t be found.\nNavigate to our\nHome Page\n, where we'll help you find your way."
+    },
+    "contact_page": {
+      "url": "https://www.chcnav.com/kontakt",
+      "text": "404\nSorry, that page can’t be found.\nNavigate to our\nHome Page\n, where we'll help you find your way."
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "CHCNAV",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 42,
+    "all_technologies": [
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Accelerate",
+        "vendor": "Cox Automotive, Inc.",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Baidu Ibsuyn API",
+        "vendor": "Baidu, Inc.",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "a2z",
+        "vendor": "a2z, Inc.",
+        "category": "Event Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DNS.com",
+        "vendor": "DNS.com",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Ads",
+        "vendor": "LinkedIn Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Zoho Forms",
+        "vendor": "Zoho Corporation Private Limited",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick Bid Manager",
+        "vendor": "Google LLC",
+        "category": "Demand Side Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "CHCNAV",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Kong",
+        "last_name": "Kyle",
+        "title": "General Manager, Machine Control BU",
+        "email": "",
+        "phone": "",
+        "company": "CHC Navigation",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Rocky",
+        "last_name": "Liu",
+        "title": "Vice President, Business Development",
+        "email": "",
+        "phone": "",
+        "company": "CHC Navigation",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 19:07"
+}

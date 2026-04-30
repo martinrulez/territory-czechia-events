@@ -1,0 +1,212 @@
+{
+  "company_key": "otto bihler maschinenfabrik gmbh & co. kg",
+  "company_name": "Otto Bihler Maschinenfabrik GmbH & Co. KG",
+  "domain": "www.bihler.de",
+  "domain_url": "https://www.bihler.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Otto Bihler Maschinenfabrik GmbH & Co. KG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 857,
+    "revenue": 154011,
+    "zi_company_name": "Otto Bihler Maschinenfabrik",
+    "zi_domain": "www.bihler.de",
+    "zi_city": "Halblech",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.bihler.de",
+    "homepage": {
+      "title": "Otto Bihler Maschinenfabrik GmbH & Co. KG - Bihler",
+      "description": "Welcome to Otto Bihler Maschinenfabrik GmbH & Co.KG., the market-leading supplier for automated manufacturing in stamping, forming, welding and assembly technology.",
+      "text_excerpt": "Otto Bihler Maschinenfabrik GmbH & Co. KG - Bihler\nYour strong partner for efficient automation solutions\nin stamping, forming, welding and assembly technology\nWorld of Bihler\nCustomer Support\nSafe successful production\nBC R Bihler Control Retrofit\nModernize your machinery\nE-Mobility\nMove the world with us\nWelding technology\nCore competence for 50 years\nInnovative Manufacturing Solutions\nAutomotive - Electronics - Household - Medical technology ...\nLatest information\nB 20K High-performance welding control system\nSimply better welding\nWebApp\nBihlerplanning\nBihler technology software\nTransparent and consistent\nBihler Digital App\nDigital value creation\nBihler on YouTube\nWatch our technology\nAn dieser Stelle finden Sie ein YouTube Video, für das Sie weitere Cookies akzeptieren müssen.\nCookies akzeptieren\nAn dieser Stelle finden Sie ein YouTube Video, für das Sie weitere Cookies akzeptieren müssen.\nCookies akzeptieren"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Otto Bihler Maschinenfabrik GmbH & Co. KG",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 19,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Assembly",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "tawk.to",
+        "vendor": "tawk.to inc.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Flowplayer Platform",
+        "vendor": "Flowplayer AB.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "TeamViewer",
+        "vendor": "TeamViewer GmbH",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Leadinfo",
+        "vendor": "Leadinfo",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Otto Bihler Maschinenfabrik GmbH & Co. KG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Thomas",
+        "last_name": "Bayer",
+        "title": "Process Owner",
+        "email": "",
+        "phone": "",
+        "company": "Otto Bihler Maschinenfabrik",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 84.0
+      },
+      {
+        "first_name": "Dominik",
+        "last_name": "Höber",
+        "title": "Finance, Controlling & Human Resources Business Process Owner",
+        "email": "",
+        "phone": "",
+        "company": "Otto Bihler Maschinenfabrik",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 17:16"
+}

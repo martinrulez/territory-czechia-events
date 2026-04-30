@@ -1,0 +1,377 @@
+{
+  "company_key": "elvac_a_s",
+  "company_name": "ELVAC a.s.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "ELVAC a.s.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 43,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft PowerPoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "WPForms",
+        "vendor": "WPForms LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Vue",
+        "vendor": "Vue.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Delphi",
+        "vendor": "Embarcadero Technologies, Inc.",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bullhorn",
+        "vendor": "Bullhorn, Inc",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "LinkedIn Ads",
+        "vendor": "LinkedIn Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Umbraco CMS",
+        "vendor": "Umbraco A/S",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Marian Kuruc",
+        "firstName": "Marian",
+        "lastName": "Kuruc",
+        "jobTitle": "Order Realization Head of Technical Support",
+        "email": "marian.kuruc@elvac.eu",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jan Kordas",
+        "firstName": "Jan",
+        "lastName": "Kordas",
+        "jobTitle": "Division Department Power Industry Systems Head of Research & Development",
+        "email": "jan.kordas@elvac.eu",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Musil Bronislav",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "Product Manager at ELVAC a.s.",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.linkedin.com/company/elvac-a-s-"
+      },
+      {
+        "fullName": "Klára Kočarová Pechová",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "product manager at IT, purchase",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.linkedin.com/company/elvac-a-s-"
+      },
+      {
+        "fullName": "Tomas Prudek",
+        "firstName": "Tomas",
+        "lastName": "Prudek",
+        "jobTitle": "Owner",
+        "email": "tomas.prudek@elvac.eu",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jan Hajný",
+        "firstName": "Jan",
+        "lastName": "Hajný",
+        "jobTitle": "Head of Project Management",
+        "email": "jan.hajny@elvac.eu",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Tomáš Gebauer",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "CSO | ELVAC a.s. | Průmyslová automatizace, průmyslové počítače a komunikace, AR & AI specialista",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.linkedin.com/company/elvac-a-s-"
+      }
+    ],
+    "total_found": 7,
+    "sources_used": [
+      "zoominfo",
+      "website"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:05:25",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.elvac.eu",
+    "homepage": {
+      "title": "ELVAC a.s. - Vše pro průmysl, automatizaci a energetiku",
+      "description": "Skupina ELVAC sdružuje několik společností zabývající se automatizací, energetikou a speciální výpočetní technikou. Máme 30 let zkušeností.",
+      "text_excerpt": "ELVAC a.s. - Vše pro průmysl, automatizaci a energetiku\nPřejít k obsahu\nPrůmyslové PC\na periférie\nPrůmyslové sítě\na komponenty MOXA\nEKOLOGICKÁ\nŘešení\nVelkoobchod s\nelektromateriálem\nŘešení\npro energetiku\nVýroba\nrozvaděčů\nPrůmyslová\nautomatizace\nVýroba strojů\na robotika\nVývoj\nsoftware\nServis a\ntechnická podpora\nPrůmyslové počítače\na periférie\nPrůmyslové PC\na periférie\nVýroba a prodej IPC\nOdolné tablety a notebooky\nKomponenty a periférie pro IPC\nPříslušenství\nVÍCE...\nPrůmyslové sítě\na komponenty MOXA\nPrůmyslové sítě\na komponenty MOXA\nPrůmyslové switche a konvertory\nSériové převodníky\nPrůmyslové počítače Moxa\nPříslušenství\nVÍCE...\nEkologická řešení\nEkotechnika\nTechnologie ochrany životní prostředí\nMěření emisí\nFyzikální a chemická laboratoř\nKalibrační laboratoř\nVÍCE...\nVelkoobchod s\nelektromateriálem\nVelkoobchod s\nelektromateriálem\nDrobný elektromateriál a kabeláž\nStroje a jejich součásti\nVybavení výrobních\na průmyslových provozů\nVÍCE...\nŘešení\npro energetiku\nŘešení\npro energetiku\nKompaktní a modulární RTU\nSoftwarová řešení SCADA, DMS…\nMěřicí a testovací přístroje\nKomplexní řešení v oblastech energetiky\nVÍCE...\nVýroba rozvaděčů\nVýroba\nrozvaděčů\nVýroba NN rozvaděčů\n3D návrhy konstrukce rozvaděčů\nElektromontážní a servisní práce\nZkoušky a revize el. zařízení\nVÍCE...\nPrůmyslová\nautomatizace\nPrůmyslová\nautomatizace\nZpracovaní projektové dokumentace\nOdborná montáž a uvedení do provozu\nSystémy řízení a strojového vidění\nRegulované pohony\nVÍCE...\nVýroba strojů\na robotika\nVýroba strojů\na robotika\nJednoúčelové stroje\nNávrh a výroba montážních linek\nRealizace robotických pracovišť\nDěrovací jednotky\nVÍCE...\nVývoj software\nVývoj\nsoftware\nMonitorovací a řídicí systémy\nInformační systémy (Infopanely)\nSystémy pro řízení údržby\nVývoj na klíč\nVÍCE...\nServis a\ntechnická podpora\nServis a\ntechnická podpora\nZáruční servis\nPozáruční servis\nTechnická podpora\nOdborné poradenství\nVÍCE...\nKontaktujte ELVAC specialisty!\nvyrobených rozvaděčů\nvyrobených počítačů\nprojektů ročně\nkontinenty s našimi produkty\nzemí s našimi produkty\nm² výrobních ploch\nzahraniční pobočky\nlet zkušeností\nProduktové\nweby\nRobustní měřicí řešení pro lehký průmysl.\nŘešení splňující požadavky na pokročilé plánování výroby\nKamery a příslušenství pro strojové vidění\nKamery pro strojové vidění, software a integrace.\nSoftware pro řízením a plánováním podnikové údržby\nProdukty a řešení pro bezpečnostní složky\nRozšířená realita RealWear, spolupráce bez hranic.\nRozumná elektromobilita pro městskou realitu.\nPanasonic Toughbook odolnost místo slibů\nEfektivní nástroj pro rychlou a spolehlivou prezentaci dat\nZveme vás\nNavštivte nás na IDEB 2026\nPředstavíme vám špičková zařízení z kategorie rugged mobility, která kombinují výkon, odolnost a širokou konektivitu\nAktuality\nStarší zprávy\nProduktové\nnovinky\nČíst vše\nČíst vše\nELVAC\nBLOG\nDalší články\nProjektové\nnovinky\nČíst vše\nČíst vše\nInformace o cookies\nKliknutím na Souhlasím budou uloženy cookies funkční, statistické i marketingové - dokážeme vám tak umožnit pohodlné použ"
+    },
+    "about": {
+      "url": "https://www.elvac.eu/o-nas",
+      "text": "O nás - Jsme skupina ELVAC - Produkty a řešení pro průmysl\nPřejít k obsahu\nKdo jsme?\nJako skupina společností ELVAC pomáháme firmám k efektivnější výrobě a jednoduššímu provozu. Jsme partneři v oblasti průmyslové automatizace, energetiky a ekologie.\nZ rozmanitosti našich divizí těžíme mezioborové know-how. Díky němu od nás zákazníci získávají komplexní řešení svých projektů.\nŠiroké spektrum znalostí a zkušeností napříč odvětvími rozvíjíme již od roku 1991 a tvoří naši největší přidanou hodnotu.\nSpolupracujeme s lokálními i nadnárodními společnostmi a rádi do hloubky porozumíme i vašim potřebám.\nVšechny kontakty\nSouzníme s potřebou inovací. Právě díky nim společně dosáhneme efektivnější práce, jednodušší výroby, nižší ekologické zátěže a vyššího zisku.\nZačněte s námi modernizovat vaši společnost. Integrujeme do ní nové technologie Průmyslu 4.0 – strojové vidění a učení, robotizaci, umělou inteligenci či rozšířenou realitu.\nPomůžeme vám transformovat jednotlivá zařízení nebo celou výrobu.\nStáhněte si Profil\nspolečnosti ELVAC\nStáhněte si Katalog řešení\nspolečnosti ELVAC\nMáme vlastní vývoj\nDlouhodobě a systematicky vyvíjíme vlastní produkty. Vyrábíme stroje, vyvíjíme software s uplatněním u nás i ve světě – od Polska až po USA.\nProhlédněte si jednotlivá řešení z naší dílny.\nELVAC Mechatronika\nELVAC Energetika\nELVAC SOLUTIONS\ne-mobilita\nStrojní zařízení\nk měření dvojkolí\nRobotika\nMODULÁRNÍ\nHMI moduly\nMěřící a testovací přístroje\nKOMPAKTNÍ\nPřinášíme hodnotná řešení\nZastřešíme celý váš projekt a díky mezioborové spolupráci našich divizí na jeho realizaci ušetříte náklady.\nNavrhujeme atypická řešení, poskytujeme rychlý servis a spolehlivou technickou podporu.\nAť už u nás poptáte průmyslový počítač nebo celou výrobní linku, vždy vám dodáme efektivní a dlouhodobě fungující řešení.\nNaše produkty\na služby\nDodavatelské\nslužby\nServisní služby\na technická podpora\nS důvěrou se na nás obraťte v těchto oblastech\nAutomatizovat vaši\nvýrobu a procesy.\nAutomatizovat vaši\nvýrobu a procesy.\nZajistit nejmodernější\na nejodolnější výpočetní techniku.\nZajistit nejmodernější\na nejodolnější výpočetní techniku.\nNabídnout některou\nz více než miliónu\nelektronických součástek.\nNabídnout některou\nz více než miliónu\nelektronických součástek.\nNavrhnout, vyrobit a uvést\ndo provozu stroje, roboty\na výrobní linky.\nNavrhnout, vyrobit a uvést\ndo provozu stroje, roboty\na výrobní linky.\nDodat řešení pro\nenergetiku, včetně vlastní\nvýroby RTU a dalších\nzařízení pro NN/VN.\nDodat řešení pro\nenergetiku, včetně vlastní\nvýroby RTU a dalších\nzařízení pro NN/VN.\nDodat systémy řízení, zobrazovací panely\na potřebný software\nna míru.\nDodat systémy řízení, zobrazovací panely\na potřebný software\nna míru.\nZajistit bezpečné a efektivní rozvody elektřiny v průmyslu i občanských stavbách.\nZajistit bezpečné a efektivní rozvody elektřiny v průmyslu i občanských stavbách.\nPoskytnout řešení pro\nměření a odvod\nnebezpečných látek z\novzduší, kapalin a zeminy.\nPoskytnout řešení pro\nměření a odvod\nnebezpečných látek z\novzduší, kapalin a zeminy.\nPostarat se o komplexní\nsíťové vybavení se zabezpečením před kybernetickými hrozbami.\nPostarat se o komplexní\nsíťové vybavení se zabezpečením před kybernetickými hrozbami.\nPoskytovat záruční\ni pozáruční servis\na technickou podporu.\nPoskytovat záruční\ni pozáruční servis\na technickou podporu.\nPřijeďte za námi\nChcete nás osobně navštívit nebo hledáte detaily ke konkrétní pobočce? Tady jsou.\nV České republice nás můžete najít v 7 lokalitách, kde zaměstnáváme více než 250 zaměstnanců. Disponujeme více než 4550 m\nvýrobních prostor. Všechny výrobní prostory jsou dopravně dostupné a disponují logistickým zázemím, které dostojí požadavkům zdejší výroby.\nHasičská 930/53,\nOstrava – Hrabůvka\nSídlo společnosti ELVAC a.s. a ELVAC SOLUTIONS s.r.o.\nVelkoobchod s elektromateriálem, výroba rozvaděčů\nKontakty\nZobrazit na mapě\nHasičská 545/44,\nOstrava – Hrabůvka\nVedení společnosti,\nvýroba průmyslových počítačů a RTU\nKontakty\nZobrazit na mapě\nMostárenská 2996/54,\nOstrava – Vít"
+    },
+    "products": {
+      "url": "https://www.elvac.eu/produkty",
+      "text": "Výpočetní technika do každé situace - Speciální PC a příslušenství - ELVAC a.s.\nPřejít k obsahu\nPrůmyslové počítače\nVýpočetní technika dle oborů\nDomů\nPrůmyslové počítače\nVýpočetní technika dle oborů\nipc@elvac.eu\n+420 597 407 321\nSpeciální\nvýpočetní technika\ndo mnoha klíčových oborů. Specializujeme se na\nzdravotnické počítače, PDA a tablety pro logistiku, odolné notebooky do terénu\nodolné počítače a zařízení pro policii, hasiče a armádu.\nTyto všestranná zařízení dnes a denně pomáhají profesionálům v plnění jejich těžkých úkolů v\nnepříznivých podmínkách\nKontaktujte nás\nZDRAVOTNICKÉ POČÍTAČE\nPro poskytování zdravotní péče a medikace potřebují lékaři a záchranáři přístup k elektronickým zdravotním záznamům pacientů\nv reálném čase\na to často pod velkým tlakem.\nPřenosné zdravotnické počítače\ns vysokou odolností\njim umožňují rychlý přístup k těmto informacím v reálném čase, přičemž čtečky čárových kódů,\nRFID\na čipových karet pomáhají ověřovat průkazy totožnosti, kontrolovat provozní postupy a zachovávat lékařské tajemství. Mobilní konektivita, integrované kamery či dedikovaná\nGPS a LTE připojení umožňují pracovníkům komunikovat se specialisty online\n, rychle sdílet a vyměňovat informace a pracovat tak efektivně a s vysokou spolehlivostí.\nPDA a tablety pro LOGISTIKu A SKLADY\nZaměstnanci skladů či řidiči dálkových vozidel, vysokozdvižných vozíků, bagrů a jeřábů musí shromažďovat a přesouvat materiál či zboží v nejrůznějších podmínkách, od vnitřních prostor se stálým chlazením až po lomy a venkovní skladovací prostory, které jsou vystaveny\npovětrnostním vlivům a působení živlů\nRobustní\nPDA a\ntablety či logistické terminály s odolnou konstrukcí a možnosti montáže do speciálních vozidel\njsou zároveň rezistentní vůči výkyvům teplot v širokém rozsahu.\nČtečky čárových kódů nebo RFID, spolu s programovatelnými tlačítky\nnavíc umožní rychlou a snadnou identifikaci skladovaných či transportovaných položek v několika sekundách.\nDedikovaná GPS navigace zaručí dispečerům přesné informace\no vozovém parku a přepravovaném materiálu.\nodolné notebooky pro SLUŽBY A SERVIS V TERÉNU\nOdborníci a profesionálové, kteří musí pravidelně kontrolovat a udržovat infrastrukturu apod., potřebují\nodolné notebooky\n, na které se mohou spolehnout v rozmanitých povětrnostních podmínkách. Vzhledem k omezeným možnostem nabíjení je při práci na odlehlých místech mimořádně důležitá\ndlouhá výdrž baterie a její rychlá „hot-swap“ výměna\n.  Kombinace\nstandardních\nvlastností pro tato zařízení, jako jsou\ndedikovaná GPS navigace, displej čitelný na slunci s možností ovládání v dešti i rukavicích, dvě hot-swap baterie a vysoká odolnost\n, poskytuje technikům v terénu potřebnou jistotu, že námi dodaná výpočetní technika je spolehlivou volbou do jakýchkoliv podmínek.\nodolné počítače pro POLICIi, HASIČe A  ARMÁDu\nOdolné počítače s možností vestavby do vozidel či odolné notebooky a tablety s robustní konstrukcí, certifikované pro\npoužití v extrémních teplotách\n, vlhkosti a prachu zajišťují\nmaximální spolehl"
+    },
+    "contact_page": {
+      "url": "https://www.elvac.eu/kontakt",
+      "text": "Kontakt - ELVAC a.s.\nPrzejdź do treści\nKontakt\nPrywatne: dom\nEKO-technologia\nKontakt\nekotechnika@elvac.eu\n+420 724 844 378\nELVAC EKOTECHNIKA - SZCZEGÓŁOWE KONTAKTY\nAdres:\nTavičská 337/23,\n703 00 Ostrava – Vítkovice\nIČ: 26839652\nDIČ: CZ26839652\nOznaczenie pliku:\nSpółka jest zarejestrowana w Rejestrze Handlowym prowadzonym przez Sąd Okręgowy w Ostrawie,\nsekcja C, insert 50138.\nZarządzanie firmą\nIng. Ondřej Kania\nTel.: +420 724 844 378\nE-mail:\nondrej.kania@elvac.eu\nSekretariat\nRegina Černíková\nMob.: +420 732 343 575\nTel.: +420 595 700 500\nE-mail:\nregina.cernikova@elvac.eu\nTechnologia ochrony powietrza\nIng. Jiří Švrčula\nTel.: +420 595 700 507\nMob.: +420 602 567 277\nE-mail:\njiri.svrcula@elvac.eu\nTechnologia ochrony powietrza\nIng. Tomáš Pelc\nMob.\n: +420 722 626 776\nE-mail:\ntomas.pelc@elvac.eu\nPomiar emisji i imisji\nRNDr. Pavel Lazecký\nTel.: +420 595 700 503\nMob.: +420 606 753 900\nE-mail:\npavel.lazecky@elvac.eu\nLaboratorium fizyczne i techniczneIng\nOlga Frankovičová\nTel.: +420 595 700 501\nMob.: +420 739 320 034\nE-mail:\nolga.frankovicova@elvac.eu\nLaboratorium kalibracyjne\nStanislav Ročňák\nMob.\n: +420 724 016 460\nE-mail:\nstanislav.rocnak@elvac.eu\nSerwis i wsparcie techniczne\nBc. Jan Prachař\nMob.\n: +420 730 524 897\nE-mail:\njan.prachar@elvac.eu\nInformace o cookies\nKliknutím na Souhlasím budou uloženy cookies funkční, statistické i marketingové - dokážeme vám tak umožnit pohodlné používání webu, měřit funkčnost našeho webu i vás cílit reklamou. Své preference můžete snadno upravit kliknutím na Nastavení cookies. Kompletní politiku\nsi můžete přečíst zde\nNutné\nNutné\nZawsze aktywne\nNutné cookies pomáhají, aby byla webová stránka použitelná tak, že umožní základní funkce jako navigace stránky a přístup k zabezpečeným sekcím webové stránky. Webová stránka nemůže správně fungovat bez těchto cookies.\nPředvolby\nPředvolby\nTechnické uložení nebo přístup je nezbytný pro legitimní účel ukládání preferencí, které nejsou požadovány odběratelem nebo uživatelem.\nStatistické\nStatistické\nStatist"
+    }
+  }
+}

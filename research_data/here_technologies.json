@@ -1,0 +1,445 @@
+{
+  "company_key": "here technologies",
+  "company_name": "HERE Technologies",
+  "domain": "www.here.com",
+  "domain_url": "https://www.here.com",
+  "events": "URBIS Smart Cities 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "HERE Technologies",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "2",
+    "current_acv_eur": "1000.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-10-01",
+    "days_to_renewal": "161",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "maturity_label": "Entry",
+    "industry_segment": "Buildings",
+    "ml_domain": "www.herz.cz",
+    "zi_done": true,
+    "employee_count": 6400,
+    "revenue": 1031906,
+    "zi_company_name": "Here Technologies",
+    "zi_domain": "www.here.com",
+    "zi_city": "Eindhoven",
+    "zi_country": "Netherlands",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.here.com",
+    "homepage": {
+      "title": "HERE Technologies | The world's #1 location platform",
+      "description": "HERE is a PaaS for building, deploying and scaling location solutions. Create custom maps, visualize location datasets, gather insights and buy and sell location assets.",
+      "text_excerpt": "HERE Technologies | The world's #1 location platform\nThe unified map for automakers and enterprises\nSee our pricing\nContact sales\n90+\nleading OEM brands rely on HERE for location-based solutions\n238M+\nvehicles shipped with HERE services\n200+\ncountries and territories covered\nOne map, many solutions\nHERE’s unified live map delivers automotive-grade location data to businesses across industries and use cases.\nExplore HERE solutions\nAccelerating automotive innovation\nDiscover how HERE delivers best-in-class precision, flexibility and control for automakers building the next generation of software-defined vehicles.\nAutomated driving\nBuild systems that are more reliable, safe and comfortable across all levels of automation.\nDigital Cockpit\nDeliver safe, more efficient and convenient connected navigation for the digital cockpit experience.\nSDV Accelerator\nLeverage the most comprehensive, virtualized and open initiative to accelerate innovation and differentiation. Reduce costs and scale fast with HERE + AWS SDV Accelerator.\nThe #1 location platform\nThe latest Omdia Location Platform Index ranks HERE at the top.\nRead more\nPrecision\nInnovate with a high-quality map.\nFlexibility\nDifferentiate your products and services.\nControl\nKeep your data private and secure.\n\"A digital HD map is essential for highly automated driving. HERE HD Live Map is rich and reliable: it provides road geometry, route profile and traffic signs – all on a global scale.\"\nBMW Group\nTrusted worldwide\nView customer stories\nGet to know HERE\nAbout HERE\nPricing\nRecognition for HERE\nHERE360 News\nFor developers\nDeveloper resources\nHERE documentation\nDeveloper blog\nGet Started\nGet in touch\nLet's talk about how you can use a unified live map to build superior experiences.\nContact us\nGet started for free"
+    },
+    "about": {
+      "url": "https://www.here.com/about",
+      "text": "Location Technology | Autonomous World | About Us | HERE\nAbout HERE Technologies\nWe make a unified live map designed for every moving vehicle\nPlay video\n40+\nyears of experience in map-making and location technology\n238m+\nvehicles shipped with HERE map data and solutions on board\n6400+\nemployees across 52 countries\nOur path\nWho we are\nHERE is the world’s leading mapping company. Forty years ago, we started with a digital map of San Francisco. Today, we set the standard for automotive-grade maps globally and partner to define the future of the software-defined vehicle. Our customers are leading automakers, logistics firms, mobility providers and technology brands.\nWhat we do\nWe deliver the world’s best unified map to our customers. A map with more precision, more flexibility and more control. A map that is powering the next generation of vehicle automation and safety, enabling innovation and efficiency, and driving sustainable growth across industries.\nWhy we do it\nA great map doesn’t just mark a destination; it reveals the promise of a faster, safer and more efficient journey. Smarter routes unfold. Goods reach the right hands. Precious minutes are saved. Because a better map can make a better world.\nOur purpose principles\nRise to the challenge\nWelcoming debate, testing assumptions and exchanging ideas is how we achieve our best thinking and arrive at the brightest answers.\nChannel curiosity\nUnited by a deep desire to understand the world, we travel, seek and discover, staying open to new perspectives.\nChart new frontiers\nWe have the vision to see what doesn’t yet exist, the courage to do what's never been done and the grit to get there.\nAdvance by listening\nAlways learning while listening, we build close relationships and broaden our knowledge to help our people and customers go further.\nEarn trust at every turn\nWe focus on details and protect our customers' information like our own, with a passion for precision and empathy in every action.\nHERE extends lead as #1 location platform\nFrom a detailed category overview and ranking of vendors to monetization and growth comparison. Find out why HERE ranks above its biggest competitors like Google and Mapbox.\nDownload the report\nLearn more about HERE\nCareers\nJoin our team and make the world better with location.\nSee more\nOffices\nSee where we work, with over 50 offices worldwide.\nSee more\nHERE 360 Blog\nBrowse the latest trends, products and interviews.\nSee more\nGet in touch\nLearn how location technology can help solve your unique business needs.\nContact us"
+    },
+    "products": {
+      "url": "https://www.here.com/products",
+      "text": "Products Overview\nProducts Overview\nExplore our products\nStart building\nBrowse our extensive range of location services\nMaps & data\nBuild accurate maps and custom layers using fresh location data generated by hundreds of mapping vehicles worldwide. Elevate the comfort and safety of driving experiences with our portfolio of dynamic content services.\nMap Data\nBuild your own world view using our map data as a canvas. Turn your map into a location-based application by layering it with data from other sources.\nDynamic Map Content\nEnhance the journey experience with real-time information. Help drivers arrive safely, comfortably and on schedule, by using dynamic content APIs in your apps and services.\nMaps for ADAS and HAD\nMake the driving experience safer and more comfortable – with location technology, maps and data for assisted and automated driving.\nLocation services\nCreate connected journeys for fleets, passengers and businesses with advanced algorithms. Bring high-precision location awareness to your apps and devices to improve location accuracy and make journey planning easier.\nHERE Routing\nPlan stress-free journeys. Discover our routing portfolio designed for various modes of transport.\nHERE Geocoding & Search\nEnable precise conversion and discovery of geocoordinates and addresses to improve location accuracy and context.\nHERE Map Rendering\nRender spatial data to suit your business needs. Use data that is accurate, comprehensive and updated daily.\nHERE Positioning\nBring high-precision location awareness to your apps and devices, even in challenging indoor and outdoor environments.\nHERE Tour Planning\nImprove how you utilize your fleet with many-to-many route planning and customizable, en route optimization.\nApplications\nOptimize last mile deliveries, track assets in real time and deliver the freshest SaaS automotive navigation. Find out how to minimize asset loss and reduce operating costs in your supply chain.\nHERE Navigation\nDeliver a complete navigation and services experience for connected vehicles – with a turnkey or customizable Software-as-a-Service (SaaS) solution.\nHERE WeGo\nWherever you're going, the refreshed WeGo navigation app will help you get there. Enjoy your journey.\nBuild accurate maps and custom layers using fresh location data generated by hundreds of mapping vehicles worldwide. Elevate the comfort and safety of driving experiences with our portfolio of dynamic content services.\nMap Data\nBuild your own world view using our map data as a canvas. Turn your map into a location-based application by layering it with data from other sources.\nDynamic Map Content\nEnhance the journey experience with real-time information. Help drivers arrive safely, comfortably and on schedule, by using dynamic content APIs in your apps and services.\nMaps for ADAS and HAD\nMake the driving experience safer and more comfortable – with location technology, maps and data for assisted and automated driving.\nHERE Tools\nHERE SDK\nEnable powerful location-relate"
+    },
+    "contact_page": {
+      "url": "https://www.here.com/contact",
+      "text": "Contact Us For All Location Technology Enquiries | HERE\nLearn more about how we can help your business\nSee how our platform provides:\nAn integrated suite of solutions for connected vehicles\nThe most trusted mapping content\nA marketplace for data to solve complex location-based business problems\n*Required field. We will use your information according to our\nprivacy policy\nUseful links\nHERE WeGo\nHelp and support for your HERE WeGo app and web maps.\nFind out more\nMap updates for vehicles\nPurchase a map update for your vehicle. Find navigation updates for more than 40 automotive brands.\nFind out more\nReport a map error\nCorrect errors and update the HERE map with Map Creator. Visit the help section on the Map Creator website for more details.\nFind out more"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "HERE Technologies",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autodesk Maya",
+      "Vault Payment Solutions"
+    ],
+    "competitor_products": [
+      "Dassault Systemes"
+    ],
+    "cad_bim_other": [
+      "Autodesk",
+      "Built",
+      "InVision",
+      "REST / RESTful",
+      "Sigma"
+    ],
+    "total_technologies": 527,
+    "all_technologies": [
+      {
+        "product": "Cloudbees Jenkins",
+        "vendor": "Cloudbees, Inc",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "TypeScript",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Jupyter",
+        "vendor": "Project Jupyter",
+        "category": "File Sharing",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "TestNG",
+        "vendor": "TestNG",
+        "category": "Testing and QA",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Gradle",
+        "vendor": "Gradle Inc.",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Affinity",
+        "vendor": "Affinity",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "GPS",
+        "vendor": "mbm.it",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Scala",
+        "vendor": "Lightbend, Inc.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Coupa",
+        "vendor": "Coupa Software Inc",
+        "category": "Travel and Expense Management",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Kotlin",
+        "vendor": "JetBrains s.r.o.",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Apache Airflow",
+        "vendor": "The Apache Software Foundation",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "LiveRamp",
+        "vendor": "Acxiom LLC",
+        "category": "Data Management Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Jasper",
+        "vendor": "Jasper AI, INC.",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Figma",
+        "vendor": "Figma, Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Microsoft Copilot",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "React",
+        "vendor": "Meta Open Source",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Highspot",
+        "vendor": "Highspot, Inc.",
+        "category": "Sales Enablement",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Vault Payment Solutions",
+        "vendor": "Vault Payment Solutions Group Pty Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "AWS Lake Formation",
+        "vendor": "Amazon Web Services, Inc.",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Atlas Dental Specialists",
+        "vendor": "Atlas Dental Specialists",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Splunk Soar",
+        "vendor": "Splunk Inc",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Privlege Access Management",
+        "vendor": "ARCON",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Craft",
+        "vendor": "Craft.io Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Elastic",
+        "vendor": "Elastic",
+        "category": "Enterprise Search",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Google Meet",
+        "vendor": "Google LLC",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Built",
+        "vendor": "Built",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "RobotFramework",
+        "vendor": "Robot Framework",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bench",
+        "vendor": "Bench",
+        "category": "Accounting",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "API Gateway",
+        "vendor": "Akamai Technologies, Inc.",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Recorded Future Security Intelligence Platform",
+        "vendor": "Recorded Future, INC.",
+        "category": "Threat Intelligence",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Tor",
+        "vendor": "Tor Project, Inc",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "CIM",
+        "vendor": "F24 AG",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Abstract",
+        "vendor": "Elastic Projects, Inc",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Colleague",
+        "vendor": "Ellucian Company L.P.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "AuditBoard",
+        "vendor": "AuditBoard, Inc.",
+        "category": "Governance, Risk and Compliance",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Truly",
+        "vendor": "Truly",
+        "category": "Call Tracking",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Legal Track",
+        "vendor": "Legal Track",
+        "category": "Legal Solutions",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Compose",
+        "vendor": "Casetext, Inc",
+        "category": "Legal Solutions",
+        "categoryParent": "Vertical Industries"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "HERE Technologies",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Michael",
+        "last_name": "Nefkens",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Here Technologies",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 92.0
+      },
+      {
+        "first_name": "Luis",
+        "last_name": "Vielman",
+        "title": "President",
+        "email": "",
+        "phone": "",
+        "company": "Here Technologies",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 15:02",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks",
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

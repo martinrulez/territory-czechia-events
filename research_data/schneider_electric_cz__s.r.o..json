@@ -1,0 +1,172 @@
+{
+  "company_key": "schneider electric cz, s.r.o.",
+  "company_name": "Schneider Electric CZ, s.r.o.",
+  "domain": "www.schneider-electric.cz",
+  "domain_url": "https://www.schneider-electric.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Schneider Electric CZ, s.r.o.",
+    "opportunity_score": 29,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.44,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.44,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "60467550",
+    "official_name": "Schneider Electric CZ, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "72100",
+      "74",
+      "73120",
+      "73200",
+      "49320",
+      "62",
+      "47780",
+      "38120",
+      "69200",
+      "46190",
+      "43210",
+      "461",
+      "49410",
+      "70200",
+      "711",
+      "93290",
+      "46900",
+      "711",
+      "7219",
+      "73120",
+      "73200",
+      "74",
+      "93290",
+      "4778",
+      "49393",
+      "49410",
+      "620",
+      "69200",
+      "702",
+      "3812",
+      "4321",
+      "43210",
+      "461",
+      "46190",
+      "46900"
+    ],
+    "ares_segments": [
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "U Trezorky 921/2, Jinonice, 15800 Praha 5, Praha, U Trezorky, 15800",
+    "is_client": true,
+    "current_products": "Fusion",
+    "total_seats": "1",
+    "current_acv_eur": "600.0",
+    "potential_acv_eur": "8200.0",
+    "nearest_renewal": "2026-08-24",
+    "days_to_renewal": "123",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Fusion Sim Ext",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "zi_done": true,
+    "employee_count": 861,
+    "revenue": 274039,
+    "zi_company_name": "Schneider Electric CZ",
+    "zi_domain": "www.schneider-electric.cz",
+    "zi_city": "",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.schneider-electric.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Schneider Electric CZ, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 5,
+    "all_technologies": [
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Nameshield",
+        "vendor": "Nameshield SAS",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Amazon Web Hosting",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Schneider Electric CZ, s.r.o.",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Martina",
+        "last_name": "Ticha",
+        "title": "Cz & Sk Credit Manager",
+        "email": "martina.ticha@schneider-electric.com",
+        "phone": "",
+        "company": "Schneider Electric CZ",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 93.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 08:48"
+}

@@ -1,0 +1,116 @@
+{
+  "company_key": "nibe energy systems cz",
+  "company_name": "NIBE ENERGY SYSTEMS CZ",
+  "domain": "www.iceenergy.cz",
+  "domain_url": "https://www.iceenergy.cz",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "NIBE ENERGY SYSTEMS CZ",
+    "opportunity_score": 40,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 1.0,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 1.0,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "28857721",
+    "official_name": "NIBE ENERGY SYSTEMS CZ s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "4322",
+      "33",
+      "33",
+      "43220"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Merklovice 64, 51754 Vamberk, Vamberk, 51754",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "3",
+    "current_acv_eur": "1500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-11-20",
+    "days_to_renewal": "211",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "TD SYNNEX Czech s.r.o. (NCR)",
+    "maturity_label": "Entry",
+    "industry_segment": "Construction Services",
+    "ml_domain": "www.iceenergy.cz",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.iceenergy.cz",
+    "homepage": {
+      "title": "Home | ICE ENERGY",
+      "description": "",
+      "text_excerpt": "Home | ICE ENERGY\nNečekané\nmožnosti energie\nrealizace topení a chlazení\npomocí tepelných čerpadel IVT\nzobrazit reference\nO firmě\na službách\nspolečnosti\nIce energy\nFirma ICE ENERGY, s.r.o. působí na českém trhu od roku 2008. Navazuje na několikaleté zkušenosti z oboru tepelných čerpadel z předchozích let (od roku 2002). Nabízíme komplexní služby v oblasti vytápění a chlazení pomocí tepelných čerpadel odebírající teplo z hlubinných vrtů. Instalujeme převážně tepelné čerpadla od švédského výrobce IVT. Provádíme záruční i pozáruční servis. Většinu náhradních dílů máme skladem v Brně.\nŠvédská značka IVT se specializuje pouze na vývoj a výrobu tepelných čerpadel. Tím se odlišuje od většiny konkurentů, kteří se zabývají tepelnými čerpadly jen jako jednou z mnoha dalších činností. Tato specializace a více než 40 let zkušeností s touto technologií udržuje dlouhodobě značku IVT na špičce v oboru tepelných čerpadel. V současné době je značka IVT součástí koncernu BOSCH Thermotechnik GmbH – největšího evropského dodavatele topenářské techniky.\nDrtivá většina zapojení tepelných čerpadel se používá pouze na vytápění. My implementujeme tepelné čerpadlo do systému, který vytápí, chladí a odpadním teplem vzniklým při chlazení ohřívá teplou vodu, bazén, popř. regeneruje vrty. Tyto způsoby zapojení vykazují jedny z nejnižších provozních nákladů mezi aktuálními systémy, které se používají.  Návratnosti investic do těchto  systémů se pohybují od 5 do 8 let, a to bez jakýchkoliv dotací.\nV případě zájmu vám rádi vypracujeme návrh řešení a posoudíme vhodnost investice do systému topení a chlazení pomocí tepelného čerpadla IVT.\nVybrané reference\nOTEVŘENÁ ZAHRADA\nTopný výkon: 68 kW\nChladící výkon: 60 kW\nVrty: 1 200 m\nUvedení do provozu: 2012\nVíce informací\nDům diamantové cesty Brno\nTopný výkon: 36 kW\nChladící výkon: 30 kW\nVrty: 500 m\nUvedení do provozu: 2010\nVíce informací\nBytový dům KRYSTAL\nTopný výkon: 86 kW\nChladící výkon: 80 kW\nVrty: 1 200 m\nUvedení do provozu: 2010\nVíce informací\nHlavní partner\nKontakt\nICE ENERGY, s.r.o.\nPopelákova 25\n628 00 Brno\nČeská republika\nICE ENERGY, s.r.o.\nTelefon: +420 776 566 668\nMobil: +420 776 566 668\nE-mail:\ninfo iceenergy.cz\nICE ENERGY, s.r.o.\nIČ: 28289081, DIČ: CZ28289081\nSpisová značka C 58894 vedená\nu Krajského soudu v Brně\nfacebook\nvimeo\ninstagram\n© Copyright 2018 ICE ENERGY, s.r.o., Popelákova 25, 628 00 Brno\nIČ 28289081, DIČ CZ28289081, C 58894 vedená u Krajského soudu v Brně"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.iceenergy.cz/sluzby",
+      "text": "Služby | ICE ENERGY\nSlužby\nprojekční\nčinnost\nProvádíme kompletní projekční práce týkající se tepelných čerpadel, topných systému, chlazení a chladících stropů a to ve všech stupních. Dále na tyto technologie zpracováváme projekty měření a regulace. Pro vrtné práce (při systému země-voda) zajišťujeme kompletní legislativu „na klíč“, včetně územních souhlasů a vodoprávních povolení na vrtné práce.\nkompletní dodávky technologických systémů\nNaší hlavní činností jsou dodávky technologických celků s tepelnými čerpadly, topné systémy a chlazení. Na tyto celky následně instalujeme vlastní řídící systém, který vyvíjíme a zdokonalujeme již 10 let. Děláme vše od rodinných domů až po velké instalace v komerčních budovách. Následně na našich instalacích provádíme záruční a pozáruční servis.\nvýroba kompletního systému stropního chlazení\nOd roku 2016 vyrábíme vlastní systém\nchladicích sádrokartonových stropů\n, které jsou čím dál více doplňovány a využívány v kombinaci s tepelnými čerpadly. Jde o ucelený systém včetně řídícího systému, který měří rosné body a udržuje chlazení na co nejlepším možném výkonu. Více o chladicích stropech najdete na stránkách\nwww.chlazenestropy.cz\nHlavní partner\nKontakt\nICE ENERGY, s.r.o.\nPopelákova 25\n628 00 Brno\nČeská republika\nICE ENERGY, s.r.o.\nTelefon: +420 776 566 668\nMobil: +420 776 566 668\nE-mail:\ninfo iceenergy.cz\nICE ENERGY, s.r.o.\nIČ: 28289081, DIČ: CZ28289081\nSpisová značka C 58894 vedená\nu Krajského soudu v Brně\nfacebook\nvimeo\ninstagram\n© Copyright 2018 ICE ENERGY, s.r.o., Popelákova 25, 628 00 Brno\nIČ 28289081, DIČ CZ28289081, C 58894 vedená u Krajského soudu v Brně"
+    },
+    "contact_page": {
+      "url": "https://www.iceenergy.cz/kontakt",
+      "text": "Kontakt | ICE ENERGY\nKontakt\nICE ENERGY, s.r.o.\nPopelákova 25\n628 00 Brno\nČeská republika\nICE ENERGY, s.r.o.\nTelefon: +420 776 566 668\nMobil: +420 776 566 668\nE-mail:\ninfo iceenergy.cz\nICE ENERGY, s.r.o.\nIČ: 28289081, DIČ: CZ28289081\nSpisová značka C 58894 vedená\nu Krajského soudu v Brně\nHlavní partner\nKontakt\nICE ENERGY, s.r.o.\nPopelákova 25\n628 00 Brno\nČeská republika\nICE ENERGY, s.r.o.\nTelefon: +420 776 566 668\nMobil: +420 776 566 668\nE-mail:\ninfo iceenergy.cz\nICE ENERGY, s.r.o.\nIČ: 28289081, DIČ: CZ28289081\nSpisová značka C 58894 vedená\nu Krajského soudu v Brně\nfacebook\nvimeo\ninstagram\n© Copyright 2018 ICE ENERGY, s.r.o., Popelákova 25, 628 00 Brno\nIČ 28289081, DIČ CZ28289081, C 58894 vedená u Krajského soudu v Brně"
+    }
+  },
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Miroslav Zika",
+        "firstName": "Miroslav",
+        "lastName": "Zika",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-23 12:09",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

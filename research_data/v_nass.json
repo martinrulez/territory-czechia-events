@@ -1,0 +1,234 @@
+{
+  "company_key": "v_nass",
+  "company_name": "V-NASS",
+  "domain": "",
+  "events": "Moravian Aviation Cluster Members",
+  "technographics": {
+    "success": true,
+    "company": "V-NASS",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 26,
+    "all_technologies": [
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Word",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Lua",
+        "vendor": "UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "OpenResty",
+        "vendor": "OpenResty Inc",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "OVH Hosting",
+        "vendor": "OVH",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "reCAPTCHA v2.0",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PETR VAŠICA",
+        "firstName": "PETR",
+        "lastName": "VAŠICA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "STANISLAVA STŘÍŽOVÁ",
+        "firstName": "STANISLAVA",
+        "lastName": "STŘÍŽOVÁ",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PAVEL KRPEC",
+        "firstName": "PAVEL",
+        "lastName": "KRPEC",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:26",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.v-nass.cz",
+    "homepage": {
+      "title": "V-NASS, a.s. | Přesné strojní obrábění",
+      "description": "V-NASS a.s. je strojírnou zaměřující se na výrobu přesných a tvarově složitých obrobků pro obory podmořské dobývání ropy a zemního plynu, jaderné energetiky, biomedicíny a nástrojů pro sekundární metalurgii.",
+      "text_excerpt": "V-NASS, a.s. | Přesné strojní obrábění\nPřejít k obsahu\nV-NASS\nPřesné strojní obrábění\nZobrazit více\nV-NASS a.s.\nSpolečnost V-NASS a. s. je Váš tradiční partner pro přesné obrábění, ale také dodavatelem vysoce kvalitních návarů z niklových slitin či montovaných celků, včetně hydrostatických nebo plynových tlakových zkoušek. Vyrábíme nové dílce nebo dílce použité repasujeme a rovněž smontujeme. Rovněž pro naše zákazníky zajistíme specifické zpracování jakými jsou kalení, nitridace, speciální povlaky nebo nátěry a nástřiky.\nSpolečnost V-NASS, a.s. (IČ: 253 66 599), je členem koncernu, jehož členy jsou také společnosti ANACOT CAPITAL a.s. (IČ: 268 40 529), ANACOT Services s.r.o. (IČ: 075 34 205), ELFE, s.r.o. (IČ: 479 73 293), TRESTLES, a.s. (IČ: 066 73 465), FEROPLAST spol. s r.o. (IČ: 150 59 031), TRESTLES Shop, s.r.o. (IČ: 014 14 607), TRIANGOLO spol. s r.o. (IČ: 479 06 600), LISA TECH a.s. (IČ: 118 82 646), Laugo Arms, s.r.o. (IČ: 221 85 089), LAUGO Arms USA, LLC, PBI future s.r.o. (IČ: 286 51 499), ACAV 25 s.r.o. (IČ: 239 67 196), ROTIS SKUPINA Czech s.r.o. (IČ: 239 12 681), ROTIS SKUPINA d.o.o., ROTIS, d.o.o.\nVíce informací\nZadat poptávku\nPREZENTAČNÍ VIDEO\naktuality\nOZNÁMENÍ O ULOŽENÍ PROJEKTU FÚZE SLOUČENÍM DO SBÍRKY LISTIN | V-NASS\n25 července, 2025\nOZNÁMENÍ O ULOŽENÍ PROJEKTU FÚZE SLOUČENÍM DO SBÍRKY LISTIN | V-NASS Představenstvo společnosti V-NASS a.s., IČ: 25366599, se sídlem Halasova 2938/1a, Vítkovice,703 00 Ostrava, zapsaná v obchodním rejstříku vedeném u Krajského soudu v Ostravě, oddíl B,vložka 4395 („nástupnická společnost“) tímto i za jednatele NEW ELFE, s.r.o., IČ: 04764978, se sídlem 28. října 3390/111a, MoravskáOstrava, 702 00 Ostrava, zapsaná v obchodním…\nZjistit více...\nZÍSKANÉ CERTIFIKÁTY"
+    },
+    "about": {
+      "url": "https://www.v-nass.cz/o-nas",
+      "text": "O nás | V-NASS a.s.\nPřejít k obsahu\nV-NASS, a.s. má více než 100 letou historii, za kterou jsme získali mnoho zkušeností a vybudovali si skvělé jméno a postavení nejen v tuzemsku, ale také ve světě.\nNaše společnost vznikla v roce 1917 pod názvem Malostrojírna, byla součástí areálu Strojírnen Vítkovického horního a hutního těžířstva a orientovala se na výrobu důlních zařízení. Po II. světové válce byl sortiment výroby změněn na výrobu obráběcích nástrojů pro tehdejší podnik Vítkovice.\nModerní historie V-NASS, a.s. se začíná psát v roce 1997, kdy se v rámci privatizace oddělila od společnosti Vítkovice a. s. a již pod názvem V-NASS s. r. o. zahájila samostatnou činnost.\nV následujících letech po úspěšném období stabilizace a změny výrobního programu s orientací na obory Oil and Gas, Jaderná Energetika a Metalurgie zažívá růst, který je v roce 2006 korunován ziskem ocenění Firma roku 2006 v Moravskoslezském kraji. Dále úspěšně navyšuje svůj obrat a rozšiřuje množství regionů, do kterých se svými výrobky proniká a rozšiřuje trvale své technologické možnosti s cílem maximálně uspokojit potřeby zákazníka a nabídnout mu co nejlepší servis.\nV roce 2011 dochází ke změně právní formy na společnost akciovou.\nV roce 2014 získáváme ocenění jako nejlepší dodavatel roku největším světovým výrobcům zařízení pro podmořskou těžbu ropy společností FMC.\nKe konci roku 2016 se stáváme členem koncernu Anacot Capital, pod jehož vedením úspěšně překonáváme krizi na trzích s ropou, a v dalších letech úspěšně navazujeme na své nejlepší výsledky z minulosti.\nHISTORIE\nHistorie kovárny sahá do roku 1955, kdy byla postavena a uvedena do provozu jako součást národního podniku ZPS Hulín. V této době sloužila především pro výrobu volných výkovů pro oblast strojírenské a vojenské výroby.\n1955\nvýstavba kovárny – součást podniku ZPS Hulín\n1994\nPrivatizace kovárny a vznik spol. Triangolo spol. s r.o.\n2008\nVýstavba nové kalírny\n2017\nZačlenění do skupiny ANACOT CAPITAL\n2019\nZískání ceny CZECH STABILITY AWARD\n1969\nzměna společnosti na TOS Hulín\n1998\nCertifikace společnosti dle ISO\n2010\nInstalace radiálně-axiálního rozválcovacího stroje typu RAW 100/125\n2019\nZahájení projektu komplexní obnovy a modernizace strojního parku\nVIZE\nNaší vizí je společnost, která maximálně uspokojuje potřeby zákazníka. Vychází mu vstříc a je jeho partnerem. Společnost, která je spolehlivá, stabilní a poskytuje zákazníkům dlouhodobou perspektivu. Společnost, se kterou je spokojen nejen zákazník ale i zaměstnanec a která se neustále rozvíjí a pružně reaguje na trendy v technologiích nebo obchodě. Chceme být společností trvale odpovědnou nejen v oblasti environmentální, ale i sociální a veškerou naši činnost provádět tak, abychom byli prospěšní svému okolí.\nSTRATEGIE\nPostaráme se o Vás a o vaše potřeby. Nabízíme kompletní servis pro zákazníky. Zajišťujeme ucelený soubor služeb, od pořízení odpovídajícího materiálu, přes výrobu, povrchovou úpravu až po dopravu na místo určení. Samozřejmostí jsou veškeré služby v oblasti kontroly kvality, nedestruktivního zkoušení nebo dozoru nezávislými orgány. Služby, které nejsme sami schopni poskytnout, zajišťujeme přes vybudovanou síť dodavatelů. Spolupracujeme s renomovanými dodavateli povrchových úprav, speciálního obrábění nebo testování. Naší prioritou je nekompromisní kvalita a důraz na termíny dodání a možnost změn během realizace zakázky. Každému zákazníkovi připravíme řešení na míru.\nJAKOST\nJakost a bezpečnost naší výroby je naprostou prioritou. Vysoký standard úrovně jakosti zajištují dva systémy managementu jakosti ISO 9001:2015 a ISO 3834-2 certifikované renomovanými společnostmi TÜV NORD respektive DNV GL. S ohledem na charakter výroby v naší společnosti je striktní dodržování pravidel QMS samozřejmostí. Naše výrobky jsou pečlivě monitorovány a řízeny od jejich objednání až po dodání finální dokumentace zákazníkovi.  Uplatňujeme politiku „ZERO defect“, jejíž cílem je, aby zákazník vždy obdržel výrobek bez odchylek. Součástí našeho procesu je i S"
+    },
+    "products": {
+      "url": "https://www.v-nass.cz/sluzby",
+      "text": "Služby a technologie | V-NASS a.s.\nPřejít k obsahu\nSLUŽBY A TECHNOLOGIE\nNAŠE SLUŽBY A TECHNOLOGIE\nCNC, NC, nebo klasické soustružení na horizontálních a vertikálních soustruzích\nCNC, NC nebo klasické frézování na vertikálních i horizontálních centrech\nBroušení na plocho i na kulato\nNavařování metodou TIG\nTepelné zpracování PWHT, Kalení do oleje pec s ochrannou atmosférou, Kalení vakuové do oleje, žíhání\nElektrochemické odjehlování\nMultifunkční obrábění včetně hlubokého vrtání. Maximální rozměr obrobku D 1500 – 5000, 10 000 Kg\nSlužby zajišťované pomocí kooperací se sesterskými firmami a partnery\nNitridace\nFosfátování Mg / Zn\nPovlaky typu PTFE nebo Sigma\nZinkování galvanické\nSvařování\nZátěžové testy\nNDT UT, MT, PT, RT\nGALERIE"
+    },
+    "contact_page": {
+      "url": "https://www.v-nass.cz/kontakt",
+      "text": "Kontakty | V-NASS a.s.\nPřejít k obsahu\nKONTAKTY\nPotřebujete se k nám dostat na schůzku, hledáte fakturační údaje a nebo kontakt na někoho konkrétního? Zde najdete všechny kontakty na jednom místě snadno a přehledně. V případě jakéhokoli dotazu nás neváhejte kontaktovat i přes online formulář.\nSÍDLO FIRMY\nSpolečnost je zapsána do obchodního rejstříku KS v Ostravě, oddíl B, vložka 4395\nV-NASS a.s.\nHalasova 2938/1a\n703 00 Ostrava – Vítkovice\nČeská republika\nObchodní oddělení:\n+420 595 956 718\nFinanční oddělení:\n+420 595 952 847\nGPS:\nN 49°48’50.5751014″\nE 18°16’45.7022095″\nKontaktní email:\ninfo@v-nass.cz\nIČ:\n253 66 599\nDIČ:\nCZ25366599\nPŘÍMÉ KONTAKTY\nIng. Pavel Krpec\nředitel společnosti, předseda představenstva\nTel.:\n+420 606 693 585\nEmail:\npavel.krpec@v-nass.cz\nIng. Petr Vašica\nobchodní ředitel, člen představenstva\nTel.:\n+420 606 728 871\nEmail:\npetr.vasica@v-nass.cz\nMgr. Jakub Čánek\nvedoucí personálního úseku\nTel.:\n+420 727 899 107\nEmail:\njakub.canek@v-nass.cz\nMartin Kotek\nředitel výroby\nTel.:\n+420 720 031 675\nEmail:\nmartin.kotek@v-nass.cz\nMartin Krpec\nvedoucí technického úseku\nTel.:\n+420 731 688 879\nEmail:\nmartin.krpec@v-nass.cz\nIng. Kamila Ciencialová\nfinanční ředitelka\nTel.:\n+420 724 059 543\nEmail:\nkamila.ciencialova@v-nass.cz\nIng. Nataša Reková\nvedoucí nákupu\nTel.:\n+420 728 515\n337\nEmail: natasa.rekova\n@v-nass.cz\nStanislava Střížová\ninformatika, člen představenstva\nEmail: stanislava.strizova\n@v-nass.cz\nIng. Daniel Pravňanský\nvedoucí řízení jakosti\nEmail: daniel.pravnansky\n@v-nass.cz"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "company_key": "scott automation gmbh",
+  "company_name": "Scott Automation GmbH",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Scott Automation GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No technographics found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Hayley Ormrod",
+        "firstName": "Hayley",
+        "lastName": "Ormrod",
+        "jobTitle": "General Manager, People",
+        "email": "h.ormrod@scottautomation.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Andrew Arnold",
+        "firstName": "Andrew",
+        "lastName": "Arnold",
+        "jobTitle": "General Manager - Zealand",
+        "email": "a.arnold@scottautomation.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Damian Lucas",
+        "firstName": "Damian",
+        "lastName": "Lucas",
+        "jobTitle": "General Manager (Australia)",
+        "email": "d.lucas@scottautomation.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Teddy Black",
+        "firstName": "Teddy",
+        "lastName": "Black",
+        "jobTitle": "General Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Michael Christman",
+        "firstName": "Michael",
+        "lastName": "Christman",
+        "jobTitle": "Chief Executive Officer",
+        "email": "mike.christman@scottautomation.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Werner Conradie",
+        "firstName": "Werner",
+        "lastName": "Conradie",
+        "jobTitle": "President of Mining",
+        "email": "w.conradie@scottautomation.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Aaron Vanwalleghem",
+        "firstName": "Aaron",
+        "lastName": "Vanwalleghem",
+        "jobTitle": "President, Materials Handling & Logistics",
+        "email": "a.vanwalleghem@scottautomation.com",
+        "phone": "+32 55 33 57 41",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Mark O'Malley",
+        "firstName": "Mark",
+        "lastName": "O'Malley",
+        "jobTitle": "Chief Financial Officer",
+        "email": "m.omalley@scottautomation.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jim Brady",
+        "firstName": "Jim",
+        "lastName": "Brady",
+        "jobTitle": "President",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 9,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-23 14:38"
+}

@@ -1,0 +1,162 @@
+{
+  "company_key": "argutec_s_r_o",
+  "company_name": "Argutec s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "Argutec s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "Autodesk"
+    ],
+    "total_technologies": 12,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Matomo",
+        "vendor": "Matomo Software",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Autodesk",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Michal Holiš",
+        "firstName": "Michal",
+        "lastName": "Holiš",
+        "jobTitle": "Chief Technology Officer",
+        "email": "holis@argutec.eu",
+        "phone": "+420 602 315 141",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Martin Plaček",
+        "firstName": "Martin",
+        "lastName": "Plaček",
+        "jobTitle": "Chief Executive Officer",
+        "email": "placek@argutec.eu",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Martin Baier",
+        "firstName": "Martin",
+        "lastName": "Baier",
+        "jobTitle": "Representative, Chief Sales Officer (CSO)",
+        "email": "baier@argutec.eu",
+        "phone": "+420 703 141 903",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Martin Kusyn",
+        "firstName": "Martin",
+        "lastName": "Kusyn",
+        "jobTitle": "Project Manager",
+        "email": "kusyn@argutec.eu",
+        "phone": "+420 735 177 778",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:05:19",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.argutec.eu",
+    "homepage": {
+      "title": "Argutec",
+      "description": "",
+      "text_excerpt": "Argutec"
+    },
+    "about": {
+      "url": "https://www.argutec.eu/o-nas",
+      "text": "Argutec"
+    },
+    "products": {
+      "url": "https://www.argutec.eu/produkty",
+      "text": "Argutec"
+    },
+    "contact_page": {
+      "url": "https://www.argutec.eu/kontakt",
+      "text": "Argutec"
+    }
+  }
+}

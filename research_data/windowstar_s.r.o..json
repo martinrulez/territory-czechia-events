@@ -1,0 +1,162 @@
+{
+  "company_key": "windowstar s.r.o.",
+  "company_name": "WindowStar s.r.o.",
+  "domain": "www.ws-mojeokna.cz",
+  "domain_url": "https://www.ws-mojeokna.cz",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "WindowStar s.r.o.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 38,
+    "revenue": 2263,
+    "zi_company_name": "Windowstar sro",
+    "zi_domain": "www.ws-mojeokna.cz",
+    "zi_city": "",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ws-mojeokna.cz",
+    "homepage": {
+      "title": "Design obytných a veřejných prostor a řešení oken a dveří",
+      "description": "Design obytných a veřejných prostor se zaměřením na okna, vchodové dveře a stínící techniku. Estetika, funkčnost a práce se světlem jako součást architektury.",
+      "text_excerpt": "Design obytných a veřejných prostor a řešení oken a dveří\nDesign obytných a veřejných prostor: rovnováha mezi komfortem a estetikou\nProstorový design je umění. Každý projekt je jedinečný. Důležitá je rovnováha mezi funkcí a krásou. Obytné prostory vyžadují teplo. Veřejná prostranství přísnost. Správná okna vám pomohou dosáhnout vašeho cíle. Každý detail designu vyžaduje promyšlení.\nProč hrají klíčovou roli okna?\nOkno je zdrojem světla. Vytváří náladu. Světlo oživuje prostor. Okna určují styl fasády. Poskytují tepelnou izolaci. Moderní okna šetří energii. Kvalita okna ovlivňuje akustiku. Výhled z okna se může stát součástí interiéru. Okna propojují vnitřní a venkovní prostory.\nNová okna stratos\nZ interiérové strany pocítíte příjemnou atmosféru díky dřevěným oknům, z venku se okno díky hliníkovému opláštění stává bezúdržbové.\nVýroba Vchodových dveří\nVchodové dveře určují první dojem domu. Perfektně doplňují architekturu domu a jsou - podle požadovaného efektu - v designu nenápadné, nebo nápadné.\nStínící technika\nOkenice a posouvací okenice jsou atraktivním doplňkem a nabízejí nejen sluneční ochranu. Jsou nabízeny v různých barvách, aby ladily s fasádou domu."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "WindowStar s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "WindowStar s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Jan",
+        "last_name": "Kropacek",
+        "title": "3D Grafik",
+        "email": "jan@ws-mojeokna.cz",
+        "phone": "",
+        "company": "Windowstar sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 95.0
+      },
+      {
+        "first_name": "Roman",
+        "last_name": "Pospíšil",
+        "title": "Information Technology Technik",
+        "email": "roman@ws-mojeokna.cz",
+        "phone": "",
+        "company": "Windowstar sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 95.0
+      },
+      {
+        "first_name": "Tereza",
+        "last_name": "Cermanová",
+        "title": "Lakýrník",
+        "email": "tereza@ws-mojeokna.cz",
+        "phone": "",
+        "company": "Windowstar sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 93.0
+      },
+      {
+        "first_name": "Martin",
+        "last_name": "Ruckp",
+        "title": "Vedoucí Výroby",
+        "email": "martin@ws-mojeokna.cz",
+        "phone": "",
+        "company": "Windowstar sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 16:32"
+}

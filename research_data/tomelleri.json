@@ -1,0 +1,161 @@
+{
+  "company_key": "tomelleri",
+  "company_name": "TOMELLERI",
+  "domain": "www.tomelleristucchi.it",
+  "domain_url": "https://www.tomelleristucchi.it",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "TOMELLERI",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 9,
+    "revenue": 1440,
+    "zi_company_name": "Tomelleri Stucchi Sas Di Tomelleri Alberto, Daniele E C",
+    "zi_domain": "www.tomelleristucchi.it",
+    "zi_city": "Verona",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.tomelleristucchi.it",
+    "homepage": {
+      "title": "Decorazioni per interni ed esterni in gesso a Verona | Tomelleri Stucchi",
+      "description": "Tomelleri Stucchi è un'affermata azienda con sede a Verona specializzata nella produzione e installazione di decorazioni in gesso per interni ed esterni.",
+      "text_excerpt": "Decorazioni per interni ed esterni in gesso a Verona | Tomelleri Stucchi\nInformazioni\nVia Mantovana, n. 97B - 37137 - Verona\n+39 045 953 014\ninfo@tomelleristucchi.it\nDecorazioni per interni ed esterni\nAccedi ai nostri prodotti\ndal 1956\nAccedi ai nostri prodotti\nScarica il catalogo decorazioni\nDecorazioni in gesso\nScarica il catalogo decorazioni\nChi siamo\nTomelleri da oltre 70 anni grazie a voi\nCosa vi offriamo\nI nostri prodotti\nDecorazioni e colori a misura su campione del cliente\nColori a campione per interni ed esterni\nDecorazioni in gesso\nColori\nCartongesso\nAttrezzatura\nIsolanti termoacustici - rasanti e colle\nScarica il nostro catalogo\nUn po' di noi\nColonne, vernici, cornici spatolati e molto altro...\nGrazie alla partnership con Ard, fornitore di prodotti di qualità nel settore, l'azienda ha ampliato le proprie attività, diventando una realtà importante a Verona e provincia.\nAlcuni video\nCosa facciamo\nCon noi scoprirete come la nostra passione per l'artigianato e l'attenzione al dettaglio si riflettono in ogni prodotto che realizziamo.\nIl tuo browser non supporta i tag video.\nPer visualizzare tutti i video attivare i cookie di terze parti cliccando in basso a sinistra.\nUltime promozioni\nArticoli & promo\nTomelleri Stucchi ha guadagnato una posizione di prestigio nel settore della produzione e installazione di decorazioni per interni ed esterni, grazie alla sua straordinaria maestria artigianale.\n26/01/2026\nLOOPCOLORS: Professional Spray\nGli spray Loop™ sono dotati di alta copertura,...\nLeggi di più\n26/01/2026\nUNIQUE: Lavabile supercoprente\nUNIQUE è una idropittura lavabile inodore con elevato...\nLeggi di più\n05/06/2024\nTHERMOigloo: Pittura Inodore\nTHERMOigloo: La Pittura Inodore che Migliora il Benessere...\nLeggi di più"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "TOMELLERI",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 15,
+    "all_technologies": [
+      {
+        "product": "Aruba SpA",
+        "vendor": "Aruba S.p.A.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Woo Themes",
+        "vendor": "WooCommerce",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "WhatsApp",
+        "vendor": "WhatsApp",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "HPE Aruba Networks",
+        "vendor": "Hewlett Packard Enterprise Development LP",
+        "category": "Network Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "AT&T Internet",
+        "vendor": "AT&T, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Aruba Hosting",
+        "vendor": "Aruba S.p.A.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "TOMELLERI",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 16:42"
+}

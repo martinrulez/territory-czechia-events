@@ -1,0 +1,181 @@
+{
+  "company_key": "j. schneeberger maschinen ag",
+  "company_name": "J. Schneeberger Maschinen AG",
+  "domain": "schneeberger.swiss",
+  "domain_url": "https://schneeberger.swiss",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "J. Schneeberger Maschinen AG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 226,
+    "revenue": 11419,
+    "zi_company_name": "J SCHNEEBERGER Maschinen",
+    "zi_domain": "schneeberger.swiss",
+    "zi_city": "Elgin",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://schneeberger.swiss",
+    "homepage": {
+      "title": "Homepage - SCHNEEBERGER (en)",
+      "description": "",
+      "text_excerpt": "Homepage - SCHNEEBERGER (en)\nLanguage\nDeutsch\nfrançais\nitaliano\nespañol\nContacts\nCompany\nCareer\naries\nNGP\ntruly sharp!\nnorma\nNGC\nthe workhorse!\ngemini\nNGM\nyou name it!\nsirius\nNGS\nmicrons or less!\ncorvus\nNGB\nany size goes!\nQUINTO Qg1\nRobotics\ngalileo\nJ. SCHNEEBERGER Maschinen AG\nPrecision grinding machines since 1923, for tool manufacturing for profile and production grinding tasks\nJ. SCHNEEBERGER Maschinen AG develop and produce the most modern CNC grinding machines for the manufacturing and re-grinding of cutting tools and the production of a variety of precision parts.\nSCHNEEBERGER is represented in all important markets with their own sales and service branch offices or qualified partners. The customers include companies from tool manufacturing, the automotive industry and its suppliers, from general machine builders, the aerospace industry, energy technology and job shop.\nContacts\nYour direct contact partner\nNews from SCHNEEBERGER\nVisit SCHNEEBERGER at CCMT 2026, the biggest Machinetool and Tooling Show in the Yangtze River Delta\nThe rise of battery-electric cars, humanoid robots and the exploration of Mars have one thing in common: the need for small module gears and threads produced by forming processes. Come and see SCHNEEBERGER’s exhibition highlights at CCMT Shanghai.\nRead more\nA new Era of High-Performance Grinding begins with SCHNEEBERGER\nJoin the global launch of the new generation Norma at GrindingHub 2026. Experience superior performance in flexible 5-axis grinding - engineered for precision and efficiency.\nRead more\nWith the new HAAS UMC 1000 5-axis milling machine featuring a pallet pool, SCHNEEBERGER is expanding its manufacturing capacity and laying the groundwork for efficient operations.\nAutomation makes it possible to make optimal use of off-peak hours and produce small batches cost-effectively. This investment is a key step in SCHNEEBERGER’s production strategy: a high degree of manufacturing depth and autonomy, enabling the company to respond flexibly and quickly to customer requests.\nRead more\nTrade fairs\nJ. SCHNEEBERGER Maschinen AG at a trade fair near you:\nCCMT Shanghai\nShanghai, China\n21.04.2026 - 25.04.2026\nFeimec\nSão Paulo, Brazil\n05.05.2026 - 09.05.2026\nGrindingHub Stuttgart\nStuttgart, Germany\n05.05.2026 - 08.05.2026  |  H09 / C40\nExhibition overview"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "J. Schneeberger Maschinen AG",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 18,
+    "all_technologies": [
+      {
+        "product": "Grin",
+        "vendor": "Grin Technologies Inc",
+        "category": "Advocacy Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Sched",
+        "vendor": "SCHED LLC",
+        "category": "Event Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "AddThis",
+        "vendor": "Oracle Corporation",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "MailChimp SPF",
+        "vendor": "The Rocket Science Group LLC",
+        "category": "Email Delivery",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "able",
+        "vendor": "Able",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "J. Schneeberger Maschinen AG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 17:57"
+}

@@ -1,0 +1,136 @@
+{
+  "company_key": "thalmann",
+  "company_name": "Thalmann",
+  "domain": "www.thalmann-boote.de",
+  "domain_url": "https://www.thalmann-boote.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Thalmann",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "AutoCAD LT | Fusion",
+    "total_seats": "2",
+    "current_acv_eur": "1100.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-08-06",
+    "days_to_renewal": "105",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other",
+    "ml_domain": "www.hagemann.cz",
+    "zi_done": true,
+    "employee_count": 6,
+    "revenue": 954,
+    "zi_company_name": "Thalmann",
+    "zi_domain": "www.thalmann-boote.de",
+    "zi_city": "Hamburg",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.thalmann-boote.de",
+    "homepage": {
+      "title": "Thalmann - Bootshandel & Bootsservice in Hamburg",
+      "description": "Seit 50 Jahren eine feste Größe im Bootshandel und Bootsservice an der Elbe in Hamburg. Jetzt auch mit Bootsvermietung und Yachtcharter!",
+      "text_excerpt": "Thalmann - Bootshandel & Bootsservice in Hamburg\nStartseite\nAktuelles\nWir über uns\nKontakt\nAnfahrt\nImpressum\nBootshandel\nBootsservice\nBootshandel\nGebrauchtboote\nBootsservice\nSkipper-Training\nTidenkalender\nWetter\nDatenschutzhinweise\nTHALMANN Bootshandel & Bootsservice\nEs gibt diesen Moment, wenn der Motor startet, das Boot sanft ins Gleiten kommt und plötzlich alles leichter wird. Genau dafür sind wir da.\nWillkommen bei\nThalmann Boote & Yachten GmbH\n– deinem Ansprechpartner für\nBoote, Gebrauchtboote\nund\nRundum-Service\nan der Dove Elbe in Hamburg. Bei uns findest du nicht nur das passende Boot, sondern alles, was dazugehört, um deine Zeit auf dem Wasser einfach genießen zu können.\nOb du dein\nerstes Boot\nsuchst oder schon genau weißt, was du willst – wir beraten dich persönlich, ehrlich und ohne Umwege. Als\nfamiliengeführtes Unternehmen\nnehmen wir uns Zeit für dich und sorgen dafür, dass du dich von Anfang an gut aufgehoben fühlst.\n100 % Boote in Hamburg an der Elbe\nNeben einer sorgfältig ausgewählten Auswahl an Booten bieten wir dir den\nkompletten Service\n: Wartung, Winterlager, Kranen, Reparaturen und Gelcoat-Arbeiten. So kannst du dich auf das konzentrieren, worauf es wirklich ankommt – deine Zeit auf dem Wasser.\nHier beginnt dein Weg aufs Wasser\n– mit der Sicherheit, die richtigen Partner an deiner Seite zu haben.\nTHALMANN\nBoote & Yachten GmbH\nMoorfleeter Deich 316\n22113 Hamburg\nKontakt\nFon: +49 (0)40 - 737 20 05\nFax: +49 (0)40 - 737 44 21\nEmail: info@thalmann-boote.de\nwww.thalmann-boote.de\nAnfahrt\nKarte: Google Maps\nRoutenplaner: Google Maps\nBOOTSREPERATUREN | MOTORENSERVICE | BOOTSHANDEL | UNTERWASSERSANIERUNG | BOOTSBESCHICHTUNG\nKRANEN BIS 20 t | 30 WASSERLIEGEPLÄTZE"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Thalmann",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 4,
+    "all_technologies": [
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "1&1 Hosting",
+        "vendor": "1&1 IONOS Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Thalmann",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Marechet",
+        "last_name": "Morgan",
+        "title": "Carpenter",
+        "email": "",
+        "phone": "",
+        "company": "Thalmann",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 76.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 14:51",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

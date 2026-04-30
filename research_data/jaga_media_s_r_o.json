@@ -1,0 +1,41 @@
+{
+  "company_key": "jaga_media_s_r_o",
+  "company_name": "Jaga Media, s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PETER HALÁSZ",
+        "firstName": "PETER",
+        "lastName": "HALÁSZ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "VLADIMÍR BRUTOVSKÝ",
+        "firstName": "VLADIMÍR",
+        "lastName": "BRUTOVSKÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:07"
+}

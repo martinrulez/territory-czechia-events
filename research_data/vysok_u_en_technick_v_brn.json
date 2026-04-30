@@ -1,0 +1,52 @@
+{
+  "company_key": "vysok_u_en_technick_v_brn",
+  "company_name": "Vysoké učení technické v Brně",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Václav Venkrbec",
+        "firstName": "Václav",
+        "lastName": "Venkrbec",
+        "jobTitle": "Deputy Head of Institute",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Marketa Mertova",
+        "firstName": "Marketa",
+        "lastName": "Mertova",
+        "jobTitle": "Project Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:36",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.zvut.cz",
+    "homepage": {
+      "title": "Zprávy z VUT",
+      "description": "Vysoké učení technické v Brně je česká vysoká škola s více než 120letou tradicí, která neustále posiluje svou pozici špičkové vědecko-výzkumné instituce. Technické, ekonomické, přírodovědné a umělecké obory lze studovat na některé z osmi fakult a tří VŠ ústavů.",
+      "text_excerpt": "Zprávy z VUT\nZprávy z VUT\nLidé\nRadek Pilař by oslavil 95 let. Na VUT spoluzaložil Ateliér videoartu\n23. dubna\n7. února 1993 české umění náhle přišlo o Radka Pilaře, který by dnes oslavil 95 let. Malíř, grafik a ilustrátor, který se věnoval také filmu a režii, výrazně ovlivnil podobu české umělecké i akademick\nLidé\n\"Studenti se na mě mohou obrátit s jakýmkoliv problémem,\" říká ombudsperson CEITEC VUT Beáta Idesová\n21. dubna\nOd ledna tohoto roku působí v roli ombudsperson na CEITEC Vysokého učení technického v Brně Beáta Idesová, která na postu vystřídala Katarínu Rovenskou. Kromě svého doktorského studia tak má tato důvě\nTéma\nKyberbezpečnost roste raketově. Nový program proCyber na VUT hodnotí první studenti\n17. dubna\nKybernetická bezpečnost dnes patří k nejrychleji rostoucím oborům a poptávka po odbornících výrazně převyšuje nabídku. Profesní program proCyber na Fakultě elektrotechniky a komunikačních technologií\nTéma\nProjekt ALANIS bojuje proti světelnému znečištění\n10. dubna\nSvětelné znečištění – tedy nadměrné nebo nevhodně směrované umělé osvětlení, které uniká do míst, kde není potřeba, se v posledních desetiletích stalo nevítaným průvodcem moderního života. Ovlivňuje p\nNápady a objevy\nMikroskop budoucnosti: Spojení světla a elektronů získalo prestižní grant\n24. března\nOd začátku letošního roku běží ve Středoevropském technologickém institutu projekt vývoje elektronového mikroskopu na bázi světla LightEM. Hlavní řešitelkou je Andrea Konečná z Fakulty strojního inžen\nNápady a objevy\nStart-up VUT LR SmartWater digitalizuje české teplárenství. Jejich modely pomůžou i vodárnám a městům\n22. března\nPřed lety Jaroslav Raclavský z Fakulty stavební VUT Jakuba Lžičaře učil. Dnes spolu mají VUT startup LR SmartWater a plánují posunout české teplárenství a vodárenství do 21. století. Zákazníkům nabízí\nSport\nStudent Jan Jilčík sbírá medaile v brazilském jiu-jitsu a na grapplingových turnajích\n13. listopadu 2025\nJan Jilčík studuje magisterský obor Elektrotechnická výroba a management a zároveň patří mezi nejlepší české závodníky ve své kategorii (blue belt, 77 kg) v brazilském jiu-jitsu. Za poslední půlrok zí\nSport\nStudium techniky i volejbal chtějí vytrvalost a disciplínu. VUT dává prostor vyniknout v obojím\n18. srpna 2025\nVysoké učení technické v Brně (VUT) je univerzita, která si zakládá nejen na vědě a výzkumu, ale také na silném sportovním duchu. Mezi nejtradičnější sporty na VUT patří už od počátku volejbal, jehož\nDoktorand Dominik Veselý získal díky stáži v Oxfordu nový pohled na výzkum\nZápisník  |  Dominik  Veselý  |  31. května 2024\nDoktorand Ústavu chemie a technologie ochrany životního prostředí Fakulty chemické VUT Dominik Veselý nedávno absolvoval praktickou stáž v Oxfordu. Zde pracoval na výzkumu polovodivých organických polymerů pro aplikaci v organických elektro-chemických tranzistorech. Tato finální funkční zařízení jsou využitelná napříkl"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

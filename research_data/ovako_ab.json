@@ -1,0 +1,395 @@
+{
+  "company_key": "ovako ab",
+  "company_name": "Ovako AB",
+  "domain": "www.ovako.com",
+  "domain_url": "https://www.ovako.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Ovako AB",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 2900,
+    "revenue": 787556,
+    "zi_company_name": "Ovako",
+    "zi_domain": "www.ovako.com",
+    "zi_city": "Stockholm",
+    "zi_country": "Sweden",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ovako.com",
+    "homepage": {
+      "title": "Ovako – Leading European Engineering Steel Manufacturer for Sustainable Solutions - Ovako",
+      "description": "Ovako develops high-tech steel solutions for, and in cooperation with, its customers in the bearing, transport and manufacturing industries. Ovako is a subsidiary of Sanyo Special Steel and of Nippon Steel Corporation group",
+      "text_excerpt": "Ovako – Leading European Engineering Steel Manufacturer for Sustainable Solutions - Ovako\nTogether we create steel for a decarbonized society\nNordic steel meets world‑class performance – Ovako announces partnership with Daniel Ståhl\nRead more\nStories\nRead all our stories\nResearch and Insights\nResearch project leads the way to lead-free steel machining\nResearch comparing leaded and lead-free steels shows similar or better machinability, supporting the feasibility of lead-free alternatives when process parameters are managed.\nAbout Ovako\nWe are proud to be named Career Company 2026 - Again\nFor the fourth year in a row, Ovako is named one of Sweden’s most attractive employers, with focus on sustainable development, fossil-free steel and an inclusive workplace.\nCustomer case\nVETTERs  reputation is built on safety and reliability\nFor over 40 years, VETTER has trusted Ovako steel to deliver strength, safety and reliability in the toughest environments. Discover how precision materials raise fork performance worldwide.\nServices\nThe top five questions we get from customers\nBehind every steel order is more than schedules—it’s communication, flexibility, and people making things happen. With 29 yrs experience, Ulla Kaski shares the 5 top customer questions.\nEmployee Stories\nOur iron ladies: celebrating International Women’s Day at Ovako\nMeet the women shaping the future of steel. In this International Women’s Day story, Ovako colleagues share their experiences, challenges and advice from working in a traditionally male-dominated industry.\nSustainability\nHow CBAM is changing the rules for the steel industry\nThe EU’s Carbon Border Adjustment Mechanism is redefining global steelmaking. Discover how CBAM affects emissions, import costs, and what it means for steel producers like Ovako—and why cleaner, low-carbon technologies are the way forward.\nResearch and Insights\nHow lean alloy steels enable green ammonia engines\nUsing ammonia as an alternative fuel introduces unique corrosion and cracking risks for steel components. Ovako’s advanced lean alloy steels are designed to overcome these challenges and support the shift toward carbon-free combustion.\nResearch and Insights\nHow to predict the corrosion resistance of steels alloyed with aluminum\nDiscover how our innovative Hybrid Steel® achieves superior corrosion resistance despite high aluminum content, with a new Corrosion Resistance Index (CRI) developed to predict performance where traditional PREN falls short.\nAbout Ovako\nDiscover Stålverket – Ovako’s New Podcast!\nStep into the world of the steel industry with our new podcast Stålverket. We bring you inspiring stories from engineers, insights into sustainable production, and a unique glimpse into life at our high-tech steel plants\nCustomer case\nNiKrom III: A greener, stronger coating for hydraulic rods\nNiKrom III is Ovako’s next-generation coating for hydraulic piston rods—delivering superior durability and corrosion resistance without hexavalent chrome. Prov"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Ovako AB",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autodesk Inventor"
+    ],
+    "competitor_products": [
+      "Quintiq",
+      "Siemens Step 7"
+    ],
+    "cad_bim_other": [
+      "Cache Control",
+      "InVision"
+    ],
+    "total_technologies": 106,
+    "all_technologies": [
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HR Manager",
+        "vendor": "HR Manager Talent Solutions International",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "reCAPTCHA v2.0",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft Dynamics AX 2012",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Accelerate",
+        "vendor": "Cox Automotive, Inc.",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Vi",
+        "vendor": "Vi",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Siemens Step 7",
+        "vendor": "Siemens AG",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft Windows PowerShell",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Dynamics 365 for Finance and Operations (Formerly Dynamics AX)",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cache Control",
+        "vendor": "Cache Control",
+        "category": "Web Design and Development Services",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "AJAX",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft Exchange Server 2010",
+        "vendor": "Microsoft Corporation",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Azure Stack",
+        "vendor": "Microsoft Corporation",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "VMware vCenter Server",
+        "vendor": "VMware, Inc",
+        "category": "Virtualization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Microsoft App-V",
+        "vendor": "Microsoft Corporation",
+        "category": "Virtualization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "LabVIEW",
+        "vendor": "National Instruments Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft Exchange Server",
+        "vendor": "Microsoft Corporation",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "IBM Cognos Controller",
+        "vendor": "IBM",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Visma",
+        "vendor": "Visma Software BV",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft PowerPoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP Crystal Reports",
+        "vendor": "SAP SE",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "IBM Cognos Analytics",
+        "vendor": "IBM",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Discover",
+        "vendor": "DFS Services LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Quintiq",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft System Center Configuration Manager",
+        "vendor": "Microsoft Corporation",
+        "category": "Configuration Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Alexa Analytics",
+        "vendor": "Alexa Internet, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Alexa Certified Metrics",
+        "vendor": "Alexa Internet, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Zendesk Connect",
+        "vendor": "Zendesk, Inc.",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft Dynamics AX",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Autodesk AutoCAD",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Ovako AB",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Heikki",
+        "last_name": "Nyholm",
+        "title": "President",
+        "email": "",
+        "phone": "",
+        "company": "Ovako",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 17:16"
+}

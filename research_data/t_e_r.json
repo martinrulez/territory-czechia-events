@@ -1,0 +1,71 @@
+{
+  "company_key": "t_e_r",
+  "company_name": "T.E.R.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Abigail Caswell",
+        "firstName": "Abigail",
+        "lastName": "Caswell",
+        "jobTitle": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Naveen Sikka",
+        "firstName": "Naveen",
+        "lastName": "Sikka",
+        "jobTitle": "Chief Executive Officer",
+        "email": "naveen.sikka@terviva.com",
+        "phone": "(510) 922-8862",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Roger Gubbels",
+        "firstName": "Roger",
+        "lastName": "Gubbels",
+        "jobTitle": "President",
+        "email": "roger@k-ter.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Edward Donovan",
+        "firstName": "Edward",
+        "lastName": "Donovan",
+        "jobTitle": "Chief Executive Officer",
+        "email": "edonovan@tersera.com",
+        "phone": "(847) 604-4063",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Philippe van Overeem",
+        "firstName": "Philippe",
+        "lastName": "van Overeem",
+        "jobTitle": "Chief Executive Officer TerThera Bv",
+        "email": "philippe@terthera.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:47"
+}

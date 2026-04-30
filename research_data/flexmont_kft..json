@@ -1,0 +1,176 @@
+{
+  "company_key": "flexmont kft.",
+  "company_name": "Flexmont Kft.",
+  "domain": "www.flexmont.hu",
+  "domain_url": "https://www.flexmont.hu",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Flexmont Kft.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 75,
+    "revenue": 2226,
+    "zi_company_name": "Flexmont",
+    "zi_domain": "www.flexmont.hu",
+    "zi_city": "Veszprem",
+    "zi_country": "Hungary",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.flexmont.hu",
+    "homepage": {
+      "title": "Főoldal - Flexmont Kft.",
+      "description": "A Flexmont Kft. több mint ötvenéves tapasztalattal, 120 szakemberrel innovatív, teljes körű, komplex megoldásokat kínál az automatizálásban.",
+      "text_excerpt": "Főoldal - Flexmont Kft.\nUgrás a tartalomhoz\nwe. automate.\nwe. automate.\nAutomatizálás\n1974 óta\nTöbb, mint ötvenéves tapasztalattal, 120 szakemberrel, a\nFlexmont Kft.\ncsapata innovatív, teljes körű, komplex megoldásokat kínál az automatizálásban.\nIsmerje meg történetünket!\nOlvasson tovább\nAutomatizálás 1974 óta\nTöbb, mint ötvenéves tapasztalattal, 120 szakemberrel, a\nFlexmont Kft.\ncsapata innovatív, teljes körű, komplex megoldásokat kínál az automatizálásban.\nIsmerje meg történetünket!\nTermékek\nAutomata gyártósorok\nA komplex szerelősorok ma már magas intelligenciával rendelkeznek.\nTöbbnyire az alábbiakat tartalmazzák:\nképfeldolgozó rendszereket\nfizikai és elektromos jellemzők mérését (erő, nyomaték, hossz, szivárgás)\nadatgyűjtést, feldolgozást\ndolgozói azonosító rendszert\nalkatrész azonosítót\nBővebben\nCélgépek\nAz egyedi gépgyártásban az állomások jelentős része kézi kiszolgálású, félautomata, illetve automata üzemmódú. A pozíciók többnyire saját, autonóm PLC vezérléssel rendelkeznek.\nBővebben\nEgyedi berendezések\nAz egyedi gépgyártás alapelemei, technologizálással, feladatra adaptálással, speciális szereléstechnikai és automatizálási elemekké alakulnak.\nBővebben\nMárkaképviseletek\nAdagolástechnika\nEgy komponensű\nAdagolástechnika\nKét komponensű\nTámolygó szegecselés\ntechnika\nRobottechnika\nPréstechnika\nAdagolástechnika\nEgy komponensű\nAdagolástechnika\nKét komponensű\nTámolygó szegecselés\ntechnika\nRobottechnika\nPréstechnika\nSzolgáltatások\nAlkatrészgyártás\nAlkatrész mérés\nLézeres szkennelés\n3D tervezés\n3D nyomtatás\nProgramozás, elektromos tervezés\nSzimuláció\nTechnológiai kísérletek\nLakatos-, műszerész munkák\nAutomatizálás\nTermékek\nMárkaképviseletek\nSzolgáltatások\nCégünkről\nHírek\nKarrier\nKapcsolat\nTanúsítványok\nDokumentumok\nCégadatok\nAdatkezelés\n2025.\nSüti tájékoztató\nEz az oldal sütiket használ a jobb felhasználói élmény érdekében.\nFunkcionális\nFunkcionális\nAlways active\nThe technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.\nPreferences\nPreferences\nThe technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.\nStatistics\nStatistics\nThe technical storage or access that is used exclusively for statistical purposes.\nThe technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.\nMarketing\nMarketing\nThe technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.\nManage options\nManage "
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Flexmont Kft.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 13,
+    "all_technologies": [
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Flexmont Kft.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Tam",
+        "last_name": "Nguyen Nhu",
+        "title": "Mechanical Design Engineer",
+        "email": "",
+        "phone": "",
+        "company": "Flexmont",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Attila",
+        "last_name": "Károlyi",
+        "title": "Mechanical Design Engineer",
+        "email": "",
+        "phone": "",
+        "company": "Flexmont",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 18:24"
+}

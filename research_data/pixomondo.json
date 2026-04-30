@@ -1,0 +1,380 @@
+{
+  "company_key": "pixomondo",
+  "company_name": "PIXOMONDO",
+  "domain": "www.pixomondo.com",
+  "domain_url": "https://www.pixomondo.com",
+  "events": "3DISE Conference 2026",
+  "event_count": 1,
+  "lead_class": null,
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "PIXOMONDO",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 572,
+    "revenue": 206160,
+    "zi_company_name": "PIXOMONDO",
+    "zi_domain": "www.pixomondo.com",
+    "zi_city": "Los Angeles",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.pixomondo.com",
+    "homepage": {
+      "title": "Pixomondo",
+      "description": "Pixomondo is a multi-award-winning VFX and Virtual Production studio. We work with storytellers and production across film, TV or commercial for agile, creative solutions.",
+      "text_excerpt": "Pixomondo\nWE ARE\nPIXOMONDO\nAn Oscar, BAFTA, and Emmy-winning force in creative innovation, proudly part of the Sony Pictures family. We’re not just making visual effects - we’re redefining how stories are made. By fusing artistry with next-gen technologies in real-time, and virtual production, we help filmmakers visualize, build worlds and bring ideas to life at scale. PXO is the partner for creators who want to push boundaries, challenge convention, and disrupt what comes next.\nCREATE.\nINSPIRE.\nDISRUPT.\nOUR SERVICES\n01. CREATIVE\nPXO\n, we provide integrated creative services that span the full production journey, bringing ideas to life from concept through final delivery. Our teams specialize in visualization (previs, techvis, postvis, and worldbuilding), all forms of virtual production with industry leading LED volumes and real-time toolsets, award-winning VFX, and expert on-set supervision to support filmmakers at every stage. With a future-focused approach, we develop and harness real-time workflows to accelerate creativity, enhance efficiency, and ensure technology always serves the story.\n02. CLARA\nPXO Clara\nis our dedicated virtual production division, delivering end-to-end support for filmmakers and studios worldwide. From LED design, commissioning, construction, and volume networking through to control operations, DMX/engine, DMZ integration, and on-set virtual production supervision, Clara provides the expertise to ensure every production runs seamlessly. With a focus on precision, reliability, and innovation, we help clients unlock the full potential of virtual production to tell their stories with creativity and confidence.\n03. INNOVATION\nPXO Innovation\nbrings together technologists, engineers, and creators to design and develop solutions that solve today’s production challenges and shape the future of filmmaking. Focused on delivering patented tools and workflows, the team empowers artists and storytellers through cutting-edge applications of real-time technology, gaussian splatting, and advanced engineering. By bridging R&D with production, PXO Innovation ensures Pixomondo stays at the forefront of creative technology, helping our clients achieve more ambitious, efficient, and imaginative storytelling.\n04. ACADEMY\nPXO Academy\nprovides advanced training programs and educational curricula in real-time technologies, virtual production and machine learning. With a focus on hands-on, practical learning, the Academy equips emerging talent with the tools and experience to thrive in a rapidly evolving industry. By preparing the next generation of digital storytellers, PXO Academy ensures a sustainable pipeline of skilled artists and technologists ready to push the boundaries of creative production.\nCurrent Partner:\nSeneca Polytechnic\n– Art Department Content Creation\nTogether, these four pillars form the foundation of PXO’s mission: to be a\ntrusted creative partner\n, integrating artistry, technology, and innovation to help storytellers bring"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "PIXOMONDO",
+    "autodesk_products": [
+      "3ds Max",
+      "Autodesk Maya"
+    ],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "Autodesk",
+      "Houdini",
+      "InVision"
+    ],
+    "total_technologies": 119,
+    "all_technologies": [
+      {
+        "product": "Metadata",
+        "vendor": "Metadata",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "3DEqualizer",
+        "vendor": "Science-D-Visions",
+        "category": "Virtualization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "HR Manager",
+        "vendor": "HR Manager Talent Solutions International",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Playwright",
+        "vendor": "Playwright",
+        "category": "Application Security Testing",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "GitHub Actions",
+        "vendor": "GitHub, Inc.",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "cyber security",
+        "vendor": "Primenet Limited",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "NVIDIA vGPU",
+        "vendor": "NVIDIA Corporation",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Recorded Future Security Intelligence Platform",
+        "vendor": "Recorded Future, INC.",
+        "category": "Threat Intelligence",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Figma",
+        "vendor": "Figma, Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "aaa",
+        "vendor": "American Automobile Association, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Ideal",
+        "vendor": "O5 Systems Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "UseProof",
+        "vendor": "Proof Technologies",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Sophos",
+        "vendor": "Sophos Ltd",
+        "category": "Data Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "S1",
+        "vendor": "ACI Worldwide, Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Qt",
+        "vendor": "Qt",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "NVIDIA",
+        "vendor": "NVIDIA Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Windows PowerShell",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "JavaScript",
+        "vendor": "Netscape",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "HTML5",
+        "vendor": "HTML5",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "NTENT Hosting",
+        "vendor": "NTENT Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Celergo",
+        "vendor": "Celergo",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Autodesk",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Apple Keynote",
+        "vendor": "Apple Inc.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Linux",
+        "vendor": "Linux Kernel Organization",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "easyDNS Email Hosting",
+        "vendor": "easyDNS Technologies Inc",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "PFTrack",
+        "vendor": "The Pixel Farm Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "ZBrush",
+        "vendor": "Pixologic, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "PIXOMONDO",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 19:05"
+}

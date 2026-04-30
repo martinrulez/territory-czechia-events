@@ -1,0 +1,223 @@
+{
+  "company_key": "j_ger_umwelt_technik",
+  "company_name": "JÄGER Umwelt - Technik",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "JÄGER Umwelt - Technik",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 16,
+    "all_technologies": [
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "particles.js",
+        "vendor": "",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon Web Hosting",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Aaron Stoffers",
+        "firstName": "Aaron",
+        "lastName": "Stoffers",
+        "jobTitle": "Head of Project Management",
+        "email": "a.stoffers@jaeger-envirotech.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Leon Spitzer",
+        "firstName": "Leon",
+        "lastName": "Spitzer",
+        "jobTitle": "Head of Product, Process Development",
+        "email": "l.spitzer@jaeger-envirotech.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Isabel Müller-Wilckens",
+        "firstName": "Isabel",
+        "lastName": "Müller-Wilckens",
+        "jobTitle": "Managing Director",
+        "email": "i.muller-wilckens@jaeger-envirotech.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Hans-Christian von Consbruch",
+        "firstName": "Hans-Christian",
+        "lastName": "von Consbruch",
+        "jobTitle": "Geschftsfhrer - Managing Director",
+        "email": "h.vonconsbruch@jaeger-envirotech.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Yuriy Georgiev",
+        "firstName": "Yuriy",
+        "lastName": "Georgiev",
+        "jobTitle": "Offshore Works Manager",
+        "email": "y.georgiev@jaeger-envirotech.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "José Igual",
+        "firstName": "José",
+        "lastName": "Igual",
+        "jobTitle": "Regional Sales Manager, Latin America (South, Europe)",
+        "email": "j.igual@jaeger-envirotech.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Bernd Koch",
+        "firstName": "Bernd",
+        "lastName": "Koch",
+        "jobTitle": "Works Manager- Noise Mitigation Scope CVOW and Coast of Virginia Offshore Windfarm",
+        "email": "k.kadereit@jaeger-envirotech.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Berta Grapentin",
+        "firstName": "Berta",
+        "lastName": "Grapentin",
+        "jobTitle": "Inside Sales Manager",
+        "email": "b.grapentin@jaeger-envirotech.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Rico Schuhmann",
+        "firstName": "Rico",
+        "lastName": "Schuhmann",
+        "jobTitle": "Sales Manager, Vertriebsleitung Europa (Europe)",
+        "email": "r.schuhmann@jaeger-envirotech.com",
+        "phone": "+49 4951 164644421",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Franz Tekbas",
+        "firstName": "Franz",
+        "lastName": "Tekbas",
+        "jobTitle": "Manager, Key-Account",
+        "email": "f.tekbas@jaeger-envirotech.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 10,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:08"
+}

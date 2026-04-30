@@ -1,0 +1,89 @@
+{
+  "company_key": "liebisch gmbh",
+  "company_name": "LIEBISCH GmbH",
+  "domain": "www.liebisch.com",
+  "domain_url": "https://www.liebisch.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "LIEBISCH GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 280,
+    "revenue": 55051,
+    "zi_company_name": "Liebisch",
+    "zi_domain": "www.liebisch.com",
+    "zi_city": "Bielefeld",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.liebisch.com",
+    "homepage": {
+      "title": "Gebr. Liebisch GmbH & Co. KG | Umweltsimulation aus OWL",
+      "description": "Im Zeichen der Zukunft. Seit 63 Jahren in Bielefeld, Germany - Ihr Partner für Salzsprühnebel, Korrosionsprüfgeräte, Metallblockthermostate oder Labortechnik.",
+      "text_excerpt": "Gebr. Liebisch GmbH & Co. KG | Umweltsimulation aus OWL\nWillkommen\nProdukte\nProduktvielfalt\nLeasing & Miete\nSupport-Ticket-System\nKorrosionsprüfgeräte\nAllgemeine Infos\nTischgeräte\nSchrankgeräte\nTruhengeräte\nPrüfstandards\nSondergeräte\nGebrauchtes\nModellvielfalt\nSoftware\nSteuerung\nLiebisch System\nService & Zubehör\nMetallblockthermostate\nAllgemeine Infos\nLabtherm ®\nEpptherm ®\nThermobil ®\nEvaporator ®\nMinitherm ®\nRotatherm ®\nFriotherm  ®\nMultivario ®\nLiebisch - Regelbox\nGebrauchtes\nZubehör & Service\nSondergeräte\nLaborfachhandel\nUnternehmen\nÜber uns\nSoziale Netzwerke\nMesse Fotos\nKarriere\nService\nGeschichte\nWerk 2\nPresse\nKontakt\nIhr Draht zu uns\nVertretungen\nHaftungsausschluss\nImpressum\nDatenschutz\nAktuelles\nNews & Messetermine\nDownloadbereich\nDeutsch\nEnglish\nSeit mehr als\n+ Jahren \"Made in Germany\"\nKARRIERE\nAktuell suchen wir:\nKeine Angebote über Zeitarbeits- oder Vermittlungsunternehmen. Anfragen und Vorschläge werden ungelesen gelöscht.\nProgrammierer (SPS) - (m|w|d)\nBewerbungsprofil (pdf)\nLaminierer zur Herstellung von GFK-Teilen im Handlaminat\n(m|w|d) - Handwerkliches Geschick wünschenswert\nBewerbungsprofil (pdf)\nProduktionshelfer (Maler & Lackierer)\n(m|w|d)\nMaler /\nLackierer mit Führungsqualitäten (m|w|d)\nIndustriekauffrau / Industriekaufmann (m/w/d) für Vertrieb und Exportabwicklung\nBewerbungsprofil (pdf)\nElektriker (m|w|d) für den Bereich Schaltschrankbau (Kennnisse in WSCAD)\nBewerbungsprofil (pdf)\nNeue patentierte Düsenhaltung von Liebisch®\nLiebisch®, der führende Hersteller von Korrosions- und Umweltsimulationssystemen ergänzt sein Sortiment durch ein nachrüstbares, cleveres Zubehör – eine neuartige Düsenhalterung. Die Justierung, Einrichtung und Überprüfung der Versprühung werden durch diese nicht nur komfortabler und präziser, sondern der Anwender spart auch erheblich Zeit!\nDurch die patentierte Düsenhalterung kann die Liebisch®Präzisionszweistoffdüse völlig frei, also unabhängig vom Probendepot, zwischen den Probanden, platziert werden, das Ganze selbstverständlich normkonform. Der Clou, exaktes, kontrolliertes Justieren der Düse mittels einer Justierhilfe – und der Anwender bekommt unverzüglich Rückmeldung in welcher “Schieflage“ sich die Düse gerade befindet.\nConstanzo® Neueste Technik im Retro-Look\nAuf die Kundenbedürfnisse angepasste Ausstattung und hohe Qualität „Made in Germany“ zeichnet  die Serie Constanzo® von Liebisch® aus. Vom preiswerten Einsteigermodell K 300 für Konstantklima / Kondenswassertest bis zum „High-End“ - Produkt mit Touch-Steuerung,    bedienerfreundlichen Features, wie automatischem Wasser Zu- und Ablauf und einer automatischen Gasdosierung  für den Kesternich-Test, bleiben keine Wünsche offen. Dazu eine erhöhte Sicherheit, da die Geräte, automatisch, mehrere Zyklen eines Programmes abarbeiten, ohne das personelles Eingreifen, wie Wasser ablassen, tauschen, Gas dosieren, etc. nötig ist und durch die automatische Gasdosierung ein sicheres Handling beim Begasen der Kammer, bei Prüfungen wie z. B. der DIN EN ISO 6988"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "LIEBISCH GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 3,
+    "all_technologies": [
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "LIEBISCH GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 17:40"
+}

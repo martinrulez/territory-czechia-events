@@ -1,0 +1,71 @@
+{
+  "company_key": "services",
+  "company_name": "Services\"",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Jon Ark",
+        "firstName": "Jon",
+        "lastName": "Ark",
+        "jobTitle": "President & Chief Executive Officer",
+        "email": "jvanderark@republicservices.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Marc Miller",
+        "firstName": "Marc",
+        "lastName": "Miller",
+        "jobTitle": "President & Chief Executive Officer",
+        "email": "marc.miller@uhsinc.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jim DeVries",
+        "firstName": "Jim",
+        "lastName": "DeVries",
+        "jobTitle": "Chairman of the Board, President & Chief Executive Officer",
+        "email": "jdevries@adt.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Stephanie Ferris",
+        "firstName": "Stephanie",
+        "lastName": "Ferris",
+        "jobTitle": "Chief Executive Officer & President",
+        "email": "stephanie.ferris@fisglobal.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Martin Hacala",
+        "firstName": "Martin",
+        "lastName": "Hacala",
+        "jobTitle": "President & Chief Executive Officer",
+        "email": "martin.hacala@generalstar.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:34"
+}

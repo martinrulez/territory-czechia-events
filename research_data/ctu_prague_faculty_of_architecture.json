@@ -1,0 +1,133 @@
+{
+  "company_key": "ctu_prague_faculty_of_architecture",
+  "company_name": "CTU Prague - Faculty of Architecture",
+  "domain": "",
+  "events": "Digi/BIM Day CKA 2026",
+  "technographics": {
+    "success": true,
+    "company": "CTU Prague - Faculty of Architecture",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 9,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bitly",
+        "vendor": "Bitly, Inc.",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Carlos Coelho",
+        "firstName": "Carlos",
+        "lastName": "Coelho",
+        "jobTitle": "President",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Michael Lautwein",
+        "firstName": "Michael",
+        "lastName": "Lautwein",
+        "jobTitle": "Founder & Interact Project Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Preechaya Sittipunt",
+        "firstName": "Preechaya",
+        "lastName": "Sittipunt",
+        "jobTitle": "Director of INDA",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Amjad Rehan",
+        "firstName": "Amjad",
+        "lastName": "Rehan",
+        "jobTitle": "Office Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:07:11",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.blog-archkuleuven.be",
+    "homepage": {
+      "title": "KU Leuven Faculteit Architectuur blog – De blogomgeving van de Faculteit Architectuur",
+      "description": "The Faculty of Architecture offers courses in our two campuses in Brussels and Ghent. Students can choose freely from a wide variety of design studios that are at the core of the educational program and provide an interactive and open environment that accommodates students from around the world.\r\nTh",
+      "text_excerpt": "KU Leuven Faculteit Architectuur blog – De blogomgeving van de Faculteit Architectuur\nNaar de inhoud springen\nNEWS\nBook launch: The Activist City 8/05\nChapex Wins Mies van der Rohe Award 2026\nStudio expo: Dead Poets Society 20/04\nFatimazahra Hamoutahar wins the KU Leuven prize for the best Master’s Thesis on Brussels\nInterior Forum THEN 20+27/04\nThe Faculty of Architecture offers courses in our two campuses in Brussels and Ghent. Students can choose freely from a wide variety of design studios that are at the core of the educational program and provide an interactive and open environment that accommodates students from around the world.\nThe design studio landscape is formed along\nEngagements\nwith each a specific focus:\nCraftsmanship\nMediating Tactics, Urban Cultures\n. The master studios and electives are related to one of these engagements.\nGoing Public lectures\nThe Going Public programme of the Faculty of Architecture of the KU Leuven is highlighting the current debates in the studios, courses and research groups. It consists of a lectures series that both brings discourse to the faculty and – vice versa – internal discussions to the world.\nRead more and register\nhere.\nMaster studios\nExplore the master studio options\nhere\nCraftsmanship\nMediating tactics\nUrban Cultures"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "company_key": "Čs nhq",
+  "company_name": "ČS NHQ",
+  "domain": "",
+  "domain_url": "",
+  "events": "BIM DAY 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ČS NHQ",
+    "opportunity_score": 19,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.47,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.47,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "07237529",
+    "official_name": "ČS NHQ, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "68200",
+      "62",
+      "47",
+      "46190",
+      "66190",
+      "46",
+      "70200",
+      "82100",
+      "46190",
+      "821",
+      "46",
+      "620",
+      "47",
+      "6820",
+      "66190",
+      "70220"
+    ],
+    "ares_segments": [
+      "AEC",
+      "M&E"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Olbrachtova 1929/62, Krč, 14000 Praha 4, Praha, Olbrachtova, 14000",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "ČS NHQ",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:49"
+}

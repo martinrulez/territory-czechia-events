@@ -1,0 +1,91 @@
+{
+  "company_key": "obzor_zl_n",
+  "company_name": "OBZOR Zlín",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "RICHARD PÁLENÍČEK",
+        "firstName": "RICHARD",
+        "lastName": "PÁLENÍČEK",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "VLADAN ZEJDA",
+        "firstName": "VLADAN",
+        "lastName": "ZEJDA",
+        "jobTitle": "předseda družstva",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JOSEF KOPLÍK",
+        "firstName": "JOSEF",
+        "lastName": "KOPLÍK",
+        "jobTitle": "místopředseda družstva",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "KARLA ZAHRADNÍČKOVÁ",
+        "firstName": "KARLA",
+        "lastName": "ZAHRADNÍČKOVÁ",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "RADEK ČÍŽ",
+        "firstName": "RADEK",
+        "lastName": "ČÍŽ",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JIŘÍ ZÁPECA",
+        "firstName": "JIŘÍ",
+        "lastName": "ZÁPECA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ELIŠKA RAK PETŘÍKOVÁ",
+        "firstName": "ELIŠKA",
+        "lastName": "RAK PETŘÍKOVÁ",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 7,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:39:37"
+}

@@ -1,0 +1,246 @@
+{
+  "company_key": "promet_foundry_a_s",
+  "company_name": "PROMET FOUNDRY a.s.",
+  "domain": "www.prometfoundry.cz",
+  "events": "Czech Foundry Association Members",
+  "technographics": {
+    "success": true,
+    "company": "PROMET FOUNDRY a.s.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 28,
+    "all_technologies": [
+      {
+        "product": "New Relic",
+        "vendor": "New Relic, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "WPML",
+        "vendor": "OnTheGoSystems Limited",
+        "category": "Translation",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Zoom",
+        "vendor": "Zoom Video Communications, Inc.",
+        "category": "Web Conferencing",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Ubuntu",
+        "vendor": "Canonical Ltd.",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "New Relic Browser",
+        "vendor": "New Relic, Inc.",
+        "category": "Real User Monitoring",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "RADIM TKADLEČEK",
+        "firstName": "RADIM",
+        "lastName": "TKADLEČEK",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DENISA MATEROVÁ",
+        "firstName": "DENISA",
+        "lastName": "MATEROVÁ",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MICHAL SMOLÍK",
+        "firstName": "MICHAL",
+        "lastName": "SMOLÍK",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:40:09",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.prometfoundry.cz",
+    "homepage": {
+      "title": "PROMET FOUNDRY - slévárna šedé a tvárné litiny ze Vsetína",
+      "description": "Zabýváme se výrobou odlitků z šedé a tvárné litiny. Disponujeme strojní i ruční formovnou či automatickou formovací linkou. Poskytujeme kusovou, malosériovou, střední i velkosériovou výrobu odlitků a komplexní služby v oblasti výroby litiny.",
+      "text_excerpt": "PROMET FOUNDRY - slévárna šedé a tvárné litiny ze Vsetína\nModerní slévárna v podhůří Beskyd\nVyrábíme odlitky z šedé a tvárné litiny pro tuzemský a evropský trh\nPoznejte PROMET\nMember of PROMET GROUP\nProdukty & služby\nVyrábíme odlitky s opracováním z šedé a tvárné litiny pro výrobce výtahů, elektromotorů, jeřábových systémů, pump a čerpadel, průmyslových strojů a námořní techniky.\nZjistit více\nDalší činnosti\nNabízené produkty\nOdvětví\nSlužby\nTechnologické možnosti\nKariéra u nás\nPROMET GROUP je českou rodinnou společností, která se během svých 30 let rozrostla do skupiny takřka 40 firem působících převážně v oblasti metalurgie, strojírenstvím inženýrství a služeb. Prohlédněte si možnosti kariéry pro Vás v naší slévárně či jiné společnosti ve skupině.\nZjistit více\nNabízíme vám\nVolné pracovní pozice\nSponzoring zaměstnanců\nNadace PROMET\nPro více informací nás neváhejte kontaktovat.\nSpojte se s námi.\nNáš kontakt\nTento web používá soubory cookie.\nSoubory cookie používáme k personalizaci obsahu a reklam, poskytování funkcí sociálních médií a analýze naší návštěvnosti. Informace o vašem používání našich stránek také sdílíme s našimi partnery v oblasti sociálních médií, reklamy a analýzy, kteří je mohou kombinovat s dalšími informacemi, které jste jim poskytli, nebo které shromáždili při vašem používání jejich služeb.\nInzerce\nSlouží pro získání dat k zobrazování relevantní reklamy na základě procházení jednotliých produktů a kategorií produktů.\nMeta\n<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1156548539109133');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1156548539109133&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->\nMeta\n<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '9153037614822625');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=9153037614822625&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->\nAnalýza\nSlouží pro shromažďování dat o procházení, na základě těchto dat jsou typicky upravovány stránky tak,  aby byly pro uživatele přístupnější, přívětivější a lépe reflektovaly cíle.\n_ga\nPosílání úd"
+    },
+    "about": {
+      "url": "https://www.prometfoundry.cz/o-spolecnosti",
+      "text": "Profil společnosti\nPROMET FOUNDRY - slévárna šedé a tvárné litiny ze Vsetína\nProfil společnosti\nSlévárna PROMET FOUNDRY se zabývá výrobou a prodejem odlitků z šedé a tvárné litiny. Zaměřujeme se primárně na ruční lití. Zajišťujeme také výrobu modelových zařízení. Více než polovina odlitků směřuje na zahraniční trh, zejména do Německa, Švédska a Švýcarska.\n1999\nrok založení\nzaměstnanců\n8000\ntun\nkapacita slévárny ročně\nVsetínská slévárna PROMET FOUNDRY dodává odlitky zákazníkům se základním opracováním a v základní barvě anebo finálně opracované včetně lakování skrze realizaci u sesterské společnosti PROMET PREFIX.\nDíky dlouholetým zkušenostem je naše slévárna schopna vyrobit složité lité komponenty pro elektromotory v řádech desítek kil až po tunové odlitky. Tyto díly tradičně dodáváme předním evropským výrobcům. Z celkové kapacity slévárny o 8000 tun ročně více než polovina odlitků směřuje na zahraniční trh. Naše odlitky je možné nalézt také v řadě modelů výtahů kancelářských i průmyslových budov po celém světě.\nSpolečnost PROMET FOUNDRY dlouhodobě využívá informační i odborné spolupráce s mateřskou skupinou PROMET GROUP, což jí umožňuje dlouhodobě rozvíjet výrobní programy a poskytovat tak svým zákazníkům maximálně možný rozsah služeb v rámci vlastní výroby, ale také služby sesterských společností, čímž zajišťují kompletní portfolio.\nRodinná skupina PROMET GROUP zastřešuje více než čtyřicet společností působících v oborech strojírenství, metalurgie a inženýrství. PROMET GROUP zaměstnává přes čtyři tisíce lidí v České republice i zahraničí. Sídlo skupiny je v Ostravě.\nVize, mise, strategie\nJakožto součást skupiny Promet Group zastáváme hodnoty koncernu postavené na vytváření stabilních oboustranných vazeb, kterých si vážíme. Důležité jsou pro nás dodavatelsko–odběratelské vztahy se zaměřením na přesnost, povrchovou úpravu a včasné doručení přesně podle požadavků zákazníků, ale také vztahy vnitrofiremní, kde se snažíme vytvářet stabilní a bezpečné pracovní prostředí.\nDůležitý je pro nás vztah k životnímu prostředí. Minimalizujeme znečištění a chráníme vodu a půdu před úniky ropných a chemických čistících látek. Snižujeme riziko úniku nebezpečných látek v místě používaní a ve skladovacích prostorách.\nSpolečnost PROMET FOUNDRY se zavazuje k neustálému zlepšování, k prevenci znečisťování ŽP, k plnění právních a jiných požadavků.\nHistorie\n19. stol.\n19. stol.\nZaložení Thonetovy slévárny\nHistorie slévárenství ve Vsetíně sahá až do konce 19. století, kdy byla slévárna šedé litiny založena firmou THONET.\n1922\n1922\nNový majitel Thonetovy slévárny\nSlévárnu přebírá výrobce elektrických strojů Josef Sousedík. Ve svých provozech vyrobil i motory pro legendární motorový vlak Slovenská strela. Národní kulturní památka dnes sídlí v Kopřivnici.\n1945\n1945\nSlévárna součástí koncernu ZSE Praha\nPo roce 1945 byla slévárna organizačně začleněna do n. p. MEZ Vsetín v rámci koncernu ZSE Praha. Odlitky se vyráběly nejen pro potřebu vlastního podniku, ale i pro různé podniky v rámci republiky.\n1989\n1989\nRozšíření výroby\nPo roce 1989 dochází k osamostatnění s. p. MEZ Vsetín, což vedlo k rozšiřování výrobního programu a získávání nových zákazníků. Za tímto účelem byla zakoupena nová technologie výroby odlitků Lost Foam, dovezená z USA, která byla jediná v České republice i v Evropě.\n1994\n1994\nVznik Slévárny Vsetín\nV rámci privatizace podal management slévárny konkurenční privatizační projekt, ve kterém byla privatizace slévárny provedena formou přímého prodeje. Společnost Slévárna Vsetín spol. s r.o. byla založena 8. března 1994 a koupila majetek slévárny k 1. lednu 1996.\n1997\n1997\nLepší technologie\nV roce 1997 byla zakoupena plně automatizovaná formovací linka od italské firmy FOUNDRY AUTOMATION na výrobu drobných a středních odlitků z šedé a tvárné litiny. Dále byl instalován průběžný tryskač Škoda, nové výrobní zařízení pro výrobu jader, plynové vytápění slévárny.\n1999\n1999\nNový partner PROCENTO, spol. s r.o.\nPro další rozvoj firmy se majitelé slévárny "
+    },
+    "products": {
+      "url": "https://www.prometfoundry.cz/produkty",
+      "text": "Produkty a služby | PROMET FOUNDRY - slévárna šedé a tvárné litiny ze Vsetína\nProdukty a služby\nOdlitky z šedé a tvárné litiny vyrábíme od drobných dílů až po složité lité komponenty do hmotnosti 5 tun. Dodáváme je v požadované kvalitě dle dokumentace a požadavků zákazníka. Výroba probíhá na nové ruční formovací lince a zmodernizované automatické horizontální lince.\nNabízené produkty\nVyrábíme odlitky z šedé a tvárné litiny a to až do hmotnosti 5 tun.\nZjistit více\nSlužby\nOdlitky zákazníkům dodáváme se základním opracováním a v základní barvě anebo finálně opracované včetně lakování skrze realizaci u sesterské společnosti PROMET PREFIX.\nZjistit více\nOdvětví\nTextilní a průmyslové stroje, ale také výtahy v budovách po celém světě. Odlitky z naší slévárny dosahují kvality a standardů pro mnohá průmyslová odvětví.\nZjistit více\nTechnologické možnosti\nVýroba odlitků probíhá na nové ruční formovací lince a zmodernizované automatické horizontální lince. Kapacita této linky pro odlitky do 80 kg je 8000 tun ročně.\nZjistit více\nNaše formovny\nRuční formování\nFormovací linka samotuhnoucích furanových směsí je moderní technologií pro výrobu kusových i malosériových odlitků větších rozměrů.\nZjistit více\nAutomatické formování\nOdvětví, pro která vyrábíme naše odlitky jsou reprezentována výrobci elektrických strojů, výtahů, pump, textilních strojů a další.\nZjistit více\n- 02\nTento web používá soubory cookie.\nSoubory cookie používáme k personalizaci obsahu a reklam, poskytování funkcí sociálních médií a analýze naší návštěvnosti. Informace o vašem používání našich stránek také sdílíme s našimi partnery v oblasti sociálních médií, reklamy a analýzy, kteří je mohou kombinovat s dalšími informacemi, které jste jim poskytli, nebo které shromáždili při vašem používání jejich služeb.\nInzerce\nSlouží pro získání dat k zobrazování relevantní reklamy na základě procházení jednotliých produktů a kategorií produktů.\nMeta\n<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1156548539109133');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1156548539109133&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->\nMeta\n<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbeve"
+    },
+    "contact_page": {
+      "url": "https://www.prometfoundry.cz/kontakty",
+      "text": "Kontakty | PROMET FOUNDRY - slévárna šedé a tvárné litiny ze Vsetína\nKontakty\nPROMET FOUNDRY a.s.\nJiráskova 1327\n755 01 Vsetín\nČeská republika\ntel.: +420 572 779 030\ne-mail:\nsekretariat@prometfoundry.cz\nIČ: 25832913\nDIČ: CZ699004237\nSpolečnost je zapsána dne 16.3.1999 v odd. B 3204 vedená u Krajského soudu v Ostravě.\nSpolečnost PROMET FOUNDRY a.s. je členem skupiny PROMET GROUP od roku 2005.\nMichal Smolík, výkonný ředitel\nmichal.smolik@prometfoundry.cz\n+420 606 773 379\nSekretariát společnosti\nsekretariat@prometfoundry.cz\n+420 572 779 030\nPersonální útvar\nhr@prometfoundry.cz\n+420 571 412 176\nObchodní oddělení\nobchod@prometfoundry.cz\n+420 571 411 935\n+420 571 416 147\nPavel Barvík, kontakt pro média\npavel.barvik@prometgroup.eu\n+420 602 266 815\nTento web používá soubory cookie.\nSoubory cookie používáme k personalizaci obsahu a reklam, poskytování funkcí sociálních médií a analýze naší návštěvnosti. Informace o vašem používání našich stránek také sdílíme s našimi partnery v oblasti sociálních médií, reklamy a analýzy, kteří je mohou kombinovat s dalšími informacemi, které jste jim poskytli, nebo které shromáždili při vašem používání jejich služeb.\nInzerce\nSlouží pro získání dat k zobrazování relevantní reklamy na základě procházení jednotliých produktů a kategorií produktů.\nMeta\n<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1156548539109133');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1156548539109133&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->\nMeta\n<!-- Meta Pixel Code -->\n<script>\n!"
+    }
+  }
+}

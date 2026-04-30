@@ -1,0 +1,187 @@
+{
+  "company_key": "unex, a. s.",
+  "company_name": "Unex, a. s.",
+  "domain": "www.unex.cz",
+  "domain_url": "https://www.unex.cz",
+  "events": "Czech Foundry Association Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": 3295,
+  "enrichment": {
+    "company_name": "Unex, a. s.",
+    "opportunity_score": 40,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 1.0,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 1.0,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "28176952",
+    "official_name": "UNEX Finance a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "68200",
+      "6820"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Brníčko 1032, 78391 Uničov, Uničov, 78391",
+    "is_client": true,
+    "current_products": "PDMC",
+    "total_seats": "2",
+    "current_acv_eur": "8400.0",
+    "potential_acv_eur": "17350.0",
+    "nearest_renewal": "2027-02-24",
+    "days_to_renewal": "307",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Advanced CAM and manufacturing capabilities",
+    "all_upsells": "Fusion Mfg Ext; Moldflow; Flex",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Industrial Machinery",
+    "ml_domain": "www.unex.cz",
+    "zi_done": true,
+    "employee_count": 27,
+    "revenue": 5417,
+    "zi_company_name": "UNEX",
+    "zi_domain": "www.unex.cz",
+    "zi_city": "Uničov",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "revenue_growth": 0.0,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.unex.cz",
+    "homepage": {
+      "title": "UNEX - Strojírensko-metalurgická společnost",
+      "description": "",
+      "text_excerpt": "UNEX - Strojírensko-metalurgická společnost\nUNEX\nO společnosti\nTěžební technika\nTěžké strojírenství\nOdlitky a výkovky\nVýpalky & Kooperace\nO společnosti\nProfil společnosti\nVýrobní portfolio\nTechnické a výrobní možnosti\nCertifikace\nReference\nCompliance Management\nKe stažení\nKariéra\nKontakt\nTěžební technika\nTěžké strojírenství\nOdlitky a výkovky\nVýpalky & Kooperace\nVítejte na stránkách strojírensko-metalurgické skupiny UNEX, světově uznávaného výrobce kolesových rypadel, zkušeného dodavatele komponent těžkého strojírenství, dlouhodobého partnera předních světových průmyslových korporací a největšího zaměstnavatele v regionu.\nStrojírensko-metalurgický koncern UNEX již více než 70 let spoluvytváří tradici československého těžkého strojírenství. Zkušenosti a odbornost lidí; společně s moderními technologiemi, robotizovanými a automatizovanými pracovišti, řadou těžkých obráběcích strojů a rozsáhlými výrobními prostory, umožňují efektivně vyrábět vysoce kvalitní produkty pro různá průmyslová odvětví dle výkresové dokumentace a požadavků těch nejnáročnějších zákazníků.\nDíky vlastním strojírnám, lakovnám, slévárnám a kovárně je UNEX schopen dodávat široký sortiment těžkých ocelových konstrukcí včetně montáže, finálně opracovaných odlitků a výkovků. Ve třech závodech v Uničově, Olomouci a slovenské Snině pracují na 2 tisíce odborníků. Většinu své produkce UNEX exportuje do celého světa.\n10.2025\nMonitoring médií: není UNEX jako UNEX\nVe veřejném mediálním prostoru se v letošním roce zvýšil výskyt textů, které obsahují mj. slovo „UNEX“. Jen malá část těchto článků přitom skutečně odkazuje strojírensko-metalurgickou skupinu UNEX s výrobními závody v Uničově, Olomouci a Snině. Pojďme si „další UNEXy“ krátce představit:\n6.2025\nÚspěšná obhajoba certifikátů ISO\nVe dnech 20.-23.5.2025 proběhl v závodech UNEX audit integrovaného systému, který realizovala jedna z předních světových certifikačních společností DNV. S potěšením oznamujeme, že jsme absolvovali recertifikační audit pro normu ISO 50001:2018 a dozorový audit pro normy ISO 9001:2015, ISO 14001:2015 a ISO 45001:2018.\n6.2025\nLoučení s legendou: Velkostroj KU 800 Březenský drak ukončil svou pouť\nV pátek 6. června 2025 dopoledne byla v Březně u Chomutova s použitím patnácti kilogramů trhaviny ukončena životní cesta velkostroje KU 800 s označením \"Březenský drak\".\nVšechny zprávy\nVyhledat\nVyhledat\nKariéra v UNEX\nNa webu používáme pouze cookies nezbytné pro správné fungování webu a všech funkcí, které nabízí.\nZavřít okno"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Yunex, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 8,
+    "all_technologies": [
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Edenred",
+        "vendor": "Edenred",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "C",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Adobe Typekit",
+        "vendor": "Adobe Inc.",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Unex, a. s.",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Kalný",
+        "last_name": "Karel",
+        "title": "Chief Executive Officer",
+        "email": "kaln.karel@unex.cz",
+        "phone": "",
+        "company": "UNEX",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      },
+      {
+        "first_name": "Petr",
+        "last_name": "Salati",
+        "title": "Group Director, Product",
+        "email": "",
+        "phone": "",
+        "company": "UNEX",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Michal",
+        "last_name": "Kemler",
+        "title": "Group Director, Business",
+        "email": "",
+        "phone": "",
+        "company": "UNEX",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 91.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 12:09"
+}

@@ -1,0 +1,197 @@
+{
+  "company_key": "limitronic",
+  "company_name": "Limitronic",
+  "domain": "www.limitronic.com",
+  "domain_url": "https://www.limitronic.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Limitronic",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Fusion",
+    "total_seats": "1",
+    "current_acv_eur": "600.0",
+    "potential_acv_eur": "8200.0",
+    "nearest_renewal": "2026-12-26",
+    "days_to_renewal": "247",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Fusion Sim Ext",
+    "maturity_label": "Foundation",
+    "industry_segment": "Industrial Machinery",
+    "zi_done": true,
+    "employee_count": 27,
+    "revenue": 4135,
+    "zi_company_name": "Limitronic",
+    "zi_domain": "www.limitronic.com",
+    "zi_city": "Castellon De La Plana",
+    "zi_country": "Spain",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.limitronic.com",
+    "homepage": {
+      "title": "Impresoras inkjet industriales | Limitronic",
+      "description": "Las impresoras inkjet industriales de Limitronic ofrecen soluciones para codificación y la impresión digital en línea del packaging de producto acabado.Desarrollamos codificadoras especializadas para la trazabilidad para imprimir el producto en movimiento sin detener la línea de fabricación.Nuestras impresoras imprimen códigos de barras, etiquetas, logotipos para todo tipo de",
+      "text_excerpt": "Impresoras inkjet industriales | Limitronic\nLoading...\nLimitronic desarrolla y fabrica impresoras de alta resolución\nImpresión cuatricomía de alta resolución,\nCódigos de barras 1D y 2D,\nSoluciones especiales para E-commerce,\nCodificación y decoración de productos,\nEn cualquier superficie, negro o color,\nIntegradas en su línea de fabricación\nSu flexibilidad, alta disponibilidad y una sencilla operativa, han hecho que sea la mejor opción para la personalización de nuestros productos.\nDestacar su bajo consumo de tinta y la calidad de la impresión. Excelente elección.\nMayo 2020\nAntonio Rodríguez Zambrano\n|  Dpto. Operaciones\nBodegas López Morenas\nBodega\nDa circa 6 mesi Pasta ZARA ha installato in uno dei due siti produttivi, 5 impianti di stampa modello\nLimitronic L735\ncon annesso LED UV. I risultati sono molto soddisfacenti, sia in termini di qualità di stampa (superfici porose e lucide) sia in termini di risparmio energetico che sul costo della singola stampa, infine in termini di affidabilità riducendo quasi a zero gli interventi di manutenzione. Altri due impianti di stampa saranno installati nelle prossime settimane nella nostra sede centrale di Riese Pio X con previsione di sostituzione, nel tempo, di tutti i vecchi marcatori in uso.\nAbril 2020\n|  Manager di Produzione\nPasta Zara S.p.A.\nFabricación de pasta alimentaria\nSatisfacción con los equipos de Limitronic.\nLa fiabilidad de los mismos y su versatilidad en nuestras líneas\nAbril 2020\nAntolín Santa Risueño\n|  Jefe de mantenimiento\nPuerto de Indias\nSevillian Gin Premium\nContar con Limitronic nos ha permitido la personalización de nuestros pedidos y estandarizado de nuestra instalación, algo a priori bastante complicado, mejorando la fiabilidad de toda la instalación y aportando valor añadido en nuestro servicio de preparación de pedidos.\nLa rapidez y fiabilidad del equipo de impresión de cajas, unido a la experiencia y actitud de todo su personal, hace de Limitronic ser una gran empresa.\nAbril 2020\nJavier Navarro\n|  Project Manager\nPickingfarma\nOperador logístico farmacéutico\nNuestra experiencia con Limitronic es satisfactoria, resalta su fiabilidad en prestaciones para marcar cualquier tipo de logo, código de barras y QR. De fácil manejo, bajo consumo en tintas y una operatividad inmediata.\nAbril 2020\nAntonio García Solís\n|  Jefe de Mantenimiento\nMigasa Aceites\nEmpresa embotelladora de aceite de oliva\nLimitronic ofrece soluciones para\nla impresión\ndigital en línea\ndel packaging de producto acabado.\nSomos el primer fabricante español de impresoras industriales de alta resolución para identificación de productos, personalización y trazabilidad.\nLas impresoras\nLimitronic\nse diseñan y fabrican en nuestras instalaciones, con un\ncontrol total de calidad\npara ofrecer máxima garantía.\nContamos con una red de distribuidores en más de 20 países que nos permiten llevar nuestras máquinas de impresión a cualquier parte del mundo.\nTrazabilidad fiable\nGracias a la capacidad de imprimir todo tipo de códigos "
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Limitronic",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 17,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Drupal",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Limitronic",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 08:59",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "inventor"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

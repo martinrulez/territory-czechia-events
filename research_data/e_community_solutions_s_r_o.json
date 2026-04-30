@@ -1,0 +1,41 @@
+{
+  "company_key": "e_community_solutions_s_r_o",
+  "company_name": "e-community solutions s.r.o.",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PATRIK BUREŠ",
+        "firstName": "PATRIK",
+        "lastName": "BUREŠ",
+        "jobTitle": "předseda rady jednatelů (jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PAVEL TIPAN",
+        "firstName": "PAVEL",
+        "lastName": "TIPAN",
+        "jobTitle": "člen rady jednatelů (jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:08"
+}

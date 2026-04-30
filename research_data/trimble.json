@@ -1,0 +1,482 @@
+{
+  "company_key": "trimble",
+  "company_name": "Trimble",
+  "domain": "www.trimble.com",
+  "domain_url": "https://www.trimble.com",
+  "events": "Connected Construction Days 2026,BIM DAY 2026,3DISE Conference 2026",
+  "event_count": 3,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Trimble",
+    "opportunity_score": 42,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [
+      "Hiring (3 jobs)",
+      "Engineering roles open"
+    ],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.15,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.75,
+      "signals": 0.45,
+      "client_bonus": 0.7
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "employee_count": 11500,
+    "revenue": 3587301,
+    "hiring_signal": true,
+    "hiring_intensity": "medium",
+    "total_jobs": 3,
+    "engineering_hiring": true,
+    "leadership_change": false,
+    "has_public_contracts": false,
+    "zi_domain": "www.trimble.com",
+    "zi_country": "United States",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-05-14",
+    "days_to_renewal": "21",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Entry",
+    "industry_segment": "Buildings",
+    "ml_employee_count": "14",
+    "ml_revenue": "5253",
+    "zi_done": true,
+    "zi_company_name": "Trimble",
+    "zi_city": "Westminster",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.trimble.com",
+    "homepage": {
+      "title": "Trimble | Solutions for Construction, Geospatial, Transportation & More",
+      "description": "Easily connect physical and digital worlds with Trimble industrial technologies. Our intelligent data and industry solutions transform the way the world works.",
+      "text_excerpt": "Trimble | Solutions for Construction, Geospatial, Transportation & More\nSkip to content\nConfidence at every turn\nIncrease your competitive advantage across the industries we all depend on with Trimble connected hardware and software solutions. Turn to Trimble for the win.\nWHAT WE DO\nAccelerating the pace of work across the world's essential industries\nTrimble connected solutions give you a better way to work. Whether you design and construct buildings, operate and maintain infrastructure, optimize global supply chains or map the world, Trimble keeps your projects moving.\nPrevious\nGovernment\nTurn roadblocks into runways\nNatural Resources\nTurn sustainability into success\nConstruction\nTurn ideas into innovation\nGeospatial\nTurn spatial data into decisions\nTransportation\nTurn slowdowns into solutions\nGovernment\nTurn roadblocks into runways\nNatural Resources\nTurn sustainability into success\nConstruction\nTurn ideas into innovation\nGeospatial\nTurn spatial data into decisions\nTransportation\nTurn slowdowns into solutions\nGovernment\nTurn roadblocks into runways\nNatural Resources\nTurn sustainability into success\nNext\nTrimble technology in action\nDriven by relentless innovation in precise positioning, 3D modeling and data analytics, Trimble empowers customers worldwide to succeed. With focused growth in construction, geospatial and transportation, the numbers speak for themselves.\nBUILDING THE WORLD\n> $500 billion\nof new construction project value managed annually through Trimble ERPs\n> 1 million\nsubscribers to Trimble Sketchup\nSHAPING THE WORLD\n> 200,000\ngeospatial instruments delivered in the past five years\n> 1 MILLION\nhours of surveying and mapping work done with Trimble technology every month\nMOVING THE WORLD\n> 90%\nof top 200 trucking companies in North America use Trimble technology\n> 158,000\ncarriers worldwide connected to 1,400 shippers using Trimble\nExplore Trimble AI\nReady. Set. Turn!\nWork doesn't flow in a straight line.\nEvery day brings new turns—decisions, actions and adjustments that must be made in real time. With Trimble on your team, you're in command of connected solutions to make every turn with confidence. Time after time, end to end, to keep work flowing.\nABOUT TRIMBLE\nSports partnerships\nWhere technology and teamwork connect\nOur partnerships with RFK Racing and Liverpool Football Club showcase how high-stakes competition runs on the same connected technology our customers use to engineer success and win with Confidence at every turn\nLIVERPOOL FC\nRFK Racing\nCUSTOMER STORIES\nOur customers are powered by confidence that rises to the challenge\nEvery day, Trimble customers are advancing the potential of technology to connect people, data and workflows. Learn how they're achieving remarkable success through the power of the Trimble ecosystem.\nThe JE Dunn Way\nBristol Motor Speedway\njorge chAvez intl. airport\nevans distribution systems\nRandselva Bridge\nBuilding confidence through consistency\nBy standardizing workflows and empowering teams with c"
+    },
+    "about": {
+      "url": "https://www.trimble.com/about",
+      "text": "About Trimble | Transforming the way the world works\nSkip to content\nAbout Trimble\nA company driven by purpose\nTrimble is grounded in our ability to invent and deliver technology solutions that give our customers the power to keep work moving forward.\nOur mission\nSince Charlie Trimble founded the company in 1978, Trimble has pursued a mission to transform the way the world works. Our customers are vital to the world's most essential industries—from building and maintaining our infrastructure to moving goods across global supply chains to measuring and mapping the world around us. Trimble products and services connect the physical and digital worlds, creating a better way for our customers to get hard work done.\nCommunity\n11,000+\nemployees in 40+ countries make up our global network of local support\nExpertise\n45+\nyears of industry expertise and unmatched technology leadership\nInnovation\n1,000+\nunique and active patents show our commitment to innovation\nTrimble newsroom\nOUR LEADERSHIP\nSetting the strategy for today—driving the innovation of tomorrow\nCEO Legacy\nOur History\nAI at Trimble\nHow do you build and grow a global technology company? According to Trimble's past and present CEOs, it's all about leadership, resilience and growth.\nLearn how the strategies and foresight of Charlie Trimble, Steve Berglund and current CEO Rob Painter have guided Trimble on its mission of transforming the way the world works.\nExecutive leaders\nBoard of directors\nOUR VALUES\nBelong. Grow. Innovate.\nOur values are the central, underlying philosophies that guide our interactions with each other and how we do business. They create a foundation for inclusivity and influence the way we interact with each other, partners, customers and stakeholders.\nOur code of conduct\nBe yourself and thrive together\nWe believe in a culture where you feel like you belong. With empathy, compassion and trust, we embrace our diversity and thrive through inclusivity.\nBe yourself and thrive together\nWe believe in a culture where you feel like you belong. With empathy, compassion and trust, we embrace our diversity and thrive through inclusivity.\nBe intentional and humble\nOur growth mindset drives us to deliver value for the planet, and our humility enables us to better ourselves and the communities we serve.\nBe intentional and humble\nOur growth mindset drives us to deliver value for the planet, and our humility enables us to better ourselves and the communities we serve.\nBe curious and solve problems\nWith an innovative mindset, we are always exploring creative ways to solve complex problems and provide new value to our customers.\nBe curious and solve problems\nWith an innovative mindset, we are always exploring creative ways to solve complex problems and provide new value to our customers.\nMaking an impact\nAt Trimble, we are committed to shaping a better future for our customers, our employees and our planet.\nShaping a sustainable future\nOur sustainability priorities are integrated into our strategy. They drive us to build resilience, empower our people, and lead with integrity in all that we do.\nDriving accelerated decarbonization\nThe impacts of climate change are evident and widespread, and Trimble is taking urgent steps to drive decarbonization across our value chain, from our suppliers to our customers.\nWelcoming new perspectives\nBy celebrating our differences, we open the way for innovation and cultivate a culture that inspires and engages all employees to achieve their full potential.\nIncreasing access to opportunity\nWe work with academic institutions, nonprofits, trade schools and unions to provide the skills and experience for technology-based careers that will positively impact the industries we serve.\nBuilding stronger and more equitable communities\nWe connect our people, capital, and solutions to global community needs. We do this work through the Trimble Foundation with the goal of building more resilient outcomes for all.\nOur foundation\nAwards & Recognition\nWhen o"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.trimble.com/contact",
+      "text": "Contact Trimble\nSkip to content\nConnect with Trimble’s teams\nChoose a link below to get support, find information or ask us questions.\nHow can we help you?\nCustomer support\nContact our support team for answers to questions about orders, billing or products.\nAuthorized dealers\nTrimble sells directly and through our global network of dealers, who are ready to answer questions and provide product and pricing details.\nTrimble extended protection\nWant to learn more about Trimble extended protection? Contact our Trimble Protected sales team with any questions.\nRepair services\nGet access to repair services including preventive maintenance, adjustments, full calibration and cleaning.\nInvestor relations\nGet contact information for investor-related questions, shareholder inquiries or other stock account matters.\nMedia inquiries\nContact Trimble public relations for media inquiries or to request information for journalists and editors.\nGlobal locations\nTrimble is headquartered in Westminster, Colorado in the United States, where we serve customers around the globe. Our offices, fulfillment centers, manufacturing, services, research and development (R&D) centers, and related facilities total more than 150 locations worldwide in over 30 countries.\nCorporate headquarters\nAmericas\nEurope\nMiddle East and Africa\nAsia Pacific\n10368 Westmoor Drive\nWestminster, CO 80021\nUSA\n+1 (720) 887-6100\nMore ways to connect and collaborate with Trimble\nTrimble Ventures\nWhether you are a founder, CEO or venture capital investor, we are here to support your success. Connect with us to discuss how to collaborate.\nContact Trimble Ventures\nTrimble Foundation\nGet answers to questions about Trimble Foundation, opportunities to partner with us, or press inquiries.\nContact Trimble Foundation\nTrimble careers\nCultivate your entrepreneurial spirit, connect with brilliant colleagues and tackle meaningful challenges.\nBuild a career at Trimble\nAttention\nWe tried to combine the products in your guest cart with you"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Trimble",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autodesk AutoCAD Civil 3D",
+      "Autodesk Maya",
+      "Autodesk Navisworks",
+      "Autodesk Revit",
+      "SnapVault"
+    ],
+    "competitor_products": [
+      "ARCHICAD",
+      "AgileAssets",
+      "Bentley OpenRoads",
+      "Bentley OpenRoads Designer",
+      "Dassault Systemes",
+      "GRAPHISOFT",
+      "MicroStation",
+      "PC*MILER",
+      "PTC Creo",
+      "PTC Integrity",
+      "Siemens PLM",
+      "SketchUp",
+      "Solidworks",
+      "Tekla",
+      "Terramodel",
+      "Trimble",
+      "Trimble Accubid",
+      "Trimble Accubid Classic",
+      "Trimble AutoBid Mechanical",
+      "Trimble Connected Forest",
+      "Trimble GeoManager",
+      "Trimble SketchUp Pro",
+      "WinEst",
+      "eCognition"
+    ],
+    "cad_bim_other": [
+      "ANSYS HFSS",
+      "Adobe Streamline",
+      "Adobe XD",
+      "Assemble",
+      "Autodesk",
+      "B2W Software",
+      "Built",
+      "Cache Control",
+      "Cadence OrCAD",
+      "ConTech",
+      "Fund Control",
+      "InVision",
+      "ProContractor",
+      "REST / RESTful",
+      "Sage 300 Construction and Real Estate",
+      "Sigma",
+      "SmartBid",
+      "Viewpoint",
+      "Viewpoint Construction Software",
+      "Vista by Viewpoint"
+    ],
+    "total_technologies": 1366,
+    "all_technologies": [
+      {
+        "product": "XPath",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Wrike",
+        "vendor": "Wrike, Inc.",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Amazon ECS",
+        "vendor": "Amazon Web Services, Inc.",
+        "category": "Containerization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "NVIDIA",
+        "vendor": "NVIDIA Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Group Policy",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "P2 Energy Solutions",
+        "vendor": "P2 Energy Solutions",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "OpenAI",
+        "vendor": "OpenAI",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "JavaFX",
+        "vendor": "Oracle Corporation",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Application Security",
+        "vendor": "Trustwave Holdings, Inc",
+        "category": "Database Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Sanity",
+        "vendor": "Sanity",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Unleash",
+        "vendor": "Unleash",
+        "category": "Inventory and Order Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "TOGAF",
+        "vendor": "The Open Group",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Figma",
+        "vendor": "Figma, Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Kickstart",
+        "vendor": "Kickstart",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "API Gateway",
+        "vendor": "Akamai Technologies, Inc.",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Aerial",
+        "vendor": "MEDecision",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Alteryx",
+        "vendor": "Alteryx, Inc.",
+        "category": "Advanced Analytics and Data Science",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Apache Lucene",
+        "vendor": "The Apache Software Foundation",
+        "category": "Enterprise Search",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "PyTorch",
+        "vendor": "PyTorch",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Apache Velocity",
+        "vendor": "Apache",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Azure Cosmos DB",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Cision Communications Cloud",
+        "vendor": "Cision Ltd",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "AWS Backup",
+        "vendor": "Amazon Web Services, Inc.",
+        "category": "Backup and Recovery",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "ChatGPT",
+        "vendor": "OpenAI",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Swoogo",
+        "vendor": "Swoogo, Inc.",
+        "category": "Event Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Oracle Fusion Cloud ERP",
+        "vendor": "Oracle Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Salesforce Data Cloud",
+        "vendor": "Salesforce, Inc.",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Claude",
+        "vendor": "Anthropic PBC",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Route",
+        "vendor": "Route App Inc.",
+        "category": "Inventory and Order Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "GitHub Copilot",
+        "vendor": "GitHub, Inc.",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Asc",
+        "vendor": "Assessment Systems Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Atlas Dental Specialists",
+        "vendor": "Atlas Dental Specialists",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft Entra",
+        "vendor": "Microsoft Corporation",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Privlege Access Management",
+        "vendor": "ARCON",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Arista Networks",
+        "vendor": "Arista Networks, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Design Manager",
+        "vendor": "Design Manager",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "dbt",
+        "vendor": "dbt Labs, Inc",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Bench",
+        "vendor": "Bench",
+        "category": "Accounting",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Copado",
+        "vendor": "Copado, Inc",
+        "category": "Other DevOps Software",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "TestCafe",
+        "vendor": "Developer Express, Inc.",
+        "category": "Testing and QA",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "GPS",
+        "vendor": "mbm.it",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Harness",
+        "vendor": "Harness Inc.",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Scala",
+        "vendor": "Lightbend, Inc.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "B2W Software",
+        "vendor": "B2W Software Inc",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Trimble",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Robbert",
+        "last_name": "Reeder",
+        "title": "Chairman",
+        "email": "robbert.reeder@trimble.com",
+        "phone": "+31 497 532 420",
+        "company": "Trimble",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 77.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 08:30",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks",
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "company_key": "nes nová dubnica s.r.o.",
+  "company_name": "NES Nová Dubnica s.r.o.",
+  "domain": "www.nes.sk",
+  "domain_url": "https://www.nes.sk",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "NES Nová Dubnica s.r.o.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 81,
+    "revenue": 20561,
+    "zi_company_name": "NES Nová Dubnica s r o",
+    "zi_domain": "www.nes.sk",
+    "zi_city": "Nova Dubnica",
+    "zi_country": "Slovakia",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.nes.sk",
+    "homepage": {
+      "title": "NES",
+      "description": "Web site created using create-react-app",
+      "text_excerpt": "NES"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.nes.sk/kontakt",
+      "text": "NES"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "NES Nová Dubnica s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 5,
+    "all_technologies": [
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "NES Nová Dubnica s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Rudolf",
+        "last_name": "Paulík",
+        "title": "Project Manager",
+        "email": "",
+        "phone": "",
+        "company": "NES Nová Dubnica s r o",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Rastislav",
+        "last_name": "Černek",
+        "title": "PLC Specialist",
+        "email": "",
+        "phone": "",
+        "company": "NES Nová Dubnica s r o",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 17:28"
+}

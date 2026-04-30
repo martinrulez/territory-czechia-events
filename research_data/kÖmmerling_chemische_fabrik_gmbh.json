@@ -1,0 +1,137 @@
+{
+  "company_key": "kÖmmerling chemische fabrik gmbh",
+  "company_name": "KÖMMERLING CHEMISCHE FABRIK GMBH",
+  "domain": "www.koe-chemie.de",
+  "domain_url": "https://www.koe-chemie.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "KÖMMERLING CHEMISCHE FABRIK GMBH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 24,
+    "revenue": 13339,
+    "zi_company_name": "Kömmerling",
+    "zi_domain": "www.koe-chemie.de",
+    "zi_city": "Pirmasens",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.koe-chemie.de",
+    "homepage": {
+      "title": "Kömmerling | Adhesives manufacturing company",
+      "description": "H.B. Fuller is excited about the Kömmerling brand, which delivers innovative solutions to improve and enhance product and process quality. Learn more!",
+      "text_excerpt": "Kömmerling | Adhesives manufacturing company\nto main content\nShare:\nKömmerling\nKömmerling, a World-Class Brand From H.B. Fuller\nOur KÖMMERLING business provides innovative solutions that improve and enhance product and process quality for more than 130 years. Working in a spirit of partnership with our customers and with our knowledge of trends in technology and materials we design products and processes that deliver high-quality, value-adding solutions. This is what we are most passionate about!\nGlass\nH.B. Fuller is the world's largest and technologically leading adhesives and sealant supplier for insulating glass applications. With our complete Kömmerling product range for the glass industry, we can be your single-source supplier. Our adhesives and sealants fulfill the highest requirements of international certification standards. In addition, they are tested according to even more stringent internal criteria.\nTransportation\nHigh demands are placed on energy-efficient vehicles. In order to live up to these demands, we rely on technically mature, customer-specific solutions. Whether in automotive construction or vehicle repair in cars, trucks, buses, ships, heavy machinery, caravans and mobile homes. Our KÖMMERLING-branded products not only ensure weight reduction, but also contribute to better sound-dampening, for example. Megatrends in the transportation industry, such as e-mobility or functional surfaces, drive our focus on innovation.\nConstruction\nH.B. Fuller’s KÖMMERLING-branded adhesives enable bonding with very high rigidity and strength while being sufficiently elastic to balance the natural movements and different elongations of the materials used. Both inside and outside, from the cellar to the façade and the roof, our adhesives and sealants offer many different application possibilities and open up numerous design options for architects and planners.\nRenewable Energy\nFor new buildings as well as for the renovation of old ones, energy generation through solar modules in the form of photovoltaics and solar thermal energy plays an important role. H.B. Fuller’s KÖMMERLING business develops and produces high-quality matching adhesives and sealants for photovoltaic and solar system components and their integration into the building envelope.\nIndustrial Assembly\nWhether the issue is temperature fluctuations, humidity or high UV radiation, our KÖMMERLING-branded products signify maximum reliability in the most varied industrial applications. In addition to the main goal of providing safe and strong bonding, it is also possible to integrate additional functions. These include structure-borne sound insulation (e.g. in household appliances), electric conductivity and thermal insulation.\nCoil Coating\nThe wide range of applications for coil coating laminates requires unique adhesive systems. Continuous metal coil coating is the process for coating steel or aluminum coils. This process becomes composite materials if plastic film is used. With its d"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "KÖMMERLING CHEMISCHE FABRIK GMBH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 11,
+    "all_technologies": [
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Adobe Stock",
+        "vendor": "Adobe Inc.",
+        "category": "Stock Images Providers",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cisco Email Security",
+        "vendor": "Cisco Systems, Inc",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "KÖMMERLING CHEMISCHE FABRIK GMBH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 17:43"
+}

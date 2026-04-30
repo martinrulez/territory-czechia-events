@@ -1,0 +1,144 @@
+{
+  "company_key": "oika®",
+  "company_name": "oika®",
+  "domain": "www.oika.com",
+  "domain_url": "https://www.oika.com",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "oika®",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Fusion",
+    "total_seats": "3",
+    "current_acv_eur": "1800.0",
+    "potential_acv_eur": "8200.0",
+    "nearest_renewal": "2026-08-02",
+    "days_to_renewal": "101",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Fusion Sim Ext",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other Manufacturing",
+    "ml_domain": "www.omnika.com",
+    "zi_done": true,
+    "employee_count": 21,
+    "revenue": 4526,
+    "zi_company_name": "Oika",
+    "zi_domain": "www.oika.com",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.oika.com",
+    "homepage": {
+      "title": "Oika - Ecological, Intelligence",
+      "description": "Oika is an ecological & cultural paradigm for art, science and humanities. Learn more about this intelligence of belonging",
+      "text_excerpt": "Oika - Ecological, Intelligence\nNOW ENROLLING Spring Beautiful Futures Course  ➡️\nThe future is beautiful...or there isn't one.\nDr. Rich Blundell\nOika (from Greek\noikos\n—household, dwelling) names the quality of belonging that emerges when people take their place personally.\nIt is ecological intelligence: the capacity for right-relationship with the living systems that made and sustain you. This intelligence is not acquired. It is remembered. It has been evolving in our ancestors for 4 billion years.\nOika is grounded in the New Science and expressed through three core principles:\nContinuity\n— Humans are not separate from nature. Our deep natural history reveals we are continuous with the same creative process that has been unfolding since the origin of the cosmos.\nRelationality\n— Reality is relational all the way down. Relationship is not only what happens between pre-existing things but it's what generates things in the first place. When you're in right-relation, nature let's you know (and vice versa)\nEntanglement\n— Intelligence is not confined to brains. It's primary and extends across scales, systems, and domains. To be alive is to participate in the intelligence of living systems.\nThe Premise\nThe systems that organized human life are transforming. What remains when those systems fail is what was always underneath: the edges, the local, the relationships between people who know each other and know the land.\nOika is preparation disguised as pleasure. It is conviviality with awareness. The beautiful future is built now—by people who refuse to wait for permission to belong to each other and to place.\nThe Promise\nWhen you align with the creative intelligence of nature rather than against it, everything changes. Work becomes meaningful. Relationships deepen. The anxious search for purpose gives way to the quiet confidence of belonging.\nThis is not philosophy to be debated. It is capacity to be developed.\nOika was developed by Dr. Rich Blundell through thirty years of ecological fieldwork across Earth's major habitats.\nLearn about Rich →\nParticipate through Origin School →\nIt's not about what you know, it's about what you notice.\nDr. Rich Blundell\nHOME\nContact\nOika® is a registered trademark of Omniscopic LLC Copyright © 2024 - All Rights Reserved.\nHome\nPrivacy Policy\nContact"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.oika.com/contact",
+      "text": "Contact | Oika\nNOW ENROLLING Spring Beautiful Futures Course  ➡️\nContact Oika\nDrop us a line!\nName\nEmail*\nSend\nThis site is protected by reCAPTCHA and the Google\nPrivacy Policy\nand\nTerms of Service\napply.\nOika\nNantucket, United States\nConnect With Us\nHOME\nContact\nOika® is a registered trademark of Omniscopic LLC Copyright © 2024 - All Rights Reserved.\nHome\nPrivacy Policy\nContact"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "oika®",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 9,
+    "all_technologies": [
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "GoDaddy Email Hosting",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "GoDaddy DNS",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon Web Hosting",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "GoDaddy SSL Certificates",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "oika®",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 14:56"
+}

@@ -1,0 +1,218 @@
+{
+  "company_key": "micro_vu",
+  "company_name": "Micro-Vu",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "Micro-Vu",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 25,
+    "all_technologies": [
+      {
+        "product": "Mazak",
+        "vendor": "Mazak Corporation",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Linux",
+        "vendor": "Linux Kernel Organization",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Domains",
+        "vendor": "Google LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Jira Service Desk",
+        "vendor": "Atlassian",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Vertex",
+        "vendor": "Vertex Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Jira",
+        "vendor": "Atlassian",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "C",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Python",
+        "vendor": "Python Software Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "C#",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Java",
+        "vendor": "Oracle Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Google Cloud Platform",
+        "vendor": "Google LLC",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Cloud DNS",
+        "vendor": "Google LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Hosting",
+        "vendor": "Microsoft Corporation",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "GoDaddy SSL Certificates",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "C++",
+        "vendor": "Standard C++ Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Network Advertising Initiative Opt Out",
+        "vendor": "Network Advertising Initiative (NAI)",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "David Amormino",
+        "firstName": "David",
+        "lastName": "Amormino",
+        "jobTitle": "President",
+        "email": "davidamormino@microvu.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Ian Davison",
+        "firstName": "Ian",
+        "lastName": "Davison",
+        "jobTitle": "Manufacturing Engineer & Manager, Operations",
+        "email": "iandavison@microvu.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:18:50",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.microvu.com",
+    "homepage": {
+      "title": "Micro-Vu Precision Measurement Equipment",
+      "description": "Micro-Vu manufactures non-contact and multisensor measurement machines including Automated Vision Systems, Manual Vision Systems, and Optical Comparators for measuring, quality assurance, and incoming inspection",
+      "text_excerpt": "Micro-Vu Precision Measurement Equipment\nlocation_on\nFind A Dealer\nmail_outline\nContact Us\nSHOP NOW\nFREE EVALUATIONS\nINSPEC SOFTWARE\nBUILD & PRICE\nWe use cookies to personalize content and to analyze our traffic. By clicking Accept, You agree to consent to the use of these technologies. You can learn more about how we use cookies in our\nCookie Policy\nand\nPrivacy Policy\nDecline\nAccept cookies\nService & Support\nContact Us\nMicro-Vu Service Center\nProduct Tools\nFind a Dealer\nBuild & Price Tool\nAbout Micro-Vu\nCareers\nTerms & Conditions\nPrivacy\nCookie Policy\nCopyright © 2026 Micro-Vu. All rights reserved.\nProducts and specifications subject to change without notice."
+    },
+    "about": {
+      "url": "https://www.microvu.com/o-nas",
+      "text": "Micro-Vu Precision Measurement Equipment\nlocation_on\nFind A Dealer\nmail_outline\nContact Us\nSHOP NOW\nFREE EVALUATIONS\nINSPEC SOFTWARE\nBUILD & PRICE\nWe use cookies to personalize content and to analyze our traffic. By clicking Accept, You agree to consent to the use of these technologies. You can learn more about how we use cookies in our\nCookie Policy\nand\nPrivacy Policy\nDecline\nAccept cookies\nService & Support\nContact Us\nMicro-Vu Service Center\nProduct Tools\nFind a Dealer\nBuild & Price Tool\nAbout Micro-Vu\nCareers\nTerms & Conditions\nPrivacy\nCookie Policy\nCopyright © 2026 Micro-Vu. All rights reserved.\nProducts and specifications subject to change without notice."
+    },
+    "products": {
+      "url": "https://www.microvu.com/produkty",
+      "text": "Micro-Vu Precision Measurement Equipment\nlocation_on\nFind A Dealer\nmail_outline\nContact Us\nSHOP NOW\nFREE EVALUATIONS\nINSPEC SOFTWARE\nBUILD & PRICE\nWe use cookies to personalize content and to analyze our traffic. By clicking Accept, You agree to consent to the use of these technologies. You can learn more about how we use cookies in our\nCookie Policy\nand\nPrivacy Policy\nDecline\nAccept cookies\nService & Support\nContact Us\nMicro-Vu Service Center\nProduct Tools\nFind a Dealer\nBuild & Price Tool\nAbout Micro-Vu\nCareers\nTerms & Conditions\nPrivacy\nCookie Policy\nCopyright © 2026 Micro-Vu. All rights reserved.\nProducts and specifications subject to change without notice."
+    },
+    "contact_page": {
+      "url": "https://www.microvu.com/kontakt",
+      "text": "Micro-Vu Precision Measurement Equipment\nlocation_on\nFind A Dealer\nmail_outline\nContact Us\nSHOP NOW\nFREE EVALUATIONS\nINSPEC SOFTWARE\nBUILD & PRICE\nWe use cookies to personalize content and to analyze our traffic. By clicking Accept, You agree to consent to the use of these technologies. You can learn more about how we use cookies in our\nCookie Policy\nand\nPrivacy Policy\nDecline\nAccept cookies\nService & Support\nContact Us\nMicro-Vu Service Center\nProduct Tools\nFind a Dealer\nBuild & Price Tool\nAbout Micro-Vu\nCareers\nTerms & Conditions\nPrivacy\nCookie Policy\nCopyright © 2026 Micro-Vu. All rights reserved.\nProducts and specifications subject to change without notice."
+    }
+  }
+}

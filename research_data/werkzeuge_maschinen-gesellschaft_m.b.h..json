@@ -1,0 +1,134 @@
+{
+  "company_key": "werkzeuge maschinen-gesellschaft m.b.h.",
+  "company_name": "Werkzeuge Maschinen-Gesellschaft m.b.H.",
+  "domain": "www.werkzeuge-kuester.de",
+  "domain_url": "https://www.werkzeuge-kuester.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Werkzeuge Maschinen-Gesellschaft m.b.H.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 6,
+    "revenue": 1216,
+    "zi_company_name": "Werkzeuge & Maschinen",
+    "zi_domain": "www.werkzeuge-kuester.de",
+    "zi_city": "Mellingen",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.werkzeuge-kuester.de",
+    "homepage": {
+      "title": "Werkzeuge & Maschinen – Küster / Mellingen bei Weimar",
+      "description": "Wir bieten Handwerk, Industrie, Heimwerkern und Hobbybastlern ein breites Sortiment an professionellen Werkzeugen und Maschinen - Deutschlandweit.",
+      "text_excerpt": "Werkzeuge & Maschinen – Küster / Mellingen bei Weimar\nFirmen / Partner\nWillkommen\nbei Werkzeuge und Maschinen Küster. Bereits seit 1990 bedienen wir mit einem breiten und umfangreichem Sortiment Industrie und Handwerk. Erstklassige Qualität, pünktliche Lieferung und kompetente Beratung sind unsere Maßstäbe für angemessenen Kundenservice. Eine Geschäftsphilosophie, die unsere Kunden zu schätzen wissen.\nDie Firma Küster stellt sich vor\nUnten sehen Sie einige Ausschnitte aus unseren Verkaufs- und Beratungsräumen. Sicher werden Sie hier das passende Werkzeug finden, vergeuden Sie keine Zeit mit endlosen Recherchen. Wir helfen und beraten Individuell, damit Sie Ihre Aufträge, Bauvorhaben und Projekte erfolgreich beginnen können.\nSuchen nach:\nNews\nneuer 4-Gang Akku-Bohrschrauber\nvon Flex DD4G 18.0\nGeschäftszeiten\nMo–Do\t7:30–17:00 Uhr\nFr\t7:30–15:00 Uhr\nzwischen 12:00- 15:00 Uhr telefonische Rücksprache\nAnfahrt\nImpressum |\nDatenschutz\nCookie-Einstellungen\nWerkzeuge und Maschinen\nTom Küster\nBahnhofstraße 2d\n99441 Mellingen bei Weimar\nTel.: 03 64 53 / 8 06 65\nFax.: 03 64 53 / 8 22 20\nMob.: 01 72 / 3 78 80 54\nE-Mail: info@werkzeuge-kuester.de\nDomain: https://www.werkzeuge-kuester.de\n© by Werkzeuge & Maschinen – Küster"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.werkzeuge-kuester.de/kontakt",
+      "text": "Werkzeuge & Maschinen – Küster / Mellingen bei Weimar / Kontakt | Werkzeuge & Maschinen – Küster\nFirmen / Partner\nPreisanfrage (optional)\nBitte Warengruppe wählen.\nElektrowerkzeuge\nTrenn- und Schleiftechnik\nArbeitsschutz\nBefestigungstechnik\nGerüste und Leitern\nWerkstatt- und Baustellenausstattung\nsonstige\nKontaktformular\nBitte geben Sie die Ziffern\nin das leere Feld ein!\nSuchen nach:\nNews\nneuer 4-Gang Akku-Bohrschrauber\nvon Flex DD4G 18.0\nGeschäftszeiten\nMo–Do\t7:30–17:00 Uhr\nFr\t7:30–15:00 Uhr\nzwischen 12:00- 15:00 Uhr telefonische Rücksprache\nAnfahrt\nImpressum |\nDatenschutz\nCookie-Einstellungen\nWerkzeuge und Maschinen\nTom Küster\nBahnhofstraße 2d\n99441 Mellingen bei Weimar\nTel.: 03 64 53 / 8 06 65\nFax.: 03 64 53 / 8 22 20\nMob.: 01 72 / 3 78 80 54\nE-Mail: info@werkzeuge-kuester.de\nDomain: https://www.werkzeuge-kuester.de\n© by Werkzeuge & Maschinen – Küster"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Werkzeuge Maschinen-Gesellschaft m.b.H.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 10,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "1&1 Hosting",
+        "vendor": "1&1 IONOS Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP 5.6",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Werkzeuge Maschinen-Gesellschaft m.b.H.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 16:33"
+}

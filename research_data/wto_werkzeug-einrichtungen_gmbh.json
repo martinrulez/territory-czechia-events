@@ -1,0 +1,194 @@
+{
+  "company_key": "wto werkzeug-einrichtungen gmbh",
+  "company_name": "WTO Werkzeug-Einrichtungen GmbH",
+  "domain": "www.wto-tools.com",
+  "domain_url": "https://www.wto-tools.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "WTO Werkzeug-Einrichtungen GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 277,
+    "revenue": 15235,
+    "zi_company_name": "Wto",
+    "zi_domain": "www.wto-tools.com",
+    "zi_city": "Charlotte",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.wto-tools.com",
+    "homepage": {
+      "title": "WTO Tools",
+      "description": "",
+      "text_excerpt": "WTO Tools\nDeutsch\nEnglish (GB)\nEnglish (US)\nPortuguês brasileiro\nČeština\nFrançais\nEspañol\nItaliano\nРусский\nTürkçe\n한국말\nOnline-Catalog\nProducts\nQuickFlex® smart\nCoolSpeed® Ultra-High-Speed Spindles\nService\nNews\nCareers\nApprenticeship at WTO\nNew Job offers\nCompany\nContact\nWith factory owned Sales and Service Center right there in the USA\nWith factory owned Sales and Service Center right there in ASIA\nTool Holders for Turning Centers\nPrecision static and driven Tool Holders for the full capacity of your turning center\nTool Holders for Swiss Type turning centers\nCoolSpeed® Ultra-High-Speed Spindles\nHigher Productivity\nAs a global market leader, we manufacture technologically advanced high precision tool holders for turning centers, Swiss Type lathes, multi spindle turning centers and Ultra-High-Speed spindles that are known for high performance and long life-time.\nBy using our innovative tool holder technologies, our customers achieve higher productivity.\nOur products are used worlwide, wherever turning centers are used to manufacture precise parts with high productivity.\nProducts\nTool Holder\nQuickFlex®\nQuickFlex® smart\nCoromant Capto®\nMultiple Tool Holders\nBroaching Unit\nGear Hobbing\nPower Skiving\nMultiple Spindle Turning Centers\nSwiss Type Turning Center\nCoolSpeed® Ultra-High-Speed Spindles\nTrade show participation 2026\n“Excellence in Achievement Award” for building of WTO USA\nExplore CoolSpeed® Application Examples\nWTO is an official partner in the DNVP Partner Program\nWTO is a \"Top 100 innovator\" in 2025\n30 Year Anniversary of WTO USA\nOnline Catalog\nPlease refer to our Online Catalog for the precision Tool Holders that are suitable for your machine:\nOnline Catalog\nWTO worldwide\nFirst class expertise from WTO on-site.\nDistribution Partners\nCareers\nEmployment opportunities worldwide\nEmployment opportunities\nContact\nWTO Werkzeug-Einrichtungen GmbH\nNeuer Hohdammweg 1\n77797 Ohlsbach\nGermany\nPhone: +49 7803 9392-0\nFax: +49 7803 9392-199\ninfo@wto.de\nContact\nDistribution partners worldwide\nCustomer inquiry\nOnline Catalog\nNewsletter\nGet informed about our trade shows participation and new developments, which will help you to increase the productivity of your CNC turning centers.\nSubscribe to newsletter\nProducts\nTurning Centers\nSwiss Type Turning Center\nCoolSpeed® Ultra-High-Speed Spindles\nService\nService\nQuality Complaints\nNews\nApprenticeship news\nTrade show news\nPartnership news\nNewsletter\nCareers\nApprenticeship\nEmployment opportunities in Germany\nEmployment opportunities worldwide\nEmployee benefits\nWorld of WTO\nCompany\nWTO ACADEMY\nTradition\nCorporate mission statements\nSustainability\nDIN EN ISO Certificates\nContact\nWTO Headquarters\nSales and service centers, offices\nDistribution Partners worldwide\nCustomer inquiry\n© 2026 WTO Werkzeug-Einrichtungen GmbH\nCopyright\nPrivacy policy\nCookies\nTerms of Sale\nImprint"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "WTO Werkzeug-Einrichtungen GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 14,
+    "all_technologies": [
+      {
+        "product": "TYPO3 CMS",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Adobe Photoshop",
+        "vendor": "Adobe Inc.",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "GoDaddy DNS",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "C",
+        "vendor": "",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "C#",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Media Manager",
+        "vendor": "Hyland Software, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Starfield Technologies",
+        "vendor": "Starfield Technologies",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Calypso",
+        "vendor": "NASDAQ, Inc",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "C++",
+        "vendor": "Standard C++ Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "WTO Werkzeug-Einrichtungen GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Tobias",
+        "last_name": "Wagenaar",
+        "title": "Owner",
+        "email": "",
+        "phone": "",
+        "company": "Wto",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Werner",
+        "last_name": "Tschiggfrei",
+        "title": "Company Founder",
+        "email": "",
+        "phone": "",
+        "company": "Wto",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Monica",
+        "last_name": "Schuster",
+        "title": "Director",
+        "email": "",
+        "phone": "",
+        "company": "Wto",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 87.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 16:32"
+}

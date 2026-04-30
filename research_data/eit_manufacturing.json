@@ -1,0 +1,185 @@
+{
+  "company_key": "eit manufacturing",
+  "company_name": "EIT Manufacturing",
+  "domain": "www.kmcz.cz",
+  "domain_url": "https://www.kmcz.cz",
+  "events": "Digital Factory 2.0 / MSV 2026,United by Innovation 2026",
+  "event_count": 2,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "EIT Manufacturing",
+    "opportunity_score": 51,
+    "estimated_deal_eur": 161400,
+    "primary_segment": "unknown",
+    "size_tier": "large",
+    "timing_signals": [
+      "Hiring (5 jobs)",
+      "Engineering roles open",
+      "Public contracts"
+    ],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.85,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.5,
+      "signals": 0.55,
+      "client_bonus": 0.7
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "employee_count": 538,
+    "revenue": 30832,
+    "hiring_signal": true,
+    "hiring_intensity": "medium",
+    "total_jobs": 5,
+    "engineering_hiring": true,
+    "leadership_change": false,
+    "has_public_contracts": true,
+    "zi_domain": "www.kmcz.cz",
+    "zi_city": "Popkovice",
+    "zi_country": "Czech Republic",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "2",
+    "current_acv_eur": "1000.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-05-05",
+    "days_to_renewal": "12",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "TD SYNNEX Czech s.r.o. (NCR)",
+    "maturity_label": "Entry",
+    "industry_segment": "Auto & Transportation",
+    "ml_domain": "www.kmcz.cz",
+    "ml_employee_count": "538",
+    "ml_revenue": "30832",
+    "zi_done": true,
+    "zi_error": "No company found"
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.kmcz.cz",
+    "homepage": {
+      "title": "Ujišťujeme se, že nejste robot!",
+      "description": "",
+      "text_excerpt": "Ujišťujeme se, že nejste robot!\nUjišťujeme se, že nejste robot!\nNačítám...\nVidíte to proto, že správce této webové stránky nastavil Anubis na ochranu serveru před pohromou AI společností, které agresivně stahují webové stránky. To může a skutečně způsobuje výpadky webových stránek, čímž se jejich zdroje stávají pro všechny nedostupnými.\nAnubis je kompromis. Anubis používá schéma Proof-of-Work v duchu Hashcash, návrhu schématu proof-of-work pro snížení e-mailového spamu. Myšlenka je, že na individuálních úrovních je dodatečná zátěž zanedbatelná, ale na úrovni masového použití se sčítá a činí stahování mnohem dražším.\nV konečném důsledku se jedná o zástupné řešení, aby bylo možné věnovat více času otiskům prstů a identifikaci bezhlavých prohlížečů (např. podle toho, jak vykreslují písma), aby se stránka s důkazem práce nemusela zobrazovat uživatelům, kteří jsou mnohem pravděpodobněji legitimní.\nUpozorňujeme, že Anubis vyžaduje použití moderních funkcí JavaScriptu, které rozšíření jako JShelter omezují. Prosím zakažte JShelter nebo jiná podobná rozšíření pro tuto doménu."
+    },
+    "about": {
+      "url": "https://www.kmcz.cz/o-nas",
+      "text": "Ujišťujeme se, že nejste robot!\nUjišťujeme se, že nejste robot!\nNačítám...\nVidíte to proto, že správce této webové stránky nastavil Anubis na ochranu serveru před pohromou AI společností, které agresivně stahují webové stránky. To může a skutečně způsobuje výpadky webových stránek, čímž se jejich zdroje stávají pro všechny nedostupnými.\nAnubis je kompromis. Anubis používá schéma Proof-of-Work v duchu Hashcash, návrhu schématu proof-of-work pro snížení e-mailového spamu. Myšlenka je, že na individuálních úrovních je dodatečná zátěž zanedbatelná, ale na úrovni masového použití se sčítá a činí stahování mnohem dražším.\nV konečném důsledku se jedná o zástupné řešení, aby bylo možné věnovat více času otiskům prstů a identifikaci bezhlavých prohlížečů (např. podle toho, jak vykreslují písma), aby se stránka s důkazem práce nemusela zobrazovat uživatelům, kteří jsou mnohem pravděpodobněji legitimní.\nUpozorňujeme, že Anubis vyžaduje použití moderních funkcí JavaScriptu, které rozšíření jako JShelter omezují. Prosím zakažte JShelter nebo jiná podobná rozšíření pro tuto doménu."
+    },
+    "products": {
+      "url": "https://www.kmcz.cz/produkty",
+      "text": "Ujišťujeme se, že nejste robot!\nUjišťujeme se, že nejste robot!\nNačítám...\nVidíte to proto, že správce této webové stránky nastavil Anubis na ochranu serveru před pohromou AI společností, které agresivně stahují webové stránky. To může a skutečně způsobuje výpadky webových stránek, čímž se jejich zdroje stávají pro všechny nedostupnými.\nAnubis je kompromis. Anubis používá schéma Proof-of-Work v duchu Hashcash, návrhu schématu proof-of-work pro snížení e-mailového spamu. Myšlenka je, že na individuálních úrovních je dodatečná zátěž zanedbatelná, ale na úrovni masového použití se sčítá a činí stahování mnohem dražším.\nV konečném důsledku se jedná o zástupné řešení, aby bylo možné věnovat více času otiskům prstů a identifikaci bezhlavých prohlížečů (např. podle toho, jak vykreslují písma), aby se stránka s důkazem práce nemusela zobrazovat uživatelům, kteří jsou mnohem pravděpodobněji legitimní.\nUpozorňujeme, že Anubis vyžaduje použití moderních funkcí JavaScriptu, které rozšíření jako JShelter omezují. Prosím zakažte JShelter nebo jiná podobná rozšíření pro tuto doménu."
+    },
+    "contact_page": {
+      "url": "https://www.kmcz.cz/kontakt",
+      "text": "Ujišťujeme se, že nejste robot!\nUjišťujeme se, že nejste robot!\nNačítám...\nVidíte to proto, že správce této webové stránky nastavil Anubis na ochranu serveru před pohromou AI společností, které agresivně stahují webové stránky. To může a skutečně způsobuje výpadky webových stránek, čímž se jejich zdroje stávají pro všechny nedostupnými.\nAnubis je kompromis. Anubis používá schéma Proof-of-Work v duchu Hashcash, návrhu schématu proof-of-work pro snížení e-mailového spamu. Myšlenka je, že na individuálních úrovních je dodatečná zátěž zanedbatelná, ale na úrovni masového použití se sčítá a činí stahování mnohem dražším.\nV konečném důsledku se jedná o zástupné řešení, aby bylo možné věnovat více času otiskům prstů a identifikaci bezhlavých prohlížečů (např. podle toho, jak vykreslují písma), aby se stránka s důkazem práce nemusela zobrazovat uživatelům, kteří jsou mnohem pravděpodobněji legitimní.\nUpozorňujeme, že Anubis vyžaduje použití moderních funkcí JavaScriptu, které rozšíření jako JShelter omezují. Prosím zakažte JShelter nebo jiná podobná rozšíření pro tuto doménu."
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Kyb Manufacturing Czech s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Plesk",
+        "vendor": "Plesk International GmbH",
+        "category": "Hosting Control Panels",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "EIT Manufacturing",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Simon",
+        "last_name": "Balla",
+        "title": "General Manager, Administration",
+        "email": "simon.balla@kmcz.cz",
+        "phone": "",
+        "company": "KYB Manufacturing Czech",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Martin",
+        "last_name": "Picko",
+        "title": "Manager, Production",
+        "email": "martin.picko@kmcz.cz",
+        "phone": "",
+        "company": "KYB Manufacturing Czech",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 08:29",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

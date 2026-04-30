@@ -1,0 +1,41 @@
+{
+  "company_key": "tu_rovac_lisy",
+  "company_name": "Tušírovací lisy",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "DAVID KRATOCHVÍL",
+        "firstName": "DAVID",
+        "lastName": "KRATOCHVÍL",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "KRISTÝNA KRATOCHVÍLOVÁ",
+        "firstName": "KRISTÝNA",
+        "lastName": "KRATOCHVÍLOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:16"
+}

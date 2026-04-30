@@ -1,0 +1,148 @@
+{
+  "company_key": "alfe brno, s. r. o.",
+  "company_name": "Alfe Brno, s. r. o.",
+  "domain": "www.alfe.cz",
+  "domain_url": "https://www.alfe.cz",
+  "events": "Czech Foundry Association Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Alfe Brno, s. r. o.",
+    "opportunity_score": 31,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.58,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.58,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "45475164",
+    "official_name": "ALFE BRNO, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "461",
+      "74990",
+      "245",
+      "47",
+      "256",
+      "245",
+      "257",
+      "461",
+      "47",
+      "7490"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Rebešovická 180/57, Chrlice, 64300 Brno, Brno, Rebešovická, 64300",
+    "is_client": true,
+    "current_products": "AutoCAD LT | Inventor",
+    "total_seats": "5",
+    "current_acv_eur": "4800.0",
+    "potential_acv_eur": "18800.0",
+    "nearest_renewal": "2026-09-24",
+    "days_to_renewal": "154",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "TD SYNNEX Czech s.r.o. (NCR)",
+    "maturity_label": "Foundation",
+    "industry_segment": "Construction Services",
+    "zi_done": true,
+    "employee_count": 40,
+    "revenue": 6229,
+    "zi_company_name": "Alfe",
+    "zi_domain": "www.alfe.cz",
+    "zi_city": "",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.alfe.cz",
+    "homepage": {
+      "title": "Úvodní strana | Alfe Brno",
+      "description": "",
+      "text_excerpt": "Úvodní strana | Alfe Brno\nALFE BRNO, s.r.o.,\nslévárna založená v roce 1912\nÚvodní strana\nHistorie firmy\nVýrobní program\nDekorativní litina\nPrůmyslové odlitky\nOdlitky ze zinku\nCínové odlitky\nDokumenty\nKontakty\nPrůmyslové odlitky\nKusová výroba odlitků ze šedé a tvárné litiny a ze slitin hliníku.\nDekortivní litina\nVýroba dekorativní, městské a zahradní litiny.\nOdlitky ze zinku\nOdstředivě lité odlitky do gumových forem.\nCínové odlitky\nVýroba dekorativních cínových a olověných odlitků.\nÚvodní\nslovo\nVítejte na stránkách ALFE BRNO, s.r.o., slévárny s dlouholetou tradicí a bohatým výrobním programem.\nKontaktujte nás\nSlévárna\ns tradicí\nSlévárna byla založena v roce 1912 panem Antonínem Haraštou a v současné době jsou vlastníky jeho potomci.\nHistorie firmy\nDokumenty\nke stažení\nStáhněte si katalog našich výrobků. Ceník Vám rádi zašleme na požádání.\nDokumenty\nALFE BRNO, s.r.o.,\nslévárna založená v roce 1912\n© Copyright 2009 - 2026 ALFE Brno |\npixistudio"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Alfe Brno, s. r. o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Alfe Brno, s. r. o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:45"
+}

@@ -1,0 +1,41 @@
+{
+  "company_key": "jd_dvo_k",
+  "company_name": "JD Dvořák",
+  "domain": "",
+  "events": "Moravian Aviation Cluster Members",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "TOMÁŠ DVOŘÁK",
+        "firstName": "TOMÁŠ",
+        "lastName": "DVOŘÁK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JAROSLAV DVOŘÁK",
+        "firstName": "JAROSLAV",
+        "lastName": "DVOŘÁK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:00"
+}

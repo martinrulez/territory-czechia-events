@@ -1,0 +1,129 @@
+{
+  "company_key": "tiyo a.s.",
+  "company_name": "Tiyo a.s.",
+  "domain": "www.tiyo.eu",
+  "domain_url": "https://www.tiyo.eu",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": 3234,
+  "enrichment": {
+    "company_name": "Tiyo a.s.",
+    "opportunity_score": 33,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.68,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.68,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "02673703",
+    "official_name": "Tiyo a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "68200",
+      "29",
+      "47",
+      "71120",
+      "731",
+      "62",
+      "00",
+      "28",
+      "46",
+      "71200",
+      "72",
+      "28",
+      "29",
+      "620",
+      "6820",
+      "7112",
+      "71209",
+      "72",
+      "731",
+      "47",
+      "00",
+      "46"
+    ],
+    "ares_segments": [
+      "M&E",
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Příčná 2071, Libonice, 50801 Hořice, Hořice, Příčná, 50801",
+    "is_client": true,
+    "current_products": "Inventor | PDMC",
+    "total_seats": "7",
+    "current_acv_eur": "22400.0",
+    "potential_acv_eur": "59400.0",
+    "nearest_renewal": "2027-06-14",
+    "days_to_renewal": "417",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Add CAM, nesting, and generative design capabilities",
+    "all_upsells": "Fusion Mfg Ext; Vault; Moldflow",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Engineering Service Providers",
+    "ml_domain": "www.tiyo.eu",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.tiyo.eu",
+    "homepage": {
+      "title": "Ujišťujeme se, že nejste robot!",
+      "description": "",
+      "text_excerpt": "Ujišťujeme se, že nejste robot!\nUjišťujeme se, že nejste robot!\nNačítám...\nVidíte to proto, že správce této webové stránky nastavil Anubis na ochranu serveru před pohromou AI společností, které agresivně stahují webové stránky. To může a skutečně způsobuje výpadky webových stránek, čímž se jejich zdroje stávají pro všechny nedostupnými.\nAnubis je kompromis. Anubis používá schéma Proof-of-Work v duchu Hashcash, návrhu schématu proof-of-work pro snížení e-mailového spamu. Myšlenka je, že na individuálních úrovních je dodatečná zátěž zanedbatelná, ale na úrovni masového použití se sčítá a činí stahování mnohem dražším.\nV konečném důsledku se jedná o zástupné řešení, aby bylo možné věnovat více času otiskům prstů a identifikaci bezhlavých prohlížečů (např. podle toho, jak vykreslují písma), aby se stránka s důkazem práce nemusela zobrazovat uživatelům, kteří jsou mnohem pravděpodobněji legitimní.\nUpozorňujeme, že Anubis vyžaduje použití moderních funkcí JavaScriptu, které rozšíření jako JShelter omezují. Prosím zakažte JShelter nebo jiná podobná rozšíření pro tuto doménu."
+    },
+    "about": {
+      "url": "https://www.tiyo.eu/o-nas",
+      "text": "Ujišťujeme se, že nejste robot!\nUjišťujeme se, že nejste robot!\nNačítám...\nVidíte to proto, že správce této webové stránky nastavil Anubis na ochranu serveru před pohromou AI společností, které agresivně stahují webové stránky. To může a skutečně způsobuje výpadky webových stránek, čímž se jejich zdroje stávají pro všechny nedostupnými.\nAnubis je kompromis. Anubis používá schéma Proof-of-Work v duchu Hashcash, návrhu schématu proof-of-work pro snížení e-mailového spamu. Myšlenka je, že na individuálních úrovních je dodatečná zátěž zanedbatelná, ale na úrovni masového použití se sčítá a činí stahování mnohem dražším.\nV konečném důsledku se jedná o zástupné řešení, aby bylo možné věnovat více času otiskům prstů a identifikaci bezhlavých prohlížečů (např. podle toho, jak vykreslují písma), aby se stránka s důkazem práce nemusela zobrazovat uživatelům, kteří jsou mnohem pravděpodobněji legitimní.\nUpozorňujeme, že Anubis vyžaduje použití moderních funkcí JavaScriptu, které rozšíření jako JShelter omezují. Prosím zakažte JShelter nebo jiná podobná rozšíření pro tuto doménu."
+    },
+    "products": {
+      "url": "https://www.tiyo.eu/produkty",
+      "text": "Ujišťujeme se, že nejste robot!\nUjišťujeme se, že nejste robot!\nNačítám...\nVidíte to proto, že správce této webové stránky nastavil Anubis na ochranu serveru před pohromou AI společností, které agresivně stahují webové stránky. To může a skutečně způsobuje výpadky webových stránek, čímž se jejich zdroje stávají pro všechny nedostupnými.\nAnubis je kompromis. Anubis používá schéma Proof-of-Work v duchu Hashcash, návrhu schématu proof-of-work pro snížení e-mailového spamu. Myšlenka je, že na individuálních úrovních je dodatečná zátěž zanedbatelná, ale na úrovni masového použití se sčítá a činí stahování mnohem dražším.\nV konečném důsledku se jedná o zástupné řešení, aby bylo možné věnovat více času otiskům prstů a identifikaci bezhlavých prohlížečů (např. podle toho, jak vykreslují písma), aby se stránka s důkazem práce nemusela zobrazovat uživatelům, kteří jsou mnohem pravděpodobněji legitimní.\nUpozorňujeme, že Anubis vyžaduje použití moderních funkcí JavaScriptu, které rozšíření jako JShelter omezují. Prosím zakažte JShelter nebo jiná podobná rozšíření pro tuto doménu."
+    },
+    "contact_page": {
+      "url": "https://www.tiyo.eu/kontakt",
+      "text": "Ujišťujeme se, že nejste robot!\nUjišťujeme se, že nejste robot!\nNačítám...\nVidíte to proto, že správce této webové stránky nastavil Anubis na ochranu serveru před pohromou AI společností, které agresivně stahují webové stránky. To může a skutečně způsobuje výpadky webových stránek, čímž se jejich zdroje stávají pro všechny nedostupnými.\nAnubis je kompromis. Anubis používá schéma Proof-of-Work v duchu Hashcash, návrhu schématu proof-of-work pro snížení e-mailového spamu. Myšlenka je, že na individuálních úrovních je dodatečná zátěž zanedbatelná, ale na úrovni masového použití se sčítá a činí stahování mnohem dražším.\nV konečném důsledku se jedná o zástupné řešení, aby bylo možné věnovat více času otiskům prstů a identifikaci bezhlavých prohlížečů (např. podle toho, jak vykreslují písma), aby se stránka s důkazem práce nemusela zobrazovat uživatelům, kteří jsou mnohem pravděpodobněji legitimní.\nUpozorňujeme, že Anubis vyžaduje použití moderních funkcí JavaScriptu, které rozšíření jako JShelter omezují. Prosím zakažte JShelter nebo jiná podobná rozšíření pro tuto doménu."
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Tiyo a.s.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 1,
+    "all_technologies": [
+      {
+        "product": "Sunday",
+        "vendor": "Sunday",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Tiyo a.s.",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:33"
+}

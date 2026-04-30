@@ -1,0 +1,51 @@
+{
+  "company_key": "kolonaoperak_s_r_o",
+  "company_name": "Kolonaoperak s.r.o.",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MICHAL BAŘINA",
+        "firstName": "MICHAL",
+        "lastName": "BAŘINA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MATĚJ TUREK",
+        "firstName": "MATĚJ",
+        "lastName": "TUREK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ROBERT BEZECNÝ",
+        "firstName": "ROBERT",
+        "lastName": "BEZECNÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:29"
+}

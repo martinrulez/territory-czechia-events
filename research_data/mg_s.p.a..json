@@ -1,0 +1,162 @@
+{
+  "company_key": "mg s.p.a.",
+  "company_name": "MG S.p.A.",
+  "domain": "www.mggauges.com",
+  "domain_url": "https://www.mggauges.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "MG S.p.A.",
+    "opportunity_score": 31,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [
+      "Hiring (32 jobs)",
+      "Engineering roles open"
+    ],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.15,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.45,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "employee_count": 44,
+    "revenue": 2725,
+    "hiring_signal": true,
+    "hiring_intensity": "high",
+    "total_jobs": 32,
+    "engineering_hiring": true,
+    "leadership_change": false,
+    "has_public_contracts": false,
+    "is_client": true,
+    "current_products": "AutoCAD LT | Fusion",
+    "total_seats": "8",
+    "current_acv_eur": "4300.0",
+    "potential_acv_eur": "37600.0",
+    "nearest_renewal": "2026-06-11",
+    "days_to_renewal": "49",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Building Products & Fabricat'n",
+    "ml_employee_count": "5",
+    "ml_revenue": "600000",
+    "zi_done": true,
+    "zi_company_name": "Mg Spa",
+    "zi_domain": "www.mggauges.com",
+    "zi_city": "",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.mggauges.com",
+    "homepage": {
+      "title": "MG",
+      "description": "",
+      "text_excerpt": "ENTRA NEL SITO\nAvvertenze legali e condizioni d'uso\nCod. IVA CEE IT 020 44980171"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "MG S.p.A.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 5,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "iubenda",
+        "vendor": "iubenda s.r.l",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "MG S.p.A.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Andrea",
+        "last_name": "Amighetti",
+        "title": "Software Automation Engineer",
+        "email": "",
+        "phone": "",
+        "company": "Mg Spa",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 75.0
+      },
+      {
+        "first_name": "Samuele",
+        "last_name": "Marini",
+        "title": "Progettista Meccanico",
+        "email": "",
+        "phone": "",
+        "company": "Mg Spa",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Sergio",
+        "last_name": "Giandrone",
+        "title": "Impiegato Commerciale",
+        "email": "",
+        "phone": "",
+        "company": "Mg Spa",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 78.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:44"
+}

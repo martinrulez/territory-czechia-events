@@ -1,0 +1,111 @@
+{
+  "company_key": "blurry",
+  "company_name": "Blurry",
+  "domain": "",
+  "domain_url": "",
+  "events": "3DISE Conference 2026",
+  "event_count": 1,
+  "lead_class": null,
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Blurry",
+    "opportunity_score": 19,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.47,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.47,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "21372926",
+    "official_name": "Blurry s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "62",
+      "46",
+      "741",
+      "55",
+      "68200",
+      "46190",
+      "74200",
+      "59",
+      "70200",
+      "731",
+      "47",
+      "772",
+      "70220",
+      "731",
+      "74100",
+      "46",
+      "46190",
+      "772",
+      "74200",
+      "47",
+      "55",
+      "6820",
+      "59",
+      "620"
+    ],
+    "ares_segments": [
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Na slatinách č.ev. 263, Strašnice, 10000 Praha 10, Praha, Na slatinách, 10000",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Blurry",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Alex",
+        "last_name": "Burt",
+        "title": "Owner",
+        "email": "",
+        "phone": "",
+        "company": "Blurry Customs",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 86.0
+      },
+      {
+        "first_name": "Priyanshu",
+        "last_name": "Mukhopadhyay",
+        "title": "Co-Founder",
+        "email": "",
+        "phone": "",
+        "company": "Blurry Works",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 15:55"
+}

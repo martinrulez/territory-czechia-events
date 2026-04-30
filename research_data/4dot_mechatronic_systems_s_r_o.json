@@ -1,0 +1,182 @@
+{
+  "company_key": "4dot_mechatronic_systems_s_r_o",
+  "company_name": "4dot Mechatronic Systems s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "4dot Mechatronic Systems s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 17,
+    "all_technologies": [
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Martin Švec",
+        "firstName": "Martin",
+        "lastName": "Švec",
+        "jobTitle": "Head of Information Technology",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jan Otoupalik",
+        "firstName": "Jan",
+        "lastName": "Otoupalik",
+        "jobTitle": "Founder & Chief Executive Officer",
+        "email": "jan.otoupalik@4dot.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Josef Burian",
+        "firstName": "Josef",
+        "lastName": "Burian",
+        "jobTitle": "Head of Implementation",
+        "email": "josef.burian@4dot.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jan Otoupalík",
+        "firstName": "",
+        "lastName": "",
+        "jobTitle": "CEO",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "website:https://www.4dot.cz/cz/kontakt"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "zoominfo",
+      "website"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:05:08",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.4dot.cz",
+    "homepage": {
+      "title": "Online monitoring strojů | 4dot",
+      "description": "Monitoring 4dot je online diagnostický systém pro prediktivní údržbu a sledování nastavení a procesů všech typů strojů.",
+      "text_excerpt": "Online monitoring strojů | 4dot\nDěkujeme za váš zájem, brzy vás budeme kontaktovat.\nKonference DIAGO 2025\nNa konci ledna jsme se zúčastnili konference DIAGO 2025, kde jsme měli technickou přednášku, prezentovali naši technologii, navázali nové kontakty a utužili ty stávající. Děkujeme všem účastníkům za dobrou atmosféru!\nZjistit více\nImplementace technického a procesního monitoringu\nNáš článek ze 14. kovárenské konference se zabývá možnostmi přenosu dat a propojování systémů. V příspěvku jsou uvedeny i příklady implementace monitorovacího systému v praxi, včetně použitých senzorů a způsobů zpracování dat.\nZjistit více\nVýzva československému průmyslu: Místo jednoho dokonalého několik dobrých řešení\nNesčetněkrát jsem také slyšel, že my Češi jsme přišli s reformací a úspěšně ji vyvezli na Západ. A anglosaský svět, tedy západní Evropa a Spojené státy, na tom postavil svoji ekonomickou prosperitu.\nZjistit více\nNáš příběh\nVěříme, že rovné příležitosti mezi státy, firmami a jednotlivci jsou cestou k prosperitě jednotlivců i základem k rozvoji naší civilizace. Pokud dostaneme příležitost ukázat přínosy naší technologie, uděláme vše, co je v našich silách, abychom podpořili váš růst a udržitelnost vaší výroby.\nHledáme spojence, staňte se součástí příběhu technologie 4dot.\nZjistit více\n2021\nDruhý patent a zlatá medaile\n„Když jsme v rámci technologického monitoringu nasadili náš první senzor přetvoření, vydržel v kovárně pár hodin,“\nvzpomíná Jan Otoupalík na začátek vývoje senzorů. Tým 4dot vedený oběma zakladateli postupně přešel na polovodičový měřící prvek a vyvinul předepjaté pouzdro. Vytvořili tak 30krát citlivější senzor, než jsou konvenční foliové tenzometry. Důkazem posunu stavu techniky v globálním měřítku je získaný patent. Ve stejném roce získal senzor i Zlatou medaili na MSV v Brně.\n2021\nRestart\nV letech 2018 až 2021 4dot zapomnělo na svoje hodnoty. Ochranu životního prostředí, snižování spotřeby materiálu a vytváření jednoduchých řešení. Bylo nutné vrátit see k vývoji produktů a zákazníka mít opět jako partnera při vytváření udržitelného průmyslu.\nJan Otoupalík vzpomíná na nejzásadnější změnu:\n,,Na přelomu roku 2020 a 2021 jsem objevil kulturní kapitál. Byl po generace v našem regionu a rodině. Najednou bylo kde brát know-how jak stavět produkt, směřovat obchod, marketing a budovat nezávislou firmu.“\n2020\nPatent MUSA\nTechnická diagnostika se léta omezovala na stroje, kde je minimální šum, tedy kde se signál o procesu nemísí se signálem o kondici stroje. Oba zakladatelé, Josef Burian a Jan Otoupalík, chtěli produkt s globálním potenciálem. Zaměřili se tedy na stroje, kde má šum významnou roli, jako jsou tvářecí stroje a broušení. Bylo tak třeba vyvinout zpracování signálu, které oddělí signál výrobního procesu od signálu stroje. Řešením je simultánní zpracování signálu z více senzorů, tj. MUSA analýzy. Efekt je stejný, jako když se díváte jedním okem a pak oběma. Díky oběma očím získáte hloubku.\n2018\nSnadný růst\n‚‚Při zpětném pohledu se nám v po"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

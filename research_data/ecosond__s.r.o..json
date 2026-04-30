@@ -1,0 +1,138 @@
+{
+  "company_key": "ecosond, s.r.o.",
+  "company_name": "ECOSOND, s.r.o.",
+  "domain": "www.ecosond.cz",
+  "domain_url": "https://www.ecosond.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ECOSOND, s.r.o.",
+    "opportunity_score": 34,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.69,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.69,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "45807698",
+    "official_name": "ECOSOND s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "471",
+      "28290",
+      "8559",
+      "43210",
+      "70200",
+      "711",
+      "26300",
+      "46900",
+      "71200",
+      "26300",
+      "28290",
+      "43210",
+      "46900",
+      "471",
+      "702",
+      "711",
+      "7120",
+      "8559"
+    ],
+    "ares_segments": [
+      "AEC",
+      "D&M"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Křížová 1018/6, Smíchov, 15000 Praha 5, Praha, Křížová, 15000",
+    "is_client": true,
+    "current_products": "Inventor",
+    "total_seats": "1",
+    "current_acv_eur": "2800.0",
+    "potential_acv_eur": "9000.0",
+    "nearest_renewal": "2026-06-25",
+    "days_to_renewal": "63",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle with AutoCAD Mechanical, Vault, Fusion for full D&M workflow",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Vault",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Consumer Products",
+    "ml_domain": "www.cosmonde.cz",
+    "zi_done": true,
+    "employee_count": 12,
+    "revenue": 1790,
+    "zi_company_name": "Ecosond",
+    "zi_domain": "www.ecosond.cz",
+    "zi_city": "",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.ecosond.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "ECOSOND, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 4,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ECOSOND, s.r.o.",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 12:25"
+}

@@ -1,0 +1,51 @@
+{
+  "company_key": "kia_czech_s_r_o",
+  "company_name": "Kia Czech s.r.o.",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ARNOŠT BARNA",
+        "firstName": "ARNOŠT",
+        "lastName": "BARNA",
+        "jobTitle": "jednatel typu B",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "HEUNG GU KANG",
+        "firstName": "HEUNG GU",
+        "lastName": "KANG",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "BYUNGCHUL KIM",
+        "firstName": "BYUNGCHUL",
+        "lastName": "KIM",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:26"
+}

@@ -1,0 +1,206 @@
+{
+  "company_key": "raveo_s_r_o",
+  "company_name": "RAVEO s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "RAVEO s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 18,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "JQuery 1.11.1",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "BO PER-OLOF HELGESSON",
+        "firstName": "BO",
+        "lastName": "PER-OLOF HELGESSON",
+        "jobTitle": "Jednatel třídy A",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "IB OLA LENNART SJÖLIN",
+        "firstName": "IB OLA LENNART",
+        "lastName": "SJÖLIN",
+        "jobTitle": "Jednatel třídy A",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PAUL DESMOND SPILLINGS",
+        "firstName": "PAUL DESMOND",
+        "lastName": "SPILLINGS",
+        "jobTitle": "Předseda sboru jednatelů - Jednatel třídy A",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ALEŠ ZAPLETAL",
+        "firstName": "ALEŠ",
+        "lastName": "ZAPLETAL",
+        "jobTitle": "Jednatel třídy B",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "RADEK KAŇOVSKÝ",
+        "firstName": "RADEK",
+        "lastName": "KAŇOVSKÝ",
+        "jobTitle": "Jednatel třídy B",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:40:31",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.raveo.cz",
+    "homepage": {
+      "title": "RAVEO - World of motion - Elektromotory, převodovky, lineární technika a řízení",
+      "description": "Nabízíme pohonnou techniku jako jsou elektromotory asynchronní, servomotory, stejnosměrné, krokové, převodovky - planetové, šnekové, kuželočelní, přímé a cykloidní, lineární techniku-lineární vedení, aktuátory a zdvižné převodovky.",
+      "text_excerpt": "RAVEO - World of motion - Elektromotory, převodovky, lineární technika a řízení\nRAVEO - World of motion - Elektromotory, převodovky, lineární technika a řízení\nDomů\nELEKTROMOTORY\nAsynchronní motory\nStejnosměrné motory\nServomotory\nKrokové motory\nLineární motory\nMomentové motory\nTrakční motory\nVřetenové motory\nPŘEVODOVKY\nPlanetové převodovky\nCykloidní převodovky\nHarmonické převodovky\nHypoidní převodovky\nKuželové převodovky\nŠnekové převodovky\nČelně šnekové převodovky\nČelní převodovky\nKuželočelní převodovky\nPloché převodovky\nKompaktní převodovky\nVariátory\nPříslušenství k převodovkám\nLINEÁRNÍ TECHNIKA\nLineární vedení\nPolohovací lineární jednotky\nAktuátory\nSCARA roboty\nZdvižné převodovky\nOzubené hřebeny a pastorky\nŠrouby\nSpojky\nŘÍZENÍ\nFrekvenční měniče\nServo řízení\nŘízení stejnosměrných motorů\nŘízení krokových motorů\nŘízení kompaktních motorů\nŘízení trakčních motorů\nŘízení aktuátorů\nKomunikační brány\nDigitální I/O\nAnalogové I/O\nRAVEO\nJsme tradiční český dodavatel pohonné techniky a dlouhodobě patříme mezí lídry trhu. Naše nabídka pohonné techniky je rozsáhlá a pokrývá širokou škálu aplikací, nejenom v průmyslové automatizaci.\nTým našich odborníků spojuje své znalosti a zkušenosti, aby vytvářel inovativní a funkční řešení jak z hlediska parametrů, tak i ceny. Máme mnohaleté zkušenosti s celou škálou aplikací napříč průmyslem.\nO společnosti\nKontakt\nPoslední aktuality\nŠpičková motorová řešení pro obranný a vojenský průmysl\n23. 04. 2026\nObjevte nový motorový měnič TVR2\n31. 03. 2026\nOhlednutí za veletrhem AMPER 2026\n24. 03. 2026\nVšechny aktuality\nPoznejte RAVEO\nISO 9001:2016\nPřehledový katalog\nPohony u vás do 24 hodin\nZavolejte mi\nVyplňte prosím svůj kontakt a preferovaný čas a my se ozveme\nJméno a příjmení*\nVáš telefon\nDotaz k\n8:00 - 10:00\n10:00 - 12:00\n12:00 - 14:00\n14:00 - 16:00\n16:00 - 18:00\nSouhlasím se zpracováním osobních údajů\nOdeslat"
+    },
+    "about": {
+      "url": "https://www.raveo.cz/o-spolecnosti",
+      "text": "O společnosti - RAVEO - World of motion\nO společnosti - RAVEO - World of motion\nDomů\nO společnosti\nSpolečnost RAVEO\nJsme tradiční český dodavatel pohonné techniky a dlouhodobě patříme mezi lídry trhu. Naše nabídka pohonné techniky je rozsáhlá a pokrývá širokou škálu aplikací, nejenom v průmyslové automatizaci. Tým našich odborníků spojuje své znalosti a zkušenosti, aby vytvářel inovativní a funkční řešení jak z hlediska parametrů, tak i ceny.  Máme mnohaleté zkušenosti s celou škálou aplikací napříč průmyslem.\nNejsme pouze obchodní společností, plně se podílíme na tvorbě finálního výrobku v našich prostorách. Máme možnost kompletovat převodovky, disponujeme technologií pro dělení a obrobení lineárního vedení nebo kuličkových šroubů. Náš tým techniků a programátorů poskytuje tolik potřebnou podporu při návrhu i oživení našich produktů.\nTisíce zákazníků oceňují RAVEO zejména kvůli zodpovědnému přístupu k návrhu vhodného pohonu, zajímavé ceně, rychlému termínu dodání a také lidskému přístupu. Jsme tým s vášní pro pohyb a polohování!\n> 2100\naktivních zákazníků\npobočky\n350+ mil.\nobrat\n2600 m\nskladovací prostory\nVize a filosofie\nSvět je pohyb, ať už rotační nebo lineární. Ale jak ho realizovat? Co použít za komponenty? Kdo nám s tím poradí? Pro tyto myšlenky je jednoznačná odpověď: „RAVEO“. Naší snahou od prvopočátku firmy je, aby všichni konstruktéři, programátoři, manažeři a kutilové měli na paměti právě tuto asociaci.\nMáme špičkové komponenty, které skládáme dohromady, provedeme všechny výpočty a vyrobíme\nkompletní balíček na míru\n. Nejsme katalogová firma. Naše technické konzultace a výrobní know-how jsou klíčovými aspekty našeho úspěchu. Doptáváme se, o jaký druh pohybu se jedná, v jaké přesnosti, v jaké rychlosti, jaké jsou okolní podmínky, jakou technologii daná firma používá, abychom pak mohli pohon vhodně naprogramovat. Náš obchodník není nosič katalogů, ale technický konzultant. Tak u nás přistupujeme k řešení požadavků našich zákazníků.\nIng. Aleš Zapletal\nIng. Radek Kaňovský\nHistorie a vývoj\n2010\nzaložení společnosti RAVEO\n2011\nstěhování do větších prostor\n2012\nRAVEO poprvé na veletrhu MSV\n2013\nstěhování do nových prostor\n2014\nRAVEO poprvé na veletrhu AMPER\n2015\nobrat 100 mil CZK / finalista krajského kola firma roku 2015\n2016\nzavedení komplexního systému CRM a ERP\n2017\nzaložení obchodní kanceláře v Hradci Králové\n2018\nRAVEO začleněno do holdingu MOTION GROUP a.s.\n2019\nobrat 200 mil CZK\n2020\nstěhování do aktuálních prostor 3000 m\n2021\nzaložení obchodní kanceláře v Polsku\n2022\nobrat 350 mil CZK\n2024\nRAVEO mezi 100 nejlepšími firmami ČR\nPodporujeme\nOkolí nám není lhostejné. Společnost RAVEO se dlouhodobě věnuje podpoře projektů a institucí, a to nejraději cíleně a s regionálním dopadem. Podporujeme celou řadu neziskových organizací, zájmových skupin i školních aktivit. Pečlivě si vybíráme příjemce naší podpory a často se zapojujeme do projektů nejenom finančně.\nDokumenty\nZákladní údaje o společnosti\nVšeobecné obchodní podmínky společnosti RAVEO s.r.o.\nReklamační protokol\nZavolejte mi\nVyplňte prosím svůj kontakt a preferovaný čas a my se ozveme\nJméno a příjmení*\nVáš telefon\nDotaz k\n8:00 - 10:00\n10:00 - 12:00\n12:00 - 14:00\n14:00 - 16:00\n16:00 - 18:00\nSouhlasím se zpracováním osobních údajů\nOdeslat"
+    },
+    "products": {
+      "url": "https://www.raveo.cz/produkty",
+      "text": "Produkty - RAVEO - World of motion\nProdukty - RAVEO - World of motion\nDomů\nProdukty\nELEKTROMOTORY\nAsynchronní motory\nStejnosměrné motory\nServomotory\nKrokové motory\nLineární motory\nMomentové motory\nTrakční motory\nVřetenové motory\nPŘEVODOVKY\nPlanetové převodovky\nCykloidní převodovky\nHarmonické převodovky\nHypoidní převodovky\nKuželové převodovky\nŠnekové převodovky\nČelně šnekové převodovky\nČelní převodovky\nKuželočelní převodovky\nPloché převodovky\nKompaktní převodovky\nVariátory\nPříslušenství k převodovkám\nLINEÁRNÍ TECHNIKA\nLineární vedení\nPolohovací lineární jednotky\nAktuátory\nSCARA roboty\nZdvižné převodovky\nOzubené hřebeny a pastorky\nŠrouby\nSpojky\nŘÍZENÍ\nFrekvenční měniče\nServo řízení\nŘízení stejnosměrných motorů\nŘízení krokových motorů\nŘízení kompaktních motorů\nŘízení trakčních motorů\nŘízení aktuátorů\nKomunikační brány\nDigitální I/O\nAnalogové I/O\nZavolejte mi\nVyplňte prosím svůj kontakt a preferovaný čas a my se ozveme\nJméno a příjmení*\nVáš telefon\nDotaz k\n8:00 - 10:00\n10:00 - 12:00\n12:00 - 14:00\n14:00 - 16:00\n16:00 - 18:00\nSouhlasím se zpracováním osobních údajů\nOdeslat"
+    },
+    "contact_page": {
+      "url": "https://www.raveo.cz/kontakt",
+      "text": "Kontakt - RAVEO - World of motion\nKontakt - RAVEO - World of motion\nDomů\nKontakt\nKontakt\n+420 577 700 150\ninfo@raveo.cz\nTechnická konzultace\nCentrála\nAdresa\nRAVEO s.r.o.\nObjízdná 1943\n765 02 Otrokovice\nGPS: 49°11'50.1\"N\n17°31'37.2\"E\nPO - PÁ    7:00 - 17:00\nFakturační údaje\nRAVEO s.r.o.\nObjízdná 1943 765 02 Otrokovice\nIČO 29194156\nDIČ CZ29194156\ndatová schránka:  wivi3c6\nPobočky\nHradec Králové\nGočárova tř. 504\n500 02 Hradec Králové\nGPS: 50°12'41.8\"N 15°48'37.1\"E\nPolsko\nul. Dworcowa 1\n33-100 Tarnów\nGPS: 50°00'24.8\"N 20°58'24.2\"E\nweb RAVEO Polsko\nOddělení\nVedení společnosti\nIng. Aleš Zapletal\nCEO\n+420 577 664 078\nales.zapletal@raveo.cz\nLinkedIn\nIng. Radek Kaňovský\nCEO\n+420 577 664 077\nradek.kanovsky@raveo.cz\nLinkedIn\nSekretariát\nMiroslava Verwoerd\nasistentka vedení\n+420 577 664 050\nassist@raveo.cz\nLinkedIn\nTechnické oddělení\nBc. Jan Vyskočil\ntechnický manažer\n+420 577 664 056\njan.vyskocil@raveo.cz\nLinkedIn\nVít Neišl\ntechnická podpora prodeje\n+420 577 664 059\nvit.neisl@raveo.cz\nLinkedIn\nJiří Starenko\ntechnická podpora prodeje\n+420 577 664 057\njiri.starenko@raveo.cz\nLinkedIn\nIng. Jiří Kocourek\ntechnická podpora prodeje\n+420 577 664 062\njiri.kocourek@raveo.cz\nBc. Milan Podola\ntechnická podpora prodeje\n+420 577 664 076\nmilan.podola@raveo.cz\nIng. Milan Plandor\naplikační inženýr\n+420 724 377 336\nmilan.plandor@raveo.cz\nObchodní oddělení\nPetr Ondráček\nCSO - obchodní manažer\n+420 778 770 882\npetr.ondracek@raveo.cz\nLinkedIn\nIng. Robert Charvát\nKey Account Manager\n+420 778 774 516\nrobert.charvat@raveo.cz\nLinkedIn\nAleš Mikulčík\nprodej a aplikace\nSlovensko\n+420 773 738 081\nales.mikulcik@raveo.cz\nIng. Marek Mikl\nprodej a aplikace\nMoravskoslezský, Olomoucký a Zlínský kraj\n+420 775 852 962\nmarek.mikl@raveo.cz\nLinkedIn\nJonáš Gajda\nprodej a aplikace\nJihomoravský, Vysočina\n+420 778 736 964\njonas.gajda@raveo.cz\nLinkedIn\nJakub Jirout\nprodej a aplikace\nPobočka Hradec Králové - Severní Čechy\n+420 775 852 950\njakub.jirout@raveo.cz\nLinkedIn\nAdministrativní oddělení\nIng. Vladimír Vráb\nCOO - pro"
+    }
+  }
+}

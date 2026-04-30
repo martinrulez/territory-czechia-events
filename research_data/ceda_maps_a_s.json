@@ -1,0 +1,61 @@
+{
+  "company_key": "ceda_maps_a_s",
+  "company_name": "CEDA Maps a.s",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "RADOVAN PROKEŠ",
+        "firstName": "RADOVAN",
+        "lastName": "PROKEŠ",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ROMANA KRÁSOVÁ",
+        "firstName": "ROMANA",
+        "lastName": "KRÁSOVÁ",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JAN VODŇANSKÝ",
+        "firstName": "JAN",
+        "lastName": "VODŇANSKÝ",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "VLADIMÍR HRABAL",
+        "firstName": "VLADIMÍR",
+        "lastName": "HRABAL",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:07:01"
+}

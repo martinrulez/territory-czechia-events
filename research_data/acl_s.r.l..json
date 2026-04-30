@@ -1,0 +1,232 @@
+{
+  "company_key": "acl s.r.l.",
+  "company_name": "ACL S.r.l.",
+  "domain": "www.acl.it",
+  "domain_url": "https://www.acl.it",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ACL S.r.l.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 17,
+    "revenue": 6677,
+    "zi_company_name": "ACL Solenoid Valves",
+    "zi_domain": "www.acl.it",
+    "zi_city": "",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.acl.it",
+    "homepage": {
+      "title": "ACL – Elettrovalvole e microelettrovalvole",
+      "description": "",
+      "text_excerpt": "ACL – Elettrovalvole e microelettrovalvole\nSkip to content\n+39 02 95 01 335\nVia G.Falcone, 6 - 20873 - CAVENAGO DI BRIANZA (MB)\ninfoacl@acl.it\n08:00 12:00 - 13:00 - 17:00\nFacebook\nTwitter\nGoogle+\nDribbble\nHome\nCatalogo\nCertificazioni\nRete Vendita\nContattaci\nSOLENOID VALVE SOLUTIONS\nCompetenza\nACL S.r.l.\n, fondata nel 1987, produce\nelettrovalvole\nin una vasta gamma di modelli. Da sempre focalizzata verso le necessità del cliente,\nACL\nè disponibile a soddisfare ogni tipo di richiesta sia per elettrovalvole\nstandard\nche speciali. Le competenze di\nACL\nsono testimoniate dall’importante numero di clienti in tutto il mondo che operano in tutti i settori ove è necessario il controllo dei fluidi.\nQualità\nL’alta qualità delle materie prime, la precisione delle parti, i severi test di controllo che avvengono durante e al termine della produzione e l’elevato numero di elettrovalvole fabbricate mensilmente sono garanzia di serietà e competenza.\nEsperienza\nLe produzioni di ACL sono impiegate in molti settori industriali: trattamento acque, elettrodomestici, processi industriali, riscaldamento e refrigerazione, apparecchiature medicali, automotive, tessile, alimentare, pneumatica e molti altri. Una rete di distribuzione globale permette ad\nACL\ndi essere presente nei mercati dei più importanti paesi.\nGo to Top"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.acl.it/contact",
+      "text": "Contattaci – ACL\nSkip to content\n+39 02 95 01 335\nVia G.Falcone, 6 - 20873 - CAVENAGO DI BRIANZA (MB)\ninfoacl@acl.it\n08:00 12:00 - 13:00 - 17:00\nFacebook\nTwitter\nGoogle+\nDribbble\nHome\nCatalogo\nCertificazioni\nRete Vendita\nContattaci\nContattaci\nYou are here:\nHome\nContattaci\nINFORMAZIONI DI CONTATTO\nIndirizzo: Via G.Falcone, 6\n20873 CAVENAGO DI BRIANZA (MB)\nTelefono:+39 02.95.01335,\nFax:+39 02.95.33.50.41,\nEmail: infoacl@acl.it\nPer qualsiasi informazione contattaci tramite l’apposito form, il nostro personale sarà a vostra disposizione per qualsiasi informazione.\nSocietà:\nIndirizzo:\nNazione:\nPersona di riferimento:\nDipartimento:\nTelefono:\nFax:\nLa tua email (richiesto)\nIl tuo messaggio\nAi sensi e per gli effetti degli artt. 6 e 13 Reg. UE 2016/679, dichiaro di aver preso visione dell’informativa sul trattamento dei dati personali di Acl S.r.l.\nDesidero ricevere informazioni sui nuovi prodotti\nGo to Top"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "ACL S.r.l.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 26,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "GreenSock",
+        "vendor": "GreenSock",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Plyr",
+        "vendor": "",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Knockout.js",
+        "vendor": "Knockoutjs.com",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Charts",
+        "vendor": "Google LLC",
+        "category": "Charting",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Cloud Platform",
+        "vendor": "Google LLC",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Cloud Web Serving",
+        "vendor": "Google LLC",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ACL S.r.l.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 18:57"
+}

@@ -1,0 +1,98 @@
+{
+  "company_key": "easypark czechia",
+  "company_name": "EasyPark Czechia",
+  "domain": "",
+  "domain_url": "",
+  "events": "URBIS Smart Cities 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "EasyPark Czechia",
+    "opportunity_score": 23,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.65,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.65,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "14106477",
+    "official_name": "EasyPark Czechia s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "62",
+      "72100",
+      "461",
+      "68200",
+      "461",
+      "620",
+      "6820",
+      "7219"
+    ],
+    "ares_segments": [
+      "AEC",
+      "M&E"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Pernerova 697/35, Karlín, 18600 Praha 8, Praha, Pernerova, 18600",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "CAMERON DENIS CLAYTON",
+        "firstName": "CAMERON DENIS",
+        "lastName": "CLAYTON",
+        "jobTitle": "Předseda rady jednatelů, jednatel",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "CARL MARTIN SANDSTRÖM",
+        "firstName": "CARL MARTIN",
+        "lastName": "SANDSTRÖM",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DANIEL UNGAR",
+        "firstName": "DANIEL",
+        "lastName": "UNGAR",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-23 15:19"
+}

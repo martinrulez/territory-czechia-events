@@ -1,0 +1,203 @@
+{
+  "company_key": "imt_technologies_solutions_s_r_o",
+  "company_name": "IMT Technologies & Solutions s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "IMT Technologies & Solutions s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 18,
+    "all_technologies": [
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google AdSense",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "TeamViewer",
+        "vendor": "TeamViewer GmbH",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Ji Kadlubiec",
+        "firstName": "Ji",
+        "lastName": "Kadlubiec",
+        "jobTitle": "Sales Director",
+        "email": "kadlubiec@imtts.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Petr Berg",
+        "firstName": "Petr",
+        "lastName": "Berg",
+        "jobTitle": "Sales Manager",
+        "email": "berg@imtts.cz",
+        "phone": "+420 607 160 233",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jakub Rejman",
+        "firstName": "Jakub",
+        "lastName": "Rejman",
+        "jobTitle": "Project Manager",
+        "email": "rejman@imtts.cz",
+        "phone": "+420 702 226 885",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Tomas Jaksik",
+        "firstName": "Tomas",
+        "lastName": "Jaksik",
+        "jobTitle": "Project Manager, Ve Spolenosti Imt Technologies Solutions S R O",
+        "email": "jaksik@imtts.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Audrey Jones",
+        "firstName": "Audrey",
+        "lastName": "Jones",
+        "jobTitle": "Director, Sales",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:05:35",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.imtts.cz",
+    "homepage": {
+      "title": "IMT - testovací a inspekční technologie pro SMT",
+      "description": "Zabýváme se testovacími a inspekčními technologiemi především v oboru SMT výroby. Nabízíme vám jak stroje, tak i služby spojené s oborem testování.",
+      "text_excerpt": "IMT - testovací a inspekční technologie pro SMT\nTechnologie SMT\nInspekce\nTestování\nAutomatizace\nTechnologie a řešení\nTechnologie SMT\nMáme dlouholeté zkušenosti s SMT procesem a to především se zařízeními Koh Young – 3D měření nátisku pasty, pájení nebo kontroly transparentních...\nDozvědět se více\nElektrické a funkční testování\nZajišťujeme sortiment pro elektrické a funkční testování (ICT/FCT) desek plošných spojů nebo hotových výrobků. Vyrábíme stolní, kabinetové nebo...\nDozvědět se více\nPrůmyslová automatizace\nNavrhujeme, stavíme a oživujeme automatizovaná a robotizovaná pracoviště. Od návrhu po realizaci vznikají...\nDozvědět se více\nRentgenová inspekce\nZabýváme se rentgenovou inspekcí v odvětvích elektrotechniky, polovodičů a v obecném strojírenství. Nabízíme všestranné stanice od Comet Yxlon,...\nDozvědět se více\nKompletní nabídka technologií\nIMT Technologies & Solutions\nOd založení v roce 2012 jsme dodavatelem technologií pro inspekci, testování, výrobu a automatizaci v oblastech SMT, elektrovýroby, automotive a strojírenství. Mezi naše zákazníky patří hlavně střední firmy a velké nadnárodní korporace s vysokými požadavky na kvalitu.\nDodáváme a servisujeme zařízení předních světových výrobců. Vyvíjíme a vyrábíme jednoúčelové stroje, testovací přípravky a fixtury. Navrhujeme robotizovaná pracoviště a vision systémy.\nVážíme si lidí a dlouhodobých partnerství. Náš tým, čítající přes 70 odborníků, se stará o náročné a technicky zajímavé zakázky hlavně na území České republiky a Slovenska. Díky pobočkám ve VM a Košicích jsme schopni rychle reagovat na zákaznické požadavky.\nO společnosti\nReference\n250\nKoh Young\nPřekročili jsme hranici 250 strojů Koh Young v ČR a na Slovensku.\nVíce o Koh Young\n200\nUnites\nVíce jak 200 nainstalovaných FCT/ICT testerů Unites.\nZobrazit produkty\n70+\nZaměstnanců\nZ toho náš tým odborníků na automatizaci, fixtury, přípravky a moduly čítá přes 40 lidí\nVolné pozice\n3 000 000+\nFeinmetall\nPřes 3 miliony – tolik kontaktních pinů Feinmetall jsme již vyexpedovali.\nVíce pinů FM\nNabídka služeb\nZakázková inspekce na vlastních zařízeních (RTG atd.)\nZakázkové ICT testování a tvorba test programů\nServis, kalibrace a školení\nVision aplikace\nDodavatelé technologií\nNaše společnost spolupracuje s celou řadou prověřených dodavatelů produktů a komponent. Jejich přehled si můžete prohlédnout níže. V detailu každého partnera jsou k nahlédnutí jednotlivé produkty, které dodává.\nNovinky z blogu\nNovinky\n14. 04. 2026\nSMT Thermal Discoveries: technologie pro reflow proces vstupují do třetího roku v portfoliu IMT\nV březnu letošního roku vstupuje spolupráce společnosti IMT s německým výrobcem SMT do třetího roku.\nPřečíst příspěvek\nNovinky\n08. 04. 2026\nWebináře Koh Young: Programování AOI pomocí AI a jeho bezpečné nasazení do SMT výroby\nVážení obchodní partneři, připojte se k odborným webinářům našeho partnera Koh Young.\nPřečíst příspěvek\nNovinky\n31. 03. 2026\nIMT semináře: Reflow pájení a Flying Probe testování v praxi\nVážení zákazníci a obchodní partne"
+    },
+    "about": {
+      "url": "https://www.imtts.cz/about-us",
+      "text": "About us - IMT Technologies & Solutions\nAbout us\nSince our foundation in 2012 we are a supplier of technologies for inspection, testing, manufacturing and automatization in SMT, electronics, automotive and engineering. Our customers are mostly big and medium companies with unrestricted demands on quality.\nSMT technologies & own production\nWe supply and service devices from top global producers. We develop and manufacture single purpose machines, testing jigs and fixtures. Beside that we also develop vision systems for various applications.\nIMT – team of specialists\nWe value people and long-term relationships. Our team of 70 experts deals with technically demanding applications mostly in Czech Republic and Slovakia. Thanks to our locations in Valašské Meziříčí (CZ) and Košice (SK) we are flexible to our customer’s requirements.\nWe have solutions for\nElectrical and functional testing\nInspection in SMT\nIndustrial automation\nX-RAY inspection\nCustomers matter\nWe value long term partnerships and try to bring human touch to the highly technical fields we are active in. Our goal is to find you a perfect solution. Our technologies and solutions make your manufacturing more effective, faster and safer.\nWrite to us\nWrite to us, we will be happy to answer your questions and find a solution for you.\n+420 576 130 557\ninfo@imtts.cz\nFull name\nEnter your full name\nCompany\nE-mail\nEnter your e-mail address\nPhone\nEnter your phone number\nYour message\nEnter your message\nI agree to\nthe processing of personal data\nYou must consent to the processing of personal data\nSend a message\nManage Cookie Consent\nTo provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.\nFunctional\nFunctional\nAlways active\nThe technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.\nPreferences\nPreferences\nThe technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.\nStatistics\nStatistics\nThe technical storage or access that is used exclusively for statistical purposes.\nThe technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.\nMarketing\nMarketing\nThe technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.\nManage options\nManage services\nManage {vendor_count} vendors\nRead more about these purposes\nAccept all\nOnly necessary\nShow preferences\nSave preferences\nShow preferences\n{title}\n{title}\n{title}\nManage consent"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.imtts.cz/kontakt",
+      "text": "Kontakty - IMT Technologies & Solutions\nKontakty\nObchodní oddělení\nPoptávky technologií, návrhy řešení, fakturace a management\nZobrazit kontakty\nServis technologie SMT\nZobrazit kontakty\nServis průmyslová automatizace\nZobrazit kontakty\nKontakty\n+420 576 130 557\ninfo@imtts.cz\nSídlo společnosti\nIMT Technologies & Solutions s.r.o.\nKpt. Macha 1371\nValašské Meziříčí, 757 01\nČeská republika\nIČ:\n29443971\nDIČ:\nCZ29443971\nČíslo datové schránky:\nav5c4jq\nSpolečnost je zapsána v obchodním rejstříku vedeném u Krajského soudu v Ostravě, oddíl C, vložka č. 53596\nBankovní spojení\nKomerční banka (CZK)\n115-3378240237 / 0100\nKomerční banka (EUR)\n115-5868210267 / 0100\nKomerční banka (USD)\n123-9106540217/0100\nČSOB (CZK)\n251501918 / 0300\nČSOB (EUR)\n256804520 / 0300\nNapište nám\nNapište nám, rádi zodpovíme Vaše dotazy a najdeme řešení i pro Vás.\nJméno a příjmení\nVyplňte prosím Vaše jméno\nSpolečnost\nE-mail\nVyplňte prosím Vaši platnou e-mailovou adresu\nTelefon\nVyplňte prosím Vaše telefonní číslo\nVaše zpráva\nVyplňte prosím Vaši zprávu\nSouhlasím se\nzpracováním osobních údajů\nMusíte souhlasit se zpracováním osobních údajů\nOdeslat zprávu\nNapište nám\nNapište nám, rádi zodpovíme Vaše dotazy a najdeme řešení i pro Vás.\n+420 576 130 557\ninfo@imtts.cz\nJméno a příjmení\nVyplňte prosím Vaše jméno\nSpolečnost\nE-mail\nVyplňte prosím Vaši platnou e-mailovou adresu\nTelefon\nVyplňte prosím Vaše telefonní číslo\nVaše zpráva\nVyplňte prosím Vaši zprávu\nSouhlasím se\nzpracováním osobních údajů\nMusíte souhlasit se zpracováním osobních údajů\nOdeslat zprávu\nSpravovat souhlas s cookies\nAbychom poskytli co nejlepší služby, používáme k ukládání a/nebo přístupu k informacím o zařízení, technologie jako jsou soubory cookies. Souhlas s těmito technologiemi nám umožní zpracovávat údaje, jako je chování při procházení nebo jedinečná ID na tomto webu. Nesouhlas nebo odvolání souhlasu může nepříznivě ovlivnit určité vlastnosti a funkce.\nFunkční\nFunkční\nVždy aktivní\nTechnické uložení nebo přístup je nezbytně nutný pro legitimní úče"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "company_key": "icosa s.r.o.",
+  "company_name": "ICOSA s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ICOSA s.r.o.",
+    "opportunity_score": 21,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.58,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.58,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "19222998",
+    "official_name": "ICOSA s.r.o., odštěpný závod",
+    "legal_form": "421",
+    "nace_codes": [
+      "255",
+      "73110",
+      "74300",
+      "25",
+      "71200",
+      "77220",
+      "00",
+      "43120",
+      "G",
+      "K",
+      "00",
+      "25",
+      "256",
+      "43120",
+      "71209",
+      "73110",
+      "74300",
+      "77290",
+      "G",
+      "J"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Vídeňská 1021/6, Štýřice, 63900 Brno, Brno, Vídeňská, 63900",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "ICOSA s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:38"
+}

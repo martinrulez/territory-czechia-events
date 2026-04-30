@@ -1,0 +1,296 @@
+{
+  "company_key": "solidvision_s_r_o",
+  "company_name": "SolidVision, s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "SolidVision, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [
+      "3DEXPERIENCE (formerly 3DSwYm)",
+      "Dassault Systemes"
+    ],
+    "cad_bim_other": [
+      "SolidCAM"
+    ],
+    "total_technologies": 36,
+    "all_technologies": [
+      {
+        "product": "3DEXPERIENCE (formerly 3DSwYm)",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft SQL Server",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "HELIOS",
+        "vendor": "HELIOS Software",
+        "category": "Containerization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "SolidCAM",
+        "vendor": "SolidCAM GmbH",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Analytics",
+        "vendor": "Facebook, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Delphi",
+        "vendor": "Embarcadero Technologies, Inc.",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Microsoft Azure",
+        "vendor": "Microsoft Corporation",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Bitly",
+        "vendor": "Bitly, Inc.",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "GoToWebinar",
+        "vendor": "LogMeIn, Inc.",
+        "category": "Web Conferencing",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "LinkedIn Ads",
+        "vendor": "LinkedIn Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Matomo",
+        "vendor": "Matomo Software",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Dassault Systemes",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "dbt",
+        "vendor": "dbt Labs, Inc",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Smartsupp",
+        "vendor": "Smartsupp.com, s.r.o.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "THOMAS AUGUST GUSTAV RUBBE",
+        "firstName": "THOMAS AUGUST GUSTAV",
+        "lastName": "RUBBE",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JOANNA KRUPA",
+        "firstName": "JOANNA",
+        "lastName": "KRUPA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JULIUS TIM OLIVER RUBBE",
+        "firstName": "JULIUS TIM OLIVER",
+        "lastName": "RUBBE",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:41",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.solidvision.cz",
+    "homepage": {
+      "title": "SolidVision",
+      "description": "",
+      "text_excerpt": "SolidVision\nVáš průvodce\nv digitální éře\nJsme největší autorizovaný dodavatel 3D softwaru SOLIDWORKS\na SolidCAM v České republice. Pomáháme vám vytvářet lepší výrobky, poskytujeme certifikovaná školení a špičkovou technickou podporu.\nPokračovat\nJsme Vašim partnerem pro\nZajistíme digitální transformaci\nUpravíme tok dat ve společnosti\nDodáme další služby\nJsme Vašim partnerem pro\nKonstrukci\nVýrobu\nInformační systém\nSprávu dat\n3D skenování\nZajistíme digitální transformaci\nJste připraveni?\nDigitální audit\nPřínosy\nVýhody cloudových řešení\nUkázky nasazení\nUpravíme tok dat ve společnosti\nAnalyzujeme a poradíme\nCo vše zvládneme\nTechnické informace\nDodáme další služby\nŠkolení\nKonzultační služby\nDigitální audit\nAnalýza procesů\nZakázkové 3D skenování\nTvorba postprocesorů\nNovinky\nAktuální verze SolidCAM a jistota pro každodenní výrobu\n21.04.2026\nPřečíst\nCreative Business Czechia ukázala sílu kreativních technologií\n20.04.2026\nPřečíst\nVšechny novinky\nTechnické aktuality\nK dispozici SolidCAM 2025 SP4 HF2\n31.03.2026\nK dispozici SolidCAM 2025 SP4 HF1\n20.02.2026\nByl uvolněn SP1.1 pro SOLIDWORKS 2026\n09.02.2026\nNačíst starší\nCo se nám podařilo?\nPROŠKOLILI JSME\n22151\nUŽIVATELŮ\nDODALI JSME\n4685\nKOMERČNÍCH LICENCÍ CAD/CAM\nVYŘEŠILI JSME\n78820\nDOTAZŮ OD UŽIVATELŮ\nDODALI JSME\n11130\nŠKOLNÍCH LICENCÍ CAD/CAM\nNejbližší akce a školení\nTipy a triky\nŠkolení\nkolení Vám představí a ukáže zajímavé postupy a možnosti pro jednotlivé oblasti SOLIDWOKRS.\n28. 4. 2026\n29. 4. 2026\nBrno\n, 2 dny\nVolných míst:\nPlošné modelování\nŠkolení\nToto speciální jednodenní školení seznámí uživatele s výkonným plošným modelářem pro vytváření komplexních tvarů a organických návrhů.\n28. 4. 2026\nPraha\n, 1 den\nVolných míst:\nFormy\nŠkolení\nToto speciální školení seznámí uživatele s problematikou vytváření a zpracování forem a s přípravou modelu na zaformování.\n29. 4. 2026\nPraha\n, 1 den\nVolných míst:\nZákladní školení SOLIDWORKS\nŠkolení\nCílem pravidelného základního školení je seznámit uživatele s rozhraním a ovládáním SOLIDWORKS, nastavením prostředí, základy práce s dokumenty a vytváření skic, objemových dílů, sestav a výkresů. Pokročilá témata jako plechy, svařence, velké sestavy...\n5. 5. 2026\n13. 5. 2026\nBrno\n, 4 dny\nVolných míst:\nDuben\nTipy a triky\nPlošné modelování\nTipy a triky\nFormy\nKvěten\nZákladní školení SOLIDWORKS\nZákladní školení SOLIDWORKS\nPlechové díly\nZákladní školení SOLIDWORKS\nZákladní školení SOLIDWORKS\nZákladní školení SOLIDWORKS\nZákladní školení SOLIDWORKS\nPokročilé modelovací postupy\nSolidCAM certifikace & AI ve vzdělávání\nCo o SOLIDWORKS PDM možná nevíte?\nPokročilé modelovací postupy\nDraftsight\nZákladní školení SOLIDWORKS\nPokročilé sestavy\nDraftsight\nZákladní školení SOLIDWORKS\nPokročilé sestavy\nPokročilé modelovací postupy\nPlechové díly\nPokročilé modelovací postupy\nSvařované konstrukce\nČerven\nZákladní školení SOLIDWORKS\nZákladní školení SOLIDWORKS\nZákladní školení SOLIDWORKS\nZákladní školení SOLIDWORKS\nZákladní školení SOLIDWORKS\nZákladní školení SOLIDWORKS\nZákladní školení SOLIDWORKS\nZák"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.solidvision.cz/produkty",
+      "text": "Produkty | SolidVision\nDomů\nProdukty\nProdukty\nSpolečnost SolidVision vám nabízí produkty z oblastí SOLIDWORKS, SolidCAM, 3D skenování, 3D tisku, vlastního vývoje CNC stroje. Naše dodávaná řešení se uplatní ve všech oblastech průmyslu. Budeme rádi, když se ozvete.\nS čím Vám můžeme pomoci?\nOdesláním formuláře souhlasíte se\nzpracováním osobních údajů.\nPrezentace\nNabídka\nZkušební verze\nŠkolení\nPodpora\nKonzultace\nZajímá mě\nPoptávkový formulář\nMám zájem o:\nVyberte si\nPrezentace\nNabídka\nZkušební verze\nŠkolení\nPodpora\nKonzultace\nJméno a příjmení\nTelefon\nE-mail\nDetail\nOdesláním formuláře souhlasíte se zpracováním osobních údajů.\nPodrobné znění podmínek.\nPoložky označené hvězdičkou (\n) jsou povinné.\nŽádost o vyzkoušení produktu\nOdesláním formuláře souhlasíte se zpracováním osobních údajů. Podrobné znění najdete\nzde\nMám zájem o pozici\nJméno\nTelefon\nE-mail\nPoznámka\nVaše CV\nOdesláním formuláře souhlasíte se zpracováním osobních údajů. Podrobné znění najdete\nzde\nInformace o cookies\nTento web používá cookies a analytické nástroje pro sledování návštěvnosti, které mohou obsahovat osobní údaje. Zároveň je vám také personalizován obsah a zobrazeny relevantní nabídky pomoci cílené reklamy na dalších webech. Kliknutím na tlačítko rozumím, souhlasíte s využíváním cookies a předáním údajů o chování na webu.\nDalší informace\nNastavení\nOdmítnout\nRozumím a přijímám\nNastavení\nTento web používá cookies a analytické nástroje pro sledování návštěvnosti, které mohou obsahovat osobní údaje. Zároveň je vám také personalizován obsah a zobrazeny relevantní nabídky pomoci cílené reklamy na dalších webech. Kliknutím na tlačítko rozumím, souhlasíte s využíváním cookies a předáním údajů o chování na webu.\nDalší informace\nTechnické cookies\nJsou nezbytné pro funkci webu jako takového.\nAnalytické cookies\nJedná se o nástroje pro analýzu návštěvnosti jako Google Analytics.\nReklamní cookies\nPro zobrazení relevantních reklam pro vás, v systémech jako Google Adwords nebo Seznam Sklik.\nZpět\nOdmítnout všechny\nUložit nastavení"
+    },
+    "contact_page": {
+      "url": "https://www.solidvision.cz/kontakt",
+      "text": "Kontakty | SolidVision\nDomů\nKontakty\nKontakty\nTelefon\n+420 533 433 111\nE-mail\ninfo@solidvision.cz\nTechnická podpora\nKontakty na podporu\nSociální sítě:\nSídlo společnosti\na fakturační údaje\nSolidVision, s.r.o.\nČechyňská 547/5\n602 00 Brno\nIČ: 26280442\nDIČ: CZ26280442\nSpolečnost zapsána v obchodním rejstříku vedeném Krajským soudem v Brně, oddíl C, vložka 41615.\nNaše kanceláře\nBrno\nVíce\nPraha\nVíce\nHradec Králové\nVíce\nKrnov\nVíce\nTrnava\nVíce\nBudujte s námi naši vizi\nJsme SolidVision. Máme dlouholetou historii a více než 70 spokojených zaměstnanců. Přijďte se k nám podívat!\nvíce o nás\nS čím Vám můžeme pomoci?\nOdesláním formuláře souhlasíte se\nzpracováním osobních údajů.\nPrezentace\nNabídka\nZkušební verze\nŠkolení\nPodpora\nKonzultace\nZajímá mě\nPoptávkový formulář\nMám zájem o:\nVyberte si\nPrezentace\nNabídka\nZkušební verze\nŠkolení\nPodpora\nKonzultace\nJméno a příjmení\nTelefon\nE-mail\nDetail\nOdesláním formuláře souhlasíte se zpracováním osobních údajů.\nPodrobné znění podmínek.\nPoložky označené hvězdičkou (\n) jsou povinné.\nŽádost o vyzkoušení produktu\nOdesláním formuláře souhlasíte se zpracováním osobních údajů. Podrobné znění najdete\nzde\nMám zájem o pozici\nJméno\nTelefon\nE-mail\nPoznámka\nVaše CV\nOdesláním formuláře souhlasíte se zpracováním osobních údajů. Podrobné znění najdete\nzde\nInformace o cookies\nTento web používá cookies a analytické nástroje pro sledování návštěvnosti, které mohou obsahovat osobní údaje. Zároveň je vám také personalizován obsah a zobrazeny relevantní nabídky pomoci cílené reklamy na dalších webech. Kliknutím na tlačítko rozumím, souhlasíte s využíváním cookies a předáním údajů o chování na webu.\nDalší informace\nNastavení\nOdmítnout\nRozumím a přijímám\nNastavení\nTento web používá cookies a analytické nástroje pro sledování návštěvnosti, které mohou obsahovat osobní údaje. Zároveň je vám také personalizován obsah a zobrazeny relevantní nabídky pomoci cílené reklamy na dalších webech. Kliknutím na tlačítko rozumím, souhlasíte s využíváním cookies a předáním údajů o "
+    }
+  }
+}

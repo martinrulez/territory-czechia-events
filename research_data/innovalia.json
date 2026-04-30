@@ -1,0 +1,109 @@
+{
+  "company_key": "innovalia",
+  "company_name": "Innovalia",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Innovalia",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Fusion | Fusion Mfg Ext",
+    "total_seats": "2",
+    "current_acv_eur": "2600.0",
+    "potential_acv_eur": "7700.0",
+    "nearest_renewal": "2026-07-16",
+    "days_to_renewal": "84",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Sim Ext; Fusion Manage Ext",
+    "reseller": "Digital River Ireland, Ltd.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other Manufacturing",
+    "zi_done": true,
+    "zi_error": "No company found"
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Innovalia",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Borja",
+        "last_name": "De",
+        "title": "General Manager",
+        "email": "",
+        "phone": "",
+        "company": "Innovalia Metrology",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 83.0
+      },
+      {
+        "first_name": "Aitor",
+        "last_name": "San Vicente Sebastián",
+        "title": "General Manager",
+        "email": "",
+        "phone": "",
+        "company": "Innovalia Metrology",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Alicia",
+        "last_name": "González",
+        "title": "Managing Director, Aic Unit",
+        "email": "",
+        "phone": "",
+        "company": "Innovalia Metrology",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 09:00",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "inventor"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

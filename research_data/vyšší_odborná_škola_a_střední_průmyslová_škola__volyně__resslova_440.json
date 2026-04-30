@@ -1,0 +1,62 @@
+{
+  "company_key": "vyšší odborná škola a střední průmyslová škola, volyně, resslova 440",
+  "company_name": "Vyšší odborná škola a Střední průmyslová škola, Volyně, Resslova 440",
+  "domain": "",
+  "domain_url": "",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Vyšší odborná škola a Střední průmyslová škola, Volyně, Resslova 440",
+    "opportunity_score": 12,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "60650494",
+    "official_name": "Vyšší odborná škola a Střední průmyslová škola, Volyně, Resslova 440",
+    "legal_form": "331",
+    "nace_codes": [
+      "8532",
+      "56220",
+      "8540",
+      "56292",
+      "85322",
+      "85420"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Resslova 440, 38701 Volyně, Volyně, Resslova, 38701",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Vyšší odborná škola a Střední průmyslová škola, Volyně, Resslova 440",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 19:09"
+}

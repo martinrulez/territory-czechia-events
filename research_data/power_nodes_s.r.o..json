@@ -1,0 +1,83 @@
+{
+  "company_key": "power nodes s.r.o.",
+  "company_name": "Power Nodes s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Power Nodes s.r.o.",
+    "opportunity_score": 28,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.42,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.42,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "17655455",
+    "official_name": "Power Nodes s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "461",
+      "8559",
+      "46",
+      "62",
+      "471",
+      "72100",
+      "46",
+      "461",
+      "471",
+      "620",
+      "7219",
+      "8559"
+    ],
+    "ares_segments": [
+      "M&E"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Počernická 699/62, Malešice, 10800 Praha 10, Praha, Počernická, 10800",
+    "is_client": true,
+    "current_products": "AutoCAD",
+    "total_seats": "1",
+    "current_acv_eur": "2200.0",
+    "potential_acv_eur": "10400.0",
+    "nearest_renewal": "2026-05-12",
+    "days_to_renewal": "19",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Add Revit + Civil 3D + Navisworks for full BIM workflow",
+    "all_upsells": "AEC Collection; PDMC; Forma",
+    "maturity_label": "Foundation",
+    "industry_segment": "Construction Services",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "revenue_growth": 0.0,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Power Nodes s.r.o.",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 08:50"
+}

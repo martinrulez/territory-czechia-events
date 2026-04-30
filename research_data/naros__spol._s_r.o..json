@@ -1,0 +1,97 @@
+{
+  "company_key": "naros, spol. s r.o.",
+  "company_name": "NAROS, spol. s r.o.",
+  "domain": "www.enpros.cz",
+  "domain_url": "https://www.enpros.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "NAROS, spol. s r.o.",
+    "opportunity_score": 34,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.7,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.7,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "49447459",
+    "official_name": "NAROS, spol. s r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "25620",
+      "461",
+      "281",
+      "25530",
+      "46620",
+      "25630",
+      "32500",
+      "25620",
+      "25720",
+      "25730",
+      "281",
+      "32500",
+      "461",
+      "46620"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "třída 3. května 974, Malenovice, 76302 Zlín, Zlín, třída 3. května, 76302",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "8",
+    "current_acv_eur": "4000.0",
+    "potential_acv_eur": "37600.0",
+    "nearest_renewal": "2026-12-01",
+    "days_to_renewal": "222",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Entry",
+    "industry_segment": "Engineering Service Providers",
+    "ml_domain": "www.enpros.cz",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.enpros.cz",
+    "homepage": {
+      "title": "ENPROS s.r.o. – Energetické stavby",
+      "description": "",
+      "text_excerpt": "ENPROS s.r.o. – Energetické stavby\nProvádíme projekci a realizaci energetických staveb:\nrozvodny VVN\nměření a regulace\nÚVOD\nREFERENCE\nKONTAKTY"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "NAROS, spol. s r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:27"
+}

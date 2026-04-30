@@ -1,0 +1,193 @@
+{
+  "company_key": "pegas - gonda s.r.o.",
+  "company_name": "PEGAS - GONDA s.r.o.",
+  "domain": "www.pegas-gonda.cz",
+  "domain_url": "https://www.pegas-gonda.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "PEGAS - GONDA s.r.o.",
+    "opportunity_score": 23,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.68,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.68,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "48907341",
+    "official_name": "PEGAS - GONDA s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "95310",
+      "471",
+      "25530",
+      "289",
+      "68310",
+      "28410",
+      "25620",
+      "49410",
+      "33120",
+      "72100",
+      "74",
+      "25620",
+      "25720",
+      "28410",
+      "289",
+      "33120",
+      "45200",
+      "471",
+      "49410",
+      "68310",
+      "7219",
+      "74"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Československé armády 322, 68401 Slavkov u Brna, Slavkov u Brna, Československé armády, 68401",
+    "zi_done": true,
+    "employee_count": 59,
+    "revenue": 5854,
+    "zi_company_name": "Pegas Gonda",
+    "zi_domain": "www.pegas-gonda.cz",
+    "zi_city": "Slavkov u Brna",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.pegas-gonda.cz",
+    "homepage": {
+      "title": "Pásové pily na kov | PEGAS-GONDA - Domů",
+      "description": "Pásová pila na kov Pegas. Jsme česká firma, která vyrábím a prodává pásové pily na kov, kotoučové pily, pilové pásy a kotouče, dopravník a vynašeče třísek.",
+      "text_excerpt": "Pásové pily na kov | PEGAS-GONDA - Domů\nnew\nNovinka: PEGAS-GONDA a sociální sítě\nKloubové pásové pily\nDvousloupové pásové pily: dělení profilů pod úhlem\nDvousloupové pásové pily: dělení svazků profilů\nDvousloupové pásové pily: vysokoproduktivní\nKotoučové pily\nPilové pásy a kotouče E-shop\nTento web používá cookies k dosažení potřebné funkcionality. Dalším jeho použitím s tímto souhlasíte.\nVíce informací.\nRozumím"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "PEGAS - GONDA s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 6,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "PEGAS - GONDA s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Marie",
+        "last_name": "Gondová",
+        "title": "Technical Director",
+        "email": "gondova@gonda.cz",
+        "phone": "",
+        "company": "Pegas Gonda",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 78.0
+      },
+      {
+        "first_name": "Ivan",
+        "last_name": "Machala",
+        "title": "Technical Support Specialist",
+        "email": "ivan.machala@gonda.cz",
+        "phone": "+420 734 449 075",
+        "company": "Pegas Gonda",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 94.0
+      },
+      {
+        "first_name": "Martin",
+        "last_name": "Slimak",
+        "title": "Plánovač",
+        "email": "martin.slimak@gonda.cz",
+        "phone": "",
+        "company": "Pegas Gonda",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 92.0
+      },
+      {
+        "first_name": "Jan",
+        "last_name": "Indler",
+        "title": "Elektroinženýr Vývojář",
+        "email": "",
+        "phone": "",
+        "company": "Pegas Gonda",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 15:22"
+}

@@ -1,0 +1,102 @@
+{
+  "company_key": "nes_nov_dubnica_s_r_o",
+  "company_name": "NES Nová Dubnica s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "NES Nová Dubnica s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 5,
+    "all_technologies": [
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Radovan Celec",
+        "firstName": "Radovan",
+        "lastName": "Celec",
+        "jobTitle": "Head of Sales",
+        "email": "celec@nes.sk",
+        "phone": "+421 42/440 12 08",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Marek Gaspar",
+        "firstName": "Marek",
+        "lastName": "Gaspar",
+        "jobTitle": "Sales Director",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Rudolf Paulík",
+        "firstName": "Rudolf",
+        "lastName": "Paulík",
+        "jobTitle": "Project Manager",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:19:03",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.nes.sk",
+    "homepage": {
+      "title": "NES",
+      "description": "Web site created using create-react-app",
+      "text_excerpt": "NES"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.nes.sk/kontakt",
+      "text": "NES"
+    }
+  }
+}

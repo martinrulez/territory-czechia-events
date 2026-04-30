@@ -1,0 +1,61 @@
+{
+  "company_key": "elk_bau_s_r_o",
+  "company_name": "ELK BAU s.r.o.",
+  "domain": "",
+  "events": "Czech Green Building Council Members",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MARTIN LAZÁREK",
+        "firstName": "MARTIN",
+        "lastName": "LAZÁREK",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ROMAN KRATOCHVÍL",
+        "firstName": "ROMAN",
+        "lastName": "KRATOCHVÍL",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "STEFAN ANDERL",
+        "firstName": "STEFAN",
+        "lastName": "ANDERL",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MICHAEL JANETSCHEK",
+        "firstName": "MICHAEL",
+        "lastName": "JANETSCHEK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:08:36"
+}

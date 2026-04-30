@@ -1,0 +1,61 @@
+{
+  "company_key": "ubm_development_czechia_s_r_o",
+  "company_name": "UBM Development Czechia s.r.o.",
+  "domain": "",
+  "events": "Czech Green Building Council Members",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JOSEF WIEDERMANN",
+        "firstName": "JOSEF",
+        "lastName": "WIEDERMANN",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ROMAN EHRENTRAUT",
+        "firstName": "ROMAN",
+        "lastName": "EHRENTRAUT",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "VLADIMÍR PAŠEK",
+        "firstName": "VLADIMÍR",
+        "lastName": "PAŠEK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "TOMÁŠ KREJČÍ",
+        "firstName": "TOMÁŠ",
+        "lastName": "KREJČÍ",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:16"
+}

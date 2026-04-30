@@ -1,0 +1,243 @@
+{
+  "company_key": "ondrÁŠek ink-jet system spol. s r.o.",
+  "company_name": "ONDRÁŠEK INK-JET SYSTEM spol. s r.o.",
+  "domain": "www.ondrasek.cz",
+  "domain_url": "https://www.ondrasek.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ONDRÁŠEK INK-JET SYSTEM spol. s r.o.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 14,
+    "revenue": 3396,
+    "zi_company_name": "Ondrášek INK - JET System",
+    "zi_domain": "www.ondrasek.cz",
+    "zi_city": "Frydek-Mistek",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ondrasek.cz",
+    "homepage": {
+      "title": "",
+      "description": "",
+      "text_excerpt": "arrow-left\nKolaborativní roboti\nPŘEJÍT NA WEB\nKOMPLEXNÍ ŘEŠENÍ PRO OZNAČOVÁNÍ\nPŘEJÍT NA WEB\nVÝKONNÉ TISKÁRNY TIJ\nPŘEJÍT NA WEB\nINKJET TISKÁRNY S VYSOKÝM ROZLIŠENÍM\nPŘEJÍT NA WEB\nKOMPAKTNÍ INKOUSTOVÉ TISKÁRNY\nPŘEJÍT NA WEB\nKolaborativní roboti\nPŘEJÍT NA WEB\nKOMPLEXNÍ ŘEŠENÍ PRO OZNAČOVÁNÍ\nPŘEJÍT NA WEB\narrow-right"
+    },
+    "about": {
+      "url": "https://www.ondrasek.cz/o-nas",
+      "text": "Společnost ONDRÁŠEK INK-JET SYSTEM spol. s r.o.\nSpolečnost ONDRÁŠEK INK-JET SYSTEM spol. s r.o. je oficiálním partnerem společnosti Markem-Imaje pro český a slovenský trh, která je výrobcem průmyslových technologií určených pro označování výrobků, skupinových balení a palet. Za 30 let své existence se společnost ONDRÁŠEK INK-JET SYSTEM stala jedním z největších dodavatelů těchto technologií napříč všemi výrobními obory. Díky svému komplexnímu portfoliu technologií pokrývá veškeré aplikace."
+    },
+    "products": {
+      "url": "https://www.ondrasek.cz/produkty",
+      "text": ""
+    },
+    "contact_page": {
+      "url": "https://www.ondrasek.cz/kontakt",
+      "text": "ONDRÁŠEK INK – JET SYSTEM spol. s r.o.\nMetylovská 1862\n739 11 Frýdlant nad Ostravicí\nČeská republika\nIČ: 25843591\nDIČ: CZ25843591\nzapsána v obchodním rejstříku vedeném Krajským soudem v Ostravě, oddíl C, vložka 21170. Základní kapitál: 100 000 Kč\nObchodní oddělení\nPondělí - Pátek: 7:00 – 15:30\nTel.: +420 558 639 611\nFax: +420 558 621 992\nE-mail:\nobchod@ondrasek.cz\nServis\nPondělí - Pátek: 7:00 – 15:30\nTel.: +420 558 639 639\nFax: +420 558 621 992\nE-mail:\nservis@ondrasek.cz\nServisní střediska\nFrýdlant nad Ostravicí\nPraha\nČejkovice u Hodonína\nÚstí nad Labem\nHradec Králové\nPlzeň\nJindřichův Hradec\nNONSTOP Hot-line\nPondělí - Neděle: NONSTOP\nTel: +420 606 639 639\nZásobování\nPondělí - Pátek: 7:00 – 15:30\nTel.: +420 558 639 641\nFax: +420 558 621 992\nE-mail:\nzasobovani@ondrasek.cz\nKontaktujte nás\nSeznámil(a) jsem se se\nzásadami zpracování osobních údajů"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "ONDRÁŠEK INK-JET SYSTEM spol. s r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 17,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Leady",
+        "vendor": "Imper CZ s.r.o.",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "SmartEmailing",
+        "vendor": "SmartSelling a.s.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Dynamic Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Ads",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "The USERTRUST Network",
+        "vendor": "Comodo Group, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Sectigo",
+        "vendor": "Sectigo Limited",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ONDRÁŠEK INK-JET SYSTEM spol. s r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Ladislav",
+        "last_name": "Tuska",
+        "title": "Project Manager",
+        "email": "ltuska@ondrasek.cz",
+        "phone": "",
+        "company": "Ondrášek INK - JET System",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Radomir",
+        "last_name": "Svrcek",
+        "title": "Obchodní Poradce",
+        "email": "rsvrcek@ondrasek.cz",
+        "phone": "",
+        "company": "Ondrášek INK - JET System",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Daniel",
+        "last_name": "Polednik",
+        "title": "Servisní Technik",
+        "email": "dpolednik@ondrasek.cz",
+        "phone": "+420 558 639 611",
+        "company": "Ondrášek INK - JET System",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 99.0
+      },
+      {
+        "first_name": "Ondrej",
+        "last_name": "Ellinger",
+        "title": "Obchodní Poradce",
+        "email": "oellinger@ondrasek.cz",
+        "phone": "",
+        "company": "Ondrášek INK - JET System",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 99.0
+      },
+      {
+        "first_name": "Pavel",
+        "last_name": "Ondrasek",
+        "title": "Jednatel",
+        "email": "pondrasek@ondrasek.cz",
+        "phone": "",
+        "company": "Ondrášek INK - JET System",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 99.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 17:17"
+}

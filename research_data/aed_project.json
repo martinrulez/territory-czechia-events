@@ -1,0 +1,88 @@
+{
+  "company_key": "aed project",
+  "company_name": "AED project",
+  "domain": "aed-project.cz",
+  "domain_url": "https://aed-project.cz",
+  "events": "BIM DAY 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "AED project",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "00358853",
+    "official_name": "AED PROJECT Architecture Engineering Design s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Vrchlického 291/12, Košíře, 15000 Praha 5, Praha, Vrchlického, 15000",
+    "is_client": true,
+    "current_products": "AEC Collection | AutoCAD LT | Forma",
+    "total_seats": "19",
+    "current_acv_eur": "45300.0",
+    "potential_acv_eur": "64800.0",
+    "nearest_renewal": "2026-08-09",
+    "days_to_renewal": "108",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle with Inventor, Fusion, Vault for design + manufacturing",
+    "all_upsells": "PDMC; BIM Collaborate Pro; ACC Build",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Platform",
+    "industry_segment": "Architecture Services",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://aed-project.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "AED project",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 08:51",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "inventor",
+        "vault",
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

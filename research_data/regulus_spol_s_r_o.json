@@ -1,0 +1,229 @@
+{
+  "company_key": "regulus_spol_s_r_o",
+  "company_name": "REGULUS spol. s r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": true,
+    "company": "REGULUS spol. s r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 29,
+    "all_technologies": [
+      {
+        "product": "Hammer.js",
+        "vendor": "Eight Media",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Apple (common)",
+        "vendor": "Apple Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Bitly",
+        "vendor": "Bitly, Inc.",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Dynamic Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Play Badges",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DoubleClick Floodlight",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Ads",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Sectigo",
+        "vendor": "Sectigo Limited",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Lucky Orange",
+        "vendor": "Lucky Orange LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "DoubleClick Bid Manager",
+        "vendor": "Google LLC",
+        "category": "Demand Side Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookie Script",
+        "vendor": "Objectis Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "The USERTRUST Network",
+        "vendor": "Comodo Group, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MICHAL BOBOŠÍK",
+        "firstName": "MICHAL",
+        "lastName": "BOBOŠÍK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:40:38",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.regulus.cz",
+    "homepage": {
+      "title": "Regulus - Úsporné topení",
+      "description": "Regulus - vaše volba pro úsporné a účinné vytápění a ohřev vody. Vyberte si z široké nabídky tepelných čerpadel, solárních panelů a dalších produktů.",
+      "text_excerpt": "Regulus - Úsporné topení\nChytré a úsporné\nteplo pro váš domov\nNavrhujeme a vyrábíme chytré systémy, které využívají přírodní zdroje pro úsporu energií. Už přes 30 let.\nChci ušetřit\n30+ let zkušeností\n12+ tisíc instalací\nNovinka\nRozdělovací boxy pro PE potrubí\nChci vědět více\nNovinka\nFiltr s magnetem k plynovým kotlům\nChci vědět více\nNovinka\nOběhové čerpadlo Regulus RPA 25-6\nChci vědět více\nŘešení Regulus\nKulový kohout se zalomenou pákou\nChci vědět více\nNovinka\nCirkulační čerpadlo Regulus RPC\nChci vědět více\nNaše řešení\nKomplexní řešení na míru\nUšetříte až 80 % na energiích. Teplo, elektřina, chlazení i teplá voda od českého experta s 30+ lety zkušeností\nČíst více\nTepelná\nčerpadla\nČíst více\nProdukty\nFotovoltaické\nsystémy\nČíst více\nProdukty\nVětrání\ns rekuperací tepla\nČíst více\nProdukty\nSolární\nohřev\nČíst více\nProdukty\nTisíce spokojených zákazníků od Prahy po Biškek\n30+ let zkušeností\n12+ tisíc instalací\nRodinný dům Nymburk VI\nNymburk\nRodinný dům Obrubce-Obora\nObrubce - Obora\nRodinný dům Třeboň\nTřeboň\nRodinný dům Kvačice\nUherský Ostroh - Kvačice\nShowroom firmy Topič s.r.o.\nHolešov\nRodinný dům Praha 14 Hloubětín\nPraha 14 Hloubětín\nPenzion Rock Lobster\nCraster Velká Británie\nRodinný dům Jindřichův Hradec, Otín\nJindřichův Hradec, Otín\nRodinný dům Veverská Bítýška\nVeverská Bítýška\nRodinný dům Nová Role\nNová Role\nRodinný dům Velhartice\nVelhartice\nRodinný dům Ledenice II\nLedenice\nDomov pro seniory Korýtko Ostrava\nOstrava\nRodinný dům Selibice\nSelibice\nRodinný dům Zborov V\nZborov\nRodinný dům Beňov\nBeňov\nZŠ Zěměchy, Jimlín\nJimlín\nMŠ Zěměchy, Jimlín\nJimlín\nSokolovna Čistá u Horek\nČistá u Horek\nVšechny reference\nOd návrhu po servis. Snadno a bez starostí\nDotace bez papírování\nZískejte státní podporu bez jediné návštěvy úřadu. Prověříme vaše možnosti a dotace vyřídíme za vás.\nBezstarostná montáž a servis\nS námi všechno poběží, jak má – instalace ověřenými partnery, rychlý servis i vzdálený 24/7 monitoring.\nGarance bez háčků\nZa kvalitu ručíme. Na kolektory, čerpadla i nádrže dostanete prodloužené záruky 5, 7 až 10 let.\nRegulus: Síla českých technologií\nKdyž jsme v roce 1992 začínali, solární systémy znal málokdo. Dnes dodáváme technologie do 46 zemí. Ze sklepa v pražských Komořanech jsme vyrostli na firmu se 180 odborníky, vlastním vývojem a výrobou.\nŘešení na míru vašemu domu\nDva domy, dvě potřeby. Proto každé řešení navrhujeme od začátku na míru, podle spotřeby, dispozic a vašich plánů.\nNechte technologie spolupracovat\nVíme, jak chytře kombinovat tepelná čerpadla, fotovoltaiku, solární ohřev i rekuperaci pro až 80% úspory.\nDůvěra je pro nás víc než zakázka\nCo slíbíme, to platí. Když u vás dané řešení nedává smysl, řekneme to. Férovost je základ každého našeho návrhu.\nNovinky a články\nVšechny články\n10. 2. 2026\nSystémy řízeného větrání s rekuperací tepla v praxi: školení pro realizační firmy\nZáznam ze školení pořádaného naším partnerem, DEK Stavebninami.\n11. 12. 2025\nInventura skladu\nVe čtvrtek 22. a pátek 23. ledna 2026 bude probíhat inventura skladů. V tomto "
+    },
+    "about": {
+      "url": "https://www.regulus.cz/o-nas",
+      "text": "O nás : Regulus\nO firmě\nO nás\nZe sklepa v pražských Komořanech do 46 zemí světa\nVíce o nás\nZatímco celý svět hledá cesty, jak šetřit za energie, my už od roku 1992 přinášíme řešení. Vyvíjíme, vyrábíme a dodáváme úsporné systémy pro vytápění, ohřev vody a větrání, které chytře využívají přírodní zdroje.\nDíky české inženýrské vynalézavosti, poctivé práci a důrazu na kvalitu snižujeme náklady tisícům domácností i firem.\nJsme společnost, za kterou stojí:\nčeský majitel a spoluzakladatel\n30+ let\nzkušeností a nepřetržitého vývoje\n180+\nodborníků pod jednou střechou\n12 000+\núspěšných realizací\n46 zemí\npo celém světě, kam putují naše výrobky\n10 000+\npaletových míst ve skladech\n3 výrobní závody\nv ČR a na Slovensku\n24/7\nservisní podpora s vlastním týmem techniků\nProč právě Regulus?\nSpolehlivost prověřená časem\nVíc než 30 let na trhu už něco znamená. Přežili jsme krize, konkurenci i změny technologií. Budeme tu i za 20 let, až budete potřebovat servis.\nČeská vynalézavost v praxi\nNejsme montovna nebo jen přeprodejci. Jsme technici, inženýři a vývojáři, kteří neustále hledají efektivnější způsoby, jak využívat energii úsporněji a udržitelněji.\nUpřímnost místo marketingu\nKdyž slíbíme úsporu kolem 70 %, je to 70 %. Když se vám něco nevyplatí, řekneme to. Radši přijdeme o zakázku než o důvěru.\nMyslíme dlouhodobě\nVyvíjíme systémy, které vydrží desítky let. A stejně přistupujeme i ke vztahům se zákazníky a partnery. Je pro nás důležité, co tu po nás zůstane.\nPoctivá technologie od základů\nNaše systémy navrhujeme, testujeme a vyrábíme sami v Česku, vlastní výrobní závod máme také na Slovensku. Díky tomu víme, že každé řešení funguje tak, jak má.\nFlexibilita a technická důslednost\nNavrhujeme chytrá řešení na míru, od rodinných domů po velké komerční i veřejné projekty. Umíme kombinovat různé technologie i zdroje tepla podle vašich potřeb.\nTři dekády poctivé české práce a inovací\n1987\nNultá léta\nZatímco Československo topí uhlím, Pavel Kučera obhajuje na ČVUT svou diplomovou práci na téma: „Tepelné čerpadlo se solárním absorbérem“.\n1992\nOdvaha začít\nIng. Pavel Kučera se dvěma společníky zakládá Regulus ve sklepě rodinného domu. Začínáme s několika produkty a velkou vizí: vyvíjet úsporné technologie vytápění.\n1993\nPrvní kroky na trh\nPředstavujeme se na veletrhu Aquatherm Praha. První kontakty, první zákazníci, první úspěchy. Zjišťujeme, že Češi chtějí kvalitu, ne jen nízkou cenu.\n1997\nPřekračujeme hranice\nZakládáme první dceřinou společnost Regulus-Technik v Prešově. Začíná naše expanze za hranice Česka. Slovenský trh se stává důležitým pilířem našeho růstu.\n1998\nStěhujeme se do většího\nStávající prostory už nestačí. Přesouváme se do areálu v Praze Do Koutů, kde sídlíme dodnes.\n1999\nPrůkopníci tepelných čerpadel\nJako jedni z prvních přinášíme do ČR tepelná čerpadla. V době, kdy většina lidí neví, co to je. Věříme, že je to budoucnost vytápění.\n2000\nZačínáme s vlastní výrobou\nNespokojíme se s dovozem. Začínáme vyrábět pod vlastní značkou Regulus. Z naší dílny vyjíždí první produkty – čerpadlové skupiny a ventily.\n2005\nPrvní patent\nZískáváme patent na dochlazovací ventil DBV. Důkaz, že umíme nejen vyrábět, ale i vyvíjet vlastní řešení. Následují další patenty v ČR i zahraničí.\n2007\nRosteme\nPřekračujeme hranici 50 zaměstnanců. Z malé firmy se stáváme středním podnikem. Rozšiřujeme výrobu, přidáváme nové technologie.\n2011\nChytrá regulace\nVyvíjíme vlastní inteligentní regulátor IR. Systém, který umožňuje ovládat vytápění přes mobil. Dnes standard, tehdy revoluce.\n2013\nJasná vize\nIng. Pavel Kučera se stává jediným majitelem firmy Regulus. Zakládáme dceřinou společnost v Rumunsku. Expandujeme, ale kořeny zůstávají v Česku.\n2015\nČeši na EXPO\nNavrhujeme a realizujeme kompletní systém ohřevu vody pro český pavilon na výstavě EXPO v Miláně. Naše technologie reprezentují Česko ve světě.\n2019\nModerní výroba\nOtevíráme nový moderní výrobní závod ve Stráži nad Nisou u Liberce. Investujeme do budoucnosti.\n2020\nStovka v Praze\nJen v pražské centrále máme 100 zaměstnanc"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.regulus.cz/kontakty",
+      "text": "Kontakt : Regulus\nKontakt\nObchodní zástupci\nPoptávka na míru\nServis a reklamace\nDceřiné firmy\nObchodní zástupci\nZadejte název své obce\nVedoucí obchodních zástupců\nRoman Bláha\nVedoucí obchodních zástupců\nroman.blaha@regulus.cz\n+420 602 168 538\nObchodní zástupci\nJan Schovánek\njižní Čechy\njan.schovanek@regulus.cz\n+420 722 533 550\nMartin Novák\nstřední Čechy\nnovak@regulus.cz\n+420 725 536 207\nIvan Šrámek\nseverní Čechy\nivan.sramek@regulus.cz\n+420 602 426 376\nMichal Bondor\nvýchodní Čechy\nmichal.bondor@regulus.cz\n+420 607 972 050\nJan Kohoutek\nzápadní Čechy\njan.kohoutek@regulus.cz\n+420 702 006 792\nTomáš Gottwald\nÚstecko\ntomas.gottwald@regulus.cz\n+420 724 126 736\nOndřej Sládok\nVysočina\nondrej.sladok@regulus.cz\n+420 739 479 076\nDaniel Malucha\nOlomoucko\ndaniel.malucha@regulus.cz\n+420 606 581 994\nFrantišek Blecha\nOstravsko\nfrantisek.blecha@regulus.cz\n+420 724 840 696\nFrantišek Kočař\njižní Morava\nfrantisek.kocar@regulus.cz\n+420 724 301 112\nPoptávka na míru\n* - Takto označené údaje jsou povinné\n? - Pokud nebudete znát odpověď na některou z našich otázek, nechte pole volné.\nKontaktní informace\nVolba zákazníka\nJsem uživatel - investor\nJsem dodavatel - obchodní/montážní firma\nNázev firmy*\nJméno*\nPříjmení*\nTelefon*\nE-mail*\nIČO*\nUlice a číslo popisné\nPSČ (místo realizace)*\nMěsto (místo realizace)*\nPlánovaný termín realizace\nObor\nMontáže topení\nMontáže solárních kolektorů\nMontáže tep. čerpadel\nObchod\nMám zájem o\n(Můžete zvolit více variant.)\nTepelné čerpadlo\nSolární systém\nFotovoltaiku\nVětrání s rekuperací tepla\nNevím, potřebuji osobní konzultaci.\nMá být solární systém určen i pro přitápění objektu?\nAno\nVyberte požadovaný typ tepelného čerpadla\nTepelné čerpadlo typu vzduch/voda\nTepelné čerpadlo typu země/voda\nNevím, doporučte\nObjekt ve fázi\nStávající\nVe výstavbě\nPříprava stavby\nHlavní zdroj vytápění\nVyberte hlavní zdroj vytápění\nPlynový kotel\nElektrokotel\nPřímotopy nebo el. podlahové vytápění\nKotel na tuhá paliva\nCentralizované zásobování teplem\nTepelné čerpadlo\nJiné\nJiné\nZůstane stávají"
+    }
+  }
+}

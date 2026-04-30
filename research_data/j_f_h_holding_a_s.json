@@ -1,0 +1,31 @@
+{
+  "company_key": "j_f_h_holding_a_s",
+  "company_name": "J.F.H. HOLDING, a.s.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JIŘÍ HORA",
+        "firstName": "JIŘÍ",
+        "lastName": "HORA",
+        "jobTitle": "předseda správní rady",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:56"
+}

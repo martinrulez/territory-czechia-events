@@ -1,0 +1,386 @@
+{
+  "company_key": "herma gmbh",
+  "company_name": "HERMA GmbH",
+  "domain": "www.herma.com",
+  "domain_url": "https://www.herma.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "HERMA GmbH",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "PDMC",
+    "total_seats": "40",
+    "current_acv_eur": "168000.0",
+    "potential_acv_eur": "347000.0",
+    "nearest_renewal": "2026-06-25",
+    "days_to_renewal": "63",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Advanced CAM and manufacturing capabilities",
+    "all_upsells": "Fusion Mfg Ext; Moldflow; Flex",
+    "reseller": "Td-Is s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Industrial Machinery",
+    "ml_domain": "www.era.aero",
+    "zi_done": true,
+    "employee_count": 1126,
+    "revenue": 305789,
+    "zi_company_name": "HERMA",
+    "zi_domain": "www.herma.com",
+    "zi_city": "Filderstadt",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.herma.com",
+    "homepage": {
+      "title": "HERMA - The brand for labels, labelers & self-adhesive material",
+      "description": "Quality made in Germany: HERMA is the leading brand when it comes to ✓ self-adhesive labels, ✓ pressure-sensitive label materials and ✓ labeling machines!",
+      "text_excerpt": "HERMA - The brand for labels, labelers & self-adhesive material\nHERMA – the brand for labels, labelers & self-adhesive material\nHERMA develops and manufactures self-adhesive materials, labels, and labeling machines for packaging and product identification—a globally unique, integrated chain of expertise. HERMA also offers solutions for automated product handling and consumer products for school, office, and home use.\nMore about the company\nWhat HERMA does\nMaterial\nProduction of self-adhesive paper and film laminates with a wide range of adhesive properties\nComponents for self-adhesive material\nIndustries\nRoll calculator\nOffice and Home\nSelf-adhesive labels for PC printers, products for school and attractive household items\nLabels\nTemplates & software\nSchool, Stickers, Home & Photo\nLabels\nSelf-adhesive labels for manufacturing, trade and logistics – supplied on rolls, sheets and fanfolded, printed or unprinted\nLabels (custom-manufactured)\nLabel configurator digital printing\nOnline shop\nLabeling machines\nReliable labelers and labeling machines for integration into industrial packaging processes\nLabel applicator HERMA 500\nLabeling solutions\nCustomer Portal myHERMA\nFree software for designing and printing labels\nHERMA InNo-Liner - Linerless labeling system\nHERMA in numbers\n452,6 million €\nTurnover in 2024\n1906\nFounded\n1,065\nEmployees\ninternational\nlocations\nMore facts and figures\nInterested in HERMA products?\nWould you like to know more about our product range or a consultation on a suitable solution for you? Contact us today!\nGet in touch\nFor labeling with added value\nHERMA is a\nleading European innovator\nin the development and manufacture of sustainable\nadhesive materials\n, a sought-after specialist in efficient\nlabeling solutions\n, and a technology leader in\nlabelers\nand\nlabeling machines\n. Founded in 1906, HERMA remains family-owned and, with five foreign subsidiaries, is focused on long-term, internationally successful corporate development.\nSelf-adhesive Material\nHERMA's \"Self-adhesive Material\" division offers label materials (\npapers\nand\nfilms\nadhesives\nand\nrelease liners\ncombined to form\nadhesive materials\nfor a wide range of industries. With these numerous self-adhesive materials, labels can be produced for a wide variety of labeling applications.\nHERMA Self-adhesive Material\nLabels for office and home\nIn addition to labels for office, retail and logistics, the HERMA \"Office & Home\" area also offers a wide range of craft and school supplies.\nFolders\nbook covers\nstickers\nas well as our\nmounting\nand\narchiving\nsystems (photo) can be used at home as well as in the office or\nschool\n. Our labels can also be used in a variety of ways, e.g.:\nIn the office as\nfile labels\nAs an\naddress label\nfor sending letters and parcels\nSeal and security labels\nPre-printed labels for usage as signs, also in outdoor environment\nWith HERMA labels for office and home, you are equipped for every application.\nDesign your labels - simply professional. With our free soft"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "HERMA GmbH",
+    "autodesk_products": [
+      "Autodesk AutoCAD"
+    ],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 45,
+    "all_technologies": [
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Adobe FrameMaker",
+        "vendor": "Adobe Inc.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft PowerPoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP ABAP",
+        "vendor": "SAP SE",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP Production Planning",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "SAP S/4HANA",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Charts",
+        "vendor": "Google LLC",
+        "category": "Charting",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Autodesk AutoCAD",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SAP ERP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Python",
+        "vendor": "Python Software Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "C++",
+        "vendor": "Standard C++ Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP CRM",
+        "vendor": "SAP SE",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Power BI",
+        "vendor": "Microsoft Corporation",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Proofpoint",
+        "vendor": "Proofpoint, Inc.",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Userlike",
+        "vendor": "Userlike UG",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "TYPO3 CMS",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "HERMA GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Lourdes",
+        "last_name": "Esguerra",
+        "title": "President",
+        "email": "",
+        "phone": "",
+        "company": "HERMA",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Gold",
+        "last_name": "Sella",
+        "title": "Chief Technology Officer",
+        "email": "",
+        "phone": "",
+        "company": "HERMA",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 09:01"
+}

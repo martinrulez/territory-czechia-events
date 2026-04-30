@@ -1,0 +1,385 @@
+{
+  "company_key": "preciosa",
+  "company_name": "PRECIOSA",
+  "domain": "www.preciosa.com",
+  "domain_url": "https://www.preciosa.com",
+  "events": "Designblok 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "PRECIOSA",
+    "opportunity_score": 20,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.53,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.53,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "00012556",
+    "official_name": "PRECIOSA, a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "14",
+      "20",
+      "256",
+      "41000",
+      "71200",
+      "90390",
+      "432",
+      "46",
+      "741",
+      "812",
+      "32120",
+      "72",
+      "55",
+      "56110",
+      "68200",
+      "00",
+      "23150",
+      "28",
+      "25530",
+      "43120",
+      "93190",
+      "331",
+      "35140",
+      "471",
+      "69200",
+      "72100",
+      "49410",
+      "52260",
+      "71120",
+      "82100",
+      "33200",
+      "35301",
+      "46850",
+      "73110",
+      "855",
+      "32",
+      "00",
+      "23190",
+      "46750",
+      "69200",
+      "6820",
+      "7112",
+      "90020",
+      "56100",
+      "82110",
+      "35130",
+      "71209",
+      "93190",
+      "4120",
+      "46",
+      "52290",
+      "812",
+      "33200",
+      "32",
+      "432",
+      "4312",
+      "72",
+      "7219",
+      "855",
+      "257",
+      "35301",
+      "331",
+      "20",
+      "35302",
+      "32120",
+      "49410",
+      "74100",
+      "25620",
+      "55",
+      "14",
+      "73110",
+      "28",
+      "471"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC",
+      "M&E"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Opletalova 3197/17, 46601 Jablonec nad Nisou, Jablonec nad Nisou, Opletalova, 46601",
+    "zi_done": true,
+    "employee_count": 5000,
+    "revenue": 1594132,
+    "zi_company_name": "Preciosa",
+    "zi_domain": "www.preciosa.com",
+    "zi_city": "Jablonec nad Nisou",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.preciosa.com",
+    "homepage": {
+      "title": "Preciosa Group",
+      "description": "Preciosa Group",
+      "text_excerpt": "Preciosa Group"
+    },
+    "about": {
+      "url": "https://www.preciosa.com/o-nas",
+      "text": "Preciosa Group"
+    },
+    "products": {
+      "url": "https://www.preciosa.com/produkty",
+      "text": "Preciosa Group"
+    },
+    "contact_page": {
+      "url": "https://www.preciosa.com/kontakt",
+      "text": "Preciosa Group"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "PRECIOSA",
+    "autodesk_products": [
+      "Vault Payment Solutions"
+    ],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "Autodesk",
+      "InVision"
+    ],
+    "total_technologies": 27,
+    "all_technologies": [
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Sodexo uk",
+        "vendor": "Sodexo",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "PetWise Marketing",
+        "vendor": "AVImark",
+        "category": "Healthcare Marketing",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Outlook.com",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Vault Payment Solutions",
+        "vendor": "Vault Payment Solutions Group Pty Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Autodesk",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Fusebill",
+        "vendor": "Fusebill Inc.",
+        "category": "Recurring Billing",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Freshservice",
+        "vendor": "Freshworks, Inc.",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "PRECIOSA",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Jan",
+        "last_name": "Stiller",
+        "title": "Chief Executive Officer",
+        "email": "jan.stiller@preciosa.com",
+        "phone": "+420 488 115 099",
+        "company": "Preciosa",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 95.0
+      },
+      {
+        "first_name": "Renard",
+        "last_name": "Goskova",
+        "title": "Founder & Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Preciosa",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Lubomir",
+        "last_name": "Trejbal",
+        "title": "Research & Development, Member of The Board of Management Director, Strategy",
+        "email": "",
+        "phone": "",
+        "company": "Preciosa",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Marc",
+        "last_name": "Cuevas",
+        "title": "Quality Control Vice President, Production",
+        "email": "",
+        "phone": "",
+        "company": "Preciosa",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 84.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 15:41"
+}

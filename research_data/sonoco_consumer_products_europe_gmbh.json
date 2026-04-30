@@ -1,0 +1,103 @@
+{
+  "company_key": "sonoco consumer products europe gmbh",
+  "company_name": "Sonoco Consumer Products Europe GmbH",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Sonoco Consumer Products Europe GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Sonoco Consumer Products Europe GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Andre",
+        "last_name": "Singer",
+        "title": "Employee Production",
+        "email": "andre.singer@sonoco.com",
+        "phone": "+49 6205 203 ext. 120",
+        "company": "Sonoco",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 84.0
+      },
+      {
+        "first_name": "Mathias",
+        "last_name": "Paasch",
+        "title": "Employee Production",
+        "email": "mathias.paasch@sonoco.com",
+        "phone": "+49 6205 203 ext. 120",
+        "company": "Sonoco",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 84.0
+      },
+      {
+        "first_name": "Maurizio",
+        "last_name": "Sabino",
+        "title": "Employee Production",
+        "email": "maurizio.sabino@sonoco.com",
+        "phone": "+49 6205 203 ext. 120",
+        "company": "Sonoco",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 84.0
+      },
+      {
+        "first_name": "Robert",
+        "last_name": "Kaunert",
+        "title": "Automation Project Engineer",
+        "email": "robert.kaunert@sonoco.com",
+        "phone": "",
+        "company": "Sonoco",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 80.0
+      },
+      {
+        "first_name": "Dariusz",
+        "last_name": "Pyka",
+        "title": "",
+        "email": "dariusz.pyka@sonoco.com",
+        "phone": "",
+        "company": "Sonoco",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 75.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 14:43"
+}

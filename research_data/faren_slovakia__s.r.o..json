@@ -1,0 +1,103 @@
+{
+  "company_key": "faren slovakia, s.r.o.",
+  "company_name": "FAREN SLOVAKIA, s.r.o.",
+  "domain": "www.farenslovakia.sk",
+  "domain_url": "https://www.farenslovakia.sk",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "FAREN SLOVAKIA, s.r.o.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 27,
+    "revenue": 7188,
+    "zi_company_name": "Faren Slovakia, sro",
+    "zi_domain": "www.farenslovakia.sk",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.farenslovakia.sk",
+    "homepage": {
+      "title": "FAREN SLOVAKIA",
+      "description": "TFM SYSTEM FAREN SLOVAKIA",
+      "text_excerpt": "FAREN SLOVAKIA\nVÁŠ ÚSPECH ZAČÍNA U NÁS\nČO PONÚKAME\n✓ vodou miešateľné obrábacie kvapaliny, pracie roztoky, kaliace emulzie,\n✓ priemyselné oleje, mazivá, konzervačné, spreje,\n✓ filtre a filtračné plátna, ✓ a mnoho ďalšich produktov a služieb...\nVÁŠ ÚSPECH ZAČÍNA U NÁS\nPREČO SI VYBRAŤ NÁS\n✓ dlhoročné skúsenosti a proaktívny prístup k zákazníkom,\n✓ široký výber produktov, servisných a laboratórnych služieb,\n✓ inovatívne riešenia v oblasti TFM a olejového hospodárstva\nSLUŽBY\nTFM, ANALÝZY, ČISTENIE STROJOV...\nZÁKAZNÍCKA PODPORA\nPoradenstvo a konzultácie pre optimalizáciu produktov olejového hospodárstva\nTFM\nTotal Fluid Management a pravidelné kontroly dodávaných produktov\nANALÝZY\nAnalýzy na certifikovaných prístrojoch, test technickej čistoty, rozbor spektometrom\nČISTENIE STROJOV\nČistenie priemyselných strojov, zariadení a nádrží\nSPRÁVA DÁT\nSoftvér a mobilná aplikácia pre správu dát olejového hospodárstva\nPRODUKTY\nOBRÁBACIE KVAPALINY, PRIEMYSELNÉ OLEJE, FILTRE...\nvodou miešateľné obrábacie kvapaliny, pracie roztoky, kaliace emulzie\npriemyselné oleje pre rôzne výrobné procesy, mazivá, konzervačné oleje, spreje\nfiltre a filtračné plátna, filtračné jednotky, závesné filtre pre chladiace systémy\ntechnické vybavenie pre sklady olejov, priemyselné vysávače, zmiešavače, olejové separátory\npriemyselná chémia, čistiace prostriedky, utierky, hygiena\nVCI antikorózne balenia, emitory, VCI papier, vysúšadlá, drevené boxy\nFAREN TECHNOLOGY\nNIEKTORÉ PRODUKTY Z PONUKY NAŠEJ DCÉRSKEJ SPOLOČNOSTI\nFAREN TECHNOLOGY, s.r.o.\nnáradie na vymeniteľné plátky\nmonolitné náradie\nupínanie a príslušenstvo\nodsávacie jednotky a zariadenia\nMQL mikro mazanie a chladenie\nvýdajné automaty na náradie, OOPP a údržbu\nO NÁS\nSpoločnosť\nFAREN SLOVAKIA, s.r.o.\nvznikla v roku 2008 a v súčasnosti patrí na slovenskom trhu k lídrom v oblasti svojho pôsobenia, ktoré pokrýva dovoz a predaj širokého spektra procesných kvapalín, olejov, mazív, filtračnej techniky, priemyselnej chémie, hygieny, baliaceho materiálu. Dcérska spoločnosť\nFAREN TECHNOLOGY, s.r.o.\nsa zameriava na predaj náradia pre trieskové obrábanie, zariadení MQL, priemyselných výdajných automatov a odsávacích jednotiek.\nNiektorí naši zákazníci a dodávatelia:\nKDE NÁS NÁJDETE\nZobraziť v mapách.cz\nNa fungovanie našej webovej stránky používame tzv. nevyhnutné - funkčné cookies umožňujúce realizovať základné funkcionality webovej stránky.\nBERIEM NA VEDOMIE\nZistiť viac\nNa našej stránke používame technické cookie. Tieto súbory cookie sú nevyhnutné pre fungovanie webových stránok, nie je teda možné ich zakázať. Obvykle sa nastavujú v reakcii na akciu, ktorú na webe sami vykonáte, ako je nastavenie zabezpečenia, prihlásenia a vyplňovania formulárov. Svoj prehliadač môžete nastaviť tak, aby blokoval súbory cookie alebo o nich zasielal upozornenia. Majte na pamäti, že niektoré stránky nebudú bez týchto súborov fungovať. Tieto súbory cookie neukladajú žiadne informácie, ktoré je možné priradiť konkrétnej osobe. Tieto súbory cookie môžeme nastaviť my a"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "FAREN SLOVAKIA, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 5,
+    "all_technologies": [
+      {
+        "product": "Microsoft Dynamics 365 Business Central",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Ruby on Rails",
+        "vendor": "Ruby on Rails",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "FAREN SLOVAKIA, s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 18:28"
+}

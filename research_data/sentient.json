@@ -1,0 +1,337 @@
+{
+  "company_key": "sentient",
+  "company_name": "Sentient",
+  "domain": "jobs.kentigen.com",
+  "domain_url": "https://jobs.kentigen.com",
+  "events": "Czech Green Building Council Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Sentient",
+    "opportunity_score": 33,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.65,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.65,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "63996537",
+    "official_name": "SENTIENT s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "461",
+      "70200",
+      "711",
+      "71120",
+      "74990",
+      "68320",
+      "461",
+      "68320",
+      "70220",
+      "711",
+      "7112",
+      "74901"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Smrčkova 2485/4, Libeň, 18000 Praha 8, Praha, Smrčkova, 18000",
+    "is_client": true,
+    "current_products": "EAGLE | Fusion",
+    "total_seats": "2",
+    "current_acv_eur": "1100.0",
+    "potential_acv_eur": "7200.0",
+    "nearest_renewal": "2027-01-21",
+    "days_to_renewal": "273",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion + EAGLE; Fusion Mfg Ext",
+    "maturity_label": "Multi-Product",
+    "industry_segment": "Industrial Machinery",
+    "ml_domain": "jobs.kentigen.com",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://jobs.kentigen.com",
+    "homepage": {
+      "title": "Úvod | Kentigen",
+      "description": "Kentigen The Art of Industrial Testing Stavíme stroje na automatizaci kontroly kvality a podporujeme vaše cíle… …snižováním nákladů na lidské zdroje a zvyšováním produktivity automatizací výrobních a testovacích procesů. Zkrácením času od vývoje k sériové výrobě agilním přístupem. Zefektivněním sběru, zpracováním dat a řízením výrobních procesů komplexní traceabilitou a unikátním know how. Snížením uhlíkové stopy a maximalizací ziskovosti pomocí eliminace zmetkovitosti […]",
+      "text_excerpt": "Úvod | Kentigen\nPřeskočit na obsah\nKentigen\nThe Art of Industrial Testing\nStavíme stroje\nna automatizaci kontroly kvality\na podporujeme vaše cíle…\n…snižováním nákladů\nna lidské zdroje a\nzvyšováním produktivity\nautomatizací výrobních a testovacích procesů.\nZkrácením času od vývoje k sériové výrobě\nagilním přístupem\nZefektivněním\nsběru, zpracováním dat a řízením výrobních procesů komplexní traceabilitou a\nunikátním know how\nSnížením uhlíkové stopy a\nmaximalizací ziskovosti\npomocí eliminace zmetkovitosti a odpadu.\nZvyšováním životnosti\nproduktů náročnými testy ve ztížených klimatických podmínkách.\nUmožněním\nflexibility\ndodávek trvajících v řádu týdnů.\nSnižováním downtime rychlou reakční dobou a použitím\nšpičkových komponent\nNAŠE ODVĚTVÍ\nNAŠE ZAMĚŘENÍ\nPRODUKTOVÉ PORTFOLIO\nNa čem pracujeme?\nDěláme věci, na kterých záleží\n– Naše stroje testují produkty v těch nejnáročnějších podmínkách, aby splňovaly\nnejvyšší standardy kvality a bezpečnosti\n. Co to znamená v praxi?\nChráníme životy\n– Stavíme testovací stroje pro eCall jednotky v autech, které automaticky volají o pomoc při nehodě.\nHlídáme životy a majetek\n– Ověřujeme spolehlivost požárních hlásičů, které zachraňují domovy i firmy.\nŠetříme zrak (a nervy)\n– Naše kamerové inspekce precizně kontrolují správnost součástek, aby lidé nemuseli.\nDěláme luxus ještě lepším\n– Testujeme USB-C huby do prémiových aut a autosedačky do TOP značek.\nJdeme za hranice současnosti\n– Pomáháme ověřovat životnost jednotek do elektroaut a simulujeme vnější prostředí pro autonomní vozidla.\nŠetříme tuny CO₂\n– Díky našim simulacím se sníží provoz testovacích aut na silnicích, což má reálný dopad na životní prostředí.\nJsme zvyklí držet v tajnosti produkty našich zákazníků, které ještě ve fázi vývoje\nReference\nKONTAKTNÍ OSOBY\nMarek Šantavý\nCEO a jednatel\n+420 721 771 147\nmarek.santavy@kentigen.com\nJosef Nešleha\nCFO\n+ 420 739 235 120\njosef.nesleha@kentigen.com\nLucie Velcerová\nHR Business Partner\n+420 774 909 641\nlucie.velcerova@kentigen.com\nBohumil Kopečný\nOperations Manager\n+420 605 162 877\nbohumil.kopecny@kentigen.com\nMarek Šantavý\nCEO a jednatel\n+420 721 77 11 47\nmarek.santavy@kentigen.com\nJosef Havlíček\nBDM\n+420 603 950 095\njosef.havlicek@kentigen.com\nJosef Nešleha\nCFO\n+ 420 739 235 120\njosef.nesleha@kentigen.com\nLucie Velcerová\nCHO\n+420 774 909 641\nlucie.velcerova@kentigen.com\nMáte  dotazy ohledně automatizované kontroly kvality?\nZavolejte nám nebo napište.\nMarek Šantavý\nCEO\nsales@kentigen.com\n+420 721 771 147\nSpravovat Souhlas s cookies\nK ukládání a/nebo přístupu k informacím o zařízení používáme technologie, jako jsou soubory cookie. Děláme to, abychom zlepšili zážitek z prohlížení a zobrazovali návštěvníkům personalizovaný obsah. Souhlas s těmito technologiemi nám umožní zpracovávat údaje, jako je chování při procházení nebo jedinečná ID na tomto webu. Nesouhlas nebo odvolání souhlasu může nepříznivě ovlivnit určité vlastnosti a funkce.\nFunkční\nFunkční\nVždy aktivní\nTechnické uložení nebo přístup je nezbytně nutný pro legitimní"
+    },
+    "about": {
+      "url": "https://jobs.kentigen.com/o-nas",
+      "text": "O nás | Kentigen\nPřeskočit na obsah\nO NÁS\nSpolečnost\nKentigen s.r.o\nbyla\nzaložena v roce 2013\n. U jejího zrodu stáli otec a syn, Ivan a Marek Šantavý, kteří dodnes firmu vedou a řídí.\nIvan Šantavý vede hodonínskou pobočku a stará se o oblast automatizace řízení strojů a robotiku. Marek Šantavý vede brněnskou a pražskou pobočku a stará se o oblast testovacích strojů a strojového vidění.\nV průběhu své existence se firma začala specializovat na zakázky spojené s\nprůmyslovou automatizací v oblasti automotive a elektrotechniky\n, zvláště pak na\ntestovací stroje elektroniky v oblasti automobilového průmyslu.\nSpolečnost Kentigen si ve spolupráci s klienty zakládá na pravidlech a hodnotách:\nVýstupy nezakrývá licenčními modely\nSe zákazníky vždy jednají odborníci v oboru\n(technici).\nFlexibilita a rychlost menší společnosti\nZměna je vítanou příležitostí.\nRychlost dodání je naší doménou.\nA řídí se mottem Marka Šantavého:\n„Dělám věci tak, jako bych je dělal sám pro sebe – ať už se jedná o služby nebo produkty. To znamená kvalitně, s péčí, zájmem a láskou.“\nO našich začátcích, významu slova Kentigen a dalších zajímavých věcech se dočtete níže v rozhovoru s Markem.\nJaká je historie Kentigenu, jak jsi vlastně začínal?\nKdyž jsem v roce 2012 dokončil školu (VUT FIT), byl mi velkou inspirací můj otec, který většinu života podnikal. Založil jsem si proto živnost a začal samostatný byznys jako programátor měřicích a řídicích systémů. První projekty cílily především na oblast biomedicíny, jedním z nich byl třeba hemodynamický monitor.\nKdyž jsem v druhém roce podnikání založil Kentigen, zakázky nás začaly táhnout spíše do oblasti výroby, byly to například vodní čerpadla do aut (klimatizační soustavy), univerzální testovací stroje na PCB apod.\nPostupem času přibývalo více zakázek spojených s průmyslovou automatizací z oblasti automotive a elektrotechniky a nyní většina zakázek směřuje právě sem. Naší specializací se staly testovací stroje pro elektroniku (Board level, Run-In, functional, EOL) například řídicích, telematických jednotek a senzorů, především pro velké hráče v oblasti automobilového průmyslu.\nJak vznikl název Kentigen?\nJménem Kentigen (z původního Kentigern, „vůdce, mistr, hlavní pán“), odkazujeme na tradici našich předků keltského původu, jakožto návrhářů a vynálezců, a zároveň na místo vzniku firmy, Hodonín.\nKentigen už funguje nějakou dobu, jak jsi se poučil ze svých zkušeností? Co dnes děláš jinak než na začátku svého podnikání?\nKdyž se dívám zpět, dal bych lidem větší zodpovědnost mnohem rychleji a více s nimi sdílel svoje představy a plány. Také bych mnohem dříve přestal programovat a vést projekty po praktické stránce a věnoval se firmě v jiných oblastech, jako třeba rozvoj byznysu a strategické vedení.\nNyní denně přemýšlím nad tím, jak něco vylepšit/delegovat, aby se nám lépe žilo a pracovalo.\nKdyž jsi zmínil lidi, jak to v Kentigenu funguje interně, jakou máte strukturu?\nNaše struktura není moc členitá. Do hlavního vedení patří dva jednatelé:\nIvan Šantavý, který vede hodonínskou pobočku a má na starosti oblast automatizace řízení strojů a robotiku.\nJá, jako druhý z jednatelů, se starám o brněnskou a pražskou pobočku. Má na starosti oblast testovacích strojů a strojového vidění.\nV druhé linii jsou podpůrní členové managementu z řad našich kolegů.\nKaždoměsíčně také pořádáme společnou celofiremní snídani, kde sdílíme kompletní over-view nad uplynulým měsícem a výhled na další období. Naši project owneři komentují, jak si vedeme v různých projektech, jsou tam i vstupy za HR, Finance a Operations. Probíráme naši situaci včetně finančních výsledků a je naším zájmem, aby kolegové měli veškeré dostupné informace, jak se nám daří. Je klíčové, abychom byli všichni na stejné vlně a otevřená komunikace spolu se sdílením dat nám v tom hodně pomáhá.\nJaký je tvůj styl vedení lidí? Změnil se nějak v průběhu času?\nLídrem jsem se stal už v mladém věku a firma se během let postupně rozrostla. Proto se i můj styl vedení hodně změnil. Ze začátku jsem"
+    },
+    "products": {
+      "url": "https://jobs.kentigen.com/produkty",
+      "text": "Produkty | Kentigen\nPřeskočit na obsah\nPRODUKTOVÉ PORTFOLIO\nNa čem pracujeme?\nDěláme věci, na kterých záleží\n– Naše stroje testují produkty v těch nejnáročnějších podmínkách, aby splňovaly\nnejvyšší standardy kvality a bezpečnosti\n. Co to znamená v praxi?\nChráníme životy\n– Stavíme testovací stroje pro eCall jednotky v autech, které automaticky volají o pomoc při nehodě.\nHlídáme životy a majetek\n– Ověřujeme spolehlivost požárních hlásičů, které zachraňují domovy i firmy.\nŠetříme zrak (a nervy)\n– Naše kamerové inspekce precizně kontrolují správnost součástek, aby lidé nemuseli.\nDěláme luxus ještě lepším\n– Testujeme USB-C huby do prémiových aut a autosedačky do TOP značek.\nJdeme za hranice současnosti\n– Pomáháme ověřovat životnost jednotek do elektroaut a simulujeme vnější prostředí pro autonomní vozidla.\nŠetříme tuny CO₂\n– Díky našim simulacím se sníží provoz testovacích aut na silnicích, což má reálný dopad na životní prostředí.\nJsme zvyklí držet v tajnosti produkty našich zákazníků, které ještě ve fázi vývoje\nSpravovat Souhlas s cookies\nK ukládání a/nebo přístupu k informacím o zařízení používáme technologie, jako jsou soubory cookie. Děláme to, abychom zlepšili zážitek z prohlížení a zobrazovali návštěvníkům personalizovaný obsah. Souhlas s těmito technologiemi nám umožní zpracovávat údaje, jako je chování při procházení nebo jedinečná ID na tomto webu. Nesouhlas nebo odvolání souhlasu může nepříznivě ovlivnit určité vlastnosti a funkce.\nFunkční\nFunkční\nVždy aktivní\nTechnické uložení nebo přístup je nezbytně nutný pro legitimní účel umožnění použití konkrétní služby, kterou si odběratel nebo uživatel výslovně vyžádal, nebo pouze za účelem provedení přenosu sdělení prostřednictvím sítě elektronických komunikací.\nPředvolby\nPředvolby\nTechnické uložení nebo přístup je nezbytný pro legitimní účel ukládání preferencí, které nejsou požadovány odběratelem nebo uživatelem.\nStatistiky\nStatistiky\nTechnické uložení nebo přístup, který se používá výhradně pro statistické účely.\nTechnické uložení nebo přístup, který se používá výhradně pro anonymní statistické účely. Bez předvolání, dobrovolného plnění ze strany vašeho Poskytovatele internetových služeb nebo dalších záznamů od třetí strany nelze informace, uložené nebo získané pouze pro tento účel, obvykle použít k vaší identifikaci.\nMarketing\nMarketing\nTechnické uložení nebo přístup je nutný k vytvoření uživatelských profilů za účelem zasílání reklamy nebo sledování uživatele na webových stránkách nebo několika webových stránkách pro podobné marketingové účely.\nSpravovat možnosti\nSpravovat služby\nSpráva {vendor_count} prodejců\nPřečtěte si více o těchto účelech\nPřijmout\nOdmítnout\nZobrazit předvolby\nUložit předvolby\nZobrazit předvolby\n{title}\n{title}\n{title}\nSpravovat souhlas"
+    },
+    "contact_page": {
+      "url": "https://jobs.kentigen.com/kontakty",
+      "text": "Kontakty | Kentigen\nPřeskočit na obsah\nKontakty\nKentigen s.r.o.\nLipová alej 752, 695 01 Hodonín\nIČ:02211491 | DIČ: CZ02211491\nSpolečnost zapsána v Obchodním rejstříku\nu Krajského soudu v Brně, oddíl C, vložka 80599\nsales@kentigen.com\n+420 721 771 147\nwww.kentigen.com\nYoutube\nLinkedin\nMáte  dotazy ohledně automatizované kontroly kvality?\nZavolejte nám nebo napište.\nMarek Šantavý\nCEO\nsales@kentigen.com\n+420 721 771 147\nPonechte toto pole prázdné.\nVaše jméno\nVáš e-mail\nVáš telefon\nVaše zpráva (volitelný)\nSlavnostně přísaháme, že s vaší emailovou adresou budeme zacházet s maximální úctou a budeme ji používat pouze pro dobro, a také vám budeme zasílat newslettery plné užitečných technických informací.\nPřečtěte si naše zásady GDPR.\nBeru na vědomí\nkde nás najdete\nBrno\nČichnova 1294/23A\n624 00 Brno\nPraha\nRumunská 1798/1\n120 00 Praha\nHodonín\nLipová alej 752\n695 01 Hodonín\nWrocław\nLotnicza 12\n54-155 Wrocław\nKONTAKTNÍ OSOBY\nMarek Šantavý\nCEO a jednatel\n+ 420 721 771 147\nmarek.santavy@kentigen.com\nJosef Nešleha\nCFO\n+ 420 739 235 120\njosef.nesleha@kentigen.com\nLucie Velcerová\nCHO\n+420 774 909 641\nlucie.velcerova@kentigen.com\nMarek Šantavý\nCEO a jednatel\n+420 721 77 11 47\nmarek.santavy@kentigen.com\nJosef Havlíček\nBDM\n+420 603 950 095\njosef.havlicek@kentigen.com\nJosef Nešleha\nCFO\n+ 420 739 235 120\njosef.nesleha@kentigen.com\nLucie Velcerová\nCHO\n+420 774 909 641\nlucie.velcerova@kentigen.com\nMarek Šantavý\nCEO a jednatel\n+420 721 77 11 47\nmarek.santavy@kentigen.com\nJosef Nešleha\nCFO\n+ 420 739 235 120\njosef.nesleha@kentigen.com\nLucie Velcerová\nHR Business Partner\n+420 774 909 641\nlucie.velcerova@kentigen.com\nBohumil Kopečný\nOperations Manager\n+420 605 162 877\nbohumil.kopecny@kentigen.com\nReference\nSpravovat Souhlas s cookies\nK ukládání a/nebo přístupu k informacím o zařízení používáme technologie, jako jsou soubory cookie. Děláme to, abychom zlepšili zážitek z prohlížení a zobrazovali návštěvníkům personalizovaný obsah. Souhlas s těmito technologiemi nám umožní zpracovávat údaje, jako "
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Sentient",
+    "autodesk_products": [],
+    "competitor_products": [
+      "Dassault Systemes"
+    ],
+    "cad_bim_other": [],
+    "total_technologies": 34,
+    "all_technologies": [
+      {
+        "product": "Keyence",
+        "vendor": "Keyence Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Dassault Systemes",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cognex",
+        "vendor": "Cognex Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "JetPack",
+        "vendor": "Automattic Inc",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "LabVIEW",
+        "vendor": "National Instruments Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "MathJax",
+        "vendor": "MathJax",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Apple (common)",
+        "vendor": "Apple Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Poptin",
+        "vendor": "Poptin",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "GreenSock",
+        "vendor": "GreenSock",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MARTIN SCHEUCH",
+        "firstName": "MARTIN",
+        "lastName": "SCHEUCH",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-23 12:34",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "inventor",
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

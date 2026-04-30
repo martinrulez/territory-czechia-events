@@ -1,0 +1,192 @@
+{
+  "company_key": "a.e.m. s.r.l. di rota & c.",
+  "company_name": "A.E.M. S.r.l. Di Rota & C.",
+  "domain": "www.aemsrl.it",
+  "domain_url": "https://www.aemsrl.it",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "A.E.M. S.r.l. Di Rota & C.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 4,
+    "revenue": 203,
+    "zi_company_name": "Aem",
+    "zi_domain": "www.aemsrl.it",
+    "zi_city": "Modena",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.aemsrl.it",
+    "homepage": {
+      "title": "Molle per stampi e componenti in elastomero poliuretanico | A.E.M",
+      "description": "",
+      "text_excerpt": "Molle per stampi e componenti in elastomero poliuretanico | A.E.M\nPrec\nPrec\nPrec\nSucc\nSucc\nSucc\nElastomeri Poliuretanici\nUNA TECNOLOGIA INNOVATIVA\nAbbiamo raggiunto i massimi vertici nella produzione nazionale, realizzando poliuretani con un’ottima elasticità, elevate caratteristiche meccaniche, dimensioni standardizzate, lunga durata e alto grado di affidabilità e sicurezza.\nGamma Adipol\nADIPOL riassume ottime qualità performanti in rapporto al prezzo si consideri una durata indicativa di 400.000 battute prima della rottura\nProdotto in due versioni in durezza 90 Sh.A colore arancio e 95 Sh.A.\nSCOPRI LE CARATTERISTICHE\nGamma Ultraflex\nULTRAFLEX rappresenta la produzione migliore in termine di prestazione della molla,con questo è possibile superare agevolmente 800.000 battute senza problemi\nProdotto in tre versioni in durezza 82-92-94 Sh.A in tre colori differenti.\nSCOPRI LE CARATTERISTICHE\nEsempi di Applicazioni\nBarre forate per stampi\nBastoni in elastomero\nCuscini per pressa piegatrice\nEstrattori per punzonatrici\nLastre\nListelli\nManicotti\nMazzuoli\nMolle forate stampi – Adipol\nMolle forate per stampi – Ultraflex\nPuntalini\nSedi metalliche\nA.E.M. srl di Rota & C.\nVia Papa Giovanni XXIII 7, 41100 Modena (Italy)\nTel.\n059.250564\nMail:\ninfo@aemsrl.it\nprivacy\nPrivacy\nScorrere verso l’alto\nScorrere verso l’alto\nScorrere verso l’alto"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "A.E.M. S.r.l. Di Rota & C.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 18,
+    "all_technologies": [
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery Mobile",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "MooTools",
+        "vendor": "MooTools",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Joomla",
+        "vendor": "Joomla!",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "A.E.M. S.r.l. Di Rota & C.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Claudio",
+        "last_name": "Casazza",
+        "title": "Quadro",
+        "email": "",
+        "phone": "",
+        "company": "Aem",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 18:58"
+}

@@ -1,0 +1,41 @@
+{
+  "company_key": "t_master_s_a",
+  "company_name": "T-Master S.A.",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Jakub Sprusiski",
+        "firstName": "Jakub",
+        "lastName": "Sprusiski",
+        "jobTitle": "Director, Product Development & Sales",
+        "email": "jakub.sprusinski@t-master.pl",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Igor Petryczko",
+        "firstName": "Igor",
+        "lastName": "Petryczko",
+        "jobTitle": "Key Account Manager",
+        "email": "igor.petryczko@t-master.pl",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:46"
+}

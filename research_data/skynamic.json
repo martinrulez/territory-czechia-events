@@ -1,0 +1,197 @@
+{
+  "company_key": "skynamic",
+  "company_name": "Skynamic",
+  "domain": "www.skynamic.tv",
+  "domain_url": "https://www.skynamic.tv",
+  "events": "3DISE Conference 2026",
+  "event_count": 1,
+  "lead_class": null,
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Skynamic",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 10,
+    "revenue": 3534,
+    "zi_company_name": "Skynamic",
+    "zi_domain": "www.skynamic.tv",
+    "zi_city": "Berlin",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.skynamic.tv",
+    "homepage": {
+      "title": "Arri Alexa Drone | Professional aerials from Berlin | SKYNAMIC Aerial Filming",
+      "description": "RED Komodo FPV Drone √ Arri Alexa Drone Berlin √ Skilled Pilot with over 15 years of experience from Germany and Spain √ Inspire 3 - Booking FPV Pilot Germany",
+      "text_excerpt": "Arri Alexa Drone | Professional aerials from Berlin | SKYNAMIC Aerial Filming\nZum zweiten Video\nArri Alexa drone company from Berlin, Germany flying a wide range of cinematic lenses\nHeavy lifting drones not only fit the highest demands in aerial cinematography they also require pilots with a trained skillset. As we are filmmakers by heart we love to fly all kinds of cinema lenses such as Standard Primes, Ultra Primes, Highspeed Primes, Anamorphic Kowa or heavy Cooke glases. The goal is always to match the style the DoP asks us for to tell the story. Welcome in our world of possibilities – Please always feel free to\ndrop us a line\nwith your project and your special needs – Julian Gloeckner is always on your service.\nFlying custom camera rigs for commercial and feature films\nMore over we can provide VR 360° rigs such as Insta360 Titan and GoPro Omni alike. Or carrying big LED lights for videos like the\nO2 visual net\nIn whole Europe we take care of all necessary permits.\nWe have our Spanish Department based in\nBarcelona\nto offer professional service. So there is no need for expensive batterie and equipment transport."
+    },
+    "about": {
+      "url": "https://www.skynamic.tv/about",
+      "text": "ARRI Drone - Cinema Cameras in the air | SKYNAMIC Aerial Filming\nPictures in our minds, flying in our hearts.\nFast, precise, dynamic – benchmarks for today’s aerial filming and benchmarks we set ourselves. We utilize the latest technology in aerial filmmaking to reach the ultimate goal and fulfill our passion: Capture unique images that tell a story! To realize that goal, piloting skills are essential. Our\naward winning Skynamic Pilots\nlook back at 10 years of flight experience in the RC Model sector. Our\nTeam\nincludes filmmakers and photographers, which means that we all speak the same visual language.\nIn order to view the video, you must agree to personal data being transmitted to YouTube or Vimeo.\nChange privacy settings"
+    },
+    "products": {
+      "url": "https://www.skynamic.tv/services",
+      "text": "The Best Drone - Team in Germany | SKYNAMIC Aerial Filming\nWe want to change something.\nWe believe that “Close Range Aerial Filming” will play the key role on how to use camera drones now and in the future! We strive for dynamic movement close above ground, we want to chase fast cars or fly perfect circles around motifs. We are a crane, a dolly, a steadycam and a helicopter.\nFPV HD livestream for TV broadcast\nDrone\npictures make an event more tangible for the viewer! On the projector or directly at home. We offer livestreaming via SDI directly to the broadcasting van. We are able to stream an uncompressed FullHD signal  up to 1 km range, with a flight time up to 18min, depending on the system. Several drones teams are available for an event. The newest trend is indoor flights at smaller and bigger events. With our custom-build sub 150g drone\nwe are allowed to fly over crowds in indoor venues\nSkynamic FAQ\n10 minutes preparation on set\nFlight time 4-20 Minutes, depending on the system\nBattery change within one minute\nWorldwide use with flexible drone systems and permits\nOperation ceiling: 3600m above sea level\nPilots with many years of experience\nRedundant drone systems on set\nPilot Licenses for Europe, Morocco and many more\nWorldwide insurance cover\n3x HD Video transmitters for Liveview\nSelf-sufficient power source via own electric generator\n19″ SUMO Client monitor\nIn order to view the video, you must agree to personal data being transmitted to YouTube or Vimeo.\nChange privacy settings"
+    },
+    "contact_page": {
+      "url": "https://www.skynamic.tv/kontakt",
+      "text": "Drone Aerials Berlin & Frankfurt | SKYNAMIC Aerial Filming\nContact\nSkynamic International\nmail:\nphone:\n+49 1577 251 68 92 (Gabriel Manz)\nMainz\nKaiserstraße 41\nMainz 55116\nGermany\nBerlin\n13351 Berlin\nGermany\nContact\nSkynamic South Africa\nmail:\nphone:\n+27 73 368 7078 (Russell Campbell)\nCapetown\nRestio Rd, Big Bay\nCape Town, 7441\nLinkedIn\nInstagram\nIMDb\nVimeo\nYoutube\nName *\nEmail *\nSubject *\nMessage\nI have read and accepted the\nGDPR data protection statement\nBitte lasse dieses Feld leer.\nBitte lasse dieses Feld leer.\nIn order to view the video, you must agree to personal data being transmitted to YouTube or Vimeo.\nChange privacy settings"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Skynamic",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 13,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "GoDaddy DNS",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Starfield Technologies",
+        "vendor": "Starfield Technologies",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Skynamic",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Andreas",
+        "last_name": "Hechler",
+        "title": "Technical Consultant and Brand Co-Founder",
+        "email": "",
+        "phone": "",
+        "company": "Skynamic",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Alejandro",
+        "last_name": "Segur",
+        "title": "Managing Partner",
+        "email": "",
+        "phone": "",
+        "company": "Skynamic",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      },
+      {
+        "first_name": "Cornelia",
+        "last_name": "Schendel",
+        "title": "Producer",
+        "email": "",
+        "phone": "",
+        "company": "Skynamic",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 79.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 19:04"
+}

@@ -1,0 +1,154 @@
+{
+  "company_key": "nira",
+  "company_name": "Nira",
+  "domain": "nira.app",
+  "domain_url": "https://nira.app",
+  "events": "3DISE Conference 2026",
+  "event_count": 1,
+  "lead_class": null,
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Nira",
+    "opportunity_score": 30,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 1.0,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 1.0,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "09267565",
+    "official_name": "NIRA Real Estate s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "68200",
+      "71110",
+      "71120",
+      "7112",
+      "6820",
+      "7111"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Mostecká 273/21, Malá Strana, 11800 Praha 1, Praha, Mostecká, 11800",
+    "zi_done": true,
+    "employee_count": 8,
+    "revenue": 2085,
+    "zi_company_name": "dRaster",
+    "zi_domain": "nira.app",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://nira.app",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Nira",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 5,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Slascone",
+        "vendor": "Slascone GmbH",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Nira",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Kyammbadde",
+        "last_name": "Samuel",
+        "title": "NIRA Registration Officer",
+        "email": "",
+        "phone": "",
+        "company": "dRaster",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 78.0
+      },
+      {
+        "first_name": "Stefan",
+        "last_name": "Kikanovic",
+        "title": "Full-Stack Developer",
+        "email": "",
+        "phone": "",
+        "company": "dRaster",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Andrew",
+        "last_name": "Johnson",
+        "title": "Co-Founder & Principal & Developer",
+        "email": "andrew@nira.app",
+        "phone": "",
+        "company": "dRaster",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 12:56"
+}

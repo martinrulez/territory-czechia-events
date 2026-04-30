@@ -1,0 +1,225 @@
+{
+  "company_key": "abb s.r.o.",
+  "company_name": "ABB s.r.o.",
+  "domain": "www.abbvie.sk",
+  "domain_url": "https://www.abbvie.sk",
+  "events": "MSV 2025 Exhibitor Catalog,MSV 2025 Full Exhibitor List",
+  "event_count": 2,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ABB s.r.o.",
+    "opportunity_score": 26,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.5,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "02192152",
+    "official_name": "ABB hotel s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "00",
+      "56110",
+      "00",
+      "56100"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "č.p. 490, 74271 Hodslavice, Hodslavice, 74271",
+    "is_client": true,
+    "current_products": "EAGLE | Fusion + EAGLE",
+    "total_seats": "2",
+    "current_acv_eur": "1500.0",
+    "potential_acv_eur": "6550.0",
+    "nearest_renewal": "2026-11-17",
+    "days_to_renewal": "208",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle 1 standalone D&M tools into one collection",
+    "all_upsells": "PDMC; Forma; Flex",
+    "reseller": "Digital River Ireland, Ltd.",
+    "maturity_label": "Multi-Product",
+    "industry_segment": "Buildings",
+    "ml_domain": "www.abbas.cz",
+    "zi_done": true,
+    "employee_count": 451,
+    "revenue": 102960,
+    "zi_company_name": "AbbVie Slovensko",
+    "zi_domain": "www.abbvie.sk",
+    "zi_city": "Bratislava",
+    "zi_country": "Slovakia",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "revenue_growth": 0.0,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.abbvie.sk",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "ABB s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 15,
+    "all_technologies": [
+      {
+        "product": "Adobe Dynamic Media",
+        "vendor": "Adobe Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Adobe Experience Cloud",
+        "vendor": "Adobe Inc.",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "OneTrust",
+        "vendor": "OneTrust, LLC",
+        "category": "Data Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Constellix",
+        "vendor": "Tiggee LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Adobe Experience Manager",
+        "vendor": "Adobe Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Oracle Taleo Enterprise Cloud Service",
+        "vendor": "Oracle Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Avature",
+        "vendor": "Avature LLC",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ABB s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Vera",
+        "last_name": "Kratochvilova",
+        "title": "Head of GM's Office",
+        "email": "",
+        "phone": "",
+        "company": "AbbVie Slovensko",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Tomas",
+        "last_name": "Ejchan",
+        "title": "Executive Director",
+        "email": "",
+        "phone": "",
+        "company": "AbbVie Slovensko",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 79.0
+      },
+      {
+        "first_name": "Viktor",
+        "last_name": "Červený",
+        "title": "Digital Service Manager",
+        "email": "viktor.cerveny@cz.abb.com",
+        "phone": "",
+        "company": "AbbVie Slovensko",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 95.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 08:50"
+}

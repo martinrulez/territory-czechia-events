@@ -1,0 +1,442 @@
+{
+  "company_key": "rockwell automation gmbh",
+  "company_name": "Rockwell Automation GmbH",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Rockwell Automation GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": true,
+    "company": "Rockwell Automation GmbH",
+    "autodesk_products": [
+      "AutoCad Electrical",
+      "Autodesk AutoCAD",
+      "Autodesk Inventor",
+      "Autodesk Revit",
+      "Autodesk Vault",
+      "HashiCorp Vault",
+      "Vault Payment Solutions"
+    ],
+    "competitor_products": [
+      "CATIA",
+      "Dassault Systemes",
+      "PTC Creo",
+      "PTC Creo (Pro/ENGINEER)",
+      "PTC FlexPLM",
+      "PTC Windchill PLM",
+      "Pro/ENGINEER Mechanica",
+      "Pro/Engineer",
+      "Siemens PLM",
+      "Solidworks",
+      "ThingWorx"
+    ],
+    "cad_bim_other": [
+      "ANSYS",
+      "Assemble",
+      "Autodesk",
+      "Built",
+      "Captura",
+      "Chief Architect",
+      "InVision",
+      "Mathematica",
+      "Sigma",
+      "Site Director",
+      "Studio 5000"
+    ],
+    "total_technologies": 1070,
+    "all_technologies": [
+      {
+        "product": "Built",
+        "vendor": "Built",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Jasper",
+        "vendor": "Jasper AI, INC.",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Seismic",
+        "vendor": "Seismic Software Inc dba Seismic",
+        "category": "Sales Enablement",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Hugging Face",
+        "vendor": "Hugging Face, Inc",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Nutanix",
+        "vendor": "Nutanix, Inc.",
+        "category": "Server Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "TestCafe",
+        "vendor": "Developer Express, Inc.",
+        "category": "Testing and QA",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Privlege Access Management",
+        "vendor": "ARCON",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Wdesk",
+        "vendor": "Workiva Inc.",
+        "category": "Corporate Performance Management",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Information Builders WebFOCUS",
+        "vendor": "Information Builders Inc",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "G2Crowd",
+        "vendor": "G2 Crowd, Inc.",
+        "category": "Online Review Management",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HR Manager",
+        "vendor": "HR Manager Talent Solutions International",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Arista Networks",
+        "vendor": "Arista Networks, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Visual Studio Team Services",
+        "vendor": "Microsoft Corporation",
+        "category": "Source Code Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Sequence",
+        "vendor": "PNMsoft",
+        "category": "Blockchain",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Salt Security",
+        "vendor": "Salt Security, Inc.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "API Gateway",
+        "vendor": "Akamai Technologies, Inc.",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Sentinel",
+        "vendor": "WhiteHat Security",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Salt",
+        "vendor": "SaltStack Inc",
+        "category": "Configuration Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Affinity",
+        "vendor": "Affinity",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "FactoryTalk Optix",
+        "vendor": "Rockwell Automation Inc.",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Plex MES",
+        "vendor": "Plex Systems, Inc.",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "PlantPAx Distributed Control System",
+        "vendor": "Rockwell Automation Inc.",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Traceable AI",
+        "vendor": "Traceable Inc.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Claroty",
+        "vendor": "Claroty Ltd",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Vault Payment Solutions",
+        "vendor": "Vault Payment Solutions Group Pty Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Idexx Cornerstone",
+        "vendor": "IDEXX",
+        "category": "Medical Practice Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Powerplatform",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "OpenAI",
+        "vendor": "OpenAI",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cloudbees Jenkins",
+        "vendor": "Cloudbees, Inc",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Elastic",
+        "vendor": "Elastic",
+        "category": "Enterprise Search",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Plex Smart Manufacturing Platform",
+        "vendor": "Plex Systems, Inc.",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Miro",
+        "vendor": "Miro Technologies",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Boomi",
+        "vendor": "Boomi, LP",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "OT cybersecurity",
+        "vendor": "Infradata Inc.",
+        "category": "Network Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Prometheus",
+        "vendor": "Linux",
+        "category": "IT Infrastructure Monitoring",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "update CRM",
+        "vendor": "Aurea, Inc.",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "TypeScript",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "TOGAF",
+        "vendor": "The Open Group",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "ThreadX",
+        "vendor": "Express Logic",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Samsung",
+        "vendor": "Samsung Electronics Co Ltd",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Optix",
+        "vendor": "NVIDIA Corporation",
+        "category": "Facilities Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "OData",
+        "vendor": "OData",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "OAuth",
+        "vendor": "OAuth",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Keysight",
+        "vendor": "Keysight Technologies, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Rockwell Automation GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Manfred",
+        "last_name": "Koch",
+        "title": "Software DevOps Senior Engineer",
+        "email": "",
+        "phone": "",
+        "company": "Rockwell Automation Solutions",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 84.0
+      },
+      {
+        "first_name": "Volker",
+        "last_name": "Fischer",
+        "title": "MES Consultant",
+        "email": "",
+        "phone": "",
+        "company": "Rockwell Automation Solutions",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Armin",
+        "last_name": "Lechler",
+        "title": "MES Consultant and Teamlead",
+        "email": "",
+        "phone": "",
+        "company": "Rockwell Automation Solutions",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Tjarko",
+        "last_name": "van der Linde",
+        "title": "Life Science Consultant",
+        "email": "",
+        "phone": "",
+        "company": "Rockwell Automation Solutions",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 74.0
+      },
+      {
+        "first_name": "Thomas",
+        "last_name": "Glaser",
+        "title": "Project Development",
+        "email": "",
+        "phone": "",
+        "company": "Rockwell Automation Solutions",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 14:35"
+}

@@ -1,0 +1,91 @@
+{
+  "company_key": "alfe_brno_s_r_o",
+  "company_name": "Alfe Brno, s. r. o.",
+  "domain": "www.alfe.cz",
+  "events": "Czech Foundry Association Members",
+  "technographics": {
+    "success": true,
+    "company": "Alfe Brno, s. r. o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "HANA PORTOVÁ",
+        "firstName": "HANA",
+        "lastName": "PORTOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:32",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.alfe.cz",
+    "homepage": {
+      "title": "Úvodní strana | Alfe Brno",
+      "description": "",
+      "text_excerpt": "Úvodní strana | Alfe Brno\nALFE BRNO, s.r.o.,\nslévárna založená v roce 1912\nÚvodní strana\nHistorie firmy\nVýrobní program\nDekorativní litina\nPrůmyslové odlitky\nOdlitky ze zinku\nCínové odlitky\nDokumenty\nKontakty\nPrůmyslové odlitky\nKusová výroba odlitků ze šedé a tvárné litiny a ze slitin hliníku.\nDekortivní litina\nVýroba dekorativní, městské a zahradní litiny.\nOdlitky ze zinku\nOdstředivě lité odlitky do gumových forem.\nCínové odlitky\nVýroba dekorativních cínových a olověných odlitků.\nÚvodní\nslovo\nVítejte na stránkách ALFE BRNO, s.r.o., slévárny s dlouholetou tradicí a bohatým výrobním programem.\nKontaktujte nás\nSlévárna\ns tradicí\nSlévárna byla založena v roce 1912 panem Antonínem Haraštou a v současné době jsou vlastníky jeho potomci.\nHistorie firmy\nDokumenty\nke stažení\nStáhněte si katalog našich výrobků. Ceník Vám rádi zašleme na požádání.\nDokumenty\nALFE BRNO, s.r.o.,\nslévárna založená v roce 1912\n© Copyright 2009 - 2026 ALFE Brno |\npixistudio"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

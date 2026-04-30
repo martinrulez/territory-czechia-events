@@ -1,0 +1,99 @@
+{
+  "company_key": "ceitec",
+  "company_name": "CEITEC",
+  "domain": "",
+  "domain_url": "",
+  "events": "United by Innovation 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "CEITEC",
+    "opportunity_score": 12,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "75088983",
+    "official_name": "CEITEC Cluster- bioinformatics z.s.p.o.",
+    "legal_form": "751",
+    "nace_codes": [
+      "73200",
+      "72100",
+      "8559",
+      "7219",
+      "73200",
+      "8559"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "U vodárny 2965/2, Královo Pole, 61600 Brno, Brno, U vodárny, 61600",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "CEITEC",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Augusto",
+        "last_name": "Gadelha Vieira",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Ceitec",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 84.0
+      },
+      {
+        "first_name": "Jean-Pierre",
+        "last_name": "Longère",
+        "title": "President & Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Ceitec",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 19:26",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

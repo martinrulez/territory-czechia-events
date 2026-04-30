@@ -1,0 +1,68 @@
+{
+  "company_key": "roadtwin s.r.o.",
+  "company_name": "RoadTwin s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "URBIS Smart Cities 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "RoadTwin s.r.o.",
+    "opportunity_score": 19,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.44,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.44,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "09700013",
+    "official_name": "RoadTwin s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "00",
+      "46900",
+      "62",
+      "73110",
+      "47",
+      "00",
+      "46900",
+      "47",
+      "620",
+      "73110"
+    ],
+    "ares_segments": [
+      "M&E"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Cukrovarská 3006/20, Jižní Předměstí, 30100 Plzeň, Plzeň, Cukrovarská, 30100",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "RoadTwin s.r.o.",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:49"
+}

@@ -1,0 +1,242 @@
+{
+  "company_key": "argutec s.r.o.",
+  "company_name": "Argutec s.r.o.",
+  "domain": "www.argutec.eu",
+  "domain_url": "https://www.argutec.eu",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": 3625,
+  "enrichment": {
+    "company_name": "Argutec s.r.o.",
+    "opportunity_score": 31,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.58,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.58,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "29453721",
+    "official_name": "Argutec, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "K",
+      "33200",
+      "26510",
+      "952",
+      "72",
+      "26510",
+      "33200",
+      "72",
+      "952",
+      "J"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Na Nivách 1339/4, Zábřeh, 70030 Ostrava, Ostrava, Na Nivách, 70030",
+    "is_client": true,
+    "current_products": "Inventor",
+    "total_seats": "1",
+    "current_acv_eur": "2800.0",
+    "potential_acv_eur": "9000.0",
+    "nearest_renewal": "2026-10-11",
+    "days_to_renewal": "171",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle with AutoCAD Mechanical, Vault, Fusion for full D&M workflow",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Vault",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other",
+    "ml_domain": "www.argutec.eu",
+    "zi_done": true,
+    "employee_count": 10,
+    "revenue": 2368,
+    "zi_company_name": "Argutec",
+    "zi_domain": "www.argutec.eu",
+    "zi_city": "Ostrava-Poruba",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "revenue_growth": 0.0,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.argutec.eu",
+    "homepage": {
+      "title": "Argutec",
+      "description": "",
+      "text_excerpt": "Argutec"
+    },
+    "about": {
+      "url": "https://www.argutec.eu/o-nas",
+      "text": "Argutec"
+    },
+    "products": {
+      "url": "https://www.argutec.eu/produkty",
+      "text": "Argutec"
+    },
+    "contact_page": {
+      "url": "https://www.argutec.eu/kontakt",
+      "text": "Argutec"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Argutec s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "Autodesk"
+    ],
+    "total_technologies": 12,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Matomo",
+        "vendor": "Matomo Software",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Autodesk",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Argutec s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Martin",
+        "last_name": "Plaček",
+        "title": "Chief Executive Officer",
+        "email": "placek@argutec.eu",
+        "phone": "",
+        "company": "Argutec",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 93.0
+      },
+      {
+        "first_name": "Michal",
+        "last_name": "Holiš",
+        "title": "Chief Technology Officer",
+        "email": "holis@argutec.eu",
+        "phone": "+420 602 315 141",
+        "company": "Argutec",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 93.0
+      },
+      {
+        "first_name": "Martin",
+        "last_name": "Kusyn",
+        "title": "Project Manager",
+        "email": "kusyn@argutec.eu",
+        "phone": "+420 735 177 778",
+        "company": "Argutec",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 75.0
+      },
+      {
+        "first_name": "Marek",
+        "last_name": "Horáček",
+        "title": "Programátor",
+        "email": "horek@argutec.eu",
+        "phone": "",
+        "company": "Argutec",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 12:43"
+}

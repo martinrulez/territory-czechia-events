@@ -1,0 +1,83 @@
+{
+  "company_key": "hans schröder maschinenbau gmbh",
+  "company_name": "Hans Schröder Maschinenbau GmbH",
+  "domain": "www.piegatura.it",
+  "domain_url": "https://www.piegatura.it",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Hans Schröder Maschinenbau GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 30,
+    "revenue": 6894,
+    "zi_company_name": "Hans Schröder Maschinenbau",
+    "zi_domain": "www.piegatura.it",
+    "zi_city": "Villanova d'Asti",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.piegatura.it",
+    "homepage": {
+      "title": "Piegatura.it centri di piegatura a lama variabile",
+      "description": "",
+      "text_excerpt": "Piegatura.it centri di piegatura a lama variabile\nHans Schröder Maschinenbau GmbH\nFondata nel 1949, Hans Schröder Maschinenbau GmbH unifica gli approcci tradizionali e moderni nella costruzione di macchine: gestita con successo come azienda a conduzione familiare di qualità e orientato al cliente, Hans Schröder Maschinenbau è specializzata nello sviluppo di moderni sistemi di macchine per la piegatura e il taglio della lamiera.\nIl successo dell’integrazione della Società Fasti nel 2006 e la sua presenza in tutto il mondo fanno del Gruppo Schröder  uno dei fornitori leader di oggi di macchine per la piegatura, il taglio, e la bordatura.\nLe macchine di precisione della società spaziano da soluzioni collaudate per artigiani a macchine innovative ad alte prestazioni per i processi automatici di produzione industriali.\nNel complesso, il Gruppo Schröder impiega attualmente più di 240 persone in varie località, in patria e all’estero.\ni nostri prodotti"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Hans Schröder Maschinenbau GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 2,
+    "all_technologies": [
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Hans Schröder Maschinenbau GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 18:12"
+}

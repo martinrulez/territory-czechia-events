@@ -1,0 +1,31 @@
+{
+  "company_key": "j_4_s_r_o",
+  "company_name": "J 4 s.r.o.",
+  "domain": "",
+  "events": "interpack 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Jan Wagner",
+        "firstName": "Jan",
+        "lastName": "Wagner",
+        "jobTitle": "Company Founder and Co-owner",
+        "email": "jan.wagner@j4w.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:56"
+}

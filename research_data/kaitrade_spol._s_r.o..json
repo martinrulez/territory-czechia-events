@@ -1,0 +1,91 @@
+{
+  "company_key": "kaitrade spol. s r.o.",
+  "company_name": "KAITRADE spol. s r.o.",
+  "domain": "www.avilatrade.cz",
+  "domain_url": "https://www.avilatrade.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "KAITRADE spol. s r.o.",
+    "opportunity_score": 33,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.65,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.65,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "45801096",
+    "official_name": "KAITRADE spol. s r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46900",
+      "261",
+      "33140",
+      "47730",
+      "261",
+      "3314",
+      "46900",
+      "47730"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "U Elektry 830/2b, Hloubětín, 19800 Praha 9, Praha, U Elektry, 19800",
+    "is_client": true,
+    "current_products": "Fusion",
+    "total_seats": "1",
+    "current_acv_eur": "600.0",
+    "potential_acv_eur": "8200.0",
+    "nearest_renewal": "2026-10-01",
+    "days_to_renewal": "161",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Fusion Sim Ext",
+    "maturity_label": "Foundation",
+    "industry_segment": "Games",
+    "ml_domain": "www.avilatrade.cz",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "revenue_growth": -99.8,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.avilatrade.cz",
+    "homepage": {
+      "title": "Kontakt - Avilatrade",
+      "description": "Technical Advisory",
+      "text_excerpt": "Kontakt - Avilatrade\nAvilatrade s.r.o.\nÃhlednÃ¡ 96/5\n621 00 Brno ÅeÄkovice\nIÄ:  044 59 920\nDIÄ:  CZ04459920\nspoleÄnost zapsÃ¡na v ObchodnÃ­m rejstÅÃ­ku u KrajskÃ©ho soudu v BrnÄ, oddÃ­l C, vloÅ¾ka 90012"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "KAITRADE spol. s r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 08:41"
+}

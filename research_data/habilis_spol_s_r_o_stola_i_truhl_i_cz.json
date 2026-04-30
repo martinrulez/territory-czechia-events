@@ -1,0 +1,41 @@
+{
+  "company_key": "habilis_spol_s_r_o_stola_i_truhl_i_cz",
+  "company_name": "HABILIS spol. s r.o. (Stolaři-Truhláři.cz)",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JIŘÍ EICHLER",
+        "firstName": "JIŘÍ",
+        "lastName": "EICHLER",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "TOMÁŠ PEŠL",
+        "firstName": "TOMÁŠ",
+        "lastName": "PEŠL",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:24"
+}

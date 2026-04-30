@@ -1,0 +1,164 @@
+{
+  "company_key": "ctu prague - faculty of architecture",
+  "company_name": "CTU Prague - Faculty of Architecture",
+  "domain": "www.blog-archkuleuven.be",
+  "domain_url": "https://www.blog-archkuleuven.be",
+  "events": "Digi/BIM Day CKA 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "CTU Prague - Faculty of Architecture",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 16,
+    "revenue": 2963,
+    "zi_company_name": "Faculty of Architecture",
+    "zi_domain": "www.blog-archkuleuven.be",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.blog-archkuleuven.be",
+    "homepage": {
+      "title": "KU Leuven Faculteit Architectuur blog – De blogomgeving van de Faculteit Architectuur",
+      "description": "The Faculty of Architecture offers courses in our two campuses in Brussels and Ghent. Students can choose freely from a wide variety of design studios that are at the core of the educational program and provide an interactive and open environment that accommodates students from around the world.\r\nTh",
+      "text_excerpt": "KU Leuven Faculteit Architectuur blog – De blogomgeving van de Faculteit Architectuur\nNaar de inhoud springen\nNEWS\nChapex Wins Mies van der Rohe Award 2026\nStudio expo: Dead Poets Society 20/04\nFatimazahra Hamoutahar wins the KU Leuven prize for the best Master’s Thesis on Brussels\nInterior Forum THEN 20+27/04\nSofa Talk w Johan Nielsen: Adaptive Reuse 29/04\nThe Faculty of Architecture offers courses in our two campuses in Brussels and Ghent. Students can choose freely from a wide variety of design studios that are at the core of the educational program and provide an interactive and open environment that accommodates students from around the world.\nThe design studio landscape is formed along\nEngagements\nwith each a specific focus:\nCraftsmanship\nMediating Tactics, Urban Cultures\n. The master studios and electives are related to one of these engagements.\nGoing Public lectures\nThe Going Public programme of the Faculty of Architecture of the KU Leuven is highlighting the current debates in the studios, courses and research groups. It consists of a lectures series that both brings discourse to the faculty and – vice versa – internal discussions to the world.\nRead more and register\nhere.\nMaster studios\nExplore the master studio options\nhere\nCraftsmanship\nMediating tactics\nUrban Cultures"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "CTU Prague - Faculty of Architecture",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 9,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bitly",
+        "vendor": "Bitly, Inc.",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "CTU Prague - Faculty of Architecture",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Carlos",
+        "last_name": "Coelho",
+        "title": "President",
+        "email": "",
+        "phone": "",
+        "company": "Faculty of Architecture",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 80.0
+      },
+      {
+        "first_name": "Michael",
+        "last_name": "Lautwein",
+        "title": "Founder & Interact Project Member",
+        "email": "",
+        "phone": "",
+        "company": "Faculty of Architecture",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Preechaya",
+        "last_name": "Sittipunt",
+        "title": "Director of INDA",
+        "email": "",
+        "phone": "",
+        "company": "Faculty of Architecture",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 18:41"
+}

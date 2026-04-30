@@ -1,0 +1,402 @@
+{
+  "company_key": "renfroe_zvedac_sv_rky",
+  "company_name": "Renfroe - zvedací svěrky",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "Renfroe - zvedací svěrky",
+    "autodesk_products": [
+      "Vault Payment Solutions"
+    ],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 108,
+    "all_technologies": [
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Octopus",
+        "vendor": "Octopus Systems Ltd.",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft Azure Kubernetes Service",
+        "vendor": "Microsoft Corporation",
+        "category": "Containerization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "JavaScript",
+        "vendor": "Netscape",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Coupa",
+        "vendor": "Coupa Software Inc",
+        "category": "Travel and Expense Management",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "HashiCorp Terraform",
+        "vendor": "Terraform",
+        "category": "Configuration Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Microsoft SQL Server",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Microsoft Azure",
+        "vendor": "Microsoft Corporation",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Power BI",
+        "vendor": "Microsoft Corporation",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Octopus Deploy",
+        "vendor": "Octopus Deploy Pty. Ltd.",
+        "category": "Deployment",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "HubSpot",
+        "vendor": "HubSpot, Inc",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Vault Payment Solutions",
+        "vendor": "Vault Payment Solutions Group Pty Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "GitHub Actions",
+        "vendor": "GitHub, Inc.",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft Outlook",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Advertising",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Transact-SQL",
+        "vendor": "Microsoft Corporation",
+        "category": "Database Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Tornado",
+        "vendor": "Apps",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Webflow",
+        "vendor": "Webflow, Inc.",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Hootsuite",
+        "vendor": "Hootsuite Inc.",
+        "category": "Social Media Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "GoDaddy DNS",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "State Farm",
+        "vendor": "State Farm Mutual Automobile Insurance Company",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Ryan Renfroe",
+        "firstName": "Ryan",
+        "lastName": "Renfroe",
+        "jobTitle": "President",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Christopher Statt",
+        "firstName": "Christopher",
+        "lastName": "Statt",
+        "jobTitle": "Chief Financial Officer",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Devan Garcia",
+        "firstName": "Devan",
+        "lastName": "Garcia",
+        "jobTitle": "Director, Business Operations & Chief Operating Officer, Level Scope)",
+        "email": "dgarcia@earenfroe.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Roy Stubbs",
+        "firstName": "Roy",
+        "lastName": "Stubbs",
+        "jobTitle": "Chief Technology Officer",
+        "email": "rstubbs@earenfroe.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Jason Wilson",
+        "firstName": "Jason",
+        "lastName": "Wilson",
+        "jobTitle": "Director, Claims Operations",
+        "email": "jwilson@earenfroe.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:40:46",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.earenfroe.com",
+    "homepage": {
+      "title": "RENFROE®",
+      "description": "",
+      "text_excerpt": "RENFROE®\nThe Leader in Claims Management and Innovation\nThe Leader in Claims Management and Innovation\nRENFROE is a family-owned, independent, full-service claims management firm that has helped many of the largest insurance companies in the country take care of their customers for the past 30 years. We consistently achieve top marks in customer service and professionalism by upholding high standards and delivering exceptional service to our clients. RENFROE is a leader in developing and leveraging technology to streamline the claims lifecycle and deployment process.\nRENFROE is a family-owned, independent, full-service staffing, adjusting, and claims management firm that has helped many of the largest insurance companies in the country take care of their customers for the past 30 years. We consistently achieve top marks in customer service and professionalism by upholding high standards and delivering exceptional service to our clients. RENFROE is a leader in developing and leveraging technology to streamline the claims lifecycle and deployment process.\nOptimizing the Claims Journey for Carriers and Policyholders\nLeveraging our decades of experience working within the property and casualty claims industry, RENFROE is committed to make the claims process faster, more efficient, and more satisfying for carriers and policyholders alike. We are achieving this through a combination of exceptional human resources and cutting-edge technology. Our offerings to carriers fall into three main pillars:\nClaims Management\nProperty and auto claims management and adjusting. Includes daily and catastrophe adjusting, property loss inspections, quality management, and support solutions.\nTechnology and R&D\nRENFROE is home to a robust research and development team that is building some of the most advanced technology the insurance industry has ever seen. Some of our solutions are already available for use by carriers.\nLearning and Development\nWe've trained more than 50,000 claim professionals over the past 30 years. RENFROE now offers custom learning and development programs to carriers looking to outsource their staff training.\nSolutions for Every Single Claim Need\nRENFROE is equipped and experienced to provide carriers innovative and effective solutions for every stage of the claim workflow.\nCatastrophe Claims Management\nRENFROE has provided support to carriers of all sizes for every major catastrophe in the United States since 1994.\nDaily Claims\nInstantly flex your claims adjusting capacity in response to changes in your workforce or claim volume.\nProperty Loss Inspections\nUse RENFROE’s highly trained non-licensed inspectors for low-touch, low-complexity daily claims.\nQuality Management\nUtilize our file review, QA, and estimate review and audit services to ensure you pay what you owe on every claim.\nClaims Support\nWe offer support solutions that aim to make the claim experience easier for adjusters and policyholders alike.\nTechnology and R&D\nCutting edge solutions"
+    },
+    "about": {
+      "url": "https://www.earenfroe.com/about",
+      "text": "About RENFROE\nAbout RENFROE\nOptimizing the Claims Journey With Exceptional People and Technology™\nAs one of the largest and most tenured claim management firms in the United States, our resources have played roles in our clients' offices, remotely, and out in the field on a diverse number of disaster projects, oil spills, explosions, product liability/product recall, chemical releases, hailstorms, wildfires, hurricanes, earthquakes, tornados, floods, and ice storms in addition to general staffing needs.\nRENFROE is committed to fostering a dedicated and\nworld-class workforce\n, leveraging\ntechnology\n, communication, and\ntraining\nto be there for our clients\nno matter the need\n, quantity, or location. Whether during times of disaster, claims overload, or other demands, our talented team stands ready with the agility and\ncare\nthat our clients have come to expect and\ntrust\nfrom RENFROE.\nOur Mission\nTo optimize the claims journey with exceptional people and technology.\nOur Vision\nTo simplify the insurance experience.\nOur Values\nEmpathy, Excellence, Growth, Service, Integrity, Curiosity\nOur Vision\nTo simplify the insurance experience.\nOur Values\nEmpathy, Excellence, Growth, Service, Integrity, Curiosity\nOur Team\nOur extraordinary project resources and home office employees are backed by a world-class team of executives and leaders under the guidance of an experienced board of directors.\nExecutive Team\nAustin Renfroe\nChief Executive Officer\nRoy Stubbs\nChief Technology Officer\nAshley Hattaway\nGeneral Counsel\nBoard of Directors\nBakari Brock\nBoard Member\nTina Dai\nBoard Member\nYohei Nakajima\nBoard Member\nGene Renfroe\nFounder, Advisory Member\nJana Renfroe\nFounder, Advisory Member\nHome Office Leadership\nDevan Garcia\nVice President of Operations\nPhilomena Ogbah\nVice President of Finance\nJoe LaFountaine\nDirector of Claim Operations\nJason Wilson\nDirector of Claim Operations\nAshley Goosen\nDirector of Workforce\nValerie Green\nDirector of Human Resources\nHiro Kobayashi\nDirector of AI\nArmon Drysdale\nMarketing Manager\nShelie Leverett\nTraining Manager\nBob Beamer\nOperations Manager\nChristine Bowling\nQuality Assurance Manager\nRaymond Prine\nOperations Manager\nCompany\nAbout RENFROE\nJoin Team RENFROE\nOur Team\nContact Us\nNews\nPrivacy Policy\nClient Confidentiality\nSolutions\nProperty Claims Adjusting\nAuto Claims Adjusting\nProperty Loss Inspections\nQuality Management\nClaims Support\nTechnology and R&D\nLearning and Development\nAdjuster Resources\nSynRG Mobile App\nCareer Development\nResource Portal\n~ Awards and Honors ~\nInc. 5000\n(2023 – #34 in Insurance)\nInc. Regionals Southeast\n(2024 – #202; 2023 – #134)\nNewsweek\nAmerica’s Greatest Workplaces (2025, 2023)\nNewsweek\nAmerica’s Most Admired Workplaces (2026, 2025)\nNewsweek\nAmerica's Greatest Workplaces for Gen Z (2025)\nNewsweek\nAmerica’s Greatest Workplaces for Diversity (2023) •\nNewsweek\nAmerica’s Greatest Workplaces for Parents & Families (2023)\nNewsweek\nAmerica’s Greatest Workplaces for Women (2023)\nNewsweek\nAmerica’s Greatest Workplaces for Job Starters (2023)\nUniversity of Texas Exes\nLonghorn 100 (2023)\nCopyright\nE. A. Renfroe & Company, Inc. All Rights Reserved\nCopyright 2025 E. A. Renfroe & Company, Inc. All Rights Reserved"
+    },
+    "products": {
+      "url": "https://www.earenfroe.com/services",
+      "text": "RENFROE®\nThe Leader in Claims Management and Innovation\nThe Leader in Claims Management and Innovation\nRENFROE is a family-owned, independent, full-service claims management firm that has helped many of the largest insurance companies in the country take care of their customers for the past 30 years. We consistently achieve top marks in customer service and professionalism by upholding high standards and delivering exceptional service to our clients. RENFROE is a leader in developing and leveraging technology to streamline the claims lifecycle and deployment process.\nRENFROE is a family-owned, independent, full-service staffing, adjusting, and claims management firm that has helped many of the largest insurance companies in the country take care of their customers for the past 30 years. We consistently achieve top marks in customer service and professionalism by upholding high standards and delivering exceptional service to our clients. RENFROE is a leader in developing and leveraging technology to streamline the claims lifecycle and deployment process.\nOptimizing the Claims Journey for Carriers and Policyholders\nLeveraging our decades of experience working within the property and casualty claims industry, RENFROE is committed to make the claims process faster, more efficient, and more satisfying for carriers and policyholders alike. We are achieving this through a combination of exceptional human resources and cutting-edge technology. Our offerings to carriers fall into three main pillars:\nClaims Management\nProperty and auto claims management and adjusting. Includes daily and catastrophe adjusting, property loss inspections, quality management, and support solutions.\nTechnology and R&D\nRENFROE is home to a robust research and development team that is building some of the most advanced technology the insurance industry has ever seen. Some of our solutions are already available for use by carriers.\nLearning and Development\nWe've trained more than 50,000 claim professionals over the past 30 years. RENFROE now offers custom learning and development programs to carriers looking to outsource their staff training.\nSolutions for Every Single Claim Need\nRENFROE is equipped and experienced to provide carriers innovative and effective solutions for every stage of the claim workflow.\nCatastrophe Claims Management\nRENFROE has provided support to carriers of all sizes for every major catastrophe in the United States since 1994.\nDaily Claims\nInstantly flex your claims adjusting capacity in response to changes in your workforce or claim volume.\nProperty Loss Inspections\nUse RENFROE’s highly trained non-licensed inspectors for low-touch, low-complexity daily claims.\nQuality Management\nUtilize our file review, QA, and estimate review and audit services to ensure you pay what you owe on every claim.\nClaims Support\nWe offer support solutions that aim to make the claim experience easier for adjusters and policyholders alike.\nTechnology and R&D\nCutting edge solutions"
+    },
+    "contact_page": {
+      "url": "https://www.earenfroe.com/contact",
+      "text": "Contact RENFROE\nContact RENFROE\nNeed to reach us? Use the contact information below or drop as a line using the contact form at the bottom of the page.\nReporting Security and Confidentiality Breaches\nTo report a potential breach in security or confidentiality, please use the contact form below. Be sure to include the nature of the breach and what happened, but\ndo not\ninclude any confidential, sensitive, or private information.\nPhone:\n205-982-6230\nFax:\n205-982-6239\nCorporate Headquarters\n505 20th Street North\nSuite 1220 1799\nBirmingham, AL 35203\nCareer Development Center and\nDallas Client Service Center\n8304 Esters Boulevard\nSuite 890\nIrving, TX 75063\nCorporate Headquarters and\nBirmingham Client Service Center\n1800 International Park Drive\nSuite 250\nBirmingham, AL 35243\nCareer Development Center and\nDallas Client Service Center\n8304 Esters Boulevard\nSuite 890\nIrving, TX 75063\nSend a Message to RENFROE\nFirst Name\nLast Name\nEmail Address\nMessage\nDo not include sensitive, confidential, or private information in your message.\nThank you! Your submission has been received!\nOops! Something went wrong while submitting the form.\nCompany\nAbout RENFROE\nJoin Team RENFROE\nOur Team\nContact Us\nNews\nPrivacy Policy\nClient Confidentiality\nSolutions\nProperty Claims Adjusting\nAuto Claims Adjusting\nProperty Loss Inspections\nQuality Management\nClaims Support\nTechnology and R&D\nLearning and Development\nAdjuster Resources\nSynRG Mobile App\nCareer Development\nResource Portal\n~ Awards and Honors ~\nInc. 5000\n(2023 – #34 in Insurance)\nInc. Regionals Southeast\n(2024 – #202; 2023 – #134)\nNewsweek\nAmerica’s Greatest Workplaces (2025, 2023)\nNewsweek\nAmerica’s Most Admired Workplaces (2026, 2025)\nNewsweek\nAmerica's Greatest Workplaces for Gen Z (2025)\nNewsweek\nAmerica’s Greatest Workplaces for Diversity (2023) •\nNewsweek\nAmerica’s Greatest Workplaces for Parents & Families (2023)\nNewsweek\nAmerica’s Greatest Workplaces for Women (2023)\nNewsweek\nAmerica’s Greatest Workplaces for Job Starters (2023)\nUni"
+    }
+  }
+}

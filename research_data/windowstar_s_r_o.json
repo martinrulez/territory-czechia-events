@@ -1,0 +1,91 @@
+{
+  "company_key": "windowstar_s_r_o",
+  "company_name": "WindowStar s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": true,
+    "company": "WindowStar s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Martin Ruckp",
+        "firstName": "Martin",
+        "lastName": "Ruckp",
+        "jobTitle": "Vedoucí Výroby",
+        "email": "martin@ws-mojeokna.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:45",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ws-mojeokna.cz",
+    "homepage": {
+      "title": "Design obytných a veřejných prostor a řešení oken a dveří",
+      "description": "Design obytných a veřejných prostor se zaměřením na okna, vchodové dveře a stínící techniku. Estetika, funkčnost a práce se světlem jako součást architektury.",
+      "text_excerpt": "Design obytných a veřejných prostor a řešení oken a dveří\nDesign obytných a veřejných prostor: rovnováha mezi komfortem a estetikou\nProstorový design je umění. Každý projekt je jedinečný. Důležitá je rovnováha mezi funkcí a krásou. Obytné prostory vyžadují teplo. Veřejná prostranství přísnost. Správná okna vám pomohou dosáhnout vašeho cíle. Každý detail designu vyžaduje promyšlení.\nProč hrají klíčovou roli okna?\nOkno je zdrojem světla. Vytváří náladu. Světlo oživuje prostor. Okna určují styl fasády. Poskytují tepelnou izolaci. Moderní okna šetří energii. Kvalita okna ovlivňuje akustiku. Výhled z okna se může stát součástí interiéru. Okna propojují vnitřní a venkovní prostory.\nNová okna stratos\nZ interiérové strany pocítíte příjemnou atmosféru díky dřevěným oknům, z venku se okno díky hliníkovému opláštění stává bezúdržbové.\nVýroba Vchodových dveří\nVchodové dveře určují první dojem domu. Perfektně doplňují architekturu domu a jsou - podle požadovaného efektu - v designu nenápadné, nebo nápadné.\nStínící technika\nOkenice a posouvací okenice jsou atraktivním doplňkem a nabízejí nejen sluneční ochranu. Jsou nabízeny v různých barvách, aby ladily s fasádou domu."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

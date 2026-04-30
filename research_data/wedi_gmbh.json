@@ -1,0 +1,248 @@
+{
+  "company_key": "wedi gmbh",
+  "company_name": "wedi GmbH",
+  "domain": "www.wedi.de",
+  "domain_url": "https://www.wedi.de",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "wedi GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 392,
+    "revenue": 74847,
+    "zi_company_name": "wedi",
+    "zi_domain": "www.wedi.de",
+    "zi_city": "Emsdetten",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.wedi.de",
+    "homepage": {
+      "title": "wedi Systemwelt - Ganzheitliche Lösungen für modulare Badkonzepte",
+      "description": "Hier finden Sie Bauplatten Lösungen, bodengleiche Duschen, Dampfbäder, Badmöbel, Wellnessobjekte und wissenswertes zur Verarbeitung und Technik",
+      "text_excerpt": "wedi Systemwelt - Ganzheitliche Lösungen für modulare Badkonzepte\nKommen Sie schneller ans Ziel:\nZielgruppe\nIch bin …\nPrivatkunde\nVerarbeiter & Handwerker\nArchitekt & Planer\nFachhändler\nSpäter entscheiden\nWeiter\nZur Startseite\nSpäter entscheiden\nPrivatkunde\nVerarbeiter & Handwerker\nArchitekt & Planer\nFachhändler\nSuche öffnen\nSuche schliessen\nSuchbegriff\nSuchen\nBausysteme\nBauplatten\nFunktionselemente\nWandelemente\nSystemzubehör\nVerklebung\nAbdichtung & Entkopplung\nBefestigung\nSchallschutz\nBodengleiche Duschen\nFundo Duschelemente mit Punktentwässerung\nFundo Duschelemente mit Linienentwässerung\nZubehör\nDie ARDEX Produkte\nDesignelemente\nSanoasa Bänke und Liegen\nSanbath Waschtisch\nSanbath Modular Waschtisch\nSanbath Flex Waschtisch\nSanbath Wave Badewanne\nDesignoberflächen\nFundo Top Punktentwässerung\nFundo Top Linienentwässerung\nTop Wall Wandverkleidung\nSanoasa Top Sitzbank\nSanoasa Top Ecksitz\nI-Board Top WC-Verkleidung\nSanwell Top Nische\nProduktanwendungen\nBauplatte einbauen\nBodengleiche Dusche einbauen\nTrenn- & Duschwände erstellen\nVerkleiden & Gestalten mit Bauplatte\nBänke und Liegen einbauen\nWannen und Waschtische aufbauen\nAbdichten & Entkoppeln im Nassbereich\nThemenwelt\nBarrierefrei mit PVC\nBadezimmer Design\nTeilsanierung Dusche\nSanierung & Renovierung\nBadsanierung mit ARDEX\nFreistehende Trennwände bis 180 cm\nBarrierefreiheit\nAbdichtung\nEnergetische Badsanierung\nSmarter arbeiten\nSpezialbereiche\nSpa & Wellness\nPreFab\nModulares Bauen\nBranchen\nPrivatkunden\nHandwerk\nArchitektur & Planung\nFachhandel\nReferenzen\nHändlersuche\nVerarbeitersuche\nVertrieb\nEuropa\nNordamerika\nAustralien und Neuseeland\nAsien\nsonstige Länder\nSchulungen & Events\nSchulungsakademie\nMessen & Veranstaltungen\nPlanung & Ausschreibung\nAnwendungstechnische Beratung\nObjektberatung\nAusschreibungstexte\nZulassungen & Prüfzeugnisse\nPlanung mit BIM\nMuster & Exponate\nDownloadbereich\nDuschkonfigurator\nDampfbadkonfigurator\nGarantie\nÜber uns\nwedi Standorte\nwedi Geschichte\nArdex Group\nKarriere\nOffene Stellen\nBenefits\nEinstiegsmöglichkeiten\nEngagement\nNachwuchsförderung\nwedicef\nVerbandsarbeit\nQualität und Umwelt\nNachhaltigkeit\nZertifikate & Standards\nQualitätssicherung\nVerpackungsverordnung\nDigitalisierung\nEntwicklung\nPresse & News\nNewsletter\nKontaktformular\nSeit mehr als 40 Jahren steht wedi für wegweisende Innovationen in der Gestaltung von Bädern und Nassräumen. Ob Neubau, Renovierung oder Sanierung – unsere Lösungen vereinen hochwertige Materialien, zukunftsorientiertes Design und eine durchdachte Funktionalität.\nMit einem klaren Blick für die Anforderungen von morgen entwickeln wir Systeme, die effizient, barrierefrei und langlebig sind. Unser Anspruch an Qualität und unsere Erfahrung machen uns zu einem zuverlässigen Partner für Projekte jeder Größe – von kleinen Badezimmern bis hin zu umfangreichen Wellnessoasen.\nWir sind stolz darauf, mit smarten Lösungen den Standard in der Branche zu setzen und unsere Kundinnen und Kunden durch Expertise und Verlässlichkeit zu unterstützen.\nLassen Sie sich ins"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "wedi GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 23,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "TYPO3 CMS",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "accurate",
+        "vendor": "Accurate Background",
+        "category": "Pre-Employment Assessment",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "able",
+        "vendor": "Able",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "wedi GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Carlos",
+        "last_name": "Escobar",
+        "title": "Co-Founder & Chief Technology Officer",
+        "email": "",
+        "phone": "",
+        "company": "wedi",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Marshal",
+        "last_name": "Studd",
+        "title": "Owner Operator",
+        "email": "",
+        "phone": "",
+        "company": "wedi",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Sebastian",
+        "last_name": "Wedig",
+        "title": "Vice President, Operations",
+        "email": "",
+        "phone": "",
+        "company": "wedi",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 16:34"
+}

@@ -1,0 +1,212 @@
+{
+  "company_key": "automatic-systeme dreher gmbh",
+  "company_name": "Automatic-Systeme Dreher GmbH",
+  "domain": "www.dreher.de",
+  "domain_url": "https://www.dreher.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Automatic-Systeme Dreher GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 95,
+    "revenue": 5225,
+    "zi_company_name": "Automatic-Systeme Dreher",
+    "zi_domain": "www.dreher.de",
+    "zi_city": "Sulz am Neckar",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.dreher.de",
+    "homepage": {
+      "title": "Automationslösungen für Ihr Presswerk | DREHER Automation",
+      "description": "Die Automatic-Systeme Dreher GmbH ist Ihr führender Systemlieferant für Anlagen im Bereich Pressenautomation. Lassen Sie sich kompetent beraten.",
+      "text_excerpt": "Automationslösungen für Ihr Presswerk | DREHER Automation\nWillkommen in der Zukunft\nAutomatic-Systeme Dreher GmbH\nHochproduktive Fertigung von Rotor- und Statorblechen\nElektroblechstanzen\nLaserschneidanlagen von DREHER Automation\nHigh-Speed Laser Blanking\nDie standardisierte Umformpresse\nPress2perForm\nSteuerungs-Upgrade jetzt!\nSinumerik 840D abgekündigt\nSystemlösungen für die Umformtechnik\nDie Automatic-Systeme Dreher GmbH ist der führende Systemlieferant für Automationslösungen im Bereich umformtechnischer Fertigungsprozesse. Ob für aktuelle Anwendungen oder für Ideen, die die Zukunft gestalten, bei uns finden Sie den richtigen Ansatz für die Optimierung Ihres Fertigungsprozesses.\nPressenautomation\nOb Coil-Handling oder Platinen-Handling\nWir liefern sowohl in der Blechumformung als auch in der Massivumformung ganzheitliche Lösungsansätze.\nPressenautomation\nUmformanlagen\nVon der Stanzanlage bis zur Pressenstraße\nMit Fokus auf den gesamten Umformprozess liefert DREHER Automation schlüsselfertige Umformanlagen.\nUmformanlagen\nPressenretrofit\nProduktivität, Sicherheit, Energieeffizienz und Leichtbau\nWir bringen Ihre Umformanlage auf den neuesten Stand der Technik.\nPressenretrofit\nKarriere mit DREHER Automation\nWie aus Ideen Erfolge werden\nIdeen brauchen Raum, Zeit und Menschen, die sie wahr werden lassen. Das alles gibt es bei\nDREHER\nAutomation. Wir haben immer Platz für kluge Köpfe und finden immer einen Weg, auch das Unmögliche möglich zu machen. Wie wir das tun? Mit vollem Einsatz, purer Leidenschaft und einem starken Team.\nKarriere bei Dreher\nAusbildung bei DREHER Automation\nCreate your future!\nViele unserer langjährigen Mitarbeiter und Mitarbeiterinnen haben ihre Laufbahn bei\nDREHER\nAutomation begonnen. Ausbildung ist dabei unsere Stärke – und zugleich unsere große Leidenschaft. Wir bei\nDREHER\nAutomation brennen dafür, auch die nächste Generation für unsere Ideen zu begeistern.\nAusbildung bei Dreher\nDREHER Automation News\nCookie Einstellungen\nWenn Sie die Einträge sehen möchten, akzepzieren Sie bitte die Marketing Cookie in den\nCookie Einstellungen"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Automatic-Systeme Dreher GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 21,
+    "all_technologies": [
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "CleverReach",
+        "vendor": "CleverReach GmbH & Co.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Network Advertising Initiative Opt Out",
+        "vendor": "Network Advertising Initiative (NAI)",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Hetzner",
+        "vendor": "Hetzner Online GmbH",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google AdSense",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Automatic-Systeme Dreher GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Gunar",
+        "last_name": "Haid",
+        "title": "Manager, Key-Account",
+        "email": "",
+        "phone": "",
+        "company": "Automatic-Systeme Dreher",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 84.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 18:54"
+}

@@ -1,0 +1,137 @@
+{
+  "company_key": "vaculift",
+  "company_name": "Vaculift",
+  "domain": "www.theviroc.com",
+  "domain_url": "https://www.theviroc.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Vaculift",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 11,
+    "revenue": 2487,
+    "zi_company_name": "Vaculift",
+    "zi_domain": "www.theviroc.com",
+    "zi_city": "Tulsa",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.theviroc.com",
+    "homepage": {
+      "title": "Home: Vacuworx International Race of Champions",
+      "description": "",
+      "text_excerpt": "Home: Vacuworx International Race of Champions\nVacuworx Invitational Race of Champions\nVacuworx\nhas embraced a Tulsa dirt track racing tradition,\nThe Chili Bowl,\nby sponsoring the\nVacuworx Invitational Race of Champions (VIROC) on the first night of the Midget Nationals event.\nThe action packed 20 lap race showcases past Chili Bowl champions as well as past VIROC champions.\nHeld each year since 1987 at the Tulsa Expo Raceway (inside the Expo Center at the Tulsa State Fairgrounds),\nthe Nationals was initially sponsored by the Chili Bowl food company. Now known simply as “The Chili Bowl,”\nthe 5-day event is racing’s winter answer to football’s Super Bowl, drawing huge crowds of fans and competitors\nfrom across the United States and beyond! Vacuworx is also the presenting sponsor for the Friday night\nqualifying races.\nVIROC Hall of Fame\n2020 - Christopher Bell\n2019 - Tanner Thorson\n2018 - Chad Boat\n2017 - Kyle Larson\n2016 - Tanner Thorson\n2015 - Sammy Swindell\n2014 - Kyle Larson\n2013 - Kevin Swindell\n2012 - Sammy Swindell\n2011 - Sammy Swindell\n2010 - Brad Loyet\n2009 - Sammy Swindell\nCopyright © 2026\nVaculift™ Inc. dba Vacuworx®\nVacuworx Invitational Race of Champions\nP.O. Box 472145\nTulsa, OK 74147\ninfo@theviroc.com\n918.591.3883"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Vaculift",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 11,
+    "all_technologies": [
+      {
+        "product": "Amazon CloudFront",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon",
+        "vendor": "Amazon.com, Inc.",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Amazon Web Hosting",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Starfield Technologies",
+        "vendor": "Starfield Technologies",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Amazon Simple Email Service",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Email Delivery",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon EC2",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Vaculift",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 16:38"
+}

@@ -1,0 +1,42 @@
+{
+  "company_key": "connect_cz_s_r_o",
+  "company_name": "CONNECT CZ, s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "VÁCLAV KULT",
+        "firstName": "VÁCLAV",
+        "lastName": "KULT",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:07:10",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.cs-cont.cz",
+    "homepage": {
+      "title": "CS-CONT - CS-CONT (INT)",
+      "description": "",
+      "text_excerpt": "CS-CONT - CS-CONT (INT)\nCS-CONT\nint\nDeutsch\nEnglish\nSelect another language\nSelect a language\nČesko\nPolska\nInternational"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

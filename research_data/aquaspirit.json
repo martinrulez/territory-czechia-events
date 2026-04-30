@@ -1,0 +1,347 @@
+{
+  "company_key": "aquaspirit",
+  "company_name": "AQUASPIRIT",
+  "domain": "www.aquaspirit.com.ua",
+  "domain_url": "https://www.aquaspirit.com.ua",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "AQUASPIRIT",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2027-04-18",
+    "days_to_renewal": "360",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "maturity_label": "Entry",
+    "industry_segment": "Architecture Services",
+    "zi_done": true,
+    "employee_count": 79,
+    "revenue": 4138,
+    "zi_company_name": "Aquaspirit",
+    "zi_domain": "www.aquaspirit.com.ua",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.aquaspirit.com.ua",
+    "homepage": {
+      "title": "Aluminum RIB Boats Manufacturer | Aquaspirit — Built in Ukraine",
+      "description": "Aquaspirit manufactures premium aluminum RIB boats for leisure and professional use. CE-certified. Marine-grade EN AW 5083 hull. Worldwide dealer network.",
+      "text_excerpt": "Aluminum RIB Boats Manufacturer | Aquaspirit — Built in Ukraine\nOfficial manufacturer of aluminium leisure and professional boats. Designed and built in Ukraine. Worldwide availability through an international dealer network.\nFacebook\nX/Twitter\npinterest\nlinkedin\nShare"
+    },
+    "about": {
+      "url": "https://www.aquaspirit.com.ua/o-nas",
+      "text": "Aluminum RIB Boats Manufacturer | Aquaspirit — Built in Ukraine\nOfficial manufacturer of aluminium leisure and professional boats. Designed and built in Ukraine. Worldwide availability through an international dealer network.\nFacebook\nX/Twitter\npinterest\nlinkedin\nShare"
+    },
+    "products": {
+      "url": "https://www.aquaspirit.com.ua/produkty",
+      "text": "Aluminum RIB Boats Manufacturer | Aquaspirit — Built in Ukraine\nOfficial manufacturer of aluminium leisure and professional boats. Designed and built in Ukraine. Worldwide availability through an international dealer network.\nFacebook\nX/Twitter\npinterest\nlinkedin\nShare"
+    },
+    "contact_page": {
+      "url": "https://www.aquaspirit.com.ua/kontakt",
+      "text": "Aluminum RIB Boats Manufacturer | Aquaspirit — Built in Ukraine\nOfficial manufacturer of aluminium leisure and professional boats. Designed and built in Ukraine. Worldwide availability through an international dealer network.\nFacebook\nX/Twitter\npinterest\nlinkedin\nShare"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "AQUASPIRIT",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 32,
+    "all_technologies": [
+      {
+        "product": "F5",
+        "vendor": "F5 Networks, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "F5 BIG-IP Application Security Manager",
+        "vendor": "F5 Networks, Inc.",
+        "category": "Web Application Firewalls",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "WixStores",
+        "vendor": "Wix.com, Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Sentry",
+        "vendor": "Functional Software, Inc.",
+        "category": "Error and Exception Monitoring",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "F5 BIG-IP Platform",
+        "vendor": "F5 Networks, Inc.",
+        "category": "Load Balancers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Webflow",
+        "vendor": "Webflow, Inc.",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Tweet Button",
+        "vendor": "Twitter, Inc.",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Varnish",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Wix",
+        "vendor": "Wix.com, Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "AQUASPIRIT",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Yurii",
+        "last_name": "Nosatskii",
+        "title": "Head of Sales, Departament",
+        "email": "",
+        "phone": "",
+        "company": "Aquaspirit",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 87.0
+      },
+      {
+        "first_name": "Vladyslav",
+        "last_name": "Harshyn",
+        "title": "Export Manager",
+        "email": "",
+        "phone": "",
+        "company": "Aquaspirit",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 83.0
+      },
+      {
+        "first_name": "Alex",
+        "last_name": "Grigus",
+        "title": "Manager, Purchasing",
+        "email": "",
+        "phone": "",
+        "company": "Aquaspirit",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      },
+      {
+        "first_name": "Akshay",
+        "last_name": "Dada",
+        "title": "System Engineer",
+        "email": "",
+        "phone": "",
+        "company": "Aquaspirit",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 15:11",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "company_key": "vimal group",
+  "company_name": "VIMAL GROUP",
+  "domain": "www.vimalgroup.com",
+  "domain_url": "https://www.vimalgroup.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "VIMAL GROUP",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 22,
+    "revenue": 5184,
+    "zi_company_name": "Vimal Group",
+    "zi_domain": "www.vimalgroup.com",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.vimalgroup.com",
+    "homepage": {
+      "title": "Index of /",
+      "description": "",
+      "text_excerpt": "Index of /\nIndex of /\nName\nLast modified\nSize\nDescription\nImages/\n2015-11-11 21:09\nVOFL/\n2015-11-11 21:09\nWEB-INF/\n2015-11-11 21:09\n_vti_bin/\n2015-03-06 11:38\nbackup/\n2018-12-07 16:24\ncalender/\n2010-11-23 19:47\ncgi-bin/\n2005-07-13 20:36\ncss/\n2010-11-23 19:47\ngallery/\n2015-11-11 21:09\nimage/\n2010-11-23 19:47\nincludes/\n2021-10-14 10:00\njs/\n2010-11-23 19:49\npdf/\n2015-11-11 21:09\nsr/\n2019-03-02 13:34\nuserfiles/\n2010-11-23 19:50\nwebadmin/\n2010-11-24 12:08"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "VIMAL GROUP",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 2,
+    "all_technologies": [
+      {
+        "product": "ServInt",
+        "vendor": "Leaseweb Global B.V.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Sectigo",
+        "vendor": "Sectigo Limited",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "VIMAL GROUP",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Vimal",
+        "last_name": "Chaudhary",
+        "title": "Owner",
+        "email": "",
+        "phone": "",
+        "company": "Vimal Group",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Dheeraj",
+        "last_name": "Sharma",
+        "title": "Vice President",
+        "email": "",
+        "phone": "",
+        "company": "Vimal Group",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 92.0
+      },
+      {
+        "first_name": "Ankit",
+        "last_name": "Patel",
+        "title": "Director",
+        "email": "",
+        "phone": "",
+        "company": "Vimal Group",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Jayesh",
+        "last_name": "Patel",
+        "title": "Managing Director",
+        "email": "jayesh.patel@vimalgroup.com",
+        "phone": "",
+        "company": "Vimal Group",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 92.0
+      },
+      {
+        "first_name": "Bhautik",
+        "last_name": "Doshi",
+        "title": "Senior Product Manager",
+        "email": "",
+        "phone": "",
+        "company": "Vimal Group",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 16:35"
+}

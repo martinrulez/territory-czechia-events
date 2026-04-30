@@ -1,0 +1,92 @@
+{
+  "company_key": "terra",
+  "company_name": "Terra",
+  "domain": "www.terrageo.cz",
+  "domain_url": "https://www.terrageo.cz",
+  "events": "Connected Construction Days 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Terra",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "00360108",
+    "official_name": "Terra incognita s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Prouzova 763/10, Vysočany, 19000 Praha 9, Praha, Prouzova, 19000",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-07-26",
+    "days_to_renewal": "94",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Entry",
+    "industry_segment": "Other",
+    "ml_domain": "www.terrageo.cz",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.terrageo.cz",
+    "homepage": {
+      "title": "TerraGeo, s.r.o. - Geologické práce nejen v regionu Vysočiny",
+      "description": "Kompletní inženýrskogeologické průzkumy a rešeršní zprávy pro liniové stavby, výstavbu malých vodních nádrží, skládky komunálního odpadu apod.",
+      "text_excerpt": "TerraGeo, s.r.o. - Geologické práce nejen v regionu Vysočiny\nDomů\nNaše služby\nReference\nKontaktujte nás\nGeologické práce\nnejen v regionu Vysočiny\nKompletní inženýrskogeologické průzkumy (podklad pro zpracování dokumentace pro územní rozhodnutí, pro stavební povolení, pro zpřesnění výsledků předběžných etap a problematických úseků stavby) a rešeršní zprávy pro liniové stavby, výstavbu malých vodních nádrží, skládky komunálního odpadu a pod.\nDále nabízíme inženýrskogeologické sledování při výstavbě – dokumentaci prováděných prací, přetřídění zemin ve výkopech dle skutečného stavu, kontrolu míry zhutnění zemin apod.\nCo Vám můžeme nabídnout\nNaše služby\nKompletní inženýrskogeologické průzkumy (\norientační\n– podklad pro zpracování dokumentace pro územní rozhodnutí,\npodrobný\n– podklad pro zpracování dokumentace pro stavební povolení,\ndoplňkový\n– pro zpřesnění výsledků předběžných etap a problematických úseků stavby) a rešeršní zprávy (zpracování studie pro územně plánovací dokumentaci) pro liniové stavby (vodovody + vodojemy, kanalizace + čerpací stanice + čistírny odpadních vod), výstavbu malých vodních nádrží, skládky komunálního odpadu a pod.\nDále nabízíme inženýrskogeologické sledování při výstavbě – dokumentaci prováděných prací, přetřídění zemin ve výkopech dle skutečného stavu, kontrolu míry zhutnění zemin apod.\nZaujali jsme Vás?\nReference\nAreál firmy Mondi Štětí a.s. – vrtné práce nárazotočivou vrtnáou soupravaou UNIMAG\nAreál firmy Mondi Štětí a.s. – penetrační sondáž uvnitř haly\nJez Chroustovice – vrtné práce vrtnou soupravou Wirth B0 na pásovém podvozku\nBudeč – kopané sondy bagrem investora v zemníku materiálu pro rekonstrukci zemních hrází rybníků\nRybník Černý – přebírka základové spáry objektu spodní výpusti\nRybník Černý – dohled při výstavbě zemní hráze\nKontrolní vzorek pro posouzení míry zhutnění zeminy v tělese budované nádrže\nKontakty\nTERRAGEO, s.r.o.\nJamská 2488/65, 591 01 Žďár nad Sázavou\nIČ: 09163263\nDIČ: CZ09163263\nÚřad příslušný podle §71 odst.2 živnostenského zákona:\nMěstský úřad Žďár nad Sázavou\nLuboš Souček\njednatel společnosti\nTelefon:\n+420 721 118 442\nEmail:\nsoucek@terrageo.cz\nMáte dotaz? Nebo poptáváte práce?\nJméno a příjmení / Firma\nE-mail (vyžadováno)\nText poptávky\nSouhlasím se zpracováním os. údajů.\nVaše údaje zpracováváme pouze pro odpověď na Váš dotaz.\n2020 © TERRAGEO s.r.o."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Terra",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 08:54",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

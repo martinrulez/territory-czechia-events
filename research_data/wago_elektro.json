@@ -1,0 +1,378 @@
+{
+  "company_key": "wago_elektro",
+  "company_name": "WAGO-Elektro",
+  "domain": "",
+  "events": "Czech Green Building Council Members",
+  "technographics": {
+    "success": true,
+    "company": "WAGO-Elektro",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autodesk Navisworks"
+    ],
+    "competitor_products": [
+      "Siemens NX",
+      "Siemens PLM",
+      "Siemens Teamcenter PLM Software"
+    ],
+    "cad_bim_other": [
+      "Cache Control",
+      "InVision"
+    ],
+    "total_technologies": 161,
+    "all_technologies": [
+      {
+        "product": "SAP Service Cloud",
+        "vendor": "Clicktools",
+        "category": "Customer Feedback Management",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "CODESYS",
+        "vendor": "CODESYS",
+        "category": "Integrated Development Environments",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP Transportation Management",
+        "vendor": "SAP SE",
+        "category": "Transportation and Fleet Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "HashiCorp Terraform",
+        "vendor": "Terraform",
+        "category": "Configuration Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "DCT",
+        "vendor": "Castor EDC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "ventiv",
+        "vendor": "Ventiv Technology Australia PTY Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Demand Planning",
+        "vendor": "Blue Yonder Group, Inc",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Ideal",
+        "vendor": "O5 Systems Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "UseProof",
+        "vendor": "Proof Technologies",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Symantec Cloud",
+        "vendor": "Symantec Corporation",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Selenium",
+        "vendor": "Selenium HQ",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP tools",
+        "vendor": "SAP SE",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP Sales Cloud",
+        "vendor": "SAP SE",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Oracle Database (RDBMS)",
+        "vendor": "Oracle Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Microsoft Windows Server 2003",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Windows Presentation Foundation (WPF)",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Microsoft Windows OS",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Plus Button",
+        "vendor": "Google LLC",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "NTENT Hosting",
+        "vendor": "NTENT Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cache Control",
+        "vendor": "Cache Control",
+        "category": "Web Design and Development Services",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Apple iPad",
+        "vendor": "Apple Inc.",
+        "category": "Enterprise Mobility Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "IBM Storage Area Network",
+        "vendor": "IBM",
+        "category": "Enterprise Data Storage",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Veritas Backup Exec",
+        "vendor": "Veritas Technologies LLC",
+        "category": "Backup and Recovery",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Linux",
+        "vendor": "Linux Kernel Organization",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SAP Fiori",
+        "vendor": "SAP SE",
+        "category": "Customer Experience Management",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Siemens PLM",
+        "vendor": "Siemens AG",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Siemens Teamcenter PLM Software",
+        "vendor": "Siemens AG",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Autodesk Navisworks",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "BlackBerry Enterprise Server",
+        "vendor": "BlackBerry Limited",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Adobe InDesign",
+        "vendor": "Adobe Inc.",
+        "category": "Graphics",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Siemens NX",
+        "vendor": "Siemens AG",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Adobe After Effects",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Microsoft Project",
+        "vendor": "Microsoft Corporation",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JÜRGEN HEINZ KOOPSINGRAVEN",
+        "firstName": "JÜRGEN HEINZ",
+        "lastName": "KOOPSINGRAVEN",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "LEOŠ BLAŽEK",
+        "firstName": "LEOŠ",
+        "lastName": "BLAŽEK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:38",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.wago.com",
+    "homepage": {
+      "title": "WAGO Spain",
+      "description": "Homepage",
+      "text_excerpt": "WAGO Spain\n[{\"term\":\"221\",\"id\":0,\"type\":\"QUICKLINKS\"},{\"term\":\"Notas de aplicación\",\"id\":1,\"type\":\"QUICKLINKS\"},{\"term\":\"Bibliotecas de automatización en edificios\",\"id\":2,\"type\":\"QUICKLINKS\"},{\"term\":\"WAGO-I/O-PRO\",\"id\":3,\"type\":\"QUICKLINKS\"},{\"term\":\"Edificio\",\"id\":4,\"type\":\"QUICKLINKS\"}]\n{\"items\":[{\"container\":false,\"catalogVersion\":\"es-wagoContentCatalog/Online\",\"type\":\"Homepage Stage Item\",\"dynamicVisibility\":true,\"uuid\":\"eyJpdGVtSWQiOiJpdGVtX2VzXzAwMDBPTVA5IiwiY2F0YWxvZ0lkIjoiZXMtd2Fnb0NvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==\",\"callToAction\":{\"container\":false,\"catalogVersion\":\"es-wagoContentCatalog/Online\",\"type\":\"Componente de vínculo\",\"dynamicVisibility\":true,\"uuid\":\"eyJpdGVtSWQiOiJpdGVtX2VzXzAwMDBQTVZIIiwiY2F0YWxvZ0lkIjoiZXMtd2Fnb0NvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==\",\"footersSocial\":[],\"linkName\":null,\"footers\":[],\"ignoreOnTransfer\":false,\"uid\":\"item_es_0000PMVH\",\"modifiedtime\":\"2026-03-27T11:08:32+0000\",\"children\":[],\"onlyOneRestrictionMustApply\":true,\"selectedCmsFacets\":[],\"headers\":[],\"visible\":true,\"wagoColumnComponent\":[],\"availableLanguages\":\"AVAILABLE\",\"passepartout\":false,\"restrictions\":[],\"footersPayment\":[],\"navigationNodes\":[],\"searchable\":true,\"url\":\"/search?text=887-\",\"typeCode\":\"CMSLinkComponent\",\"target\":\"SAMEWINDOW\",\"renderWithEmptyTarget\":false,\"external\":false,\"slots\":[],\"itemtype\":\"CMSLinkComponent\",\"restricted\":false,\"name\":\"CMSLinkComponent\",\"synchronizationBlocked\":false,\"containers\":[],\"creationtime\":\"2026-03-27T11:08:32+0000\",\"navigationList\":[],\"actions\":[],\"headersUserMenu\":[],\"parents\":[]},\"ignoreOnTransfer\":false,\"wagoHomePageStageComponent\":\"eyJpdGVtSWQiOiJjb21wXzAwMDA4RUlCMCIsImNhdGFsb2dJZCI6ImVzLXdhZ29Db250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=\",\"uid\":\"item_es_0000OMP9\",\"modifiedtime\":\"2026-03-27T11:11:02+0000\",\"children\":[],\"onlyOneRestrictionMustApply\":true,\"subHeadline\":\"<p><span>Perfectos para llevar a tus instalaciones. Amplia gama en un espacio reducido. Conectores 221</span></p>\",\"headline\":\"<p>Maletines Conectores Rápidos</p>\",\"image\":{\"code\":\"Banner maletines221 2000x666_wago.jpg\",\"altText\":\"Banner maletines221 2000x666_wago.jpg\",\"imageFormats\":[{\"imageType\":null,\"format\":\"2000\",\"url\":\"/medias/2000-Banner-maletines221-2000x666-wago.jpg?context=bWFzdGVyfGltYWdlc3w3MzQwNnxpbWFnZS9qcGVnfGFESmpMMmcxWXk4eE5qSXpOVGMxTmpjeE5qQTJNaTh5TURBd1gwSmhibTVsY2lCdFlXeGxkR2x1WlhNeU1qRWdNakF3TUhnMk5qWmZkMkZuYnk1cWNHY3w4NDI0MDI1ZDQ3Mjg2NjRiZmIzNWExMjk0MGQ0MzBjNmQzYzU5YWRkNmEwYzM2ZWNiMmU3NDNhZWQ4ZmRmMGJi\",\"altText\":null,\"galleryIndex\":null,\"width\":null,\"description\":null,\"mediaType\":null,\"code\":null},{\"imageType\":null,\"format\":\"1600\",\"url\":\"/medias/1600-Banner-maletines221-2000x666-wago.jpg?context=bWFzdGVyfGltYWdlc3w1MDY1MHxpbWFnZS9qcGVnfGFETTFMMmhpT0M4eE5qSXpOVGMxTnpNd05UZzROaTh4TmpBd1gwSmhibTVsY2lCdFlXeGxkR2x1WlhNeU1qRWdNakF3TUhnMk5qWmZkMkZuYnk1cWNHY3wxNzU4MjliYTkzMzdkMGMzNjBhZjAxZWNjMDUwZjA2OTNmMzRmZmE0MGE5NTM0ZGQ2NWQ1OWQ1YjAwYWJjY2Uz\",\"altText\":null,\"galleryI"
+    },
+    "about": {
+      "url": "https://www.wago.com/o-nas",
+      "text": "WAGO Spain\n[{\"term\":\"221\",\"id\":0,\"type\":\"QUICKLINKS\"},{\"term\":\"Notas de aplicación\",\"id\":1,\"type\":\"QUICKLINKS\"},{\"term\":\"Bibliotecas de automatización en edificios\",\"id\":2,\"type\":\"QUICKLINKS\"},{\"term\":\"WAGO-I/O-PRO\",\"id\":3,\"type\":\"QUICKLINKS\"},{\"term\":\"Edificio\",\"id\":4,\"type\":\"QUICKLINKS\"}]\n{\"items\":[{\"container\":false,\"catalogVersion\":\"es-wagoContentCatalog/Online\",\"type\":\"Homepage Stage Item\",\"dynamicVisibility\":true,\"uuid\":\"eyJpdGVtSWQiOiJpdGVtX2VzXzAwMDBPTVA5IiwiY2F0YWxvZ0lkIjoiZXMtd2Fnb0NvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==\",\"callToAction\":{\"container\":false,\"catalogVersion\":\"es-wagoContentCatalog/Online\",\"type\":\"Componente de vínculo\",\"dynamicVisibility\":true,\"uuid\":\"eyJpdGVtSWQiOiJpdGVtX2VzXzAwMDBQTVZIIiwiY2F0YWxvZ0lkIjoiZXMtd2Fnb0NvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==\",\"footersSocial\":[],\"linkName\":null,\"footers\":[],\"ignoreOnTransfer\":false,\"uid\":\"item_es_0000PMVH\",\"modifiedtime\":\"2026-03-27T11:08:32+0000\",\"children\":[],\"onlyOneRestrictionMustApply\":true,\"selectedCmsFacets\":[],\"headers\":[],\"visible\":true,\"wagoColumnComponent\":[],\"availableLanguages\":\"AVAILABLE\",\"passepartout\":false,\"restrictions\":[],\"footersPayment\":[],\"navigationNodes\":[],\"searchable\":true,\"url\":\"/search?text=887-\",\"typeCode\":\"CMSLinkComponent\",\"target\":\"SAMEWINDOW\",\"renderWithEmptyTarget\":false,\"external\":false,\"slots\":[],\"itemtype\":\"CMSLinkComponent\",\"restricted\":false,\"name\":\"CMSLinkComponent\",\"synchronizationBlocked\":false,\"containers\":[],\"creationtime\":\"2026-03-27T11:08:32+0000\",\"navigationList\":[],\"actions\":[],\"headersUserMenu\":[],\"parents\":[]},\"ignoreOnTransfer\":false,\"wagoHomePageStageComponent\":\"eyJpdGVtSWQiOiJjb21wXzAwMDA4RUlCMCIsImNhdGFsb2dJZCI6ImVzLXdhZ29Db250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=\",\"uid\":\"item_es_0000OMP9\",\"modifiedtime\":\"2026-03-27T11:11:02+0000\",\"children\":[],\"onlyOneRestrictionMustApply\":true,\"subHeadline\":\"<p><span>Perfectos para llevar a tus instalaciones. Amplia gama en un espacio reducido. Conectores 221</span></p>\",\"headline\":\"<p>Maletines Conectores Rápidos</p>\",\"image\":{\"code\":\"Banner maletines221 2000x666_wago.jpg\",\"altText\":\"Banner maletines221 2000x666_wago.jpg\",\"imageFormats\":[{\"imageType\":null,\"format\":\"2000\",\"url\":\"/medias/2000-Banner-maletines221-2000x666-wago.jpg?context=bWFzdGVyfGltYWdlc3w3MzQwNnxpbWFnZS9qcGVnfGFESmpMMmcxWXk4eE5qSXpOVGMxTmpjeE5qQTJNaTh5TURBd1gwSmhibTVsY2lCdFlXeGxkR2x1WlhNeU1qRWdNakF3TUhnMk5qWmZkMkZuYnk1cWNHY3w4NDI0MDI1ZDQ3Mjg2NjRiZmIzNWExMjk0MGQ0MzBjNmQzYzU5YWRkNmEwYzM2ZWNiMmU3NDNhZWQ4ZmRmMGJi\",\"altText\":null,\"galleryIndex\":null,\"width\":null,\"description\":null,\"mediaType\":null,\"code\":null},{\"imageType\":null,\"format\":\"1600\",\"url\":\"/medias/1600-Banner-maletines221-2000x666-wago.jpg?context=bWFzdGVyfGltYWdlc3w1MDY1MHxpbWFnZS9qcGVnfGFETTFMMmhpT0M4eE5qSXpOVGMxTnpNd05UZzROaTh4TmpBd1gwSmhibTVsY2lCdFlXeGxkR2x1WlhNeU1qRWdNakF3TUhnMk5qWmZkMkZuYnk1cWNHY3wxNzU4MjliYTkzMzdkMGMzNjBhZjAxZWNjMDUwZjA2OTNmMzRmZmE0MGE5NTM0ZGQ2NWQ1OWQ1YjAwYWJjY2Uz\",\"altText\":null,\"galleryIndex\":null,\"width\":null,\"description\":null,\"mediaType\":null,\"code\":null},{\"imageType\":null,\"format\":\"1280\",\"url\":\"/medias/1280-Banner-maletines221-2000x666-wago.jpg?context=bWFzdGVyfGltYWdlc3wzNjMzOHxpbWFnZS9qcGVnfGFHVmlMMmcxWmk4eE5qSXpOVGMxTmpnME56RXpOQzh4TWpnd1gwSmhibTVsY2lCdFlXeGxkR2x1WlhNeU1qRWdNakF3TUhnMk5qWmZkMkZuYnk1cWNHY3w4ZTUwYjcwYWI1NDI3MWQ5NzAwNTk1MmY5OGE1ZWMwYTY2ZDAxNDVjZWExOTUwYWYyMGEzZWUzN2MyOTdkYmI5\",\"altText\":null,\"galleryIndex\":null,\"width\":null,\"description\":null,\"mediaType\":null,\"code\":null},{\"imageType\":null,\"format\":\"1024\",\"url\":\"/medias/1024-Banner-maletines221-2000x666-wago.jpg?context=bWFzdGVyfGltYWdlc3wyNjQ2NXxpbWFnZS9qcGVnfGFHWmpMMmcyTWk4eE5qSXpOVGMxTmpreE1qWTNNQzh4TURJMFgwSmhibTVsY2lCdFlXeGxkR2x1WlhNeU1qRWdNakF3TUhnMk5qWmZkMkZuYnk1cWNHY3wzZDk0M2EyOWRlMTE1Y2MyZGIwOGY5ZGRkNTczYzY5Nzc4YzgzYzNmYzUwMmFlNjdjNzg5YWVjMWNiZTc2NDcy\",\"altText\":null,\"galleryIndex\":null,\"width\":null,\"description\":null,\"mediaType\":null,\"code\":null},{\"imageType\":null,\"format\":\"768\",\"url\":\"/"
+    },
+    "products": {
+      "url": "https://www.wago.com/produkty",
+      "text": "WAGO Spain\n[{\"term\":\"221\",\"id\":0,\"type\":\"QUICKLINKS\"},{\"term\":\"Notas de aplicación\",\"id\":1,\"type\":\"QUICKLINKS\"},{\"term\":\"Bibliotecas de automatización en edificios\",\"id\":2,\"type\":\"QUICKLINKS\"},{\"term\":\"WAGO-I/O-PRO\",\"id\":3,\"type\":\"QUICKLINKS\"},{\"term\":\"Edificio\",\"id\":4,\"type\":\"QUICKLINKS\"}]\n{\"items\":[{\"container\":false,\"catalogVersion\":\"es-wagoContentCatalog/Online\",\"type\":\"Homepage Stage Item\",\"dynamicVisibility\":true,\"uuid\":\"eyJpdGVtSWQiOiJpdGVtX2VzXzAwMDBPTVA5IiwiY2F0YWxvZ0lkIjoiZXMtd2Fnb0NvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==\",\"callToAction\":{\"container\":false,\"catalogVersion\":\"es-wagoContentCatalog/Online\",\"type\":\"Componente de vínculo\",\"dynamicVisibility\":true,\"uuid\":\"eyJpdGVtSWQiOiJpdGVtX2VzXzAwMDBQTVZIIiwiY2F0YWxvZ0lkIjoiZXMtd2Fnb0NvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==\",\"footersSocial\":[],\"linkName\":null,\"footers\":[],\"ignoreOnTransfer\":false,\"uid\":\"item_es_0000PMVH\",\"modifiedtime\":\"2026-03-27T11:08:32+0000\",\"children\":[],\"onlyOneRestrictionMustApply\":true,\"selectedCmsFacets\":[],\"headers\":[],\"visible\":true,\"wagoColumnComponent\":[],\"availableLanguages\":\"AVAILABLE\",\"passepartout\":false,\"restrictions\":[],\"footersPayment\":[],\"navigationNodes\":[],\"searchable\":true,\"url\":\"/search?text=887-\",\"typeCode\":\"CMSLinkComponent\",\"target\":\"SAMEWINDOW\",\"renderWithEmptyTarget\":false,\"external\":false,\"slots\":[],\"itemtype\":\"CMSLinkComponent\",\"restricted\":false,\"name\":\"CMSLinkComponent\",\"synchronizationBlocked\":false,\"containers\":[],\"creationtime\":\"2026-03-27T11:08:32+0000\",\"navigationList\":[],\"actions\":[],\"headersUserMenu\":[],\"parents\":[]},\"ignoreOnTransfer\":false,\"wagoHomePageStageComponent\":\"eyJpdGVtSWQiOiJjb21wXzAwMDA4RUlCMCIsImNhdGFsb2dJZCI6ImVzLXdhZ29Db250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=\",\"uid\":\"item_es_0000OMP9\",\"modifiedtime\":\"2026-03-27T11:11:02+0000\",\"children\":[],\"onlyOneRestrictionMustApply\":true,\"subHeadline\":\"<p><span>Perfectos para llevar a tus instalaciones. Amplia gama en un espacio reducido. Conectores 221</span></p>\",\"headline\":\"<p>Maletines Conectores Rápidos</p>\",\"image\":{\"code\":\"Banner maletines221 2000x666_wago.jpg\",\"altText\":\"Banner maletines221 2000x666_wago.jpg\",\"imageFormats\":[{\"imageType\":null,\"format\":\"2000\",\"url\":\"/medias/2000-Banner-maletines221-2000x666-wago.jpg?context=bWFzdGVyfGltYWdlc3w3MzQwNnxpbWFnZS9qcGVnfGFESmpMMmcxWXk4eE5qSXpOVGMxTmpjeE5qQTJNaTh5TURBd1gwSmhibTVsY2lCdFlXeGxkR2x1WlhNeU1qRWdNakF3TUhnMk5qWmZkMkZuYnk1cWNHY3w4NDI0MDI1ZDQ3Mjg2NjRiZmIzNWExMjk0MGQ0MzBjNmQzYzU5YWRkNmEwYzM2ZWNiMmU3NDNhZWQ4ZmRmMGJi\",\"altText\":null,\"galleryIndex\":null,\"width\":null,\"description\":null,\"mediaType\":null,\"code\":null},{\"imageType\":null,\"format\":\"1600\",\"url\":\"/medias/1600-Banner-maletines221-2000x666-wago.jpg?context=bWFzdGVyfGltYWdlc3w1MDY1MHxpbWFnZS9qcGVnfGFETTFMMmhpT0M4eE5qSXpOVGMxTnpNd05UZzROaTh4TmpBd1gwSmhibTVsY2lCdFlXeGxkR2x1WlhNeU1qRWdNakF3TUhnMk5qWmZkMkZuYnk1cWNHY3wxNzU4MjliYTkzMzdkMGMzNjBhZjAxZWNjMDUwZjA2OTNmMzRmZmE0MGE5NTM0ZGQ2NWQ1OWQ1YjAwYWJjY2Uz\",\"altText\":null,\"galleryI"
+    },
+    "contact_page": {
+      "url": "https://www.wago.com/kontakt",
+      "text": "WAGO Spain\n[{\"term\":\"221\",\"id\":0,\"type\":\"QUICKLINKS\"},{\"term\":\"Notas de aplicación\",\"id\":1,\"type\":\"QUICKLINKS\"},{\"term\":\"Bibliotecas de automatización en edificios\",\"id\":2,\"type\":\"QUICKLINKS\"},{\"term\":\"WAGO-I/O-PRO\",\"id\":3,\"type\":\"QUICKLINKS\"},{\"term\":\"Edificio\",\"id\":4,\"type\":\"QUICKLINKS\"}]\n{\"items\":[{\"container\":false,\"catalogVersion\":\"es-wagoContentCatalog/Online\",\"type\":\"Homepage Stage Item\",\"dynamicVisibility\":true,\"uuid\":\"eyJpdGVtSWQiOiJpdGVtX2VzXzAwMDBPTVA5IiwiY2F0YWxvZ0lkIjoiZXMtd2Fnb0NvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==\",\"callToAction\":{\"container\":false,\"catalogVersion\":\"es-wagoContentCatalog/Online\",\"type\":\"Componente de vínculo\",\"dynamicVisibility\":true,\"uuid\":\"eyJpdGVtSWQiOiJpdGVtX2VzXzAwMDBQTVZIIiwiY2F0YWxvZ0lkIjoiZXMtd2Fnb0NvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==\",\"footersSocial\":[],\"linkName\":null,\"footers\":[],\"ignoreOnTransfer\":false,\"uid\":\"item_es_0000PMVH\",\"modifiedtime\":\"2026-03-27T11:08:32+0000\",\"children\":[],\"onlyOneRestrictionMustApply\":true,\"selectedCmsFacets\":[],\"headers\":[],\"visible\":true,\"wagoColumnComponent\":[],\"availableLanguages\":\"AVAILABLE\",\"passepartout\":false,\"restrictions\":[],\"footersPayment\":[],\"navigationNodes\":[],\"searchable\":true,\"url\":\"/search?text=887-\",\"typeCode\":\"CMSLinkComponent\",\"target\":\"SAMEWINDOW\",\"renderWithEmptyTarget\":false,\"external\":false,\"slots\":[],\"itemtype\":\"CMSLinkComponent\",\"restricted\":false,\"name\":\"CMSLinkComponent\",\"synchronizationBlocked\":false,\"containers\":[],\"creationtime\":\"2026-03-27T11:08:32+0000\",\"navigationList\":[],\"actions\":[],\"headersUserMenu\":[],\"parents\":[]},\"ignoreOnTransfer\":false,\"wagoHomePageStageComponent\":\"eyJpdGVtSWQiOiJjb21wXzAwMDA4RUlCMCIsImNhdGFsb2dJZCI6ImVzLXdhZ29Db250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=\",\"uid\":\"item_es_0000OMP9\",\"modifiedtime\":\"2026-03-27T11:11:02+0000\",\"children\":[],\"onlyOneRestrictionMustApply\":true,\"subHeadline\":\"<p><span>Perfectos para llevar a tus instalaciones. Amplia gama en un espacio reducido. Conectores "
+    }
+  }
+}

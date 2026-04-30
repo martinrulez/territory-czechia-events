@@ -1,0 +1,81 @@
+{
+  "company_key": "atas_elektromotory_n_chod_a_s",
+  "company_name": "ATAS elektromotory Náchod a.s.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "VÁCLAV FIALA",
+        "firstName": "VÁCLAV",
+        "lastName": "FIALA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ROBERT BABORÁK",
+        "firstName": "ROBERT",
+        "lastName": "BABORÁK",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PETRA DOSTÁLOVÁ",
+        "firstName": "PETRA",
+        "lastName": "DOSTÁLOVÁ",
+        "jobTitle": "Místopředsedkyně představenstva",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "OTTO DANĚK",
+        "firstName": "OTTO",
+        "lastName": "DANĚK",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:30",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ametek.com",
+    "homepage": {
+      "title": "AMETEK",
+      "description": "",
+      "text_excerpt": "AMETEK\nThe\ntechnology\nand\ninnovation\nto simplify a complex world\nOur differentiated solutions solve challenges all over the globe.\nREAD MORE\nReliable, resilient\npower\nmanagement\nfor\ndata centers\nData centers power the digital services we rely on every day. Learn how AMETEK solutions address the\ncomplex energy management\nchallenges that data center operators face.\nREAD MORE\nThe\ncareer opportunities\nto let bold talent flourish\nOur inclusive culture empowers our employees to perform at their best.\nREAD MORE\nDe-risking\ndata centers\nReal-time simulation\nis reshaping how data centers manage risk across their power systems. Learn how AMETEK is helping\ndata centers de‑risk power systems\nand accelerate deployment.\nREAD MORE\nEvery day, our technology makes a\nsafer\nsustainable\nand more\nproductive\nworld a reality.\nWe do it by bringing together and investing in passionate, talented people.\nAs a leading global provider\nof differentiated electronic instruments and electromechanical devices, we are proud to solve some of the world’s most complex challenges. Our strength comes from\nfour key areas\nOUR NICHE MARKET FOCUS\nA combined vision for success\nWe target niche markets aligned with secular growth trends that provide multiple avenues of growth.\nOUR GROWTH MODEL\nDesigned to excel\nThe AMETEK Growth Model integrates Operational Excellence, New Product Development, Global and Market Expansion, and Strategic Acquisitions with a focus on cash flow generation and disciplined capital deployment.\nOUR PEOPLE AND CULTURE\nUnited by bright prospects\nWe have a strong performance-driven and decentralized culture made of diverse high-performance teams located across the globe that execute our strategy and embrace our values by doing the right thing every day, in every interaction.\nOUR PERFORMANCE\nProud to be out in front\nOur culture is to outperform. Over the past 15, 10, and 5-year periods we have substantially outperformed the S&P 500 index and the S&P Industrials. We deliver double-digit earnings over the business cycle.\nExplore\nour products\nLife is full of complex challenges\nEach one inspires us to do what we love. To make the world a better place. Not just with our differentiated technologies that improve countless lives, but by\nempowering our people to inspire others\nacross the globe.\nAMETEK CONSISTS OF TWO DIFFERENTIATED OPERATING GROUPS\nOur electronic instruments\nAMETEK is a worldwide leader in the design and manufacturing of advanced analytical, test and measurement instrumentation for the energy, aerospace, power, research, medical and industrial markets.\nBOTH OPERATING GROUPS OCCUPY LEADING POSITIONS IN NICHE MARKETS\nOur electromechanical devices\nWe are world-renowned as a differentiated supplier of automation and precision motion control solutions, and highly engineered electrical interconnects, specialty metals and thermal management systems.\nLearn more about\nAMETEK\nSustainability\nBuilding a culture of Continuous Improvement\nREAD MORE\nAMETEK Connect\nAMETEK Connect"
+    },
+    "about": {
+      "url": "https://www.ametek.com/o-nas",
+      "text": "Custom Error\nCustom Error\nAn error occurred due to some technical issues"
+    },
+    "products": {
+      "url": "https://www.ametek.com/produkty",
+      "text": "Custom Error\nCustom Error\nAn error occurred due to some technical issues"
+    },
+    "contact_page": {
+      "url": "https://www.ametek.com/kontakt",
+      "text": "Custom Error\nCustom Error\nAn error occurred due to some technical issues"
+    }
+  }
+}

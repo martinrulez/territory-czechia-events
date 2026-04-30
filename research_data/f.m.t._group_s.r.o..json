@@ -1,0 +1,206 @@
+{
+  "company_key": "f.m.t. group s.r.o.",
+  "company_name": "F.M.T. Group s.r.o.",
+  "domain": "www.fmt-group.com",
+  "domain_url": "https://www.fmt-group.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "F.M.T. Group s.r.o.",
+    "opportunity_score": 22,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.61,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.61,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "26848104",
+    "official_name": "F.M.T. Group s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "461",
+      "52260",
+      "70200",
+      "731",
+      "25110",
+      "27900",
+      "33200",
+      "28",
+      "25",
+      "46900",
+      "52",
+      "772",
+      "331",
+      "471",
+      "81230",
+      "255",
+      "25",
+      "25110",
+      "256",
+      "27900",
+      "28",
+      "331",
+      "33200",
+      "461",
+      "46900",
+      "471",
+      "52",
+      "52290",
+      "702",
+      "731",
+      "772",
+      "81290"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "č.p. 463, 73936 Sedliště, Sedliště, 73936",
+    "zi_done": true,
+    "employee_count": 6,
+    "revenue": 1355,
+    "zi_company_name": "Fmt Group",
+    "zi_domain": "www.fmt-group.com",
+    "zi_city": "Addison",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.fmt-group.com",
+    "homepage": {
+      "title": "Použité a modernizované obráběcí stroje | FMT GROUP",
+      "description": "použité stroje, obráběcí stroje",
+      "text_excerpt": "Použité a modernizované obráběcí stroje | FMT GROUP\nTELEFON\n+420 558 638 901\nE-MAIL\nfm@fmt-group.com\nObráběcí a tvářecí stroje\nHlavní stránka\nNabídka strojů\nPoptat stroj\nReference\nKontakty\nHlavní stránka\nNabídka strojů\nPoptat stroj\nReference\nKontakty\nPoužité i nové\nprůmyslové\nstroje\nNové stroje\nO nás\nFMT-Group\nVážení klienti,\nDovolte nám představit naši společnost F.M.T. Group s.r.o. jako seriozního partnera v oblasti obchodu s použitými kovoobráběcími a tvářecími stroji. Několik let existence naší společnosti prokázalo, že u nás zákazníci naleznou vhodné a výhodné řešení svých požadavků v příznivém poměru užitná hodnota / cena. Na našich webových stránkách pro Vás připravujeme aktuální nabídku použitých obráběcích strojů a zařízení. V případě dalších dotazů v oblasti sortimentu či doplňkových služeb se prosím s důvěrou obracejte na tým našich spolupracovníků na dále uvedených kontaktech.\nTěšíme se na spolupráci s Vámi!\nKontakt\nAKTUÁLNĚ MÁME\nV NABÍDCE\n689\nSTROJŮ\nProfesionální přístup\nNabízíme Vám\nZkušenosti a profesionální přístup\nGaranci stabilní firmy\nNabídku na odkup souborů strojů a zařízení\nStěhování, (de)montáže, opravy a přepravy\nNabídku financování\nDodávku nových strojů\nVíce informací\nDoporučujeme\nVodorovná vyvrtávačka-stolová\nTyp : WHN 105 CNC\nVodorovná vyvrtávačka-stolová\nTyp : W 100 A\nVodorovná vyvrtávačka-stolová\nTyp : WH 10 CNC\nF.M.T Group © 2005 - 2026\nAll rights reserved"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "F.M.T. Group s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 11,
+    "all_technologies": [
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP 5.6",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "F.M.T. Group s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Leila",
+        "last_name": "Bončková",
+        "title": "",
+        "email": "bonckova@fmt-group.com",
+        "phone": "",
+        "company": "Fmt Group",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 80.0
+      },
+      {
+        "first_name": "Anabela",
+        "last_name": "Maľová",
+        "title": "",
+        "email": "malova@fmt-group.com",
+        "phone": "",
+        "company": "Fmt Group",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:33"
+}

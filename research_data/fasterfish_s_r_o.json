@@ -1,0 +1,244 @@
+{
+  "company_key": "fasterfish_s_r_o",
+  "company_name": "FasterFish s.r.o.",
+  "domain": "",
+  "events": "Lean Summit CzechoSlovakia 2026",
+  "technographics": {
+    "success": true,
+    "company": "FasterFish s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 32,
+    "all_technologies": [
+      {
+        "product": "Wix",
+        "vendor": "Wix.com, Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Analytics",
+        "vendor": "Facebook, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Choopa",
+        "vendor": "Choopa, LLC",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Seznam",
+        "vendor": "Imedia",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "CA-PUB AdSense Publisher Id",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Varnish",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "The USERTRUST Network",
+        "vendor": "Comodo Group, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google AdSense",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cookieyes",
+        "vendor": "CookieYes",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Web.com",
+        "vendor": "Web.com Group, Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "New Relic",
+        "vendor": "New Relic, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Dynamics CRM",
+        "vendor": "Microsoft Corporation",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "TOMÁŠ KISELA",
+        "firstName": "TOMÁŠ",
+        "lastName": "KISELA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:11",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.fasterfish.cz",
+    "homepage": {
+      "title": "FasterFish: Řízená [r]Evoluce® vaší firmy",
+      "description": "Veďte firmu chytřeji! Získejte sladěný management, vyšší adaptabilitu a transformaci bez chaosu. Řízená [r]Evoluce® s FasterFish. Zjistěte víc!",
+      "text_excerpt": "FasterFish: Řízená [r]Evoluce® vaší firmy\ntop of page\nZačněte řídit evoluci vaší firmy\nSpolupracující lidé  |  Funkční procesy  |  Společný směr  |  Výjimečné výsledky\nNa rozvoj firmy\nuž nejste sami\nPomáháme vám vidět a zlepšit, co se mezi lidmi a v procesech\nskutečně\nodehrává - a jak to ovlivňuje výsledky. Získáte nadhled, o který se můžete opřít v klíčových rozhodnutích i každodenní operativě.\nNaše služby\nŘízená [r]Evoluce\nVaše cesta, jak\nvést firmu\nchytřeji\na nenechat se semlít operativou.\nZjistit více\nLidé přestanou čekat a začnou jednat.\nTýmy zlepší spolupráci uvnitř i mezi sebou.\nFirma zvýší svou pružnost a adaptabilitu.\nZměny konečně dopadnou do praxe.\nUž nebudete tříštit síly v záplavě iniciativ.\nNebojíme se jít pod povrch\nPomáháme firmám rozvíjet způsob fungování zevnitř skrze to,\njak reálně\nprobíhá řešení problémů, rozhodování a spolupráce.\nNaše reference\nBlížící se akce\nBlížící se akce\nChcete vědět víc?\nDo 24 hod dostanete odpověď.\nE‑mail\nTelefon\nStručný popis\nOdeslat\nbottom of page"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.fasterfish.cz/kontakt",
+      "text": "Kontakt | Fasterfish\ntop of page\nKontakt\nTomáš Kisela\nCEO, Co-founder\nPhone\n+420 603 181 661\ntomas.kisela@fasterfish.cz\nVladimír Josef Dvořák\nCo-founder\nPhone\n+420 603 892 899\nvladimir.dvorak@fasterfish.cz\nLída Kiselová\nCo-founder\nPhone\n+420 603 816 520\nlida.kiselova@fasterfish.cz\nMartin O'Malley\nCo-founder\nPhone\n+420 739 631 990\nmartin.omalley@fasterfish.cz\nFasterFish s.r.o.\nKrálova 279/9\n616 00 Brno\nIČ: 09021761\nDIČ: CZ09021761\nÚčet:\n2301781444 / 2010\nIBAN: CZ3420100000002301781444\nSWIFT: FIOBCZPPXXX\ninfo@fasterfish.cz\n​Zapsaná v obchodním rejstříku vedeném Krajským soudem v Brně, oddíl C, vložka 116732\nJméno\nPříjmení\nE-mail\nVáš dotaz\nOdeslat\nDěkujeme za odeslání!\nbottom of page"
+    }
+  }
+}

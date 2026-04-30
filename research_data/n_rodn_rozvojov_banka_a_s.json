@@ -1,0 +1,61 @@
+{
+  "company_key": "n_rodn_rozvojov_banka_a_s",
+  "company_name": "Národní rozvojová banka, a.s.",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026, Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "TOMÁŠ NIDETZKÝ",
+        "firstName": "TOMÁŠ",
+        "lastName": "NIDETZKÝ",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PAVEL MAREK",
+        "firstName": "PAVEL",
+        "lastName": "MAREK",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "EMIL HOLAN",
+        "firstName": "EMIL",
+        "lastName": "HOLAN",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "BOHUMIL HYÁNEK",
+        "firstName": "BOHUMIL",
+        "lastName": "HYÁNEK",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:39:36"
+}

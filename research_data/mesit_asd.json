@@ -1,0 +1,258 @@
+{
+  "company_key": "mesit asd",
+  "company_name": "MESIT ASD",
+  "domain": "www.mesitasd.cz",
+  "domain_url": "https://www.mesitasd.cz",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": 3761,
+  "enrichment": {
+    "company_name": "MESIT ASD",
+    "opportunity_score": 34,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.7,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.7,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "60709235",
+    "official_name": "MESIT asd, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "62",
+      "25300",
+      "70200",
+      "711",
+      "30310",
+      "471",
+      "46900",
+      "952",
+      "72100",
+      "27120",
+      "30200",
+      "32500",
+      "26300",
+      "26510",
+      "25400",
+      "26300",
+      "26510",
+      "27120",
+      "30200",
+      "30300",
+      "32500",
+      "46900",
+      "471",
+      "620",
+      "702",
+      "711",
+      "7219",
+      "952"
+    ],
+    "ares_segments": [
+      "D&M",
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Sokolovská 573, Mařatice, 68601 Uherské Hradiště, Uherské Hradiště, Sokolovská, 68601",
+    "is_client": true,
+    "current_products": "AutoCAD LT | Inventor | PDMC",
+    "total_seats": "11",
+    "current_acv_eur": "39700.0",
+    "potential_acv_eur": "36000.0",
+    "nearest_renewal": "2026-09-15",
+    "days_to_renewal": "145",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; AutoCAD (full); Fusion Mfg Ext",
+    "reseller": "Td-Is s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Industrial Machinery",
+    "ml_domain": "www.mesitasd.cz",
+    "zi_done": true,
+    "employee_count": 56,
+    "revenue": 7729,
+    "zi_company_name": "MESIT companies",
+    "zi_domain": "www.mesitasd.cz",
+    "zi_city": "",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.mesitasd.cz",
+    "homepage": {
+      "title": "MESIT asd, s.r.o.",
+      "description": "MESIT asd - poskytujeme ověřená řešení pro civilní a vojenské letouny. Zkušenosti z vývoje a výroby pro letectví uplatňujeme v dalších náročných odvětvích.",
+      "text_excerpt": "MESIT asd, s.r.o.\nVáš prohlížeč nepodporuje video tag.\nPřístroje a systémy\npro nejnáročnější podmínky\nVíce než 70 let poskytujeme ověřená řešení pro civilní a vojenské letouny. Zkušenosti z vývoje a výroby pro letectví uplatňujeme v dalších náročných odvětvích.\nletectví\nobranný průmysl\ndopravní průmysl\nčasoměrná technika\nNovinky\nzobrazit vše\n24. 3. 2026\nPřečtěte si vše podstatné o náhlavní soupravě M20A v aktuálním Review pro obranný a bezpečnostní průmysl\nKdyž v akci rozhodují vteřiny a každé slovo musí být srozumitelné, záleží na kvalitě komunikace víc než kdy jindy. Právě tomu se věnuje článek v aktuálním čísle časopisu Review pro obranný a bezpečnostní průmysl, v němž představujeme naši novou náhlavní soupravu M20A.\nvíce…\n13. 3. 2026\nNáhlavní souprava M20A je testována pro nasazení v extrémních podmínkách\nNáhlavní soupravy určené pro vojenské a taktické použití musí obstát tam, kde běžná spotřební elektronika selhává. Extrémní hluk, prudké změny teplot, vibrace, prach nebo vysoká vlhkost nejsou výjimkou, ale každodenní realitou. Právě proto jsou náhlavní soupravy M20A již od prvních fází vývoje podrobovány rozsáhlému a systematickému testování.\nvíce…\n11. 3. 2026\nChystáme se do Kuala Lumpur na mezinárodní veletrh DSA\nVe dnech 20.–23. dubna 2026 se v malajsijském Kuala Lumpur uskuteční mezinárodní veletrh DSA (Defence Services Asia), který patří mezi nejvýznamnější akce v oblasti obrany a vnitřní bezpečnosti v celém asijsko-pacifickém regionu. Na veletrhu budou představovány nejpokročilejší světové technologie, systémy a řešení, která současný obranný a bezpečnostní trh nabízí.\nvíce…\nMESIT asd\nspolehlivá řešení pro celý svět\nNaše přístroje a systémy pracují v civilních a vojenských letounech na všech kontinentech.\nJiž více než 70 let vyvíjíme a vyrábíme vysoce spolehlivé a odolné výrobky pro hlasovou a datovou komunikaci.\nKomunikační techniku využívají armády v náročných vojenských misích.\nZapojujeme se do nejvýznamnějších českých projektů v oblasti letectví - přístrojové vybavení úspěšných letounů L-39, L 410, L-159, L-39NG, L 410 NG a mnoho dalších.\nNaši časoměrnou techniku používají laboratoře CERN ve Švýcarsku, NASA ve Spojených státech amerických a další špičková vědecká pracoviště po celém světě.\nZařízení MESIT pomáhají bezpečnému provozu prostředků pozemní hromadné dopravy v evropských a amerických městech.\nOd založení společnosti spoléháme na vlastní oddělení vývoje, které spolupracuje s předními světovými firmami v oboru jako je ROHDE&SCHWARZ.\nvíce o nás\nPrověřená kvalita\nPrověřená kvalita\nVýrobky a prototypy zkoušíme ve specializovaných laboratořích vybavených simulátory extrémních podmínek.\nPřesná měření již ve fázi evaluace přispívají ke zvýšení spolehlivosti, odolnosti a prodloužení životnosti našich výrobků.\nNa výrobě se podílí kvalifikovaní technologové s technickou podporou konstruktérů.\nSystémy taktické komunikace\nSystémy taktické komunikace\nJsme spolehlivý dodavatel Armády České republiky a také armád po celém světě.\nVyvíjíme "
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.mesitasd.cz/kontakty",
+      "text": "Kontakty - MESIT asd, s.r.o.\nKontakty\nAdresa společnosti\nMESIT asd, s.r.o.\nSokolovská 573, Mařatice\n686 01 Uherské Hradiště\nČeská republika\nKontakty\nT +420 572 522 200\nasd@mesit.cz\nIdentifikační údaje\nMESIT asd, s.r.o.\nčlen skupiny MESIT\nwww.mesit.cz\nIČ: 60709235\nDIČ: CZ60709235\nSpisová značka: Obchodní rejstřík KS Brno, oddíl C vložka 15427\nzobrazit mapu areálu\ntisknout mapu areálu\nGenerální ředitel\nIng. Jaroslav Hovorka, Ph.D.\nT +420 572 522 200\nasd@mesit.cz\npodrobné kontakty\nBankovní spojení\nČSOB, a.s.\nč. ú.: 153 803 904/0300\nzvětšit mapu\nŘeditel obchodu\nIng. Miroslav Kučera\nT +420 572 522 450\ndefence@mesit.cz\nVedoucí prodeje\nIng. Vladimír Michalík, Ph.D.\nT +420 572 522 200\nasd@mesit.cz\nVýrobní ředitel\nJiří Dvořák\nT +420 572 522 138\njiri.dvorak@mesit.cz\nTechnický ředitel\nIng. Petr Kuneta\nT +420 572 522 516\npetr.kuneta@mesit.cz\nŘeditel kvality\nIng. Pavel Julínek\nT +420 572 522 192\npavel.julinek@mesit.cz\nProvozní ředitelka\nIng. Vendula Lapčíková\nT +420 572 522 819\nvendula.lapcikova@mesit.cz\nVedoucí servisu a technické podpory\nIng. Otto Prokop\nT +420 572 522 798\nservice.asd@mesit.cz\nwww.mesit.cz\nMESIT asd, s.r.o.\nSokolovská 573, Mařatice\n686 01 Uherské Hradiště\nČeská republika\nasd@mesit.cz\nT +420 572 522 200\nIČ: 60709235\nDIČ: CZ60709235\nKontakty\nPrivátní zóny\nOchrana osobních údajů\nOchrana oznamovatelů\nEtický kodex\nCopyright © 2026 MESIT asd, s.r.o.\nVšechna práva vyhrazena\nMEMBER OF OMNIPOL GROUP SINCE 2018\nwww.omnipol.cz"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "MESIT ASD",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 11,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Smartlook",
+        "vendor": "Smartlook",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "MESIT ASD",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Petr",
+        "last_name": "Kuneta",
+        "title": "Technický řEditel",
+        "email": "",
+        "phone": "",
+        "company": "MESIT companies",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Jiri",
+        "last_name": "Dvorak",
+        "title": "Výrobní řEditel",
+        "email": "",
+        "phone": "",
+        "company": "MESIT companies",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Otto",
+        "last_name": "Prokop",
+        "title": "Vedoucí Servisu A Technické Podpory",
+        "email": "",
+        "phone": "",
+        "company": "MESIT companies",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Hana",
+        "last_name": "Bartošková",
+        "title": "Vedoucí Personalistiky",
+        "email": "hbartoskova@mesit.com",
+        "phone": "",
+        "company": "MESIT companies",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:31",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "inventor",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

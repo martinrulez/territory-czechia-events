@@ -1,0 +1,434 @@
+{
+  "company_key": "ionbond",
+  "company_name": "IONBOND",
+  "domain": "www.ionbond.com",
+  "domain_url": "https://www.ionbond.com",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "IONBOND",
+    "opportunity_score": 20,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.53,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.53,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "26094908",
+    "official_name": "Ionbond Czechia, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "00",
+      "47780",
+      "25530",
+      "00",
+      "25620",
+      "4778"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "CTPark Humpolec 1574, 39601 Humpolec, Humpolec, CTPark Humpolec, 39601",
+    "zi_done": true,
+    "employee_count": 750,
+    "revenue": 178560,
+    "zi_company_name": "Ionbond",
+    "zi_domain": "www.ionbond.com",
+    "zi_city": "Olten",
+    "zi_country": "Switzerland",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ionbond.com",
+    "homepage": {
+      "title": "PVD, CVD & PACVD Coating Partner | Ionbond IHI Group",
+      "description": "Ionbond is a global supplier of PVD, PACVD, CVD and CVA coating technology. We offer you the best possible industrial coating solution for your business…",
+      "text_excerpt": "PVD, CVD & PACVD Coating Partner | Ionbond IHI Group\nTHE SURFACE ENGINEERS\nProvider of innovative PVD, CVD &  PACVD coating services\nGet in touch\nEnhanced performance in demanding machining\nIonbond CVD 29 Ultra: Extended tool life through high durability\nRead more\nWe provide thin-film coating services worldwide\nIonbond provides thin-film coating services and operates worldwide. Its coatings are used to improve durability, quality, functionality, efficiency and aesthetics of tools and components. Our portfolio includes\nPVD\nPACVD\nCVD\nCVA\nand CVI technologies, including a broad range of\nDLC coatings\nOver 50 years of experience in coating technology\nOur global and regional experts are here to support you with state-of-the-art knowledge so that we can deliver world-class products to you wherever you are.\nInnovative standard and customized PVD, CVD, and PACVD coating solutions\nWe are always eager to take on your challenging, highly specialized coating applications to serve you with the solution you looking for.\nExtensive world wide network in Europe, North America and Asia\nBenefit from our extensive network with around 30 coating centers in 14 countries.\nCoating service portfolio for specific markets\nCutting tools\nState-of-the-art coatings for high-speed steels (HSS) and cemented carbide cutting tools\nRead more\nForming and Molding Tools\nImprove productivity, maintain excellent product quality and minimize scrap rate\nRead more\nComponents\nBoosting the performance of components for industrial machinery\nRead more\nMobility\nThin-film coating solutions engineered for durability, efficiency, and controlled performance across modern mobility applications.\nRead more\nAerospace\nEnhance performance, decrease operation costs and push application limits\nRead more\nDecorative\nHigh quality decorative coatings to ensure perfect appearance in extreme environments\nRead more\nCoating for medical\nBiocompatible certified medical coatings\nRead more\nFood contact\nSafe and hard high-performance coatings for food processing\nRead more\nDecarbonization\nSurface engineering solutions for batteries, PEM electrolyzers, and PEM fuel cells.\nRead more\nEurope, North America & Asia\nExtensive worldwide network\nBenefit from our extensive worldwide network and our wide experience in\ncoating technology\nwhich is available from each of our service centers.\nOur locations\nRead and find articles crafted exact for you\nAll articles\nCollaboration\nIonbond & Sodebo: A technical partnership behind a historic world record\nSodebo’s new Jules Verne Trophy record marks a defining moment in offshore sailing, showcasing exceptional skill, teamwork and technical precision. Since 2020, Ionbond has been supporting the team’s pursuit of performance and reliability at sea. Discover the full story on our collaboration and how we help empower the Sodebo team.\nRead more\nCoatings\nDecobond™ Black Raven: Advanced decorative PVD coating for demanding applications\nWhen it comes to products that require long-lasting design, dur"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "IONBOND",
+    "autodesk_products": [
+      "Autodesk AutoCAD"
+    ],
+    "competitor_products": [
+      "Solidworks"
+    ],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 99,
+    "all_technologies": [
+      {
+        "product": "Dynamics Nav Erp",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Microsoft Dynamics 365 Business Central",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft Dynamics 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "HR Manager",
+        "vendor": "HR Manager Talent Solutions International",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "PayPal",
+        "vendor": "PayPal Holdings, Inc.",
+        "category": "Payment Processing",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Outlook.com",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Claritas",
+        "vendor": "Claritas, LLC",
+        "category": "Marketing Data Providers",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Genius Sports",
+        "vendor": "Genius Sports Group",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Nium",
+        "vendor": "Nium Pte. Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Navis",
+        "vendor": "Navis LLC",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "ventiv",
+        "vendor": "Ventiv Technology Australia PTY Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Sunday",
+        "vendor": "Sunday",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Persona",
+        "vendor": "Persona Identities Inc",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Lean Manufacturing",
+        "vendor": "Gemba Academy LLC",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Web.com",
+        "vendor": "Web.com Group, Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Kanban",
+        "vendor": "",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Genero",
+        "vendor": "Four Js",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "NTENT Hosting",
+        "vendor": "NTENT Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Solidworks",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Docs",
+        "vendor": "Google LLC",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Mobile",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Mediavine",
+        "vendor": "Mediavine, Inc.",
+        "category": "Ad Verification and Optimization",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "D3.js",
+        "vendor": "Data Driven Documents",
+        "category": "Charting",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Bing Universal Event Tracking",
+        "vendor": "Microsoft Corporation",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "IONBOND",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Teruyuki",
+        "last_name": "Kadooka",
+        "title": "Board Member",
+        "email": "kadooka.teruyuki@ionbond.com",
+        "phone": "",
+        "company": "Ionbond",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Yasuhiro",
+        "last_name": "Shigegaki",
+        "title": "Chairman",
+        "email": "yasuhiro.shigegaki@ionbond.com",
+        "phone": "",
+        "company": "Ionbond",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 81.0
+      },
+      {
+        "first_name": "Magnus",
+        "last_name": "Haglund",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Ionbond",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 76.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 15:47"
+}

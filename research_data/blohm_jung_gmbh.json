@@ -1,0 +1,151 @@
+{
+  "company_key": "blohm jung gmbh",
+  "company_name": "Blohm Jung GmbH",
+  "domain": "www.blohmjung.com",
+  "domain_url": "https://www.blohmjung.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Blohm Jung GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 83,
+    "revenue": 4995,
+    "zi_company_name": "Blohm Jung",
+    "zi_domain": "www.blohmjung.com",
+    "zi_city": "Hamburg",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.blohmjung.com",
+    "homepage": {
+      "title": "www.blohmjung.com | BLOHM JUNG",
+      "description": "",
+      "text_excerpt": "www.blohmjung.com | BLOHM JUNG\nUNITED GRINDING Group\nUNITED GRINDING North America\n联合磨削中国\nUNITED GRINDING India\nFlach & Profil\nMägerle\nBlohm\nJung\nRund\nStuder\nSchaudt\nMikrosa\nWerkzeug\nWalter\nEwag\nAdditive Fertigung\nIRPD\nDeutsch\nEnglish\nFrançais\nItaliano\n日本語\n한국어\nDistributor\nSuchen\nBitte wählen Sie\nBLOHM\nSeit Jahrzehnten sind BLOHM Schleifmaschinen weltweit im Einsatz, wenn es um Produktivität, Leistung und Präzision geht. Sie werden in Hamburg entwickelt und in einem modern ausgestatteten Werk nach hohen Qualitätsmaßstäben gefertigt. Über 15.000 ausgelieferte Maschinen spiegeln die internationale Anerkennung der Marke BLOHM wider.\nFirmenprofil\nGeschichte\nBLOHM Maschinen\nStellenangebote\nJUNG\nDie Blohm Jung GmbH sieht es als eine Verpflichtung, nach weltweit mehr als 19.000 verkauften Maschinen der Marke\nJUNG\nihre führende Position im Bereich Präzision, Qualität und Oberflächengüte zu sichern und weiter auszubauen.\nFirmenprofil\nGeschichte\nJUNG Maschinen\nStellenangebote\nVorsprung durch Information!\nSie möchten weiterhin interessante Tipps für Ihren Erfolg erhalten?\nDann geben Sie uns jetzt Ihre Einwilligung und profitieren Sie somit weiterhin nicht nur von Informationen zu unserem Produktportfolio, sondern auch:\n•\tInformationen zu unseren Fachveranstaltungen\n•\tTechnische Informationen\n•\tWhite Paper, Fachartikel, Leitfäden\n•\tCase Studies, Videos\nHier kostenlos anmelden ...\nKanäle\nLinkedIn\nYouTube\nUNITED GRINDING Group\nUNITED GRINDING North America\n联合磨削中国\nUNITED GRINDING India\nFlach & Profil\nMägerle\nBlohm\nJung\nRund\nStuder\nSchaudt\nMikrosa\nWerkzeug\nWalter\nEwag\nAdditive Fertigung\nIRPD\nDeutsch\nEnglish\nFrançais\nItaliano\n日本語\n한국어\nDistributor"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Blohm Jung GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 13,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Apache Solr",
+        "vendor": "The Apache Software Foundation",
+        "category": "Enterprise Search",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Hostway",
+        "vendor": "Hostway Services, Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "TYPO3 CMS",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Apache Lucene",
+        "vendor": "The Apache Software Foundation",
+        "category": "Enterprise Search",
+        "categoryParent": "Data Management"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Blohm Jung GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 18:48"
+}

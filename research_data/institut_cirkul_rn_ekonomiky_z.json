@@ -1,0 +1,31 @@
+{
+  "company_key": "institut_cirkul_rn_ekonomiky_z",
+  "company_name": "Institut Cirkulární Ekonomiky, z.ú.",
+  "domain": "",
+  "events": "Czech Green Building Council Members",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "SOŇA KLEPEK JONÁŠOVÁ",
+        "firstName": "SOŇA",
+        "lastName": "KLEPEK JONÁŠOVÁ",
+        "jobTitle": "ředitelka",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:54"
+}

@@ -1,0 +1,82 @@
+{
+  "company_key": "fuchs oil corporation (cz), spol. s r.o.",
+  "company_name": "FUCHS OIL CORPORATION (CZ), spol. s r.o.",
+  "domain": "www.fuchs-oil.cz",
+  "domain_url": "https://www.fuchs-oil.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "FUCHS OIL CORPORATION (CZ), spol. s r.o.",
+    "opportunity_score": 12,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "41188063",
+    "official_name": "FUCHS OIL CORPORATION (CZ), spol. s r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "47780",
+      "70200",
+      "201",
+      "46850",
+      "46900",
+      "47300",
+      "201",
+      "46750",
+      "46900",
+      "47300",
+      "4778",
+      "702"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Technická 2539, 25101 Říčany, Říčany, Technická, 25101",
+    "zi_done": true,
+    "employee_count": 21,
+    "revenue": 8394,
+    "zi_company_name": "FUCHS OIL Corporation - CZ, spol s ro",
+    "zi_domain": "www.fuchs-oil.cz",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.fuchs-oil.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "FUCHS OIL CORPORATION (CZ), spol. s r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 19:15"
+}

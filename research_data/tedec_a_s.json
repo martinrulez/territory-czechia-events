@@ -1,0 +1,31 @@
+{
+  "company_key": "tedec_a_s",
+  "company_name": "TEDEC a.s.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MAREK FRNDA",
+        "firstName": "MAREK",
+        "lastName": "FRNDA",
+        "jobTitle": "člen správní rady",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:51"
+}

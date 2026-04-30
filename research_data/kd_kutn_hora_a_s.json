@@ -1,0 +1,121 @@
+{
+  "company_key": "kd_kutn_hora_a_s",
+  "company_name": "ČKD Kutná Hora, a.s.",
+  "domain": "www.ckdkh.cz",
+  "events": "Czech Foundry Association Members",
+  "technographics": {
+    "success": true,
+    "company": "ČKD Kutná Hora, a.s.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "KAREL KRENK",
+        "firstName": "KAREL",
+        "lastName": "KRENK",
+        "jobTitle": "člen správní rady B",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MILAN JEŘÁBEK",
+        "firstName": "MILAN",
+        "lastName": "JEŘÁBEK",
+        "jobTitle": "předseda správní rady",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JAROSLAV KŘÍŽ",
+        "firstName": "JAROSLAV",
+        "lastName": "KŘÍŽ",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ROSTISLAV TRÁVNÍK",
+        "firstName": "ROSTISLAV",
+        "lastName": "TRÁVNÍK",
+        "jobTitle": "člen správní rady A",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:23",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ckdkh.cz",
+    "homepage": {
+      "title": "Ckdkh",
+      "description": "",
+      "text_excerpt": "Ckdkh\nÄKD KutnÃ¡ Hora je dominantnÃ­m vÃ½robcem ocelovÃ½ch odlitkÅ¯ a svaÅencÅ¯\nVe vÃ½robÄ efektivnÄ vyuÅ¾Ã­vÃ¡me veÅ¡kerÃ© modernÃ­ technologickÃ© postupy.\npÅeÄtÄte si vÃ­ce\nÄKD KutnÃ¡ Hora je tradiÄnÃ­ vÃ½robnÃ­ spoleÄnostÃ­ jiÅ¾ 50 let\nMÃ¡me zÃ¡jem o spoleÄnÃ½ rozvoj spoluprÃ¡ce s naÅ¡imi partnery.\npÅeÄtÄte si vÃ­ce\nÄKD KutnÃ¡ Hora je vÃ½robcem s celosvÄtovou pÅ¯sobnostÃ­\nNaÅ¡Ã­m hlavnÃ­m aktivem je dÅ¯vÄra naÅ¡ich zÃ¡kaznÃ­kÅ¯.\npÅeÄtÄte si vÃ­ce"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

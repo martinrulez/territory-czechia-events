@@ -1,0 +1,170 @@
+{
+  "company_key": "iconem",
+  "company_name": "ICONEM",
+  "domain": "www.iconem.com",
+  "domain_url": "https://www.iconem.com",
+  "events": "3DISE Conference 2026",
+  "event_count": 1,
+  "lead_class": null,
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ICONEM",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 21,
+    "revenue": 1750,
+    "zi_company_name": "Iconem",
+    "zi_domain": "www.iconem.com",
+    "zi_city": "Paris",
+    "zi_country": "France",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.iconem.com",
+    "homepage": {
+      "title": "Iconem",
+      "description": "Iconem's mission is to contribute to heritage conservation. By scanning threatened sites, we hope to facilitate their exploration and study, for today and tomorrow.",
+      "text_excerpt": "Iconem\nProjects\nThe Thread of Memory\nSaint-Lô, Saint-Raphaël, and the Army Museum in Paris\n2024\nChanging Landscapes: An Immersive Journey\nMuseum of Science, Boston\n2024\nPétros Ení\nSaint-Peter Basilica, Vatican city\n2024\nSalvaged from the Shadows: Protecting Cultural Heritage\nNational Museum of China, Beijing\n2024\nThe Center of Lights\nSaline royale of Arc-et-Senans, France\n2023\nArmenia. Contemplating the sacred\nBoghossian Foundation - Villa Empain\n2023\nVenice Revealed\nGrand Palais Immersif, Paris\n2022\nHippolyte, Paul, Auguste. The Flandrin family, artists and brothers\nMusée des Beaux Arts de Lyon\n2021\nPyramids\nFlyview, Paris\n2021\nBuild an Empire\nMuseum of Romanity, Nimes\n2020\nCarcassonne\nCarcassonne\n2020\nAge Old Cities - Smithsonian\nFreer Gallery of Art and the Arthur M. Sackler Gallery, the Smithsonian’s National Museum of Asian Art\n2020\nAleppo\nVilla Empain, Bruxelles\n2020\nAge-Old Cities - Riyadh\nNational Museum In Riyadh\n2019\nAge Old Cities - Bonn\nBundeskunsthalle\n2019\nThe Mont Saint-Michel\nMuseum of Plans-Reliefs, Paris\n2018\nSyria Matters\nMuseum of Islamic Art, Doha\n2018\nArt # Connexion\nGrand Palais, Paris\n2018\nNineveh - Nabi Yunus\nNational Museum of Antiquities, Leyden\n2018\nAge-Old Cities\nArab World Institute, Paris\n2018\nThe Crac Des Chevaliers\nCité de l’architecture & du patrimoine, Paris\n2018\nI am Ashurbanipal\nBritish Museum, London\n2018\nEternal Sites - Maroc\nBouregreg Cultural Complex\n2018\nSyrian Symphony\nAga Khan Museum, Toronto\n2017\nEternal Sites\nGrand Palais, Paris\n2016\nAbout Iconem\nFounded in 2013, Iconem is an innovative startup that specialises in the digitisation of endangered cultural heritage sites in 3D. We work with international organisations, national governments, local authorities, and world class museums such as UNESCO, the Aga Khan Trust for Culture, the Sultanate of Oman, the City of Paris, and the Louvre. We design site-specific architectural 3D models; large-scale urban and rural 3D models; museum exhibitions; and training for local professionals.\nIconem Research focuses on 3D scanning heritage sites, monuments, and cities with archaeologists, architects, restorators, and institutions such as UNESCO...\nIconem Studio creates immersive exhibitions promoting heritage with major museums worldwide, produces video and images for documentaries...\nDiscover our most recent projects on an interactive 3D platform. Used by specialists and partners, use it to access the highest-resolution data\nContribute to Iconem Fund for Endangered Heritage as an organization or an individual, and help preserve the most fragile icons of our heritage via emergency missions\nDamaged by War, Syria’s Cultural Sites Rise Anew in France”, The New York Times, USA, 31 December 2016\n[Architects and archaeologists] need [drones] in a new push for virtual preservation that scientists, archaeologists and others, like Mr. Ubelmann, are compiling on a large scale. The records could be used to create computer models that would show how monuments and endangered hist"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "ICONEM",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 14,
+    "all_technologies": [
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "OVH Email Solutions",
+        "vendor": "OVH",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "OVH Domains",
+        "vendor": "OVH",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Amazon Web Hosting",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ICONEM",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Yves",
+        "last_name": "Ublemann",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Iconem",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 80.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 19:06"
+}

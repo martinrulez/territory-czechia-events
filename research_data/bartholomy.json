@@ -1,0 +1,84 @@
+{
+  "company_key": "bartholomy",
+  "company_name": "BARTHOLOMY",
+  "domain": "www.bartholomy.de",
+  "domain_url": "https://www.bartholomy.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "BARTHOLOMY",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "3ds Max",
+    "total_seats": "1",
+    "current_acv_eur": "2200.0",
+    "potential_acv_eur": "4550.0",
+    "nearest_renewal": "3333-12-31",
+    "days_to_renewal": "477624",
+    "top_upsell": "M&E Collection",
+    "top_upsell_reason": "Bundle with Maya, Arnold, MotionBuilder",
+    "all_upsells": "M&E Collection; Flex",
+    "reseller": "Digital River Ireland, Ltd.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other",
+    "ml_domain": "www.artzoom.cz",
+    "zi_done": true,
+    "employee_count": 83,
+    "revenue": 5637,
+    "zi_company_name": "Bartholomy",
+    "zi_domain": "www.bartholomy.de",
+    "zi_city": "Dueren",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.bartholomy.de",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "BARTHOLOMY",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:08",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "3ds max",
+        "maya"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

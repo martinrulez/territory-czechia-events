@@ -1,0 +1,276 @@
+{
+  "company_key": "bartech",
+  "company_name": "Bartech",
+  "domain": "www.argotech.cz",
+  "domain_url": "https://www.argotech.cz",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Bartech",
+    "opportunity_score": 45,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [
+      "Hiring (1 jobs)",
+      "Engineering roles open",
+      "Public contracts"
+    ],
+    "fit_score": 0.53,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.53,
+      "event_relevance": 0.25,
+      "signals": 0.55,
+      "client_bonus": 0.7
+    },
+    "ares_done": true,
+    "ico": "26902931",
+    "official_name": "Bartech, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "582",
+      "6210",
+      "47",
+      "461",
+      "731",
+      "00",
+      "46",
+      "47780",
+      "63",
+      "00",
+      "46",
+      "461",
+      "47",
+      "4778",
+      "582",
+      "6201",
+      "63",
+      "731"
+    ],
+    "ares_segments": [
+      "M&E"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Velkomoravská 527/33, 69501 Hodonín, Hodonín, Velkomoravská, 69501",
+    "employee_count": 21,
+    "revenue": 3690,
+    "hiring_signal": true,
+    "hiring_intensity": "low",
+    "total_jobs": 1,
+    "engineering_hiring": true,
+    "leadership_change": false,
+    "has_public_contracts": true,
+    "zi_domain": "www.argotech.cz",
+    "zi_city": "Náchod",
+    "zi_country": "Czech Republic",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "2",
+    "current_acv_eur": "1000.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-04-23",
+    "days_to_renewal": "0",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Entry",
+    "industry_segment": "Industrial Machinery",
+    "ml_domain": "www.argotech.cz",
+    "ml_employee_count": "21",
+    "ml_revenue": "3690",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "revenue_growth": 0.0,
+    "or_done": true
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.argotech.cz",
+    "homepage": {
+      "title": "Argotech: Back-end assembly services for semiconductor photonics",
+      "description": "Supporting customers worldwide with manufacturing, R&D and evaluation focused on design, process development and expertise in optics, electronics and mechanics.",
+      "text_excerpt": "Argotech: Back-end assembly services for semiconductor photonics\nAdvanced semiconductor photonics assembly\nWe are a one stop service provider for design, assembly and packaging in semiconductor photonics and microelectronics.\nWe illuminate your path at every step from the concept to mass production,\ncovering all aspects: design, simulations, prototyping, testing, qualification, production…\nShow more\nyears of\nexperience\nin optoelectronics\ncleanroom production\narea at ISO 7 & 8 level\nengineers involved in\nproduction and processing\nCompetencies\nOur Business\nCore Competencies\nComplex assembly and packaging solutions for\nsemiconductor photonics and microelectronics\nindustries.\nExtensive experience with specialized simulation tools to design\ncustomized packages\nmeeting thermal, optical and high frequency requirements.\nAdvanced solutions\nbased on high-tech approaches such as Silicon Photonics, including hybrid integration.\nTraditional solutions\nfor bare chips integration in TO-CAN or butterfly packages.\nExperience in wide multispectral applications\nUV-VIS-NIR-MIR (200nm – 20µm).\nDesign, prototyping, testing, qualifications for a variety of markets including sensing (LIDARs), healthcare (non-invasive diagnostics) or quantum photonics\nServices\nOUR MISSION:\nTo provide continuous support for customers worldwide including manufacturing, development and engineering services focused on design, process development as well as expertise in optics, electronics and mechanics.\nSolutions\nSilicon Photonics\nThe next level of integrated photonics entering a new era of application for use in everyday life.\nWe provide complex integration capabilities:\nbutt coupling\nof the fiber array to a chip (both edge and grating)\nfree space optics\ncoupling based on the lenses\nchip to chip coupling\nhybrid integration (EIC, III-V)\nWe have been active in this field since 2017.\nSolutions\nAssembly\nServices\nAssembly and Packaging\nAdvanced assembly and packaging services\nfor semiconductor photonics components in our\nown cleanrooms located in the EU,\nin the Czech Republic.\nFlexible\nproduction volume capacities\nfrom single piece to higher volume batches.\nOptional product complexity\nfrom single chip packaging to the complex device packaging.\nAvailable models of cooperation:\nCM, OEM and ODM.\nWafer Level Assembly\nand component level assembly including Burn-in process.\nAdvanced production\ndata management\nin own database systems.\nExtensive\nengineering experience\nin manufacturing processes.\nManufacturing\nSilicon\nPhotonics\nDesign\nServices\nDesign and Qualification\nWe are able to provide\nvaluable feedback to\nfront-end\nchip designers\nto enable efficient chip integration into the packages.\nWe are here to support designers with integration into other subsystems and packaging modules and help to\nbring them to the market.\nWe have a\nmany years experience\nin packaging services designing the most\nefficient packaging\nfor a wide range of applications.\nWe support the design activities with\nhigh-tech simulation to"
+    },
+    "about": {
+      "url": "https://www.argotech.cz/about",
+      "text": "Argotech: Service provider for your semiconductor and photonics needs\nService provider in photonics since 2006\nLike Jason and the Argonauts ventured into unexplored realms, the Argotech team is heading for new frontiers in semiconductor photonics and microelectronics.\nScroll down\nAbout us\nAbout us\nAbout ARGOTECH\nIndependent private company founded in 2006.\nAssembly and R&D service provider in optics, electronics and mechanics.\nOur capabilities are based on knowledge and skills from the time Siemens and Infineon set up their production in our region in the 1990s.\nOver 1000 square meters of ISO 7 and 8 class cleanroom premises.\nArgotech a.s.\nis a privately owned company ideally located  in the heart of Europe\nin the Czech Republic\n. We specialize in\nassembly, development and engineering\nfor fiber optics, semiconductor photonics, microelectronics and micromechanics.\nWe offer the complete\nback-end assembly process\nchain from wafer level to full optical assembly or customised\nsemiconductor packaging\nsolutions. We can support with 1pc prototyping or pilot production with the potential for rapid scaling up to volume production. Our R&D teams can provide feasibility studies, product design, prototyping, product qualification and process modifications.\nOUR MISSION:\nTo provide continuous support for customers worldwide including manufacturing, development and engineering services focused on design, process development as well as expertise in optics, electronics and mechanics.\nAbout us\nThe benefits\nThe Benefits Of Argotech\nEuropean business approach\nfocusing on quality and long term partnership.\nSmart solutions based on decades\nof experience\nin Czech Republic in electronics.\nWe are a trusted and\nreliable partner\nin a demanding industry.\nWe keep up to date with the\nlatest developments\nthanks to our long-term partnerships with international scientific institutions, universities and world leaders in the business.\nArgotech is certified by ISO9001 since 2/2011.\nArgotech is exclusively a\nservice provider\noffering various semiconductor packaging platforms but does not market its own products.\nThe\nSERVICES\nwe offer can be divided into three main groups:\nManufacturing\nservices\nR&D\nservices\nTesting\nservices\nWe prefer all the projects and contracts to be secured by a non-disclosure agreement.\nFor this reason, our references are practically limited to projects that we are allowed to publish. Please visit our\nREFERENCES\nfor more information.\n2022\nNew website design implemented.\n2021\nStarted to implement digitalization elements into production processes.\n2020\nMost succesful year in our history in terms of overal turnover. Set up plan for investments in production and laboratory equipment.\n2019\nWe are expanding the numbers of our colleagues.\n2020\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione\n2017\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione\n2015\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione\n2011\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione\nHistory\nOur history\nThe company was founded in 2006 based on existing tradition of microelectronics available in the region after the restructuralization of Siemens and Infineon afterwards.\nINDUSTRY\nHigh-tech sensors\nDurable data transfer\nAUTOMOTIVE\nLIDARs\nLighting\nAEROSPACE\nHigh speed data\nCompact & Hermetic\nHEALTHCARE\nNon-invasive diagnostics\nLife quality improvement\nDEFENCE SECURITY\nDetection\nDurability\nDATA TELECOM\nCustomized transceivers\nBig data\nArgotech\nHistory\n2023\nNEW TECHNOLOGY\nExpanding the technology for\nprecise hermetic assemblies\nin a protective atmosphere.\nNEW TECHNOLOGY for R&D\nFramework agreement signed to use equipment including\nPacTech\nSolder ball jetting,\nZygo\n3D profiler,\n"
+    },
+    "products": {
+      "url": "https://www.argotech.cz/services",
+      "text": "Argotech: Advanced design, assembly and evaluation services\nAdvanced Design & Assembly Services\nBackend process services for your needs\nin Semiconductor and Photonics.\nScroll down\nArgotech\noffers the entire back-end assembly process chain from wafer level assembly to full optical assembly of customised semiconductor packaging solution. This enables prototyping and pilot production with the potential for rapid scaling up to volume production.\nOur R&D teams can provide feasibility studies, product design, prototyping, product qualification and process modifications.\nArgotech\nis exclusively a\nSERVICES provider\nwith inhouse capacity of various semiconductor packaging platforms and a wide range of R&D services but\ndoes not market its own products.\nThe\nSERVICES\nare divided into three main groups:\nManufacturing\nservices\nR&D services\nTesting\nservices\nOur key features and benefits for our partners include:\nPackaging capabilities for multispectral applications (200nm – 20µm)\nOperating with cutting-edge technologies while working with leaders in the industry\nProviding solutions combining Optical, Electronic and Mechanical design and technologies.\nExperienced engineering teams with sustainable equipment investments\nHigh quality standards\nManufacturing services\nVolume:\nFlexible production volume capacities from single piece to higher volume batches.\nComplexity:\nWe offer optional assembly process complexity from single chip packaging to the complex device packaging, with the possibility to use any part of the processes or the entire assembly line.\nContract models:\n– contract manufacturing\nOEM\n– original equipment manufacturing\nODM\n– original design manufacturing\nCore production processes:\nDie-Attach\nWire bonding\nOptical coupling / Active alignment\nSolder ball jetting and related soldering processes\nTesting and Burn-in\nInter-process verification – PBI\nHermetic sealing and packaging\nSupporting processes – dicing, characterization, laser marking\nManufacturing\nServices\nServices\nR&D services\nWhatever stage your concept readiness is at, we can start with a feasibility study to prove the concept and recommend further steps to achieve your best parameters.\nOur experienced team of development engineers can support partners with bridging the gaps in the packaging aspect.\nIn addition we provide valuable feedback to front-end chip designers so that their components can be further efficiently integrated into semiconductor packages.\nWe provide the following outputs based on project readiness level:\nSimulations – thermal, high frequency, optical path, electrical\nFeasibility study, proof of concept\nDesign – mechanical and optical\nPrototype build – evaluation and qualification\nAssembly process development\nSample batch verification\nPublic funded projects\nLong-term R&D contracts\nR&D services\nYour project\nDo you need more information?\nWe are ready to assist you. Contact us directly here and give us a brief description of your project.\nWe will get back to you as soon as possible.\n"
+    },
+    "contact_page": {
+      "url": "https://www.argotech.cz/contact",
+      "text": "Contact - Argotech a.s.\nContact\nArgotech a.s.\nYoutube\nLinkedin\nBilling address\nRegistered Address:\nHolubova 978\n547 01 Náchod\nCzech Republic\nShipping address\nBusiness Address:\nNáchodská 529\n541 01 Trutnov\nCzech Republic\nContact information:\nIČO / ID: 27495779\nDIČ / VAT ID: CZ27495779\nEmail:\ninfo@argotech.cz\nMobile:\n+420 778 437 750\nD-U-N-S® Number:\n662989081\nBank accounts:\nSWIFT (BIC): CEKOCZPP\nCZK 28 58 34 358 / 0300\nIBAN: CZ59 0300 0000 0002 8583 4358\nEUR 28 59 82 801 / 0300\nIBAN: CZ41 0300 0000 0002 8598 2801\nUSD 28 59 83 329 / 0300\nIBAN: CZ44 0300 0000 0002 8598 3329\nBusiness registration at Regional Court in Hradec Králové, folder B, file 2520\nDownload our GDPR.\nDownload GDPR\nDo you want to leave us a message?\nHow can we assist you? Contact us directly here.\nBriefly describe your project or ask any queries you may have.\nWe will get back to you as soon as possible.\nConsent to the processing of personal data.\nSend\nGDPR\nCertificates\nWe draw support from the EU\nContact\nJob offer\nYoutube\nLinkedin\nEU ikona-pdf\nHome\nAbout us\nServices\nManufacturing\nR&D services\nTesting services\nReferences\nSolutions\nContact\nManage Consent to cookies\nWe use technologies like cookies to store and/or access device information. We do this to improve browsing experience and to show (non-) personalized ads. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.\nFunctional\nFunctional\nAlways active\nTechnical storage or access is absolutely necessary for the legitimate purpose of enabling the use of a specific service that the subscriber or user has expressly requested, or only for the purpose of carrying out the transmission of a message via an electronic communications network.\nPreferences\nPreferences\nThe technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Argotech a.s.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 15,
+    "all_technologies": [
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Bartech",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Martin",
+        "last_name": "Zoldak",
+        "title": "Chief Technology Officer Engineering Head of Research & Development",
+        "email": "martin.zoldak@argotech.cz",
+        "phone": "+420 739 203 015",
+        "company": "Argotech",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 94.0
+      },
+      {
+        "first_name": "Petr",
+        "last_name": "Záruba",
+        "title": "Project Manager",
+        "email": "petr.zaruba@argotech.cz",
+        "phone": "+420 739 203 024",
+        "company": "Argotech",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Adam",
+        "last_name": "Darvaš",
+        "title": "Process Engineer",
+        "email": "adam.darvas@argotech.cz",
+        "phone": "+420 778 530 766",
+        "company": "Argotech",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 08:30",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks",
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

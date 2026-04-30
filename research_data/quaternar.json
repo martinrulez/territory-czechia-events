@@ -1,0 +1,159 @@
+{
+  "company_key": "quaternar",
+  "company_name": "QuaternAR",
+  "domain": "www.quaternar.com",
+  "domain_url": "https://www.quaternar.com",
+  "events": "3DISE Conference 2026",
+  "event_count": 1,
+  "lead_class": null,
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "QuaternAR",
+    "opportunity_score": 21,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.58,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.58,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "21332282",
+    "official_name": "QUATERNAR a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "00",
+      "46",
+      "62",
+      "68200",
+      "46190",
+      "71200",
+      "47",
+      "772",
+      "25510",
+      "70200",
+      "772",
+      "712",
+      "620",
+      "46",
+      "00",
+      "47",
+      "6820",
+      "25610",
+      "70220",
+      "46190"
+    ],
+    "ares_segments": [
+      "D&M",
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Křížová 2598/4, Smíchov, 15000 Praha 5, Praha, Křížová, 15000",
+    "zi_done": true,
+    "employee_count": 7,
+    "revenue": 2219,
+    "zi_company_name": "QuaternAR",
+    "zi_domain": "www.quaternar.com",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.quaternar.com",
+    "homepage": {
+      "title": "QuaternAR – QuaternAR",
+      "description": "",
+      "text_excerpt": "QuaternAR – QuaternAR\nDon’t Rewrite.\nExtend.\nQAROS connects your existing software directly to AR and VR.\nNo engine migration. No reimplementation.\nYour rendering pipeline stays yours. We handle the rest.\nLet’s make XR practical.\nMost XR tools were designed for demos and prototypes.\nQAROS brings immersive capability to the software people already use.\nNo rebuilds and no new engines. Your existing workflow simply extends into AR and VR.\nTeams work faster, review designs together, and see complex data in context.\nIt turns XR from a showcase into a productivity tool.\nBuilt for real software.\nQAROS works directly with DirectX, Vulkan, OpenGL, or even CPU‑based renderers. It streams pixel data instead of geometry, so your shaders, lighting, and visuals stay exactly as you designed them.\nRendering happens on full desktop or server hardware, not a portable headset, which means higher resolution, more detail, and full fidelity.\nYour engine remains yours. QAROS connects it to immersive space.\nSecure. Scalable. Ready.\nQAROS runs on any standard PC and can be fully self-hosted for complete control.\nAll streams are encrypted and no data is stored on end devices.\nIt scales from a single workstation to an entire site, connecting multiple users and environments securely.\nWe keep QAROS updated to support the latest XR devices so your application keeps working without changes.\nOne system. Real-time collaboration.\nMultiple applications from different vendors can run together in the same shared 3D environment.\nUsers can view, interact, and work across them at the same time in a single shared virtual environment.\nYou can mix devices in a single session: AR and VR headsets, 3D displays, desktops, and tablets, all synchronized through the QAROS runtime.\nYou choose the right tool for the job and QAROS makes them all work together.\nOur Team\nJan\nCEO\nView Profile\nLukas\nVision Engineer\nView Profile\nRichard\nSoftware Engineer\nView Profile\nJaroslav\nGraphics Engineer\nView Profile\nContact Us\nWould you like to learn more about our technology or what we are just working on right now?\nDo not hesitate to contact us. We will be happy to chat with you.\nQUATERNAR a.s.\nContact address :\nCIIRC, Building B\nJugoslávských partyzánů 1580/3\n160 00\nPrague 6\nCzech Republic\n+420 602 348 715\n[email protected]\nBilling address :\nKřížová 2598/4\n150 00\nPrague\nCzech Republic\nVAT(DIČ): CZ21332282"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "QuaternAR",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Jan",
+        "last_name": "Hovora",
+        "title": "Chief Executive Officer",
+        "email": "jan@quaternar.com",
+        "phone": "",
+        "company": "QuaternAR",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Richard",
+        "last_name": "Molnár",
+        "title": "Co-Founder & Software Engineer",
+        "email": "richard@quaternar.com",
+        "phone": "",
+        "company": "QuaternAR",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 99.0
+      },
+      {
+        "first_name": "Jan",
+        "last_name": "Sirotek",
+        "title": "Partner",
+        "email": "jsirotek@quaternar.com",
+        "phone": "",
+        "company": "QuaternAR",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Jaroslav",
+        "last_name": "Vozár",
+        "title": "Graphics Software Engineer",
+        "email": "jaro@quaternar.com",
+        "phone": "",
+        "company": "QuaternAR",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Lukas",
+        "last_name": "Jelinek",
+        "title": "Computer Vision Engineer",
+        "email": "lukas@quaternar.com",
+        "phone": "",
+        "company": "QuaternAR",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:40"
+}

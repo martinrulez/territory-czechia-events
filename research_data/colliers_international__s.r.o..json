@@ -1,0 +1,67 @@
+{
+  "company_key": "colliers international, s.r.o.",
+  "company_name": "Colliers International, s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "Czech Green Building Council Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Colliers International, s.r.o.",
+    "opportunity_score": 30,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 1.0,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 1.0,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "27244172",
+    "official_name": "Colliers International Design & Build Czech s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "59",
+      "58",
+      "68310",
+      "41000",
+      "4120",
+      "58",
+      "59",
+      "68310"
+    ],
+    "ares_segments": [
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Na příkopě 859/22, Nové Město, 11000 Praha 1, Praha, Na příkopě, 11000",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Colliers International, s.r.o.",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:56"
+}

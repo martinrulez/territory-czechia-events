@@ -1,0 +1,122 @@
+{
+  "company_key": "odpadové fórum",
+  "company_name": "Odpadové fórum",
+  "domain": "www.odpadoveforum.cz",
+  "domain_url": "https://www.odpadoveforum.cz",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Odpadové fórum",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 9,
+    "revenue": 2711,
+    "zi_company_name": "Odpadové fórum",
+    "zi_domain": "www.odpadoveforum.cz",
+    "zi_city": "Praha",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.odpadoveforum.cz",
+    "homepage": {
+      "title": "Odpadové fórum",
+      "description": "",
+      "text_excerpt": "Deprecated: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated in /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/loader.php on line 30\nOdpadové fórum\nO nás\nPředplatné\nInzerce\nKontakt\nArchiv\nRočník 2026\nRočník 2025\nRočník 2024\nRočník 2023\nRočník 2022\nRočník 2021\nRočník 2020\nRočník 2019\nRočník 2018\nRočník 2017\nRočník 2016\nRočník 2015\nRočník 2014\nRočník 2013\nRočník 2012\nRočník 2011\nRočník 2010\nRočník 2009\nRočník 2008\nRočník 2007\nRočník 2005\nRočník 2006\nRočník 2004\nRočník 2003\nRočník 2001\nRočník 2002\nRočník 2000\nKonference\nTVIP\nPVO\nWaste forum\nKvětnové číslo vychází 4.5.\nBudoucnost bez skládek není jen legislativní cíl, ale test připravenosti celého odvětví\nRedakce OF\nBude pro stát důležitější reálná prevence vzniku odpadů nebo statistika?\nRedakce OF\nModerní a inovativní technika pro svoz odpadu\nTomáš Trávník\nJak mohou obce a technické služby optimalizovat…\nVíce\nNOVINKY\nOdpadové fórum\nZákladní informace\nO nás\nPředplatné\nInzerce\nKontakt\nArchiv\nKonference\nWaste forum\nZměnit souhlas s používáním cookies\nCopyright © 2026. Všechna práva vyhrazena\nKontakt\nCEMC - Odpadové fórum\n28. pluku 524/25\n101 00 Praha 10\nTel.: +420 274 784 417\nE-mail: forum@cemc.cz\nwww.odpadoveforum.cz"
+    },
+    "about": {
+      "url": "https://www.odpadoveforum.cz/o-nas",
+      "text": "Deprecated: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated in /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/loader.php on line 30\nFatal error: Uncaught exception 'Nette\\Application\\InvalidPresenterException' with message 'Cannot load presenter 'Front:ONas', class 'FrontModule\\ONasPresenter' was not found in '/DISK2/WWW/odpadoveforum.cz/www/new/app/FrontModule/presenters/ONasPresenter.php'.' in /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/Application/PresenterFactory.php:91\nStack trace:\n#0 /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/Application/PresenterFactory.php(57): Nette\\Application\\PresenterFactory->getPresenterClass('Front:ONas')\n#1 /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/Application/Application.php(125): Nette\\Application\\PresenterFactory->createPresenter('Front:ONas')\n#2 /DISK2/WWW/odpadoveforum.cz/www/new/app/bootstrap.php(125): Nette\\Application\\Application->run()\n#3 /DISK2/WWW/odpadoveforum.cz/www/new/www/index.php(17): require('/DISK2/WWW/odpa...')\n#4 {main}\nNext exception 'Nette\\Application\\BadRequestException' with message 'Cannot load presenter 'Front:ONas', class 'FrontModule\\ONasPresenter' was not found in '/DISK2/WWW/o in /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/Application/Application.php on line 127"
+    },
+    "products": {
+      "url": "https://www.odpadoveforum.cz/produkty",
+      "text": "Deprecated: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated in /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/loader.php on line 30\nFatal error: Uncaught exception 'Nette\\Application\\InvalidPresenterException' with message 'Cannot load presenter 'Front:Produkty', class 'FrontModule\\ProduktyPresenter' was not found in '/DISK2/WWW/odpadoveforum.cz/www/new/app/FrontModule/presenters/ProduktyPresenter.php'.' in /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/Application/PresenterFactory.php:91\nStack trace:\n#0 /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/Application/PresenterFactory.php(57): Nette\\Application\\PresenterFactory->getPresenterClass('Front:Produkty')\n#1 /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/Application/Application.php(125): Nette\\Application\\PresenterFactory->createPresenter('Front:Produkty')\n#2 /DISK2/WWW/odpadoveforum.cz/www/new/app/bootstrap.php(125): Nette\\Application\\Application->run()\n#3 /DISK2/WWW/odpadoveforum.cz/www/new/www/index.php(17): require('/DISK2/WWW/odpa...')\n#4 {main}\nNext exception 'Nette\\Application\\BadRequestException' with message 'Cannot load presenter 'Front:Produkty', class 'FrontModule\\ProduktyPresenter' wa in /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/Application/Application.php on line 127"
+    },
+    "contact_page": {
+      "url": "https://www.odpadoveforum.cz/kontakt",
+      "text": "Deprecated: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated in /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/loader.php on line 30\nFatal error: Uncaught exception 'Nette\\Application\\InvalidPresenterException' with message 'Cannot load presenter 'Front:Kontakt', class 'FrontModule\\KontaktPresenter' was not found in '/DISK2/WWW/odpadoveforum.cz/www/new/app/FrontModule/presenters/KontaktPresenter.php'.' in /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/Application/PresenterFactory.php:91\nStack trace:\n#0 /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/Application/PresenterFactory.php(57): Nette\\Application\\PresenterFactory->getPresenterClass('Front:Kontakt')\n#1 /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/Application/Application.php(125): Nette\\Application\\PresenterFactory->createPresenter('Front:Kontakt')\n#2 /DISK2/WWW/odpadoveforum.cz/www/new/app/bootstrap.php(125): Nette\\Application\\Application->run()\n#3 /DISK2/WWW/odpadoveforum.cz/www/new/www/index.php(17): require('/DISK2/WWW/odpa...')\n#4 {main}\nNext exception 'Nette\\Application\\BadRequestException' with message 'Cannot load presenter 'Front:Kontakt', class 'FrontModule\\KontaktPresenter' was not f in /DISK2/WWW/odpadoveforum.cz/www/new/libs/Nette/Application/Application.php on line 127"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Odpadové fórum",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Page Plugin",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Odpadové fórum",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 17:17"
+}

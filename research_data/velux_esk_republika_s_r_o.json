@@ -1,0 +1,31 @@
+{
+  "company_key": "velux_esk_republika_s_r_o",
+  "company_name": "VELUX Česká republika, s.r.o.",
+  "domain": "",
+  "events": "Czech Green Building Council Members",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ZSOLT SZABÓ",
+        "firstName": "ZSOLT",
+        "lastName": "SZABÓ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:31"
+}

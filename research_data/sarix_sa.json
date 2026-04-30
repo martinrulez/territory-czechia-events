@@ -1,0 +1,214 @@
+{
+  "company_key": "sarix sa",
+  "company_name": "SARIX SA",
+  "domain": "www.sarix.com",
+  "domain_url": "https://www.sarix.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SARIX SA",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 54,
+    "revenue": 4237,
+    "zi_company_name": "Sarix",
+    "zi_domain": "www.sarix.com",
+    "zi_city": "Sant Antonino",
+    "zi_country": "Switzerland",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.sarix.com",
+    "homepage": {
+      "title": "sarix.com – 3D Micro EDM Machining",
+      "description": "Sinker EDM High Precision Machine for micro-EROSION, micro-FORM, micro-HOLES and 3D micro EDM milling",
+      "text_excerpt": "sarix.com – 3D Micro EDM Machining\nHome page\nTHE BEST MICRO EDM MACHINING TECHNOLOGY SINCE 1993\nNEW Basic SARIX software with DXF Step hole ease feature\nClick Here\nNEW SX30 design 2026\nEXCITING AFFORDABLE AND ACCESSIBLE\nHigh Speed Micro EDM Drilling\nCompact machine\nDiscover it on firsthand\nHIGH PRECISION MICRO EDM MACHINES\nClick Here\nHIGH PRECISION MICRO MACHINING\nClick Here\nAUTOMATION CELL\nClick Here\nSARI\nBreakthrough Micro EDM NEW technology revolutionizes high performance manufacturing.\nNEW\n30-\nHigh speed drilling\ncompact machine\nMicro EDM Milling Sample\nHigh Precision 3D Micro EDM Milling\nSARIX Exhibitions\nCOMING SOON\nSARIX Exhibitions\nCOMING SOON\nSARIX Videos\n3D Micro EDM Milling videos\nBEHIND INNOVATIVE MICRO MACHINING TECHNOLOGY\nAt the heart of SARIX's ethos lies a design philosophy founded since 1993\non an unwavering commitment to user-centric principles for products of excellence ...\nSARI\nIS EMBRACING THE SMART CONNECTED INTERACTIVE INDUSTRY 4.0\nSARIX machines are set for Industry 4.0 boosting companies efficiency\nmaking digital benefits accessible to everyone...\nSARI\nTECHNOLOGIES\nOur strength lies in staying at the forefront of integrating and optimizing the Micro EDMing Technological ...\nSARIX 3D Micro EDM Milling\nSARIX Micro EDM Drilling\nSARIX Micro EDM Die Sinking\nSARI\nAPPLICATIONS\nLeading the market in meeting application demands, spanning from small-scale R&D to mass production ...\nAUTOMOTIVE\nMICRO MECHANICS\nAEROSPACE\nMICRO MOLD\nMEDICAL\nTEXTILE\nSARI\nMACHINES\nThe high performance SARIX machine range, coupled with automation cell, collet changer and evolutive features ...\nMACHline\nSX200L\nSX200Aero\nSX200-HPM\nSX100-HPM\nSX80-HPM\nSX30-PM\nPROTECT YOUR INVESTMENT – STAY AT THE CUTTING EDGE FOR YEARS TO COME\nChoosing SARIX means investing in cutting-edge machinery and partnering proactive ...\nIMPROVE YOUR PROCESS WITH OUR TECHNOLOGY APPLICATION CENTER\nFeaturing a full range of SARIX machine configurations, our technology center is where ...\nThis site is registered on\nwpml.org\nas a development site. Switch to a production site key to\nremove this banner\nWe use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.\nPrivacy policy\nScroll back to top"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.sarix.com/kontakt",
+      "text": "Contact – sarix.com\nContact\nSARIX SA\nVia Serrai 12\n6592 Sant’Antonino\nSwitzerland\nSALES\n+41 91 222 80 04\nemail to contact\nCUSTOMER SERVICE\n+41 91 222 80 03\nemail to customer service\nADMINISTRATION\n+41 91 222 80 00\nemail to administration\nPURCHASING\n+41 91 222 80 41\nemail to purchasing\nThis site is registered on\nwpml.org\nas a development site. Switch to a production site key to\nremove this banner\nWe use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.\nPrivacy policy\nScroll back to top"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "SARIX SA",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 23,
+    "all_technologies": [
+      {
+        "product": "Flexslider",
+        "vendor": "Flexslider",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Demandbase",
+        "vendor": "Demandbase, Inc.",
+        "category": "Account-Based Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft Dynamics 365 Business Central",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Tidio",
+        "vendor": "Tidio LLC",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "SARIX SA",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 16:57"
+}

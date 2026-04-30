@@ -1,0 +1,51 @@
+{
+  "company_key": "st_tn_investi_n_a_rozvojov_spole_nost_a_s",
+  "company_name": "Státní investiční a rozvojová společnost, a.s.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PETR KRIŽAN",
+        "firstName": "PETR",
+        "lastName": "KRIŽAN",
+        "jobTitle": "Vice-Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ZBYNĚK POKORNÝ",
+        "firstName": "ZBYNĚK",
+        "lastName": "POKORNÝ",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DAVID PETR",
+        "firstName": "DAVID",
+        "lastName": "PETR",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:44"
+}

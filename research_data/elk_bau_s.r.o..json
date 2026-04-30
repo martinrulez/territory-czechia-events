@@ -1,0 +1,70 @@
+{
+  "company_key": "elk bau s.r.o.",
+  "company_name": "ELK BAU s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "Czech Green Building Council Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ELK BAU s.r.o.",
+    "opportunity_score": 25,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.77,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.77,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "17829291",
+    "official_name": "ELK BAU s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "71110",
+      "43120",
+      "68200",
+      "00",
+      "41000",
+      "K",
+      "4312",
+      "6820",
+      "71110",
+      "J",
+      "00",
+      "4120"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Strkovská 297, Strkov, 39111 Planá nad Lužnicí, Planá nad Lužnicí, Strkovská, 39111",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "ELK BAU s.r.o.",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 14:42"
+}

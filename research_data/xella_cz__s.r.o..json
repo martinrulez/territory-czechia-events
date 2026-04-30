@@ -1,0 +1,229 @@
+{
+  "company_key": "xella cz, s.r.o.",
+  "company_name": "Xella CZ, s.r.o.",
+  "domain": "www.ytong.cz",
+  "domain_url": "https://www.ytong.cz",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Xella CZ, s.r.o.",
+    "opportunity_score": 22,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "16735285",
+    "official_name": "ZO Odborový svaz Stavba, Xella Porobeton CZ s.r.o.",
+    "legal_form": "707",
+    "nace_codes": [
+      "94200",
+      "94200"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "U Keramičky 449, 33442 Chlumčany, Chlumčany, U Keramičky, 33442",
+    "is_client": true,
+    "current_products": "AEC Collection | AutoCAD LT",
+    "total_seats": "19",
+    "current_acv_eur": "76100.0",
+    "potential_acv_eur": "69300.0",
+    "nearest_renewal": "2026-09-04",
+    "days_to_renewal": "134",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle with Inventor, Fusion, Vault for design + manufacturing",
+    "all_upsells": "PDMC; Forma; BIM Collaborate Pro",
+    "reseller": "Arkance Systems CZ s.r.o. | cadconsulting, spol. s r. o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Engineering Service Providers",
+    "ml_domain": "www.delta.at",
+    "zi_done": true,
+    "employee_count": 244,
+    "revenue": 5242,
+    "zi_company_name": "Xella CZ, sro",
+    "zi_domain": "www.ytong.cz",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ytong.cz",
+    "homepage": {
+      "title": "PIM",
+      "description": "",
+      "text_excerpt": "PIM"
+    },
+    "about": {
+      "url": "https://www.ytong.cz/o-nas",
+      "text": "PIM"
+    },
+    "products": {
+      "url": "https://www.ytong.cz/produkty",
+      "text": "PIM"
+    },
+    "contact_page": {
+      "url": "https://www.ytong.cz/kontakt",
+      "text": "PIM"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Xella CZ, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 18,
+    "all_technologies": [
+      {
+        "product": "Drupal 9",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "New Relic",
+        "vendor": "New Relic, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Vue",
+        "vendor": "Vue.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Drupal 8",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "MailerLite",
+        "vendor": "MailerLite UAB",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "NetNames",
+        "vendor": "NetNames",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Facebook Comments",
+        "vendor": "Facebook, Inc.",
+        "category": "Comment Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "New Relic Browser",
+        "vendor": "New Relic, Inc.",
+        "category": "Real User Monitoring",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Drupal",
+        "vendor": "Drupalcon, Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Xella CZ, s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Tomas",
+        "last_name": "Dokoupil",
+        "title": "Product Manager, BIM Cz & Sk",
+        "email": "tomas.dokoupil@xella.com",
+        "phone": "",
+        "company": "Xella CZ, sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 92.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 15:25"
+}

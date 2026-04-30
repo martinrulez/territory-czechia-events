@@ -1,0 +1,209 @@
+{
+  "company_key": "karl bruckner gmbh",
+  "company_name": "Karl Bruckner GmbH",
+  "domain": "www.karlbruckner.de",
+  "domain_url": "https://www.karlbruckner.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Karl Bruckner GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 148,
+    "revenue": 3792,
+    "zi_company_name": "Karl Bruckner",
+    "zi_domain": "www.karlbruckner.de",
+    "zi_city": "Weinstadt",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.karlbruckner.de",
+    "homepage": {
+      "title": "Präzisionswerkzeuge Karl Bruckner GmbH: Bruckner Zentrierspitzen, Hochleistungsspitzen und Zentrierkegel für CNC-Drehen, Schwerbearbeitung und Rundschleifen",
+      "description": "Mitlaufenden Hochleistungsspitzen und Zentrierkegel mit hoher Rundlaufgenauigkeit",
+      "text_excerpt": "Präzisionswerkzeuge Karl Bruckner GmbH: Bruckner Zentrierspitzen, Hochleistungsspitzen und Zentrierkegel für CNC-Drehen, Schwerbearbeitung und Rundschleifen\nSpitzen\nleistung für Ihre Produktion\nKarl Bruckner GmbH\nPräzisionswerkzeugfabrik\nBruckwiesenstraße 11-15\n71384 Weinstadt\nOrtsteil Grossheppach"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.karlbruckner.de/kontakt",
+      "text": "Präzisionswerkzeuge Karl Bruckner GmbH: Kontakt\nKarl Bruckner GmbH\nBruckwiesenstrasse 11-15\n71384 Weinstadt\nGermany\nPhone +49 (0) 7151 9671 – 0\nFax +49 (0) 7151 9671-23\ninfo(at)karlbruckner.de\nAnrede\nBitte wählen Sie Ihre Anrede*\nFrau\nHerr\nDivers\nVor- und Zuname\nLand\nFirmenname\nKundennummer\nStraße, Hausnummer\nTelefon\nPLZ, Ort\nE-Mail\nIch akzeptiere die\nDatenschutzbestimmungen\nBitte folgende Rechenaufgabe lösen:\n* = notwendig\nDiese Feld nicht ausfüllen!\nKarl Bruckner GmbH\nPräzisionswerkzeugfabrik\nBruckwiesenstraße 11-15\n71384 Weinstadt\nOrtsteil Grossheppach"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Karl Bruckner GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 16,
+    "all_technologies": [
+      {
+        "product": "TYPO3 CMS",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Parsley",
+        "vendor": "",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "UIkit",
+        "vendor": "Uikit",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cookie Consent",
+        "vendor": "Silktide Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "The USERTRUST Network",
+        "vendor": "Comodo Group, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Sectigo",
+        "vendor": "Sectigo Limited",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Karl Bruckner GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Waltraud",
+        "last_name": "Putz",
+        "title": "",
+        "email": "w.putz@karlbruckner.de",
+        "phone": "",
+        "company": "Karl Bruckner",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Ralf",
+        "last_name": "Ratzinger",
+        "title": "",
+        "email": "r.ratzinger@karlbruckner.de",
+        "phone": "",
+        "company": "Karl Bruckner",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Benji",
+        "last_name": "Jojo",
+        "title": "Streams",
+        "email": "",
+        "phone": "",
+        "company": "Karl Bruckner",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 76.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 17:52"
+}

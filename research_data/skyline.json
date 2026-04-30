@@ -1,0 +1,116 @@
+{
+  "company_key": "skyline",
+  "company_name": "Skyline",
+  "domain": "",
+  "domain_url": "",
+  "events": "3DISE Conference 2026",
+  "event_count": 1,
+  "lead_class": null,
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Skyline",
+    "opportunity_score": 20,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.53,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.53,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "00670049",
+    "official_name": "Skyline Optic, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "47740",
+      "24450",
+      "32500",
+      "24450",
+      "32500",
+      "4778"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "č.p. 520, 33141 Kralovice, Kralovice, 33141",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Skyline",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Aaron",
+        "last_name": "Ohlemacher",
+        "title": "Founder & Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Skyline",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Hossam",
+        "last_name": "Sabra",
+        "title": "Import and Export Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Skyline",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Walid",
+        "last_name": "Ahmed",
+        "title": "Export Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Skyline",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Edward",
+        "last_name": "Belanger",
+        "title": "Deputy Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Skyline",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 15:48"
+}

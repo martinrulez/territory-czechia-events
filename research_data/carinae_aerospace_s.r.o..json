@@ -1,0 +1,79 @@
+{
+  "company_key": "carinae aerospace s.r.o.",
+  "company_name": "CARINAE aerospace s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "CARINAE aerospace s.r.o.",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.72,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.72,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "21596239",
+    "official_name": "CARINAE aerospace s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "00",
+      "28",
+      "43120",
+      "68200",
+      "71120",
+      "952",
+      "G",
+      "33200",
+      "855",
+      "33",
+      "28",
+      "43120",
+      "7112",
+      "G",
+      "00",
+      "952",
+      "33200",
+      "855",
+      "33",
+      "6820"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Jana Nerudy 1313, 69801 Veselí nad Moravou, Veselí nad Moravou, Jana Nerudy, 69801",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "CARINAE aerospace s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:18"
+}

@@ -1,0 +1,48 @@
+{
+  "company_key": "kovmech_s_r_o",
+  "company_name": "KOVMECH, s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Pavel Kožnárek",
+        "firstName": "Pavel",
+        "lastName": "Kožnárek",
+        "jobTitle": "Manager, Information Technology",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Martin Chytil",
+        "firstName": "Martin",
+        "lastName": "Chytil",
+        "jobTitle": "ŘEditel Závodu Držovice",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:17",
+  "website_data": {
+    "success": false,
+    "domain": "https://www.makovec.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

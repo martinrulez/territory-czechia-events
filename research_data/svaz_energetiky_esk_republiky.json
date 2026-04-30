@@ -1,0 +1,111 @@
+{
+  "company_key": "svaz_energetiky_esk_republiky",
+  "company_name": "Svaz energetiky České republiky",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "LUDVÍK BALEKA",
+        "firstName": "LUDVÍK",
+        "lastName": "BALEKA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PAVEL ELIS",
+        "firstName": "PAVEL",
+        "lastName": "ELIS",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JIŘÍ FEIST",
+        "firstName": "JIŘÍ",
+        "lastName": "FEIST",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "TOMÁŠ VARCOP",
+        "firstName": "TOMÁŠ",
+        "lastName": "VARCOP",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MARTIN DURČÁK",
+        "firstName": "MARTIN",
+        "lastName": "DURČÁK",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "CLAUDIA VIOHL",
+        "firstName": "CLAUDIA",
+        "lastName": "VIOHL",
+        "jobTitle": "Vice-Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DANIEL BENEŠ",
+        "firstName": "DANIEL",
+        "lastName": "BENEŠ",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "LUBOŠ PAVLAS",
+        "firstName": "LUBOŠ",
+        "lastName": "PAVLAS",
+        "jobTitle": "Vice-Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "REDA RAHMA",
+        "firstName": "REDA",
+        "lastName": "RAHMA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 9,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:44"
+}

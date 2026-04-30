@@ -1,0 +1,227 @@
+{
+  "company_key": "schupp ag (sf-filter)",
+  "company_name": "SCHUPP AG (SF-Filter)",
+  "domain": "www.sf-filter.com",
+  "domain_url": "https://www.sf-filter.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SCHUPP AG (SF-Filter)",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 323,
+    "revenue": 8357,
+    "zi_company_name": "SF-Filter",
+    "zi_domain": "www.sf-filter.com",
+    "zi_city": "Bachenbülach",
+    "zi_country": "Switzerland",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.sf-filter.com",
+    "homepage": {
+      "title": "Filtration Solutions for Machines and Industries",
+      "description": "SF-Filter has the correct filter for mobile and industrial processes. Find your filter quickly and easily by part number/ cross-reference. Delivery within 12 h*",
+      "text_excerpt": "Filtration Solutions for Machines and Industries\nSelect your country to see content for your location\nDeutschland\nContinue\nFind Your Filtration Solutions\nfor Mobile and Industry\nAll\nSearch\nAlready know an original reference?\nUse our tool to find compatible alternatives and save.\nNeed advice?\nGo to product support.\nDiscover more\nFind the right product in just a few steps\nFilters for Mobile\nFilters for Industries\nFluid Management\nLatest products\nServices tailored to your goals\nInteractive catalogs\nFind everything you need\nFast delivery\nNo need for your own warehouse\nCustomer service\nHelping you manage your business smoothly\nQuality control\nSetting the highest standards for products and safety\nInnovative solutions\nDriving your business forward\nOur brands"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.sf-filter.com/kontakt",
+      "text": "FAQ - SF-Filter Company | Your Questions Answered\nSelect your country to see content for your location\nDeutschland\nContinue\nSupport FAQ - Our company\nLearn more about SF-Filter and find out the benefits of becoming a customer.\nSupport & Complaints\nHow can I contact the field service?\nPlease fill out a contact form (Contact Form Link) to request contact from the field sales force.\nFor more information about our SF-Filter export, please visit this page:\nLink to Export Sales Areas.\nOur field sales representatives are available to answer your questions and assist you with your concerns.\nHow can I request a phone consultation?\nWe are happy to provide telephone consultations.\nHere are the contact details for our branches:\nSwitzerland:\n+41 44 864 10 60\ninfo.ch@sf-filter.com\nGermany:\n+49 7720 80 91-0\ninfo.de@sf-filter.com\nAustria:\n+43 5523 51516 0\ninfo.at@sf-filter.com\nFrance:\n+33 361 57 01 50\ninfo.fr@sf-filter.com\nPoland:\n+48 76 746 73 00\ninfo.pl@sf-filter.com\nOur SF-Filter export team is also available for customers in the EU or beyond. (\nLink\nWhat experience does SF-Filter have in the field of filtration?\nAt SF-Filter, we have extensive experience in the field of filtration, dating back to 1968 when Heini Schupp founded a retail business for automotive accessories in Kloten, Switzerland (\nLink: Our history\nFor over 50 years, we have been dedicated to fulfilling our customers' filtration needs and have continuously expanded our offering to provide a wide range of filter solutions.\nOver the years, we have expanded our business and are present in Europe, with branches in\nFrance, Germany, Austria, and Poland.\nOur long-standing experience and commitment to quality make us a trusted partner for all your filtration requirements.\nWhat commitment does SF-Filter show to sustainability?\nAt SF-Filter, we consider sustainability to be an integral part of our business model.\nWe are not only constantly striving to develop innovative products and services, but also committed to producin"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "SCHUPP AG (SF-Filter)",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 23,
+    "all_technologies": [
+      {
+        "product": "Google Search Console",
+        "vendor": "Google LLC",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Bing Ads",
+        "vendor": "Microsoft Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "JQuery 1.11.1",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Microsoft Services",
+        "vendor": "Microsoft Corporation",
+        "category": "Platforms as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Trend Micro Hosted Email Security",
+        "vendor": "Trend Micro Incorporated",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "SCHUPP AG (SF-Filter)",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Mathias",
+        "last_name": "Mutinelli",
+        "title": "General Manager",
+        "email": "",
+        "phone": "",
+        "company": "SF-Filter",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 84.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 16:56"
+}

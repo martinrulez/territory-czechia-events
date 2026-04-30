@@ -1,0 +1,530 @@
+{
+  "company_key": "siemens",
+  "company_name": "Siemens",
+  "domain": "siemens.com",
+  "domain_url": "https://siemens.com",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "event_count": 1,
+  "lead_class": "displacement",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Siemens",
+    "opportunity_score": 18,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.5,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "00371014",
+    "official_name": "Siemens, s.r.o., odštěpný závod Elektromotory Frenštát",
+    "legal_form": "501",
+    "nace_codes": [],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Markova 952, 74401 Frenštát pod Radhoštěm, Frenštát pod Radhoštěm, Markova, 74401",
+    "zi_done": true,
+    "employee_count": 318000,
+    "revenue": 93033293,
+    "zi_company_name": "Siemens",
+    "zi_domain": "siemens.com",
+    "zi_city": "Munich",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://siemens.com",
+    "homepage": {
+      "title": "Domovská stránka Siemens | Siemens",
+      "description": "Siemens: Globální technologický lídr, který podporuje inovace v průmyslu, infrastruktuře a mobilitě prostřednictvím digitální transformace.",
+      "text_excerpt": "Domovská stránka Siemens | Siemens\nSkip to main content\nAudi virtualizuje výrobu pomocí virtuálních PLC.\nCíl automobilky Audi: virtualizovat automatizační řešení ve výrobě. Nižší počet a méně typů zařízení a převod aplikací na software umožňují rychlejší, robustnější a flexibilnější výrobu.\nPřípad použití\nVíce o produktu\nDekódujeme budoucnost energie\nDíky našemu inovativnímu softwaru pro sítě a poradenským službám připravujeme cestu pro autonomní správu sítí zaměřenou na spotřebitele. Provozovatelům přenosových a distribučních soustav tak pomáháme s transformací jejich sítí.\nVíce o produktu\nHlídání závodu: Robotičtí psi zvyšují bezpečnost\nPoužitím robotické verze nejlepšího přítele člověka může zpracovatelský průmysl zvýšit bezpečnost pracovníků a zlepšit údržbu.\nVíce informací\nZpráva: Další éra generativní AI\nPrůmyslové aplikace v nadcházejících letech budou formovány klíčovými trendy, jako jsou agenti umělé inteligence (AI) nebo základní modely.\nStáhnout bezplatnou zprávu\nMeet us at Hannover Messe | April 20-24, 2026\nTurn data into a competitive advantage with real world Industrial AI. Join us in person or online.\nGet your free ticket\nTechnologie\nUpgradujte realitu\nVýzvy zítřka vyžadují upgrade ještě dnes. Vaše nápady podporujeme naší umělou inteligencí, simulacemi a inteligentními technologiemi, které vás posunou od digitálního plánu ke vlivu v reálném světě.\nUmělá inteligence\nDigitální dvojče\nDigitální transformace\nInfrastruktura\nKonvergence IT/OT\nUdržitelnost\nSelect...\nUmělá inteligence\nDigitální dvojče\nDigitální transformace\nInfrastruktura\nKonvergence IT/OT\nUdržitelnost\nUmělá inteligence\nall\nAI pomáhá s úsporností ve vodohospodářství\nŠvédská vodohospodářská společnost VA SYD snížila objem ztrátové vody z 10 % na méně než 8 %. Jak? Využila k tomu řešení založené na AI, které detekuje i malé netěsnosti, např. únik pouhých 0,5 litru za sekundu.\nPřečtěte si případovou studii\nWebinář\nall\nPraktická ukázka, jak snížit ztráty vody\nJak by se mohl vodárenský průmysl a průmysl pro zpracování odpadních vod učit od jiných sektorů překonávat překážky při zavádění simulací a umělé inteligence?\nPřehrát video\nZaostřeno na produkt\nall\nSnižte podíl ztrátové vody až o 50%\nPřibližně 30 % pitné vody se na cestě ke spotřebitelům ztratí. Zjistěte, jak umělá inteligence může pomoct s inteligentnější detekcí úniků a zlepšit správu údajů získaných z měřičů.\nZačít\nUmělá inteligence\nall\nAI pomáhá s úsporností ve vodohospodářství\nŠvédská vodohospodářská společnost VA SYD snížila objem ztrátové vody z 10 % na méně než 8 %. Jak? Využila k tomu řešení založené na AI, které detekuje i malé netěsnosti, např. únik pouhých 0,5 litru za sekundu.\nPřečtěte si případovou studii\nWebinář\nall\nPraktická ukázka, jak snížit ztráty vody\nJak by se mohl vodárenský průmysl a průmysl pro zpracování odpadních vod učit od jiných sektorů překonávat překážky při zavádění simulací a umělé inteligence?\nPřehrát video\nZaostřeno na produkt\nall\nSnižte podíl ztrátové vody až o 50%\nPřibližně 30 % pitné "
+    },
+    "about": {
+      "url": "https://siemens.com/about",
+      "text": "About us | Siemens\nSkip to main content\nAbout us\nOur technology accelerates customer transformations with industrial AI, boosting efficiency in factories, enhancing city livability and promoting sustainable transport solutions.\nOur purpose\nTransform the everyday, for everyone\nBy combining the real and the digital worlds, we can help accelerate both digitalization and sustainability - so our customers around the world can become more competitive, resilient and sustainable.\nStrategy\nall\nDriven by purpose\nWe create technology to transform the everyday, for everyone. That is our purpose. Our strategy is how we fulfill this purpose – creating long-term value that extends well beyond business outcomes for the benefit of society.\nTransform the everyday\nall\nA real impact for billions of people\nWe create technology to transform the everyday, for everyone. From smart factories to sustainable cities, through digital transformation, automation and electrification, we turn everyday moments into extraordinary possibilities.\nInnovation\nall\nResearch & innovation\nWe believe that many technologies that help solve global challenges like climate change already exist today. We utilize our Siemens company core technologies in all businesses.\nHistory\nall\nA strong history since 1847\nFrom a workshop in a back courtyard in Berlin to a global corporation: Few technology companies can look back on such a long, successful history as Siemens can.\nCompany presentation\nWe are a leading technology company\nExplore our purpose, strategy, and the ONE Tech company program. This comprehensive slide deck also provides detailed insights into key facts and figures, as well as an overview of our diverse businesses and services.\nDownload presentation\nOur impact\nCreating positive change together\nToday, our technologies are everywhere—empowering customers, inspiring employees, and shaping the world we want to live in.\n90%\n90%\nof our business enables positive sustainability impact\nfor our customers\n694\n694\nmillion metric tons of CO₂e\navoided by customers cumulatively as of 2025\n47.9\n47.9\nmillion € total community investment in fiscal 2025\n58,000\n58,000\nhours spent by our people in volunteer projects\n438\n438\nmillion € invested in employee education and training\nGovernance\nDemonstrating responsible business practices\nWe foster a culture of trust, adhere to ethical standards, and handle data with care. With our governance we apply state-of-the-art systems for effective and responsible business conduct.\nSee leadership team\nall\nCompliance and ethics\nCompliance forms the basis for all our decisions and activities, and it is the key to integrity when conducting business.\nall\nSupply chain management\nWe prioritize sustainability in our supply chain and promotes environmental and social responsibility as well as responsible sourcing.\nall\nCybersecurity & data privacy\nWe believe that data protection is an integral part of responsible business conduct. Our primary objective is to maintain strong data protection and a high level of cybersecurity for the company and all our stakeholders.\nall\nHuman rights\nRespecting human rights along the entire value chain is a central element of integrity and responsible corporate governance for us.\nall\nResponsible AI\nFor us, responsible AI means counteracting undesirable effects, and carefully balancing them against potential opportunities. To institutionalize this effort, we established a Generative AI Governance task force.\nall\nEmpowered regional teams\nWe combine global standards with local market expertise. In over 200 countries. Those include regional headquarters, innovation hubs, and manufacturing facilities in Europe, Americas, Asia-Pacific, as well as Middle East & Africa.\nOur achievements\nRecognized around the world\n#82\n#82\nTime Magazine\nOne of TIME and Statista's World’s Best Companies for 2025\n#44\n#44\nWorld's Best Employers\nOne of the top global companies to work for in the 2025 Forbes ranking.\n#48\n#48\nBest Global Brands\nImproved by 2 ranks"
+    },
+    "products": {
+      "url": "https://siemens.com/services",
+      "text": "Industrial digitalization services | Siemens\nSkip to main content\nIndustrial Digitalization Services\nAccelerate your digital transformation with Siemens Digitalization Services. Our scalable offerings combine the real and digital worlds by delivering value through IT/OT solutions, improved OEE, advanced AI, predictive maintenance and robust cybersecurity while keeping you ahead of competition.\nExplore services\nContact us\nLoading application...\nDIGITALIZATION SERVICES\nAchieve sustainable digital transformation\nSiemens Digitalization Services help your business combine the real and digital worlds to turn data into valuable insights. We apply the latest technology standards to help you implement solutions that scale with your needs and support sustainable digital transformation.\nOur comprehensive services, covering AI, engineering, and infrastructure management, convert operational challenges into sustainable growth. We drive cutting-edge advancements, significantly enhance process optimization and operational efficiency, including predictive maintenance, and offer inherently scalable solutions such as Industrial Edge Services. With proactive cybersecurity and ensuring seamless IT/OT convergence, our services powered by Siemens Xcelerator, strategically advance your digitalization and sustainability objectives.\nExplore services\nAnalytics and AI Services\nEngineering & Integration Services\nIndustrial Cybersecurity Services\nService Programs and Platforms\nSelect...\nAnalytics and AI Services\nEngineering & Integration Services\nIndustrial Cybersecurity Services\nService Programs and Platforms\nNetwork Operation Analyzer\nAccomplish industrial network stability with analytics that reveal insights and identify issues without interrupting or disturbing plant operations by scanning, visualizing and analyzing industrial networks and its components.\nShopfloor Monitoring Services\nContinuous monitoring of automation hardware, network components or drives with real-time alerts and predictive insights. Reduce downtime through proactive maintenance supported by direct connection to Siemens domain experts.\nOEE Solutions\nIdentify the full potential of your production processes by optimizing overall equipment effectiveness with OEE Solutions. With our state-of-the-art products as foundation, we deliver a tailored, turnkey solution from one hand that grows with your business and helps you achieve long-term success.\nSINUMERIK Optimization Check\nSINUMERIK Optimization Check is a standardized Siemens service that analyzes NC archives, Auto Servo Tuning (AST) measurements, and machine‑specific data. It delivers expert recommendations to improve productivity, motion quality, and machine performance.\nBrownfield Analytics\nBrownfield Analytics visualizes shopfloor KPIs and machine health for SINUMERIK and third-party machines. It offers , offering performance insights, machine-condition evaluation, and mechatronic analysis to reduce downtime and improve productivity. APIs enable se"
+    },
+    "contact_page": {
+      "url": "https://siemens.com/contact",
+      "text": "Contact Siemens | Siemens\nSkip to main content\nContacts\nConnect quickly by seeing lists of contacts. Or, submit your information and receive a reply.\nContact us\nContact us\nContact\nall\nPress team\nContact our press team.\nall\nInvestor relations\nContacts for investors\nall\nIndustry analyst relations\nContacts for analysts\nall\nCareers and jobs\nJobs at Siemens\nall\nConsumer products\nConsumer products\nall\nWhistleblowing\nWhistleblowing and reporting channels\nContact us\nSiemens Customer Care Center (English or German language)\n+49 (89) 3803 5491\nSiemens Software (Engineering/PLM/Chip Design/Semiconductor)\n+1 512 287 3494\nCharges vary depending on service provider and country/region"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Siemens",
+    "autodesk_products": [
+      "AutoCad Electrical",
+      "Autodesk AutoCAD",
+      "Autodesk AutoCAD Mechanical",
+      "Autodesk BIM 360",
+      "Autodesk Fusion 360",
+      "Autodesk Inventor",
+      "Autodesk Navisworks",
+      "Autodesk Revit",
+      "Commvault",
+      "ExaVault",
+      "SAP Inventory Management (IM)",
+      "Vault Payment Solutions",
+      "Veritas Enterprise Vault (EV)"
+    ],
+    "competitor_products": [
+      "Bentley AutoPIPE",
+      "Bentley ProjectWise",
+      "Bentley STAAD",
+      "CATIA",
+      "CATIA V5",
+      "Camstar Enterprise Platform",
+      "DELMIA",
+      "DELMIA Apriso",
+      "Dassault Dymola",
+      "Dassault Systemes",
+      "Desigo CC",
+      "ENOVIA",
+      "Energy IP",
+      "Esprit",
+      "HiPath Xpressions Voicemail",
+      "Mastercam",
+      "Mathcad",
+      "MicroStation",
+      "NX CAE",
+      "Nokia Siemens Networks",
+      "Opcenter",
+      "PTC Creo",
+      "PTC Creo Parametric",
+      "PTC Integrity",
+      "PTC IoT Solutions",
+      "PTC Windchill PLM",
+      "Preactor",
+      "Pro/Engineer",
+      "Robcad",
+      "SIMATIC HMI",
+      "SIMATIC IT",
+      "SIMINE",
+      "Siemens",
+      "Siemens DCS",
+      "Siemens Healthcare",
+      "Siemens Hicom",
+      "Siemens I-DEAS",
+      "Siemens Industrial Automation Systems SIMATIC",
+      "Siemens Invision",
+      "Siemens Magnetom",
+      "Siemens MindSphere",
+      "Siemens NX",
+      "Siemens Nixdorf Informationssysteme",
+      "Siemens OPENLink",
+      "Siemens PACS",
+      "Siemens PLM",
+      "Siemens Polarion ALM",
+      "Siemens RUGGEDCOM",
+      "Siemens SIMATIC WinCC",
+      "Siemens SIPROTEC 5",
+      "Siemens Simatic PCS 7",
+      "Siemens Step 7",
+      "Siemens Syngo Imaging",
+      "Siemens Teamcenter PLM Software",
+      "Siemens Tecnomatix",
+      "Siemens Ultrasound",
+      "Siemens syngo Workflow",
+      "SimCenter",
+      "Simulia Abaqus Unified FEA",
+      "Solidworks",
+      "Tekla",
+      "ThingWorx",
+      "eMeter"
+    ],
+    "cad_bim_other": [
+      "12d",
+      "ANSYS",
+      "ANSYS CFX",
+      "ANSYS Fluent",
+      "ANSYS Mechanical",
+      "ANSYS Mechanical Enterprise",
+      "Adobe XD",
+      "Altair HyperWorks",
+      "AnyLogic",
+      "Autodesk",
+      "Autodesk BIM",
+      "Bluebeam Revu",
+      "Built",
+      "CAESAR II",
+      "COMSOL Multiphysics",
+      "CSI SAP2000",
+      "CYME",
+      "Cache Control",
+      "Captura",
+      "Chief Architect",
+      "Direct3D",
+      "ETAP",
+      "FlexSim",
+      "FloEFD",
+      "HydroCAD",
+      "InVision",
+      "KUKA",
+      "MESH",
+      "Mathematica",
+      "Onshape",
+      "OpenFoam",
+      "Oracle Contract Management",
+      "PATRAN",
+      "REST / RESTful",
+      "SAPUI5",
+      "Sigma",
+      "Studio 5000",
+      "Vortex"
+    ],
+    "total_technologies": 2329,
+    "all_technologies": [
+      {
+        "product": "Autodesk AutoCAD Mechanical",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Brightline",
+        "vendor": "Brightline",
+        "category": "Ticketing Systems",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "GPS",
+        "vendor": "mbm.it",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Dayforce",
+        "vendor": "Dayforce, Inc.",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Dayforce HCM",
+        "vendor": "Ceridian HCM, Inc.",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "MCS",
+        "vendor": "MCS Global Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Better",
+        "vendor": "Better Mobile Security Inc.",
+        "category": "Enterprise Mobility Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SAP Sales Cloud",
+        "vendor": "SAP SE",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gainsight",
+        "vendor": "Gainsight, Inc.",
+        "category": "Customer Experience Management",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "ArgoCD",
+        "vendor": "ArgoCD",
+        "category": "Deployment",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Bluebeam Revu",
+        "vendor": "Bluebeam, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "NVIDIA",
+        "vendor": "NVIDIA Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "NoSQL Database",
+        "vendor": "",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Keysight",
+        "vendor": "Keysight Technologies, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Intel VTune",
+        "vendor": "Intel Corporation",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Microsoft Azure SQL Database",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Kardex",
+        "vendor": "Kardex",
+        "category": "Logistics",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "OpenMake Software Release Engineer",
+        "vendor": "Openmake Software Inc",
+        "category": "Release Management",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "SCADA",
+        "vendor": "Inductive Automation, LLC",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Simulia Abaqus Unified FEA",
+        "vendor": "Dassault Systèmes SE",
+        "category": "Civil Engineering",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Deep Software",
+        "vendor": "Deep Software Inc.",
+        "category": "Other DevOps Software",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "update CRM",
+        "vendor": "Aurea, Inc.",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Refinitiv",
+        "vendor": "Refinitiv",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "SAP ERP Central Component 6.0 (ECC 6.0)",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "BackOffice Associates",
+        "vendor": "BackOffice Associates",
+        "category": "Data Quality Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Mendix",
+        "vendor": "Mendix Inc.",
+        "category": "Platforms as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Claude",
+        "vendor": "Anthropic PBC",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Keyence",
+        "vendor": "Keyence Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Route",
+        "vendor": "Route App Inc.",
+        "category": "Inventory and Order Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "ChatGPT",
+        "vendor": "OpenAI",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "GitHub Copilot",
+        "vendor": "GitHub, Inc.",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Como",
+        "vendor": "Como",
+        "category": "Loyalty and Gamification",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Microsoft Copilot",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Centricity",
+        "vendor": "GE Healthcare Inc.",
+        "category": "Medical Practice Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Simon",
+        "vendor": "Institutional Capital Network, Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Perks at Work",
+        "vendor": "Perks at Work",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "OpenAI",
+        "vendor": "OpenAI",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cloudbees Jenkins",
+        "vendor": "Cloudbees, Inc",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Craft",
+        "vendor": "Craft.io Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Brightly",
+        "vendor": "Brightly Software, Inc",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Electronics Manufacturing",
+        "vendor": "Creation Technologies",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "LinkedIn Learning",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "VIA",
+        "vendor": "VIA Institute on Character",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "dbt",
+        "vendor": "dbt Labs, Inc",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Brunswick",
+        "vendor": "BBP Investment Holdings, LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Built",
+        "vendor": "Built",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "3D Hubs",
+        "vendor": "HUBS B.V.",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Hugging Face",
+        "vendor": "Hugging Face, Inc",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Siemens",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Jeffrey",
+        "last_name": "Berger",
+        "title": "Plsf-Healthcare Vice President & Chief Financial Officer (Americas)",
+        "email": "",
+        "phone": "",
+        "company": "Siemens",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 15:55",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

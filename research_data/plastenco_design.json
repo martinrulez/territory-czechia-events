@@ -1,0 +1,96 @@
+{
+  "company_key": "plastenco design",
+  "company_name": "Plastenco design",
+  "domain": "",
+  "domain_url": "",
+  "events": "Designblok 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Plastenco design",
+    "opportunity_score": 19,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.47,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.47,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "10823620",
+    "official_name": "Plastenco design s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "22",
+      "00",
+      "741",
+      "47",
+      "71120",
+      "731",
+      "855",
+      "46",
+      "00",
+      "22",
+      "47",
+      "7112",
+      "731",
+      "74100",
+      "855",
+      "46"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Oblouková 1316/7, 25219 Rudná, Rudná, Oblouková, 25219",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "KATEŘINA SÝSOVÁ",
+        "firstName": "KATEŘINA",
+        "lastName": "SÝSOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JITKA HVĚZDOVÁ",
+        "firstName": "JITKA",
+        "lastName": "HVĚZDOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-23 15:49"
+}

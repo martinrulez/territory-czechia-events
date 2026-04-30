@@ -1,0 +1,72 @@
+{
+  "company_key": "ksk precise motion, a.s.",
+  "company_name": "KSK Precise Motion, a.s.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "KSK Precise Motion, a.s.",
+    "opportunity_score": 22,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.6,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.6,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "24782947",
+    "official_name": "KSK Precise Motion, a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "461",
+      "74990",
+      "28",
+      "35120",
+      "25530",
+      "28150",
+      "72",
+      "25620",
+      "28",
+      "28150",
+      "461",
+      "72",
+      "7490",
+      "35110"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Blanenská 1277/37, 66434 Kuřim, Kuřim, Blanenská, 66434",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "KSK Precise Motion, a.s.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:33"
+}

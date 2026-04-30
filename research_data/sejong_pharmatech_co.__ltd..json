@@ -1,0 +1,79 @@
+{
+  "company_key": "sejong pharmatech co., ltd.",
+  "company_name": "Sejong Pharmatech Co., Ltd.",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Sejong Pharmatech Co., Ltd.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Sejong Pharmatech Co., Ltd.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Jun",
+        "last_name": "Lee",
+        "title": "Managing Director",
+        "email": "",
+        "phone": "",
+        "company": "Sejong Pharmatech",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Gwang",
+        "last_name": "Kim",
+        "title": "",
+        "email": "gkim@sejong-trading.co.kr",
+        "phone": "",
+        "company": "Sejong Pharmatech",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Derek",
+        "last_name": "Jung",
+        "title": "",
+        "email": "djung@sejong-trading.co.kr",
+        "phone": "",
+        "company": "Sejong Pharmatech",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 14:38"
+}

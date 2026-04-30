@@ -1,0 +1,71 @@
+{
+  "company_key": "coral_s_p_a",
+  "company_name": "CORAL S.p.a.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Jose Mejia",
+        "firstName": "Jose",
+        "lastName": "Mejia",
+        "jobTitle": "President",
+        "email": "jose@coralpoolandspa.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Claudio Coral",
+        "firstName": "Claudio",
+        "lastName": "Coral",
+        "jobTitle": "President",
+        "email": "claudio.coral@coral.eu",
+        "phone": "+39 011 982 2000",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Joey Timko",
+        "firstName": "Joey",
+        "lastName": "Timko",
+        "jobTitle": "General Manager",
+        "email": "joey@coralspa.com",
+        "phone": "(519) 969-1554",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Aiyani Mersai",
+        "firstName": "Aiyani",
+        "lastName": "Mersai",
+        "jobTitle": "Owner and Licensed Esthetician and Licensed Massage Therapist",
+        "email": "aiyani@ccredcoralspa.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Sherman Beard",
+        "firstName": "Sherman",
+        "lastName": "Beard",
+        "jobTitle": "Owner",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:07:11"
+}

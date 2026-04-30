@@ -1,0 +1,81 @@
+{
+  "company_key": "vut_fakulta_architektury_reborn_design",
+  "company_name": "ČVUT, Fakulta architektury + REBORN DESIGN",
+  "domain": "",
+  "events": "Designblok 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "KAREL JANDA",
+        "firstName": "KAREL",
+        "lastName": "JANDA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "Richard Motyčka",
+        "firstName": "Richard",
+        "lastName": "Motyčka",
+        "jobTitle": "Předseda",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "Václav Blažek",
+        "firstName": "Václav",
+        "lastName": "Blažek",
+        "jobTitle": "Místopředseda",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "Iva Čiháková",
+        "firstName": "Iva",
+        "lastName": "Čiháková",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "Zdeněk Vospěl",
+        "firstName": "Zdeněk",
+        "lastName": "Vospěl",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "Václav Zahradník",
+        "firstName": "Václav",
+        "lastName": "Zahradník",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 6,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:23"
+}

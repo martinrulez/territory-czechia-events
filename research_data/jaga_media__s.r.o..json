@@ -1,0 +1,72 @@
+{
+  "company_key": "jaga media, s.r.o.",
+  "company_name": "Jaga Media, s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Jaga Media, s.r.o.",
+    "opportunity_score": 18,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.4,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.4,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "27076695",
+    "official_name": "Jaga Media, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "47",
+      "461",
+      "70200",
+      "73200",
+      "46900",
+      "581",
+      "73120",
+      "461",
+      "46900",
+      "47",
+      "581",
+      "702",
+      "73120",
+      "73200"
+    ],
+    "ares_segments": [
+      "M&E"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Pražská 1279/18, Hostivař, 10200 Praha 10, Praha, Pražská, 10200",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Jaga Media, s.r.o.",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:57"
+}

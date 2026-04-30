@@ -1,0 +1,181 @@
+{
+  "company_key": "hartmann & könig stromzuführungs ag",
+  "company_name": "Hartmann & König Stromzuführungs AG",
+  "domain": "www.hukag.com",
+  "domain_url": "https://www.hukag.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Hartmann & König Stromzuführungs AG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 83,
+    "revenue": 5620,
+    "zi_company_name": "Hartmann & König Stromzuführungs",
+    "zi_domain": "www.hukag.com",
+    "zi_city": "Graben-Neudorf",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.hukag.com",
+    "homepage": {
+      "title": "Hartmann & König, the experts in power supply",
+      "description": "Hartmann & König Stromzuführungs AG is a leading manufacturer of motorized cable reels, spring cable reels and slip ring assemblies.",
+      "text_excerpt": "Hartmann & König, the experts in power supply\nHartmann & König\nMotorized cable reels\nSpring cable reels\nSlip ring assemblies\nCom­pa­ny\nexplore Hartmann & König\nLearn more\nMotor­ized­ cable ­reels\nfor mobile consumers\nLearn more\nSpring­ cable­ reels\nexpertise from standard to special solutions\nLearn more\nSlip­ ring­ assemblies\nfor safe, secure energy and data supply to rotating components\nLearn more\nWe energize mobility. Worldwide.\nHartmann & König Stromzuführungs AG is a leading manufacturer of motorized cable reels, spring cable reels and slip ring assemblies. We supply our global customers with advanced energy and data transfer systems for mobile consumers. Our products are dependable energy and data supply solutions for the container handling, crane technology, plant engineering, mining and materials handling industries.\nAll-round service from a single source\nYour partner for customized special solutions\nPersonal, partnership-based customer care from our extensive sales partner network\nMade in Germany / Graben-Neudorf\nOur product range\nMotorized cable reels\nfor maximum flexibility and security\nLearn more\nSpring cable reels\nfor industrial applications\nLearn more\nSlip ring assemblies\nfor safe, secure energy and data supply to rotating components\nLearn more\nOUR EXPERTISE – YOUR NEEDS\nWith long-standing expertise in the development and manufacture of cable reels and slip ring systems, we deliver outstanding quality and prowess in mobile consumer power supply.\nOur dedicated team of engineers and designers is at our customers’ service in all issues and develops bespoke solutions for even the most complex and challenging applications. We supply reels for virtually all types of motorized drive for both spiral and cylindrical winding and unwinding of cables, ropes or hoses. Our customers’ individual requests are always our priority. We are ready for any technical challenge and always able to find the perfect solution!\nOur services\nDevelopment & Innovation\nAssembly & Commissioning\nMaintenance\nAftersales Service & Parts\nFastline Delivery Program\nDevelopment & Innovation\nContinuous development and innovation are key drivers of our company’s success. They enable us to fulfill our customers’ constantly changing needs and requirements.\nLearn more\nAssembly & Commissioning\nOur services include professional assembly and commissioning on site at your company. Our experienced team of assembly experts oversees the correct installation and operation-readiness of all components.\nLearn more\nMaintenance\nWith our custom maintenance packages, you can rely on your systems always being in top condition and avoid any unforeseen problems.\nLearn more\nAftersales Service & Parts\nThe name of Hartmann & König is synonymous with excellent service and customer focus. Our highly qualified technicians are specialists in solving technical challenges on site with minimum downtime.\nLearn more\nFastline Delivery Program\nBecause we use standardized modular mechanical and electrical compon"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Hartmann & König Stromzuführungs AG",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 18,
+    "all_technologies": [
+      {
+        "product": "Adobe Creative Cloud",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Tweet Button",
+        "vendor": "Twitter, Inc.",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "AddThis",
+        "vendor": "Oracle Corporation",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Hartmann & König Stromzuführungs AG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 18:12"
+}

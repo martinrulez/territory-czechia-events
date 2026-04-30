@@ -1,0 +1,61 @@
+{
+  "company_key": "kuka_robotics_czech_s_r_o",
+  "company_name": "KUKA Robotics Czech s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JINDŘICH VAŇOUS",
+        "firstName": "JINDŘICH",
+        "lastName": "VAŇOUS",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "GUSTAVO MOSCARDÓ CUQUERELLA",
+        "firstName": "GUSTAVO MOSCARDÓ",
+        "lastName": "CUQUERELLA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "IGNACIO MARTINEZ MANSILLA",
+        "firstName": "IGNACIO MARTINEZ",
+        "lastName": "MANSILLA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "LADISLAV ŘÍMAL",
+        "firstName": "LADISLAV",
+        "lastName": "ŘÍMAL",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:22"
+}

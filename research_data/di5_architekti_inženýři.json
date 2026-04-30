@@ -1,0 +1,273 @@
+{
+  "company_key": "di5 architekti inženýři",
+  "company_name": "di5 architekti inženýři",
+  "domain": "www.di5.cz",
+  "domain_url": "https://www.di5.cz",
+  "events": "BIM DAY 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "di5 architekti inženýři",
+    "opportunity_score": 23,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.65,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.65,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "25678051",
+    "official_name": "di5 architekti inženýři s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46900",
+      "70200",
+      "711",
+      "82100",
+      "68310",
+      "62",
+      "46900",
+      "620",
+      "68310",
+      "70220",
+      "711",
+      "821"
+    ],
+    "ares_segments": [
+      "AEC",
+      "M&E"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Koubkova 262/11, Vinohrady, 12000 Praha 2, Praha, Koubkova, 12000",
+    "zi_done": true,
+    "employee_count": 22,
+    "revenue": 1866,
+    "zi_company_name": "Di5",
+    "zi_domain": "www.di5.cz",
+    "zi_city": "",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.di5.cz",
+    "homepage": {
+      "title": "Home - di5.cz",
+      "description": "Poskytujeme inovativní služby pro stavby budoucnosti. INOVACE ATELIÉR 360° AKTUALITY",
+      "text_excerpt": "Home - di5.cz\nSkip to content\nPoskytujeme inovativní služby pro stavby budoucnosti.\nINOVACE\nATELIÉR\n360°\nAKTUALITY\nNová centrála České spořitelny – největší projekt v ČR\nStadion Bazaly – úspěšná mezinárodní soutěž\nÚspěch v soutěži na terminál Kořenice-Bečváry\nTerminál Chomutov – odměna v architektonické soutěži\nPetr Matyáš na BIM World Munich 2025\nStavba roku 2025: ocenění pro SK Slovan Kunratice\nSearch\nFacebook-f\nLinkedin-in\nInstagram\nYoutube"
+    },
+    "about": {
+      "url": "https://www.di5.cz/o-nas",
+      "text": "O nás - di5.cz\nSkip to content\nO nás\nDI5\nO nás\nKdo jsme?\nTechnologie využíváme i tvoříme\nLidé\nJsme tým. A jako tým pracujeme.\nBIM\nProjektujeme, stavíme a pasportizujeme v BIM\nKlíčové úspěchy\nKdyž nás práce baví…\nInovace\nTvoříme vaši budoucnost\nKlienti\nPřáním klientů dáváme reálnou podobu\nSearch\nFacebook-f\nLinkedin-in\nInstagram\nYoutube"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.di5.cz/kontakt",
+      "text": "Kontakt - di5.cz\nSkip to content\nNapište nám\nDI5\nKontakt\nJméno a příjmení\nEmail\nTelefon\nMessage\nNapište nám\nT: +420 221 590 941\ninfo@di5.cz\nhttp://www.di5.cz\nNapište nám\nSearch\nFacebook-f\nLinkedin-in\nInstagram\nYoutube"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "di5 architekti inženýři",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "Autodesk"
+    ],
+    "total_technologies": 18,
+    "all_technologies": [
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "SmartEmailing",
+        "vendor": "SmartSelling a.s.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Autodesk",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "di5 architekti inženýři",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Jakub",
+        "last_name": "Kuča",
+        "title": "BIM Specialist",
+        "email": "",
+        "phone": "",
+        "company": "Di5",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 87.0
+      },
+      {
+        "first_name": "Marek",
+        "last_name": "Machač",
+        "title": "Civil Engineer",
+        "email": "",
+        "phone": "",
+        "company": "Di5",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 83.0
+      },
+      {
+        "first_name": "Dmitrii",
+        "last_name": "Tifos",
+        "title": "BIM Specialist",
+        "email": "",
+        "phone": "",
+        "company": "Di5",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Chrystyna",
+        "last_name": "Brovdij",
+        "title": "BIM Specialist",
+        "email": "",
+        "phone": "",
+        "company": "Di5",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 89.0
+      },
+      {
+        "first_name": "Jan",
+        "last_name": "Řeháček",
+        "title": "Architekt",
+        "email": "jan@di5.cz",
+        "phone": "",
+        "company": "Di5",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 94.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:19"
+}

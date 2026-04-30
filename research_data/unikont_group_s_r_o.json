@@ -1,0 +1,375 @@
+{
+  "company_key": "unikont_group_s_r_o",
+  "company_name": "UNIKONT GROUP s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "UNIKONT GROUP s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 59,
+    "all_technologies": [
+      {
+        "product": "Lunio",
+        "vendor": "Lunio",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Web.com",
+        "vendor": "Web.com Group, Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PulsePoint",
+        "vendor": "Pulsepoint, Inc.",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "LiveRamp",
+        "vendor": "Acxiom LLC",
+        "category": "Data Management Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Eyeota",
+        "vendor": "Eyeota Pte Ltd",
+        "category": "Marketing Data Providers",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Kargo",
+        "vendor": "Kargo",
+        "category": "Ad Servers",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Bing Universal Event Tracking",
+        "vendor": "Microsoft Corporation",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Bing Ads",
+        "vendor": "Microsoft Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "BPMN",
+        "vendor": "Object Management Group",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "WhatsApp",
+        "vendor": "WhatsApp",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Rapleaf",
+        "vendor": "Rapleaf",
+        "category": "Marketing Data Providers",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Leady",
+        "vendor": "Imper CZ s.r.o.",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "WPForms",
+        "vendor": "WPForms LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Semasio User Intelligence Platform",
+        "vendor": "Semasio GmbH",
+        "category": "Marketing Data Providers",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Analytics",
+        "vendor": "Facebook, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Seznam",
+        "vendor": "Imedia",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "BidSwitch",
+        "vendor": "IPONWEB GmbH",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Improve Digital",
+        "vendor": "Improve Digital",
+        "category": "Video Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "YieldLab",
+        "vendor": "Yieldlab AG",
+        "category": "Supply Side Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "TripleLift",
+        "vendor": "TripleLift Inc",
+        "category": "Native Advertising",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "PubMatic",
+        "vendor": "PubMatic, Inc.",
+        "category": "Supply Side Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "OpenX Ad Exchange",
+        "vendor": "Openx Software Ltd",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Turn",
+        "vendor": "Amobee, Inc",
+        "category": "Data Management Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LinkedIn Ads",
+        "vendor": "LinkedIn Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ADÉLA BUKOVSKÁ",
+        "firstName": "ADÉLA",
+        "lastName": "BUKOVSKÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "RADEK BUKOVSKÝ",
+        "firstName": "RADEK",
+        "lastName": "BUKOVSKÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ADAM BUKOVSKÝ",
+        "firstName": "ADAM",
+        "lastName": "BUKOVSKÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:22",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.unikont.cz",
+    "homepage": {
+      "title": "Unikont",
+      "description": "Unikont group nabízí široký sortiment značek předních světových výrobců úklidových i komunálních strojů, strojů pro údržbu zeleně, lesní techniky a to včetně kompletního servisu.",
+      "text_excerpt": "Unikont\nPřeskočit na hlavní obsah\nPřeskočit na zápatí\nPROFESIONÁLNÍ KOMUNÁLNÍ A ČISTICÍ TECHNIKA\nPortfolio produktů\nJsme specialisté na prodej a servis\nNabízíme široký sortiment profesionálních úklidových i komunálních strojů a techniky pro údržbu zeleně od předních světových výrobců. Pro většinu zastupovaných značek jsme pro Českou i Slovenskou republiku výhradním dovozcem.\n3 důvody, které vás přesvědčí\nPřes 30 let zkušeností na trhu\nŠpičková profesionální technika\nPružná servisní síť a individuální přístup\nKomunální technika\nZastupujeme značky Multicar, HAKO Citymaster, zimní a letní nástavby EPOKE, ABM Technology a samohybné vysavače odpadu Glutton.\nVyberte si\nVnitřní úklidová technika\nNabízíme podlahové mycí, zametací a leštící stroje, průmyslové, profesionální a univerzální vysavače, vysokotlaké čisticí stroje a stroje na čištění eskalátorů.\nVyberte si\nÚdržba zeleně a lesa\nÚdržba areálů, obcí a měst, veřejných prostranství a komunikací, zeleně, lesů a cest vyžaduje profesionální techniku. Zastupujeme značky Ariens, AS Motor a FAE.\nVyberte si\nServis a náhradní díly\nNabízíme možnost originálních i alternatívních náhradních dílů pro zastupované značky Multicar, Hako, Epoke, ABM Technology, Glutton, Ariens, AS Motor .\nVyberte si\nZastupujeme spolehlivé značky\nDNY UNIKONTU NA MORAVĚ – 4. června se na vás budeme těšit v pivovaru v Záhlinicích\n35 let společnosti na trhu – Speciální výroční obchodní nabídka komunální techniky\nNa 20. června 2026 se pro vás chystá výroční speciál letošního Multicar srazu\n35 let na trhu – speciální nabídka čisticích strojů\nVšechny novinky"
+    },
+    "about": {
+      "url": "https://www.unikont.cz/o-nas",
+      "text": "O společnosti - Unikont\nPřeskočit na hlavní obsah\nPřeskočit na zápatí\nO společnosti\nSpolečnost UNIKONT GROUP s.r.o. je od svého založení v roce 1991 jednou z největších společností v oboru čisticí a komunální techniky se stoprocentní českou účastí. Aktivity společnosti probíhají v České republice i na Slovensku. Divize Čistota poskytuje řešení pro vnitřní úklid a divize Komunál pro venkovní úklid.\nUNIKONT GROUP nabízí široký sortiment značek předních světových výrobců v jednotlivých kategoriích úklidových i komunálních strojů. Pro většinu zastupovaných značek je pro Českou a případně i Slovenskou republiku výhradním dovozcem. Ve svém portfoliu má jak prostředky pro ruční úklid, profesionální a průmyslové vysavače, sekačky, podlahové mycí automaty, bezprašné zametací stroje, tak komunální techniku.\nKlienti si mohou vybrat ze širokého portfolia strojů od předních světových výrobců jako je HAKO, MULTICAR, AS MOTOR, ARIENS, FAE, RUWAC, GHIBLI, FANTOM, DUPLEX, OERTZEN, GLUTTON, ABM TECHNOLOGY nebo EPOKE.\nNa kompletní sortiment provádí předprodejní, záruční i pozáruční servis po celém území ČR. Zákazníci mohou využít i možnosti bezplatného a nezávazného předvedení daného zařízení po celé republice přímo v provozních podmínkách. Mezi klienty společnosti patří obchodní řetězce, velké nadnárodní korporace a celá řada malých a středních firem z mnoha oborů. V současné době je zákazníkům k dispozici více než osmdesátičlenný tým, který je neustále připraven řešit jejich každodenní požadavky. Na všech pobočkách společnosti jsou k dispozici nové i použité stroje pro okamžitý prodej nebo pronájem."
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.unikont.cz/kontakty",
+      "text": "Kontakty - Unikont\nPřeskočit na hlavní obsah\nPřeskočit na zápatí\nPraha\nUnikont Group s.r.o.\nSlužeb 609\n108 00 Praha 10\nNapajedla\nMORAVA\n2. května 685\n763 61 Napajedla\nJindřichův Hradec\nJIŽNÍ ČECHY\nU Nádraží 694/II\n377 01 Jindřichův Hradec\nDubnica nad Váhom\nUnikont Slovakia, spol. s.r.o.\nMurgašova 922\n018 41 Dubnica nad Váhom\nBratislava\nUnikont Slovakia, spol. s.r.o.\nSHOWROOM\nSquarebizz Bory A4\nBratislava – Devínska Nová Ves\nKošice\nUnikont Slovakia, spol. s.r.o.\nAreál UND-03 a.s.\nRastislavova 106\n040 01 Košice\nZastoupení firmy\nČechy\nCentrála Praha\nSlužeb 609/6, 108 00 Praha 10\n272 701 785\nunikont@unikont.cz\nkudy k nám\nČechy\nPobočka Jindřichův Hradec\nU Nádraží 694/II, 377 01 Jindřichův Hradec\n720 872 672\nunikont@unikont.cz\nkudy k nám\nMorava\nPobočka Napajedla\n2. května 685, 763 61 Napajedla\n577 775 150 nebo 151\nnapajedla@unikont.cz\nkudy k nám\nSlovensko\nUnikont Slovakia, spol. s.r.o.\nMurgašova 922/50, 018 41 Dubnica nad Váhom\n42 46 911 74\nunikont@unikont.sk\nkudy k nám\nVnitřní úklidová technika\nKomunální technika\nAS Motor, ARIENS\nIrus\nVysokotlaké čistící stroje OERTZEN\nPrůmyslové vysavače Ruwac\nSERVIS – Komunální technika\nSERVIS – Čisticí technika\nČechy\nRoman Pracný\nObchodní zástupce pro Středočeský kraj\nr.pracny@unikont.cz\n+420 602 685 616\nKryštof Bouřil\nObchodní zástupce Liberecký a Ústecký kraj a specialista Ruwac\nk.bouril@unikont.cz\n+420 720 980 463\nFilip Šimánek\nObchodní zástupce Pardubický a Královéhradecký kraj a specialista Oertzen\nf.simanek@unikont.cz\n+420 725 960 658\nŠimon Bouřil\nObchodní zástupce pro Karlovarský a Plzeňský kraj\ns.bouril@unikont.cz\n+420 606 077 340\nMilan Maršál\nObchodní zástupce pro Jihočeský kraj\nm.marsal@unikont.cz\n+420 728 819 862\nRecepce Praha (8.00—16.30)\n+420 272 701 785\nServisní technik Praha (hotline)\nservis@unikont.cz\n+420 602 668 791\nMorava\nKryštof Bouřil\nObchodní zástupce Liberecký a Ústecký kraj a specialista Ruwac\nk.bouril@unikont.cz\n+420 720 980 463\nFilip Šimánek\nObchodní zástupce Pardubický a Královéhradecký kraj a specialista Oe"
+    }
+  }
+}

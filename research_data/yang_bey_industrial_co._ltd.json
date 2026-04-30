@@ -1,0 +1,140 @@
+{
+  "company_key": "yang bey industrial co. ltd",
+  "company_name": "Yang Bey Industrial Co. Ltd",
+  "domain": "www.yangbey.com.tw",
+  "domain_url": "https://www.yangbey.com.tw",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Yang Bey Industrial Co. Ltd",
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 20,
+    "revenue": 4271,
+    "zi_company_name": "Yang Bey Industrial",
+    "zi_domain": "www.yangbey.com.tw",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.yangbey.com.tw",
+    "homepage": {
+      "title": "Yang Bey Industrial Co., Ltd.Yang Bey Industrial Co., Ltd.",
+      "description": "Founded in 1979, the era of industrialization in Taiwan, Yang Bey started its operation.  Opening a factory at that time was like a gambling to Ta-Cheng, Yu - the founder of Yang Bey. His family had never been working elsewhere besides growing rice, mushr",
+      "text_excerpt": "Yang Bey Industrial Co., Ltd.Yang Bey Industrial Co., Ltd.\nNEWS\n2025-12-29\nVisit YBICO at Interpack Dusseldorf\n2022-09-28\nVisit YBICO at Interpack Dusseldorf\n2022-06-22\nTH532 Aluminum Profile Protective Tape Dispenser\n2022-06-21\nCutting paper angle board? Itâs a piece of cake.\nMORE >\nHome\nSitemap\nEnglish\nç®ä½ä¸­æ\nCompany\nProducts\nNews\nVideo\nContact\nE-catalog\nAll\nPlastic Strapping Tools\nSteel Strapping Tools\nPneumatic Steel Strapping Tools\nSealless Combination Tools\nStainless Steel Strapping Tools\nBuckles / Seals\nCarton Edge Protectors\nStrapping Dispensers\nCable Tie Guns\nWire Binders\nStretch Film Dispensers\nUtility Knives\nMulti-function Cutters\nLetter Openers and Paper Cutters\nCutter Stand for Packing Material\nImpulse Heat Sealers\nCarton Sizers\nStapling System\nRivet Installation Tools\nStrain Relief Bushing Tools\nLine Marking Handles\nFloor Marking Tape Tools\nTape Dispensing Tools\nBag Sealers\nLabel Dispensers\nProtection Film Applicators\nMasking Film Dispensers\nAwning Tensioners\nCardboard Edge Protector Cutter\nPaper Crumpler\nAuto Label Dispenser\nVHB Tape Dispenser\nVoid Fill Dispensers\nAluminum foil tape dispenser\nStrap Choppers\nCOMPANY INTRODUCTION\nYBICO is a prominent name in the packaging tools industry, with a rich history that spans over 40 years. We specialize in providing a wide variety of packaging tools, designed to meet various material and situational needs. Our product range is extensive, featuring over 500 different types of tools, all manufactured in Taiwan, which guarantees high quality.\nWe see ourselves as more than just manufacturers. We are problem solvers and consultants in the packaging tools sector. Our approach is centered around our customers, constantly adapting to the latest market trends and technological advancements. This customer-focused mindset has shaped us into a one-stop-shop for packaging solutions, capable of delivering standard products within an impressive 25-day period.\nOur client base is diverse, including companies involved in mail order and catalogues, e-commerce platforms, and recognizable brands like 3M. We also cater to importers, traders, and manufacturers of various packaging materials such as strapping, tape, film, paper rolls, and bubble wrap. This range of clients showcases our ability to meet a wide array of packaging needs.\nMORE                                            >\nPRODUCT CATEGORY\nPlastic Strapping Tools\nSteel Strapping Tools\nPneumatic Steel Strapping Tools\nSealless Combination Tools\nStainless Steel Strapping Tools\nCopyright © Yang Bey Industrial Co., Ltd. All Rights Reserved.\nYang Bey Industrial Co., Ltd.   åè²å¯¦æ¥­è¡ä»½æéå¬å¸\nTEL: 886-4-25320779     FAX: 886-4-25335616ã\nybico@mail.ybico.com.tw"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Yang Bey Industrial Co. Ltd",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 9,
+    "all_technologies": [
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Website Translator",
+        "vendor": "Google LLC",
+        "category": "Translation",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Yang Bey Industrial Co. Ltd",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Daisy",
+        "last_name": "Lin",
+        "title": "",
+        "email": "daisy@mail.ybico.com.tw",
+        "phone": "+886 4 2532 0779#25",
+        "company": "Yang Bey Industrial",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 82.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 14:57"
+}

@@ -1,0 +1,41 @@
+{
+  "company_key": "gapa_mb_s_r_o",
+  "company_name": "GAPA MB, s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026, Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PAVEL GABRIEL",
+        "firstName": "PAVEL",
+        "lastName": "GABRIEL",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PETR GABRIEL",
+        "firstName": "PETR",
+        "lastName": "GABRIEL",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:18"
+}

@@ -1,0 +1,171 @@
+{
+  "company_key": "profi.mk, s.r.o.",
+  "company_name": "PROFI.MK, s.r.o.",
+  "domain": "www.profi-kovo.cz",
+  "domain_url": "https://www.profi-kovo.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "PROFI.MK, s.r.o.",
+    "opportunity_score": 29,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.47,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.47,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "02400201",
+    "official_name": "PROFI.MK, s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "461",
+      "25",
+      "G",
+      "95310",
+      "25",
+      "45200",
+      "461",
+      "G"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Drozdice 49, 53002 Pardubice, Pardubice, 53002",
+    "is_client": true,
+    "current_products": "PDMC",
+    "total_seats": "1",
+    "current_acv_eur": "4200.0",
+    "potential_acv_eur": "17350.0",
+    "nearest_renewal": "2027-03-12",
+    "days_to_renewal": "323",
+    "top_upsell": "Fusion Mfg Ext",
+    "top_upsell_reason": "Advanced CAM and manufacturing capabilities",
+    "all_upsells": "Fusion Mfg Ext; Moldflow; Flex",
+    "reseller": "Arkance Systems CZ s.r.o.",
+    "maturity_label": "Collection",
+    "industry_segment": "Building Products & Fabricat'n",
+    "ml_domain": "www.profi-kovo.cz",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "revenue_growth": -97.7,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.profi-kovo.cz",
+    "homepage": {
+      "title": "PROFI-KOVO s.r.o. – Kovovýroba, laserové řezání, svařování, CNC",
+      "description": "",
+      "text_excerpt": "PROFI-KOVO s.r.o. – Kovovýroba, laserové řezání, svařování, CNC\nSkip to content\nFacebook\nTwitter\nPinterest\nInstagram\n+420 491 453 427\nh.vitkova@profi-kovo.cz\nMonday – Friday 10 AM – 8 PM\nÚvod\nO nás\nVýroba\nGalerie\nKontakt\nPROFI-KOVO s.r.o.\nMezilečí\nKovovýroba, laserové řezání, svařování, CNC hranění, zpracování plechů a další služby v okrese Náchod\nKontakt\nVýroba\nPROFI-KOVO s.r.o.\nSpecializujeme se na kovovýrobu, povrchové úpravy, laserové pálení, zámečnictví apod. Kontaktujte specialisty na zpracování kovů a zámečnické práce.\nGalerie\nO nás\nKovovýroba, laserové řezání, svařování, CNC hranění, zpracování plechů a další služby v okrese Náchod\nPROFI-KOVO s.r.o. sídlí v obci Mezilečí u Hořiček v okrese Náchod a zabývá se kovovýrobou, zpracováním plechů, svářením v ochranné atmosféře.\nNabízíme laserové pálení, hranění plechů, sváření CO\n, bodové sváření, ohýbání, zakružování, zajišťujeme povrchové úpravy práškovými barvami, zinkem apod.\nZabýváme se jak zakázkovou, tak sériovou výrobou, montážními pracemi, výrobou ocelových konstrukcí a technologických zařízení. Mezi zakázkovou výrobu patří zejména výroba ocelových konstrukcí, dopravníků, válečkových tratí, technologických celků, samonosných posuvných bran, podest a mnoho dalších ocelových prvků. V sériové výrobě se zabýváme především laserovým pálením plechů, CNC hraněním, svářením polotovarů a sestav např. rámů strojů a strojních zařízení, svářením plechových dílců různých tvarů a velikostí, výrobou části kotlů apod.\nO nás\nInformace o nás, historie, vznik a vývoj společnosti PROFI-KOVO s.r.o.\nO nás\nVýroba\nCo děláme, na co se specializujeme a s čím Vám můžeme pomoci.\nVýroba\nKontakt\nKde nás najdete, telefonní a emailové kontakty, otevírací doba.\nKontakt\nJsme rodinná společnost\nSídlíme v Mezilečí u Hořiček a zabýváme se kovovýrobou, laserovým řezáním, CNC hraněním, zpracováním plechů a dalšími službami v oblasti kovovýroby a zpracování.\nVýroba\nGo to Top"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "PROFI.MK, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 12,
+    "all_technologies": [
+      {
+        "product": "Gentoo",
+        "vendor": "Gentoo Foundation, Inc.",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP 5.6",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "PROFI.MK, s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 08:48"
+}

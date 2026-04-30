@@ -1,0 +1,150 @@
+{
+  "company_key": "brankamp",
+  "company_name": "Brankamp",
+  "domain": "www.brankamp.com",
+  "domain_url": "https://www.brankamp.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Brankamp",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 18,
+    "revenue": 3567,
+    "zi_company_name": "BRANKAMP",
+    "zi_domain": "www.brankamp.com",
+    "zi_city": "Cambridge",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.brankamp.com",
+    "homepage": {
+      "title": "Tool and process monitoring | Brankamp Marposs",
+      "description": "MARPOSS is worldwide leader in precision equipment for measurement and control in the production environment. Enter the site and discover more!",
+      "text_excerpt": "Tool and process monitoring | Brankamp Marposs\narrow-left-2\narrow-left-3\narrow-left-4\narrow-left\nchrono\ndigg\ndown-arrow--linear\ndown-arrow\nearth\nfacebook\nfacebook_ (2)\nfacebook_\nforward-arrow\nforward\ngoogle\nhome\nico-download\nico-link\nindustries--1\nindustries--10\nindustries--11\nindustries--2\nindustries--3\nindustries--4\nindustries--5\nindustries--6\nindustries--7\nindustries--8\nindustries--9\nlinkedin\nlogo\nmail\nmarker\nnewspaper\npadlock\npage-arrow-left\npage-arrow-right\npage-list\npencil\npinterest\nplay-button\nprinter\nsearch\nsocial-digg\nsocial-facebook\nsocial-google\nsocial-instagram\nsocial-linkedin\nsocial-pinterest\nsocial-twitter\nsocial-youtube\nstar\ntwitter\ntwitter_\nuser\nMonitoring Solutions for Cold Forming Machines\nSee more\nMonitoring Solutions for Stamping Machines\nSee more\nMonitoring Solutions for Forging Machines\nSee more\nAbout Us\nSee more\nThe company Brankamp was founded in 1977 and acquired by Marposs in 2012. Brankamp is now a brand managed by MARPOSS Monitoring Solutions GmbH and marketed through the Marposs worldwide network.\nMARPOSS Monitoring Solutions GmbH is a global market leader of process monitoring, machine control and data collection, offering innovative technologies for in-process monitoring in the whole metal forming industry. Decades of experience in the cold forming-, stamping- and forging industry are embodied into the Brankamp systems to improve productivity, part quality and reduce production costs.\nCold Forming\nFind your solution\nStamping\nFind your solution\nForging/Hot Forming\nFind your solution\nManufacturing Execution System\nFind your solution\nProcess Data Collection\nFind your solution\nFocus on\nLatest News from Brankamp\nVideo\nMarposs Monitoring Solutions for Stamping Machines\nSubscribe to our newsletter\nReceive news and updates about Marposs\nSubscribe\nTop\nContact us\nClose\nEnglish\nDeutsch\nItaliano\nFrançais\nEspañol\n日本語 (Japanese)\n中文 (Chinese)\n한국어 (Korean)\nClose\nLogin\nPassword recovery\nE-mail\nPassword\nWrong email and/or password.\nPlease enter your email to reset your forgotten password and set a new one.\nE-mail\nUnable to send recovery password email. Please try later.\nThe account information you entered is incorrect or could not be verified.\nYour request has been sent successfully!\nThe system will automatically send you an email to reset your password.\nYou have to click the link in the email, to reset your password.\nIf you are not yet registered, you may do it now: it is free!\nClick here!"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Brankamp",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 11,
+    "all_technologies": [
+      {
+        "product": "SOASTA",
+        "vendor": "SOASTA Inc",
+        "category": "Testing and QA",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "SOASTA mPulse",
+        "vendor": "Akamai Technologies, Inc.",
+        "category": "Real User Monitoring",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Brankamp",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Klaus",
+        "last_name": "Kurth",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "company": "BRANKAMP",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 78.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 18:47"
+}

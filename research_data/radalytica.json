@@ -1,0 +1,238 @@
+{
+  "company_key": "radalytica",
+  "company_name": "Radalytica",
+  "domain": "www.radalytica.com",
+  "domain_url": "https://www.radalytica.com",
+  "events": "Moravian Aviation Cluster Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Radalytica",
+    "opportunity_score": 22,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.59,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.59,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "04753437",
+    "official_name": "Radalytica a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "68310",
+      "62",
+      "261",
+      "265",
+      "461",
+      "46900",
+      "70200",
+      "731",
+      "82100",
+      "47",
+      "72100",
+      "26700",
+      "261",
+      "265",
+      "26700",
+      "461",
+      "46900",
+      "47",
+      "620",
+      "68310",
+      "702",
+      "721",
+      "731",
+      "821"
+    ],
+    "ares_segments": [
+      "D&M",
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Technologická 945/10, Holice, 77900 Olomouc, Olomouc, Technologická, 77900",
+    "zi_done": true,
+    "employee_count": 17,
+    "revenue": 3942,
+    "zi_company_name": "Radalytica",
+    "zi_domain": "www.radalytica.com",
+    "zi_city": "Nolensville",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.radalytica.com",
+    "homepage": {
+      "title": "RadalyX - robotic CT for non-destructive testing",
+      "description": "RadalyX is the robotic imaging system becoming a very powerful tool for non-destructive inspection.",
+      "text_excerpt": "RadalyX - robotic CT for non-destructive testing\nAbout\nRadalytica is the game-changer in imaging, offering the world's only portable robotic 3D CT and ultrasound scanner allowing the imaging of large objects.\nRadalyX, a unique robotic imaging system, combines next-generation digital X-ray sensors with robotics to enhance imaging for a broader range of industrial and scientific applications. It enables advanced non-destructive testing and diagnostics, even in previously inaccessible areas.\nOur product is not only competing with existing solutions. IT OPENS NEW AREAS!\nUpcoming events\nyou can meet us\nThe American Society of Nondestructive Testing (ASNT2025)\nExplore the future of NDT imaging on\nOctober 6 - 10, 2025 in Orlando, USA\n. Unlock opportunity to meet 'RadalyX' - Portable Multimodal Robotic Scanner, a cutting-edge tech, unveiling innovations in NDT.\n2nd Robo CT User Forum\nThe upcoming RoboUser Forum on\nApril 16 - 17, 2026 in Plattling, Germany\noffers a fantastic opportunity to explore the future of robotic non-destructive testing.\nRobotic x-ray ct\nOur team develop advanced robotics technology to control multiple robots integrated in a single imaging system.\nRead More...\nTechnology\nOur services are based on state-of-the-art imaging technologies to improve product quality control, combining X-ray and ultrasound imaging.\nRead More...\nApplications\nOur Robotic Imaging System RadalyX can be used for various purposes with strong emphasis on aviation and automotive industries.\nRead More...\nImaging\nservices\nRadalyXâs advanced imaging technology is available as a service, so investing in your own system is unnecessary. Thanks to its mobility and flexibility, our experts can bring cutting-edge robotic imaging directly to your location for one-time or recurring projects. We provide professional scanning, expert operation, and in-depth result analysis to enhance your manufacturing or R&D processes. Optimize your workflow with precision imaging, hassle-free!\nIf you are interested in measurement of some sample, please fulfill\nthe questionnaire here\nand our imaging specialists will contact you back as soon as possible.\nRadalytica Brochures [pdf]\nCollaborations\nManufacturer of semiconductor sensors, micro packaging and radiation imaging cameras. Development of imaging solutions for industrial and academic needs.\nRevolutionising the art world with next-generation x-ray imaging technology previously available only at the cutting-edge of particle physics research.\nDesign of single-purpose machines for industrial production, assembly workplaces, precision jigs and entire work units, including their automation and implementation of camera systems.\nUniversal Robots collaborative robot arms are used to boost performance and add value in countless industries every day.\nXARIONâs unique contact-free ultrasonic inspection technology is used for a wide range of applications e.g. in the automotive, aerospace, and semiconductor industry.\nThe products consist of code re"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Radalytica",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 13,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Radalytica",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Josef",
+        "last_name": "Uher",
+        "title": "Chief Technology Officer",
+        "email": "josef.uher@radalytica.com",
+        "phone": "",
+        "company": "Radalytica",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 99.0
+      },
+      {
+        "first_name": "David",
+        "last_name": "Malančuk",
+        "title": "Chief Commercial Officer (Cco)",
+        "email": "david.malancuk@radalytica.com",
+        "phone": "",
+        "company": "Radalytica",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      },
+      {
+        "first_name": "Jana",
+        "last_name": "Boháčová",
+        "title": "Imaging Specialist",
+        "email": "jana.bohacova@radalytica.com",
+        "phone": "+420 732 812 031",
+        "company": "Radalytica",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 99.0
+      },
+      {
+        "first_name": "Filip",
+        "last_name": "Dominec",
+        "title": "Senior Researcher",
+        "email": "filip.dominec@radalytica.com",
+        "phone": "",
+        "company": "Radalytica",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 98.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 15:34"
+}

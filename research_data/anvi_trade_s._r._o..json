@@ -1,0 +1,84 @@
+{
+  "company_key": "anvi trade s. r. o.",
+  "company_name": "ANVI TRADE s. r. o.",
+  "domain": "www.avilatrade.cz",
+  "domain_url": "https://www.avilatrade.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ANVI TRADE s. r. o.",
+    "opportunity_score": 22,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "63990920",
+    "official_name": "ANVI TRADE s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46900",
+      "46900"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Průmyslová 1306/7, Hostivař, 10200 Praha 10, Praha, Průmyslová, 10200",
+    "is_client": true,
+    "current_products": "Fusion",
+    "total_seats": "1",
+    "current_acv_eur": "600.0",
+    "potential_acv_eur": "8200.0",
+    "nearest_renewal": "2026-10-01",
+    "days_to_renewal": "161",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Fusion Sim Ext",
+    "maturity_label": "Foundation",
+    "industry_segment": "Games",
+    "ml_domain": "www.avilatrade.cz",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "revenue_growth": -96.7,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.avilatrade.cz",
+    "homepage": {
+      "title": "Kontakt - Avilatrade",
+      "description": "Technical Advisory",
+      "text_excerpt": "Kontakt - Avilatrade\nAvilatrade s.r.o.\nÃhlednÃ¡ 96/5\n621 00 Brno ÅeÄkovice\nIÄ:  044 59 920\nDIÄ:  CZ04459920\nspoleÄnost zapsÃ¡na v ObchodnÃ­m rejstÅÃ­ku u KrajskÃ©ho soudu v BrnÄ, oddÃ­l C, vloÅ¾ka 90012"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "ANVI TRADE s. r. o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:24"
+}

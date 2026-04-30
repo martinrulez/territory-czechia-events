@@ -1,0 +1,127 @@
+{
+  "company_key": "jhl - produkt, s.r.o.",
+  "company_name": "JHL - PRODUKT, s.r.o.",
+  "domain": "www.km-produkt.cz",
+  "domain_url": "https://www.km-produkt.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "JHL - PRODUKT, s.r.o.",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "3",
+    "current_acv_eur": "1500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2027-03-08",
+    "days_to_renewal": "319",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "maturity_label": "Entry",
+    "industry_segment": "Other",
+    "ml_domain": "www.feprodukt.cz",
+    "zi_done": true,
+    "employee_count": 19,
+    "revenue": 4154,
+    "zi_company_name": "KM - PRODUKT sro",
+    "zi_domain": "www.km-produkt.cz",
+    "zi_city": "Usti nad Labem",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.km-produkt.cz",
+    "homepage": {
+      "title": "KM PRODUKT - FOOD s.r.o. – výroba hotových jídel, baget a lahůdek",
+      "description": "Vyrábíme hotová jídla, čerstvé bagety, tortilly, pletenky, hamburgery, řízky, sendviče, delikatesy. Pečivo dodáváme vždy čerstvé z vlastní pekárny. Všechny náplně pochází z naší výrobny.",
+      "text_excerpt": "KM PRODUKT - FOOD s.r.o. – výroba hotových jídel, baget a lahůdek\nÚvod\nObjednávka\nAktuality\nProdukty\nPro prodejce\nKariéra\nKontakt\nO nás\nCeny\nGDPR\nRychlé občerstvení od KM PRODUKT - FOOD\nKM PRODUKT – FOOD s.r.o.\nje česká firma, která se specializuje na výrobu\nvíce než 45 druhů hotových jídel\n9 druhů chutných polévek\n. Vše připravujeme z kvalitních surovin, s důrazem na domácí chuť, čerstvost a rychlost dodání.\n✅ Rozvážíme\nsoukromým osobám\nv Ústí nad Labem, Mostě, Teplicích, Litvínově, Krupce a okolí\n✅ Dodáváme do\nprodejen po celé České republice\n✅ Přijímáme\nobjednávky online i telefonicky\n✅ Nově i možnost\nbezhotovostní platby\nVedle jídel nabízíme také:\nbagety, sendviče, tortilly, hamburgery, chlebíčky, řízky, obložené mísy a další občerstvení\n– vše z\nvlastní pekárny\nObjednávky\nNON-STOP telefonní linky\n+420 417 863 907 | +420 602 441 276\nOnline objednávkový formulář\nUzávěrky objednávek na Muffiny a knedlíky jsou ve 12:00\nNa ostatní sortiment v 15:00\nNovinka\nCeníky\nplatné od 1.4.2026.\nMožnost\nplatby převodem.\nŘiďte se prosím instrukcemi v SMS nebo e-mailu. VS není číslo internetové objednávky, ale číslo vygenerované naším systémem. Děkujeme za pochopení.\nVíce info zde.\n20.4–24.4.2026\n27.4–1.5.2026\nCo je u nás nového\nV akci:\n20.4. - 24.4.2026\nVepřové kostky na žampionech 80 Kč\nčíst více\nNOVINKA!\nSekaná v bulce 39 Kč\nčíst více\nVšechna práva vyhrazena © 2026\nKM-INVESTMENT s.r.o.\nwebdesign VašeWebovky.cz\nOchrana osobních údajů a podmínky použití"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "JHL - PRODUKT, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 5,
+    "all_technologies": [
+      {
+        "product": "Cookie Script",
+        "vendor": "Objectis Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Bitly",
+        "vendor": "Bitly, Inc.",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "JHL - PRODUKT, s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Patrik",
+        "last_name": "Duchoň",
+        "title": "Business Owner",
+        "email": "",
+        "phone": "",
+        "company": "KM - PRODUKT sro",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 84.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:01"
+}

@@ -1,0 +1,86 @@
+{
+  "company_key": "gmbh & co. kg",
+  "company_name": "GmbH & Co. KG",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "GmbH & Co. KG",
+    "opportunity_score": 23,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.65,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.65,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "02015307",
+    "official_name": "YAVER GmbH & Co. KG - organizační složka Praha",
+    "legal_form": "421",
+    "nace_codes": [
+      "46900",
+      "461",
+      "70200",
+      "711",
+      "71120",
+      "62",
+      "461",
+      "46900",
+      "62",
+      "70220",
+      "711",
+      "7112"
+    ],
+    "ares_segments": [
+      "M&E",
+      "AEC"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Československého exilu 2062/8, Modřany, 14300 Praha 4, Praha, Československého exilu, 14300",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "GmbH & Co. KG",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Benjamin",
+        "last_name": "Weil",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Georgi GmbH & Co KG Transporte",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 85.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 15:23"
+}

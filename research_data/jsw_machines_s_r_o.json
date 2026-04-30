@@ -1,0 +1,174 @@
+{
+  "company_key": "jsw_machines_s_r_o",
+  "company_name": "JSW Machines s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "JSW Machines s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 17,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Leady",
+        "vendor": "Imper CZ s.r.o.",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ZBYNĚK PETRLA",
+        "firstName": "ZBYNĚK",
+        "lastName": "PETRLA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JAN SVOBODA",
+        "firstName": "JAN",
+        "lastName": "SVOBODA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MARIE KOLÁŘOVÁ",
+        "firstName": "MARIE",
+        "lastName": "KOLÁŘOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:07",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.jswmachines.cz",
+    "homepage": {
+      "title": "Hlavní stránka - JSW Machines",
+      "description": "",
+      "text_excerpt": "Hlavní stránka - JSW Machines\nGRAVIMETRICKÉ DÁVKOVÁNÍ\nVSTŘIKOVACÍ LISY\nVYFUKOVAČKY\nSpolupracujeme s nejlepšími\nO FIRMĚ\nZobrazit více\nKONTAKT\nZobrazit více\nAKTUALITY\nZobrazit více\nScroll"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.jswmachines.cz/kontakt",
+      "text": "Kontakt - JSW Machines\nProdej:\nZbyněk Petrla\n+420 605 206 593\ninfo@jswmachines.cz\nServis:\n+420 605 206 593\nservis@jswmachines.cz\nKontaktujte nás\nElektrické vstřikolisy JSW jsou spolehlivé, bezpečné, rychlé, precizní a cenově výhodné. Zakoupením našeho lisu získáváte také možnost využít špičkových servisních a poradenských služeb, které nabízíme.\nJSW Machines s.r.o.       IČO: 04326580\nPřadlácká 599/26, 602 00 Brno-Zábrdovice\n+420 549 243 939\ninfo@jswmachines.cz\nNapište nám\nJméno a přijmení*\nE-mail*\nPředmět\nZprava\nOdesláním formuláře souhlasíte se spracováním osobních údajů.\nScroll"
+    }
+  }
+}

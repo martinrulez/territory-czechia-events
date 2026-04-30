@@ -1,0 +1,406 @@
+{
+  "company_key": "kloknerův ústav Čvut x goryczka & melter",
+  "company_name": "Kloknerův ústav ČVUT x Goryczka & Melter",
+  "domain": "www.melter.com.mx",
+  "domain_url": "https://www.melter.com.mx",
+  "events": "Designblok 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Kloknerův ústav ČVUT x Goryczka & Melter",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 240,
+    "revenue": 54796,
+    "zi_company_name": "Melter",
+    "zi_domain": "www.melter.com.mx",
+    "zi_city": "Apodaca",
+    "zi_country": "Mexico",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.melter.com.mx",
+    "homepage": {
+      "title": "Melter - Diseño y fabricaciones de alta especificación",
+      "description": "Diseño y fabricaciones de alta especificación. Intercambiadores de calor, recipientes a presión y soluciones industriales personalizadas.",
+      "text_excerpt": "Melter - Diseño y fabricaciones de alta especificación\nMenu\nDISEÑO Y FABRICACIONES DE ALTA ESPECIFICACIÓN\nHECHO PARA DAR SOLUCIONES\nSomos una de las principales compañias en América del Norte en el diseño y manufactura de equipo de intercambio de calor, recipientes a presión y soluciones a la medida para la industria.\nContamos con una gran capacidad de manufactura integrada asi como el compromiso y respaldo al correcto funcionamiento de todos nuestros productos. Estos elementos refuerzan nuestra orientación a la calidad, al crecimiento y mejora continua.\nLo anterior, aun lado a nuestra solidez como empresa dando un gran apoyo técnico a nuestros clientes nos vuelve un proveedor preferido tanto de los usuarios finales como de las firmas de ingenieria.\nDiseño y fabricaciones de alta especificación.\nCUATRO DIVISIONES DE NEGOCIO\nCONOCE MAS\nComponentes Formados\nSiderurgica\nEquipos de proceso\nFabricaciones Pesadas\nPrevious\nNext\nCAPACIDADES DE MANUFACTURA\nPRENSA DE 2000 TONELADAS\nFORMADO EN\nCALIENTE Y FRIO\nFRESADORA DE ALTA PRECISIÓN\nUNA DE LAS MAQUINAS DE PERFORACIÓN PESADA Y FRESADO DE PRECISIÓN\nMAS GRANDES DE MÉXICO\nCAPACIDAD DE SOLDADURA\nLOS PROCEDIMIENTOS DE SOLDADURA ESTÁN\nCALIFICADOS Y CERTIFICADOS\nBAJOS LAS NORMAS\nASME\nCAPACIDAD DE CORTE HASTA 6″\nCON\nOXIGENO Y\nPLASMA\nSHOT BLAST Y PINTURA\nCABINA PARA COMPONENTES CON MEDIDA DE\n30ft x 30ft x 80ft\nCAPACIDAD DE CARGA HASTA 120 TONELADAS\nHASTA\n12 METROS\nDE ALTURA\nNOS ENORGULLECEMOS EN SERVIR CON LA MÁS ALTA\nCALIDAD A LAS SIGUIENTES INDUSTRIAS:\nSIDERURGICA\nEAF, DUCTOS, BOF HOODS, CESTAS, LMF, CHAROLAS\nPETROQUIMICA\nINTERCAMBIADORES DE CALOR, RECIPIENTES A PRESIÓN, COLUMNAS & REACTORES\nFERROCARRIL\nTAPAS FORMADAS\nOIL & GAS\nESFERAS,  RECIPIENTES A PRESIÓN, TAPAS FORMADAS\nENERGIA\nINTERCAMBIADORES DE CALOR\nMINING\nCESTAS, TOLVAS, DRAGLINE\nCONTACTANOS\nNombre\nEmail\nMensaje\nENviar\nTelefono:\n+52 (81) 8000-9650\nFacebook\nLinkedin\nPlantas:\nApodaca, Nuevo León, México\nMenu\n2023 MELTER. ALL RIGHTS RESERVED\nBY MELTER"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.melter.com.mx/services",
+      "text": "Services Archive - Melter\nFollow Us\nFacebook\nLinkedin\nYoutube\nSearch for:\nSearch:\nServices"
+    },
+    "contact_page": {
+      "url": "https://www.melter.com.mx/contact",
+      "text": "CONTÁCTANOS - Melter\nFollow Us\nFacebook\nLinkedin\nYoutube\nSearch for:\nSearch:\nCONTÁCTANOS\nFormulario de contacto\nNombre\nEmail\nMensaje\nSend"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Kloknerův ústav ČVUT x Goryczka & Melter",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 51,
+    "all_technologies": [
+      {
+        "product": "Woo Themes",
+        "vendor": "WooCommerce",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WPForms",
+        "vendor": "WPForms LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Barracuda Email Security Gateway",
+        "vendor": "Barracuda Networks, Inc.",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Barracuda Networks",
+        "vendor": "Barracuda Networks, Inc.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "tawk.to",
+        "vendor": "tawk.to inc.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Imperva Incapsula",
+        "vendor": "Imperva, Inc.",
+        "category": "DDoS and Bot Protection",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "DoubleClick Bid Manager",
+        "vendor": "Google LLC",
+        "category": "Demand Side Platforms",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Kloknerův ústav ČVUT x Goryczka & Melter",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Oziel",
+        "last_name": "Rodríguez",
+        "title": "Internal Control Head",
+        "email": "",
+        "phone": "",
+        "company": "Melter",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 83.0
+      },
+      {
+        "first_name": "Fernando",
+        "last_name": "Valdez",
+        "title": "Director De Unidad De Negocios",
+        "email": "fvaldez@melter.com.mx",
+        "phone": "",
+        "company": "Melter",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 16:26"
+}

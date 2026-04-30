@@ -1,0 +1,240 @@
+{
+  "company_key": "bene_a_l_t_sl_v_rna_a_stroj_rna_a_s",
+  "company_name": "Beneš a Lát, slévárna a strojírna, a. s.",
+  "domain": "www.benesalat.cz",
+  "events": "Czech Foundry Association Members",
+  "technographics": {
+    "success": true,
+    "company": "Beneš a Lát, slévárna a strojírna, a. s.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 27,
+    "all_technologies": [
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "goo.gl",
+        "vendor": "Google LLC",
+        "category": "URL Shorteners",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Pinterest for Business",
+        "vendor": "Pinterest, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "reCAPTCHA v2.0",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Cookie Script",
+        "vendor": "Objectis Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JOSEF LÁT",
+        "firstName": "JOSEF",
+        "lastName": "LÁT",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JAN LÁT",
+        "firstName": "JAN",
+        "lastName": "LÁT",
+        "jobTitle": "Vice-Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JAKUB BENEŠ",
+        "firstName": "JAKUB",
+        "lastName": "BENEŠ",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:48",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.benesalat.cz",
+    "homepage": {
+      "title": "Slévárna hliníku a zinku, lisovna plastů | BENEŠ a LÁT a.s.",
+      "description": "Disponujeme moderní slévárnou a lisovnou plastů, které splňují ekologické a kvalitativní standardy. Vyrábíme odlitky ze slitin hliníku, zinku a výlisky z plastů.",
+      "text_excerpt": "Slévárna hliníku a zinku, lisovna plastů | BENEŠ a LÁT a.s.\nKdo jsme\núspěchy\nspolečnosti\nHledáme\nu nás chcete\npracovat\nCo umíme\npředstavení\nportfolia\n3D tisk\nzadejte svou\n3D poptávku\nBENEŠ a LÁT živě\nZkušenosti\nNa trhu již působíme od roku 1934, kdy jsme získali naše první živnostenské oprávnění.\nTechnologie\nDíky širokému spektru moderních technologií máme vysokou produktivitu.\nUdržitelnost\nNaše udržitelnost stojí na ekologických, kvalitativních i společenských  kriteriích.\nVeřejná podpora\nV oblastech výzkumu a vývoje a vzdělávání využíváme i zdroje veřejné podpory.\nMenu"
+    },
+    "about": {
+      "url": "https://www.benesalat.cz/o-nas",
+      "text": "Podporujeme okolí již desítky let | BENEŠ a LÁT a.s.\nŽIJEME TECHNIKOU\njiž více než 90 let\nJsme tradiční strojírenská společnost s historií od roku 1934. Od svého počátku se zaměřujeme na výrobu kvalitních slévárenských polotovarů ze slitin Al a Zn. Od 50. let 20. století jsme rozšířili technologický záběr o vstřikování plastů a díky dlouhodobému vývoji v oblasti strojních konstrukcí i o licí stroje vlastní konstrukce – první generace NTL strojů pro odlévání ze slitin hliníku.\nBěhem 85 let rozvoje se portfolio technologií a schopností kontinuálně rozrůstalo až do dnešní podoby komplexní péče od spolupráce při návrhu, simulacích a konstrukci licích zařízení a nástrojů, přes samotnou realizaci prototypů i sériových dodávek až po dokončovací operace v podobě obrábění, povrchových úprav, či montáží komplexních celků.\nPrávě díky kombinaci širokého spektra technologií pod jednou střechou a po generace rozvíjené know-how v technických disciplínách zjednodušujeme a zrychlujeme svým zákazníkům cestu od nápadu k sériové realizaci.\nNaší další milou činností je práce na značce\nSeva\n, která od 70. let přináší radost dětem díky plastovým stavebnicím a dalším hračkám vyráběných v našem závodě v Suticích.\nJsme tu pro váš\nvýrobek.\nJsme ti, kteří vám pomohou\ns konstrukcí výrobku.\nJsme ti, kteří vám vytvoří\nformu pro sériovou výrobu.\nJsme ti, kteří vám výrobek\nbudou sériově vyrábět.\nJsme ti, kteří vám výrobek\nnásledně opracují.\nJsme ti, kteří pro vás vytvoří\nstroj, na kterém budete\nsvé výrobky vyrábět sami.\nlet jsme na trhu\nnás táhne za jeden provaz\nzákazníků obsluhujeme\ntun výrobků dodáme ročně\nNAŠE HISTORICKÁ STOPA\n1907\n19. 10. 1907 narodil se zakladatel společnosti pan Josef Beneš.\n1914\n15. 9. 1914 narodil se pan Josef Lát. Po smrti pana Josefa Beneše se stal druhým manželem paní Benešové.\n1927\n1. 9. 1927 podání prvního patentu pana Josefa Polaka. Jednalo se o patent na princip fungování tlakového licího stroje se studenou komorou – princip, který dnes využívají tlakové licí stroje pro zpracování Al slitin.\n1934\n15. 9. 1934 pan Josef Beneš (*1907 – †1945) získává první živnostenské oprávnění “Slévárna a strojírna J. Beneš”\n1937\n23. 3. 1937 podání druhého patentu pana Josefa Polaka, kterým vylepšoval fungování tlakového licího stroje ze svého patentu z roku 1927.\nPan Josef Beneš v témže roce stěhuje svou výrobu z Prahy Holešovic do nově vznikajícího závodu v Průhonicích.\n1945\n7. 5. 1945 pan Josef Beneš padl při Pražském povstání\n8. 5. 1945 konec druhé světové války\n1. 8. 1945 nastupuje do zaměstnání v Průhonicích pan Josef Lát\n1947\n19. 1. 1947 svatba paní Anděly Benešové (roz. Zemanové) a pana Josefa Láta\n6. 8. 1947 narození pana Josefa Láta (syn Anděly a Josefa Látových).\nV průběhu celého roku byla realizována výstavba řadových rodinných domů pro zaměstnance společnosti.\n1948\n23. 4. 1948 paní Anděla Látová ustanovena správcem národního majetku ve svém znárodněném závodě v Průhonicích. O necelý rok později se ředitelem závodu stává její manžel, pan Josef Lát.\nMezi znárodněný majetek spadaly i řadové domky pro zaměstnance i rodinný dům Látových.\n1957\nV roce 1957 dokončen tříletý vývoj prvního nízkotlakého licího stroje v ČSR vyvinutý konstruktéry a technology v Průhonicích (Fr. Hofman, Jos. Lát, Fr. Trnavský)\n1980\n3. 12. 1980 umírá pan Josef Lát (*1914). Jeho smrtí dochází k přerušení rodinné linie v řízení závodu.\n1985\n1. 1. 1985 nastupuje na pozici ředitele průhonického závodu pan Josef Lát (*1946) a pokračuje v péči o “rodinný podnik”.\n1988\n1. 7. 1988 vznikl nejmenší státní podnik v Československu – MENET PRŮHONICE s.p. vznikl oddělením Průhonického závodu od národního podniku Metaz n.p.\nMENET je zkratka slov MEtalurgie a NEtradiční Technologie – za netradiční technologie lze jednoznačně považovat vysokoenergetický kapalinový paprsek (tzv. Paser), který byl dovezen ze spojených států. Průhonický závod byl prvním místem ve východním bloku, kam se podařilo tuto technologii získat.\n1992\n27. 5. 1992 dochází k převzetí průhonického závodu z rukou "
+    },
+    "products": {
+      "url": "https://www.benesalat.cz/produkty",
+      "text": "�PNG\n\u0000\u0000\u0000\rIHDR\u0000\u0000\u0001�\u0000\u0000\u0001�\b\u0006\u0000\u0000\u0000ȇ�J\u0000\u0000\u0000\tpHYs\u0000\u0000.#\u0000\u0000.#\u0001x�?v\u0000\u0000\nOiCCPPhotoshop ICC profile\u0000\u0000xڝSgTS�\u0016=���BK���KoR\u0015\b RB��\u0014�&*!\t\u0010J�!��\u0015Q�\u0011EE\u0004\u001bȠ�\u0003����\u0015Q,\f�\n�\u0007�!���������{�kּ������>���\u0007�\b\f�H3Q5�\f�B\u001e\u0011�������.@�\n$p\u0000\u0010\b�d!s�#\u0001\u0000�~<<+\"�\u0007�\u0000\u0001x�\u000b\b\u0000�M��0\u001c��\u000f�B�\\\u0001��\u0001�t�8K\b�\u0014\u0000@z�B�\u0000@F\u0001���&S\u0000�\u0004\u0000`�cb�\u0000P-\u0000`'��\u0000����{\u0001\u0000[�!\u0015\u0001��\u0000 \u0013e�D\u0000h;\u0000��V�E\u0000X0\u0000\u0014fK�9\u0000�-\u00000IWfH\u0000��\u0000��\u0010\u000b�\u0000\b\f\u00000Q��)\u0000\u0004{\u0000`�##x\u0000��\u0000\u0014F�W<�+�\u0010�*\u0000\u0000x��<�$9E�[\b-q\u0007WW.\u001e(�I\u0017+\u00146a\u0002a�@.�y�\u00192�4\u000f���\u0000\u0000��\u0015\u0011����x�\u000e���6��\u000e_-�\u0006�\"bb���ϫp@\u0000\u0000�t~��,/�\u001a�;\u0006�m��%�\u0004h^\u000b�u��f�\u000f@�\u0000���W�p�~<\n�5\u0000�j>\u0001{�-�]c\u0003�K'\u0010Xt���\u0000\u0000�o��(\b\u0003�h���w��?�G�%\u0000�fI�q\u0000\u0000^D$.Tʳ?�\b\u0000\u0000D��*�A\u001b��\u0018,�\u0006\u001c�\u0005��\u000b�`6�B$��B\u0010B\nd�\u001cr`)��B(�Ͱ\u001d*`/�@\u001d4�Qh��p\u000e.�U�\u000e=p\u000f�a\b��(��\t\u0004A�\b\u0013a!ڈ\u0001b�X#�\b\u0017���!�H\u0004\u0012�$ Ɉ\u0014Q\"K�5H1R�T UH\u001d�=r\u00029�\\F��;�\u00002����G1���Q=�\f�C��7\u001a�F�\u000b�dt1��\u0016���r�\u001a=�6��Ыh\u000fڏ>C�0��\u0018\u00073�l0.��B�8,\t�c˱\"�\f��\u001a�V�\u0003���cϱw\u0004\u0012�E�\t6\u0004wB a\u001eAHXLXN�H� \u001c$4\u0011�\t7\t\u0003�Q�'\"��K�&�\u0011��\u0018b21�XH,#�\u0012�\u0013/\u0010{�C�7$\u0012�C2'��\u0002I��T�\u0012�F�nR#�,��4H\u001a#���dk�\u00079�, +ȅ����3�\u001b�!�[\n�b@q��S�(R�jJ\u0019�\u0010�4�\u0006e�2AU��Rݨ�T\u00115�ZB���R�Q��\u00134u�9̓\u0016IK�����\u001ah\u0017h�i��t�\u0011ݕ\u001eN��W���G��\u0003�w\f\r�\u0015�ǈg(\u0019�\u0018\u0007\u0018g\u0019w\u0018��L�\u0019Ӌ\u0019�T071��\u000f�oUX*�*|\u0015��\n�J�&�\u001b*/T����ު\u000bU�U�T��^S}�FU3S�\tԖ�U��P�S\u001bSg�;���g�oT?�~Y��\u0006Y�L�OC�Q��_�� \u000bc\u0019�x,!k\r��u�5�&���|v*���\u001d��=���9C3J3W�R�f?\u0007�q��tN\t�(���~��\u0014�)�)\u001b�4L�1e\\k����X�H�Q�G�6������E�Y��\u000eA�J'\\'Gg��\u0005��S�Sݧ\n�\u0016M=:��.�k�\u001b��Dw�n��^��Lo��y���\u001c}/�T�m���G\fX\u0006�\f$\u0006�\f�\u0018<�5qo<\u001d/���QC]�@C�a�a�ᄑ��<��F�F\u000f�i�\\�$�m�mƣ&\u0006&!&KM�M�RM��)�;L;L���͢�֙5�=1�2��כ߷`ZxZ,����eI��Z�Yn�Z9Y�XUZ]�F���%ֻ���\u0011��N�N���gð�ɶ��\u0019���\u0006ۮ�m�}agb\u0017g�Ů��}�}��=\u0007\r��\u000e�\u001dZ\u001d~s�r\u0014:V:ޚΜ�?}����/gX�\u0010��3�\u0013�)�i�S��Gg\u0017g�s�󈋉K��.�>.�\u001b��Ƚ�Jt�q]�z���������ۯ�6�i�ܟ�4�)�Y3s���C�Q��?\u000b��0k߬~OCO�g��#/c/�W�װ��w��a�\u0017>�>r��>�<7�2�Y_�7��ȷ�O�o�_��C#�d�z��\u0000��%\u0001g\u0003��A�[\u0002��z|!��?:�e����A���A\u0015A�������!h�쐭!��Α�i\u000e�P~���\u0007a�a��~\f'���W�?�p�X\u001a�1�5w��Cs�D�D�Dޛg1O9�-J5*>�.j<�7�4�?�.fY��X�XIlK\u001c9.*�6nl�������\u000b�{\u0017�/�]py����\u0016�.\u0012,:�@L�N8��A\u0010*�\u0016�%�\u0013w%�\ny�\u001d�g\"/�6ш�C\\*\u001eN�H*Mz�쑼5y$�3�,幄'���L\rLݛ:�\u0016�v m2=:�1����qB�!M��g�g�fvˬe����n��/\u001e�\u0007�k���\u0005Y-\n�B��TZ(�*\u0007�geWf�͉�9���+��̳�ې7����\u0012�\u0012ᒶ��KW-\u001dX潬j9�\n\u0015���\u0014�\u0017�\u0015�(�x�\u001b�oʿ�ܔ���Ĺd�f�f���-�[\u000e����\u000en\r�ڴ\r�V����E�/��(ۻ��C���<��e����;?T�T�T�T6��ݵa��n��\u001b{��4���[���>ɾ�U\u0001UM�f�e�I���?�������m]�Nmq��\u0003�\u0003�\u0007#\u000e�׹��\u001d�=TR��+�G\u000e�\u001f����w-\r6\rU����#pDy���\t��\u001e\r:�v�{��\u0007�\u001fv\u001dg\u001d/jB��F�S��[b[�O�>����z�G�\u001f\u000f�4\n99�?r����C�d�&�\u0017���ˮ\u0017\u0016/~�����јѡ�򗓿m|�����\u0019�����\u001e��x31^�V���w�w\u001d��\u000fO�| (�h���SЧ��\u0019���\u0004\u0003���c3-�\u0000\u0000\u0000 cHRM\u0000\u0000z%\u0000\u0000��\u0000\u0000��\u0000\u0000��\u0000\u0000u0\u0000\u0000�`\u0000\u0000:�\u0000\u0000\u0017o�_�F\u0000\u0000%�IDATx��ˎ#I�����֠�\u0005�\u000f���\\��Մ�\u0004a��+F\u0012\u0010�\u000bi�Ep\u0016�6YO��'H�\u0013\u0014�\t�|�f<Ay<�Ԍ�\u0000�$\u0007��\u0000\u001a�$Ћ\u0006ԓZ����\u0015\u0017^�b���\u0000\"#�\"2ݎ_>?f�̞��^\u0000���uڒ���ݯ%)���ے.*:��O�_�ϖ|�Ek2�9s\u0000��\f��#���#IW\u00014q�#�|�O$\u0004�`�<�d�\u0012Iiř�5n%�$ͶY\u0011�\u0001@0�H���v2�+\"sr���?g��|FX\u0000\u0010L\fYI�#�T�9���;��̜t�v\u0000� \u0018�B�vD�!\u0013/��;���|AH\u0000���2I�D��K�b��\u0013N�3#$�`\u0000�\u0000�\u0001@0���J�\u000fB���p���|EH\u0000��)YJ�e(]1�\u0002\u001fs'i�dCv\u0003\b\u0006��J�ɤO�\u0002\u0007�ޑ͔p\u0000���TR'����\b��&�\u0011Ί�\u0000�A*\u0000Up�l\u0000��/���J\u001f�@CLD7\u001a �`���,e �T�\u001f�c6#\n\u0004\u0000��\u0013K�e*�D\u0003<g)i�2�\u0005�\u0000\u0004�Tڢ\u000b\fls#iL\u0017\u001a \u0018�\u0015�*����\rY\r �����\u0018W![�\u0018��\u0011+@\u0003��^,��J�h@�Y�P�;\u0003�)],}'\u00166��Y��>\u001b�}\u0006\b�x�$*J���\u001b\f�>&��\u0019\u0010��b\u0019�\u000f\u000bL\u0002<ͭ�!�4�`\u001e\u0016K[\u001f\u0006�\u0011\u000b�q�\u0019Q�\f\b�c�\f��=@Y,]F3&\u0014\u0010�`\u0010\u000b\u0000�\u0001\u0004�X\u0000\u0010\r \u0018�Œ�\u0018cyũ\u0005h\u0004�\u0001 ,�P\u0015\u0006�h\u0000�T!����b\u0011\u000b�L�h\u0016�\u0002�X\u0012K�b�1\u0013$\u0001��\u0013͊P \u0018���vbaI\u0017\u0000[��dF�\u0002��&�DEe�KN\u001b�i����� \u0018_��\u0017�,\u0000�q#i��\f�iJ,�\u0013\u000b{�\u0003��Z��3C"
+    },
+    "contact_page": {
+      "url": "https://www.benesalat.cz/kontakt",
+      "text": "Kontakty | BENEŠ a LÁT a.s.\nMísto, kde sny dostávají tvar\nBENEŠ a LÁT a.s.\ninfo@benesalat.cz\n+420 267 227 300\nTovární 463, 289 14 Poříčany\nProvozní doby\nZ02\n– slévárna hliníku\nPoříčany\nPo – Pá od 6:00 do 14:30\nZ08\n– vysokotlaká slévárna Al\nMimoň\nPo – Pá od 6:00 do 14:30\nZ03\n– lisovna plastů\nSlaná – Sutice\nPo – Pá od 6:00 do 14:30\nZ10\n– slévárna zinku\nSlaná\nPo – Pá od 6:00 do 14:30\nNapište nám\nNejjednodušší formou jak nás kontaktovat, je přes formulář níže. Napište svůj dotaz a my Vám odpovíme v nejkratší možné době.\nVaše jméno (vyžadováno)\nVáš e-mail (vyžadováno)\nPředmět\nVaše zpráva\nTato stránka je chráněna pomocí reCAPTCHA a jsou aplikovány\nzásady ochrany osobních údajů\npodmínky služby\nspolečnosti Google.\nBENEŠ a LÁT a.s.\nSlévárna Al (Poříčany)\nSlévárna Al (Mimoň)\nLisovna plastů (Sutice)\nSlévárna Zn (Slaná)\nBENEŠ a LÁT a.s.\nBENEŠ a LÁT a.s.\nTovární 463\n289 14 Poříčany\nTelefon: +420 267 227 300 (recepce)\nE-mail:\ninfo@benesalat.cz\nIČ: 25724304\nDIČ: CZ25724304\nHQ DUNS: 495046450\nIČ provozovny: 1001565614\nSpolečnost je zapsána v OR, vedeném u MS v Praze, oddíl B, vložka 5715\nPro trasu do místa, kde sny dostávají tvar, klikni na mapu.\nKontakty vedení společnosti\nSvatopluk Runčík, MBA.\nGenerální ředitel\nsvatopluk.runcik@benesalat.cz\n+420 777 367 410\nBc. Anna Handlířová\nAsistentka společnosti\nanna.handlirova@benesalat.cz\n+420 724 350 615\nIng. Romana Zvolánková\nŘeditelka závodu Mimoň\nromana.zvolankova@benesalat.cz\n+420 602 442 762\nSvatopluk Runčík, MBA.\nŘeditel závodu Poříčany\nsvatopluk.runcik@benesalat.cz\n+420 777 367 410\nIng. Petr Žilla\nŘeditel závodu Slaná\npetr.zilla@benesalat.cz\n+420 775 330 392\nJakub Vitík\nŘeditel závodu Sutice\njakub.vitik@benesalat.cz\n+420 771 132 142\nIng. Jitka Dvořáková\nKoordinátorka personálního týmu\njitka.dvorakova@benesalat.cz\n+420 724 440 970\nVěra Nováková\nKoordinátorka obchodního týmu\nvera.novakova@benesalat.cz\n+420 777 142 056\nLukáš Pokorný\nVedoucí nákupního týmu\nlukas.pokorny@benesalat.cz\n+420 777 367 409\nIng. Zdenko Piovarči\nVedoucí týmu IC"
+    }
+  }
+}

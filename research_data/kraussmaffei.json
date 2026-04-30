@@ -1,0 +1,411 @@
+{
+  "company_key": "kraussmaffei",
+  "company_name": "KRAUSSMAFFEI",
+  "domain": "www.kraussmaffei.com",
+  "domain_url": "https://www.kraussmaffei.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "KRAUSSMAFFEI",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 4700,
+    "revenue": 1548907,
+    "zi_company_name": "KraussMaffei",
+    "zi_domain": "www.kraussmaffei.com",
+    "zi_city": "Parsdorf",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.kraussmaffei.com",
+    "homepage": {
+      "title": "Plastics Machinery – Injection Molding to Extrusion | KraussMaffei Group",
+      "description": "KraussMaffei offers all technologies: injection molding, extrusion, reaction process technology, automation & additive manufacturing worldwide.",
+      "text_excerpt": "Plastics Machinery – Injection Molding to Extrusion | KraussMaffei Group\nSkip to main content\nIMM\nInjection molding machinery\nRPM\nReaction process machinery\nEXT\nExtrusion technology\nAdditive Manufacturing\nAUT\nAutomation\nHighlights\nFrontIQ Light\nInnovative headlights – manufactured using ColorForm\nThe “FrontIQ Light” unites design, function, and protection in a single process – powered by ColorForm technology, which enhances thermoplastic parts with a precise PU surface directly in the mold.\nMore about the technology\nNews & Events\nAHEAD\nPress\nEvents\nDecember 10, 2025 | AHEAD\nPerfection in 40 seconds\nHow KraussMaffei Viersen automates the assembly of door interior trim for premium vehicles\nRead article\nDecember 3, 2025 | AHEAD\n“We are growing with PVC-free medical compounds”\nSuccess story Melitek\nRead article\nNovember 18, 2025 | AHEAD\nFor the “Crème de la Crème”\nNovassu produces closures for premium cosmetics\nRead article\nApril 15, 2026 | PRESS\nTurning ideas into circular economies: KraussMaffei Extrusion showcases the full spectrum of recycling at PRSE\nAt the Plastics Recycling Show Europe (PRSE) on May 5 and 6 in Amsterdam, KraussMaffei Extrusion will present its comprehensive portfolio centered on the co-rotating twin-screw extruder series ZE BluePower for mechanical and chemical plastics recycling.\nRead article\nMarch 25, 2026 | PRESS\nInternal Leadership Change at KraussMaffei Corporation: Brett Greenhalgh hands over to John Fini\nRead article\nMarch 16, 2026 | PRESS\n“Dynamic Tire Market” - KraussMaffei Extrusion reports positive results from Tire Technology Expo 2026\nKraussMaffei Extrusion has wrapped up three intensive and successful days: At the Tire Technology Expo 2026 (March 3–5) in Hanover, the company presented innovative solutions for tire extrusion as well as an expanded range of services.\nRead article\nChinaplas\nShanghai, China\n21.4.2026 - 24.4.2026\nHall: 4.1, booth: 4.1D56\nFocusing on the transformation and sustainable development of the plastics and rubber industries, the exhibition will showcase the latest solutions.\nPRSE Plastic Recycling Show Europe 2023\nAmsterdam, Netherland\n5.5.2026 - 6.5.2026\nHall 12, booth M10\nThe Plastics Recycling Show Europe is THE dedicated exhibition, conference and awards for plastics recycling in mainland Europe.\nElmia Polymer\nJönköping, Sweden\n19.5.2026 - 22.5.2026\nExhibition by our agent SAXE: C03:19\nKraussMafffei is represented by the agency SAXE at the largest dedicated trade fair for the plastics and rubber industry in the Nordic region.\nAll news\nUnternehmen\nPioneers for over 188 years\nMaking a difference worldwide\nAs one of the world’s leading manufacturers of machinery and systems for the production and processing of plastics and rubber, we are committed to staying one step ahead – and have been for over 187 years.\nMore about the company\nOur solutions for your industry.\nWe adapt to your challenges.\nAutomotive\nChemical\nCircular Economy & Recycling\nConsumer Goods\nCooling Technology & Insulation\nElect"
+    },
+    "about": {
+      "url": "https://www.kraussmaffei.com/o-nas",
+      "text": "404 | KraussMaffei Group\nSkip to main content\nPage not found\nThe page you requested does not seem to exist. Please try again later or contact support."
+    },
+    "products": {
+      "url": "https://www.kraussmaffei.com/produkty",
+      "text": "404 | KraussMaffei Group\nSkip to main content\nPage not found\nThe page you requested does not seem to exist. Please try again later or contact support."
+    },
+    "contact_page": {
+      "url": "https://www.kraussmaffei.com/kontakt",
+      "text": "404 | KraussMaffei Group\nSkip to main content\nPage not found\nThe page you requested does not seem to exist. Please try again later or contact support."
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "KRAUSSMAFFEI",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autodesk Inventor",
+      "Autodesk Vault"
+    ],
+    "competitor_products": [
+      "PTC Windchill PLM",
+      "Siemens",
+      "Siemens NX",
+      "Siemens OpenScape UC",
+      "Siemens PLM",
+      "Siemens SIMATIC Automation Designer"
+    ],
+    "cad_bim_other": [
+      "Assemble",
+      "Autodesk",
+      "Cache Control",
+      "InVision"
+    ],
+    "total_technologies": 135,
+    "all_technologies": [
+      {
+        "product": "Power BI",
+        "vendor": "Microsoft Corporation",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "RSLogix",
+        "vendor": "Rockwell Automation Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Remote Patient Monitoring",
+        "vendor": "TechTarget",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "FedEx",
+        "vendor": "FedEx Corporation",
+        "category": "Logistics",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Confluence",
+        "vendor": "Atlassian",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Active Directory",
+        "vendor": "Microsoft Corporation",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Ideal",
+        "vendor": "O5 Systems Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Cookiebot",
+        "vendor": "Cybot A/S",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "ventiv",
+        "vendor": "Ventiv Technology Australia PTY Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "GPS",
+        "vendor": "mbm.it",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Assemble",
+        "vendor": "Autodesk, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SuperFish",
+        "vendor": "SuperFish",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Siemens",
+        "vendor": "Siemens AG",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SAP Human Resources (HR)",
+        "vendor": "SAP SE",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "PowerFlex",
+        "vendor": "Rockwell Automation Inc.",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Microsoft Windows Presentation Foundation (WPF)",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Microsoft Windows OS",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Kanban",
+        "vendor": "",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Integra",
+        "vendor": "Integra Telecom",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "HTML5",
+        "vendor": "HTML5",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Genero",
+        "vendor": "Four Js",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "FICO",
+        "vendor": "Fair Isaac Corporation",
+        "category": "Advanced Analytics and Data Science",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Dublin Core",
+        "vendor": "DCMI",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "NTENT Hosting",
+        "vendor": "NTENT Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cache Control",
+        "vendor": "Cache Control",
+        "category": "Web Design and Development Services",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bridg",
+        "vendor": "Bridg",
+        "category": "Customer Data Platforms",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Apache Servers",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Adobe Creative Suite",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Windows 7",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Linux",
+        "vendor": "Linux Kernel Organization",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Windows 8",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "PTC Windchill PLM",
+        "vendor": "PTC Inc",
+        "category": "Product Information Management",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Siemens PLM",
+        "vendor": "Siemens AG",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "KRAUSSMAFFEI",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Loredana.",
+        "last_name": "Gregori",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "KraussMaffei",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 86.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 17:44"
+}

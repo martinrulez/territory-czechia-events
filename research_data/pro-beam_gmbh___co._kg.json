@@ -1,0 +1,380 @@
+{
+  "company_key": "pro-beam gmbh & co. kg",
+  "company_name": "pro-beam GmbH & Co. KG",
+  "domain": "www.pro-beam.com",
+  "domain_url": "https://www.pro-beam.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "pro-beam GmbH & Co. KG",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 305,
+    "revenue": 6773,
+    "zi_company_name": "pro-beam GmbH",
+    "zi_domain": "www.pro-beam.com",
+    "zi_city": "Gilching",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.pro-beam.com",
+    "homepage": {
+      "title": "Experte für Elektronenstrahltechnologie  : pro-beam",
+      "description": "Die pro-beam Group ist ein Unternehmen im Bereich der Elektronenstrahl- und Lasertechnologie. Der Spezialist für Elektronenstrahl Schweißen, Härten, Bohren.",
+      "text_excerpt": "Experte für Elektronenstrahltechnologie  : pro-beam\nKontakt\nNewsroom\nSuche\nDon't fill this field!\nAuftragsfertigung für\nUnternehmen und Forschung\nOb Schweißen, Härten, Perforieren oder Beschichten: Im Rahmen unserer Auftragsfertigung verbinden wir moderne Verfahrenstechnik mit tiefgehendem Know-how.\nMehr Informationen\nFiltermedien für die\nLebensmittelindustrie\nErfahren Sie, welche Vorteile mikrogebohrte Separationselemente speziell bei der Verarbeitung pflanzenbasierter Produkte mit sich bringen:\nWeitere Informationen\nEBM: Additive Fertigung mit Pulver\nLernen Sie unser innovatives Verfahren zur additiven Fertigung mittels Elektronenstrahl im Pulverbett kennen:\nMehr erfahren\nIhr Experte für das Elektronenstrahlschweißen\nDie pro-beam Gruppe ist ein weltweit führendes Unternehmen im Bereich der Elektronenstrahltechnologie. Wir bieten Ihnen Lösungen rund um das Schweißen und Perforieren mit dem Elektronenstrahl sowie das Beschichten von Oberflächen. Darüber hinaus sind wir auf dem Gebiet der additiven Fertigung tätig und ermöglichen entsprechende Fertigungsprozesse für Metallbauteile. Je nach Bedarf können Sie sich für eine Auftragsfertigung bei pro-beam oder für eine eigene kundenspezifische Maschine von pro-beam entscheiden. Dank unserer Expertise verstehen wir uns als Entwicklungspartner, wenn es um effiziente Fertigungsprozesse geht.\n400\nMitarbeiter\nStandorte\nJahre Erfahrung\nMio Umsatz (in €)\nLänder weltweit\n© M.Style / Fotolia\nAuftragsfertigung\nModerne Maschinenparks und breitgefächertes Know-how.\nProfitieren Sie von den Vorteilen unserer Auftragsfertigung für die folgenden Verfahren:\nElektronenstrahl\nschweißen\nElektronenstrahl\nperforieren\nElektronenstrahl\nhärten\nBeschichten\nMaschinenbau\nWir entwickeln und fertigen kundenspezifische Maschinen, intelligente Automatisierungslösungen und verkettete Fertigungslinien.\nElektronenstrahl\nschweißen\nElektronenstrahl\nperforieren\nElektronenstrahl\nhärten\nUMH-Erwärmung\nCustomer Service\nAls Kunde von pro-beam profitieren Sie von einem umfassenden Serviceangebot für Ihre Maschinen – von Wartungs- über Reparatur- bis hin zu verschiedenen Modernisierungsmaßnahmen.\nMehr erfahren\nElektronenstrahltechnik\nDer Elektronenstrahl ist das Werkzeug für das effiziente Schweißen, Härten und Perforieren von anspruchsvollen Metallen. Das Verfahren arbeitet zu 100% digital und ist einfach automatisierbar. Die industrielle Bearbeitung von Werkstücken findet im Unterdruck in einer Vakuumkammer statt. Dies führt zu qualitativ hochwertigen Schweißnähten.\nElektronenstrahl\nBranchen\nAutomobil und Elektromobilität\nLuft- und Raumfahrt\nMaschinen- und Anlagenbau\nEnergietechnik\nHalbleiter\nMedizintechnik\nWissenschaft und Forschung\nAutomotive und E-Mobility\nSchmale Schweißnähte, optimale Bauteilehärtung und präzises Zusammenfügen sehr filigraner Kupfer-Hairpins\nMehr erfahren\nLuft- und Raumfahrt\nAutomatisierte Nahtsuche\nselbst bei komplexen Bauteilen\nMehr erfahren\nMaschinen- und Anlagenbau\nSchweißen dickwandiger Bauteile\nund rostfreier Stähle"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "pro-beam GmbH & Co. KG",
+    "autodesk_products": [],
+    "competitor_products": [
+      "Siemens",
+      "Siemens NX",
+      "Siemens PLM"
+    ],
+    "cad_bim_other": [
+      "InVision",
+      "Materialise Magics"
+    ],
+    "total_technologies": 54,
+    "all_technologies": [
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Siemens",
+        "vendor": "Siemens AG",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Qt",
+        "vendor": "Qt",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "OpenCV",
+        "vendor": "OpenCV team",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Materialise Magics",
+        "vendor": "Materialise",
+        "category": "Web Design and Development Services",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Linux",
+        "vendor": "Linux Kernel Organization",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Siemens PLM",
+        "vendor": "Siemens AG",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Siemens NX",
+        "vendor": "Siemens AG",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft PowerPoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "fancyBox",
+        "vendor": "fancyapps",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SAP Financial Accounting",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "SAP S/4HANA",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Setster",
+        "vendor": "Setster Inc",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Jira",
+        "vendor": "Atlassian",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "SAP ERP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Python",
+        "vendor": "Python Software Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "C++",
+        "vendor": "Standard C++ Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Outlook.com",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft SharePoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "pro-beam GmbH & Co. KG",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 17:06"
+}

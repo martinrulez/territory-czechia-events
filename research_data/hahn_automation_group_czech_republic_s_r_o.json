@@ -1,0 +1,41 @@
+{
+  "company_key": "hahn_automation_group_czech_republic_s_r_o",
+  "company_name": "HAHN Automation Group Czech Republic, s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "FRANK KONRAD",
+        "firstName": "FRANK",
+        "lastName": "KONRAD",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ŠÁRKA OŠŤÁDALOVÁ",
+        "firstName": "ŠÁRKA",
+        "lastName": "OŠŤÁDALOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:25"
+}

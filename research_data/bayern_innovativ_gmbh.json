@@ -1,0 +1,309 @@
+{
+  "company_key": "bayern innovativ gmbh",
+  "company_name": "Bayern Innovativ GmbH",
+  "domain": "www.bayern-innovativ.de",
+  "domain_url": "https://www.bayern-innovativ.de",
+  "events": "URBIS Smart Cities 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Bayern Innovativ GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 220,
+    "revenue": 41558,
+    "zi_company_name": "Bayern Innovativ",
+    "zi_domain": "www.bayern-innovativ.de",
+    "zi_city": "Nuernberg",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.bayern-innovativ.de",
+    "homepage": {
+      "title": "Bayern Innovativ: Bayern Innovativ",
+      "description": "Innovationen sind Programm — Wir geben die richtigen Impulse und vernetzen passende Kooperationspartner. Bayern Innovativ ist Ihr Tor zu einer lebendigen Innovations-Community.",
+      "text_excerpt": "Bayern Innovativ: Bayern Innovativ\nBei Bayern Innovativ fördern wir die Entwicklung tragfähiger Ideen und Technologien zu echten Innovationen. Wir geben die richtigen Impulse, um Ihre Ideen zum Erfolg zu führen, wir fördern Ihre Projekte und wir vernetzen Branchen und Märkte.\nInnovationsnetzwerke\nInnovationsservices\nVeranstaltungen und Messen\nDie Gesamtheit unserer Leistungen zielt darauf ab, die bayerische Wirtschaft nachhaltig zu stärken. Hierfür bieten wir starke Netzwerke in den Zukunftsfeldern des Freistaats – Digitalisierung, Energie & Bau, Gesundheit, Material & Produktion, Mobilität, Sicherheit und in der Kreativwirtschaft.  Wir begleiten den gesamten Innovationsprozess – von der ersten Idee bis hin zur Markteinführung. Mit unserem breiten Netzwerk und unserer fachlichen und methodischen Expertise schaffen wir Synergien zwischen Wirtschaft, Wissenschaft und Politik.\nWir machen Innovation möglich. Im globalen Wettbewerb und in regionalen Wertschöpfungsketten sind Innovationen der Schlüssel zum Erfolg. Darum ist Bayern Innovativ seit 1995 vom Freistaat Bayern beauftragt, insbesondere kleine und mittlere Unternehmen zu unterstützen, denen oft die Ressourcen für ein aufwändiges Innovationsmanagement fehlen. Mit unseren passgenauen Innovationsleistungen ermöglichen wir es ihnen, ihre Ideen schneller und erfolgreich umzusetzen.\nLeistungen von Bayern Innovativ\nInnovationsnetzwerke\nBayern Innovativ ist das Tor zu einer lebendigen Innovations-Community. Wir vernetzen Unternehmen mit Hochschulen, Forschungsinstituten und wichtigen Organisationen im Freistaat. Dieser starke Thinktank unterstützt den Austausch zu neuen Entwicklungen in allen Zukunftsfeldern und Bereichen der Bayerischen Wirtschaft.\nshutterstock©ESB,\nMobilität\nMehr erfahren\nAdobeStock©yavdat,\nMaterial\nMehr erfahren\nKI generiert/Stable Diffusion,\nProduktion\nMehr erfahren\nAdobeStock/Amgun,\nDigitalisierung\nMehr erfahren\niStock/sakkmesterke,\nEnergie & Bau\nMehr erfahren\nFotolia©ipopba,\nGesundheit\nMehr erfahren\nshutterstock©zef art,\nSicherheit\nMehr erfahren\nLeistungen von Bayern Innovativ\nInnovationsservices\nUnsere leistungsfähigen Instrumente für ein erfolgreiches Innovationsmanagement – wie Technologietransfer, Trend- und Technologiescouting – stärken die Innovationsfähigkeit unserer Kunden. Wir schaffen Transparenz über Fördermöglichkeiten und bieten Zugang zu Fördermitteln auf bayerischer, nationaler und europäischer Ebene. Mit dem Enterprise Europe Network (EEN) unterstützen wir Firmen bei ihrer internationalen Ausrichtung. Unser Patentzentrum berät zudem zu Schutzrechten, von der ersten Idee bis zur Patentanmeldung.\nshutterstock/sdecoret,\nProjektträger Bayern\nMehr erfahren\nAdobeStock/Sergey-Nivens,\nFörderung & Beratung\nMehr erfahren\niStock/isLan-Zhang,\nInnovationsmanagement\nMehr erfahren\nAdobeStock/Julien_Eichinger,\nEuropa & International\nMehr erfahren\niStock/Warchi,\nPatente & CE\nMehr erfahren\nGettyImages©Paper Boat Creative_Stone,\nTransformation\nMehr erfahren\nVeranstaltungen & Messen"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Bayern Innovativ GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "InVision"
+    ],
+    "total_technologies": 39,
+    "all_technologies": [
+      {
+        "product": "Adobe Stock",
+        "vendor": "Adobe Inc.",
+        "category": "Stock Images Providers",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Setster",
+        "vendor": "Setster Inc",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Facebook Analytics",
+        "vendor": "Facebook, Inc.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "InVision",
+        "vendor": "InVisionApp Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Jira",
+        "vendor": "Atlassian",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Userlike",
+        "vendor": "Userlike UG",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Hetzner",
+        "vendor": "Hetzner Online GmbH",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "eTracker",
+        "vendor": "etracker GmbH",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "TYPO3",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Salesforce Pardot",
+        "vendor": "Salesforce, Inc.",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "TYPO3 CMS",
+        "vendor": "TYPO3 Association",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Atlassian",
+        "vendor": "Atlassian",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Bayern Innovativ GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 16:24"
+}

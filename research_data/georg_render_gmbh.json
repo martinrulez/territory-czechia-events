@@ -1,0 +1,115 @@
+{
+  "company_key": "georg render gmbh",
+  "company_name": "Georg Render GmbH",
+  "domain": "www.render-gmbh.de",
+  "domain_url": "https://www.render-gmbh.de",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Georg Render GmbH",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "3ds Max",
+    "total_seats": "1",
+    "current_acv_eur": "2200.0",
+    "potential_acv_eur": "4550.0",
+    "nearest_renewal": "2027-03-01",
+    "days_to_renewal": "312",
+    "top_upsell": "M&E Collection",
+    "top_upsell_reason": "Bundle with Maya, Arnold, MotionBuilder",
+    "all_upsells": "M&E Collection; Flex",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other",
+    "zi_done": true,
+    "employee_count": 6,
+    "revenue": 3118,
+    "zi_company_name": "Render",
+    "zi_domain": "www.render-gmbh.de",
+    "zi_city": "Bad Salzuflen",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.render-gmbh.de",
+    "homepage": {
+      "title": "Metallreinigungsanlagen | Reinigungsanlagen | Reinigungsautomaten | Entfettungsanlagen | Trommelwaschanlagen",
+      "description": "",
+      "text_excerpt": "Metallreinigungsanlagen | Reinigungsanlagen | Reinigungsautomaten | Entfettungsanlagen | Trommelwaschanlagen\nKontakt\nImpressum\nRationelle und umweltfreundliche Reinigung\nRender GmbH\nFunktionsprinzip / Einsatzbereiche\nProdukte\nZubehÃ¶rprogramm\nGebrauchtanlagen\nDownloads\nAktuelles\nAnfrage / Infomaterial\nIhr Spezialist fÃ¼r Reinigungstechnik in Edelstahl\nReinigungsanlagen sind im Hinblick auf ihre RationalitÃ¤t, Umwelt- und Anwenderfreundlichkeit in der Industrie sowie im Handwerk unentbehrlich geworden. Seit Ã¼ber 35 Jahren sind wir erfolgreich im Bereich âIndustrielle, automatische Reinigungsanlagen aus Edelstahlâ positioniert.\nReinigungsprobleme der unterschiedlichsten Anwendungsbereiche kÃ¶nnen mit unseren Anlagen, wie industrielle Metallreinigungsanlagen, Entfettungsanlagen, Kleinteile Reinigungsanlagen, Reinigungsautomaten fÃ¼r die industrielle Teilereinigung oder Entlackungsanlagen, individuell gelÃ¶st werden.\nWir entwickeln und produzieren automatische Reinigungsanlagen, Metallreinigungsautomaten bzw. Metallreinigungsmaschinen, Entfettungsanlagen sowie Trommelwaschanlagen nach kundenspezifischen Vorgaben.\nFlexibilitÃ¤t fÃ¼r Ihre Anforderungen\nIndustrielle, automatische Reinigungsanlagen, Metallreinigungsanlagen, Kleinteilereinigungsanlagen, Entfettungsanlagen etc. finden vielfÃ¤ltige Anwendung in den unterschiedlichsten Branchen. Gern erstellen wir Ihnen ein individuelles Angebot Ã¼ber z. B. Metallreinigungsanlagen, Trommelwaschanlagen, Entlackungsanlagen. Unsere bestens ausgebildeten Mitarbeiter fertigen fÃ¼r jeden Kunden ein maÃgeschneidertes Produkt.  Dank unserer Erfahrung kÃ¶nnen so optimale automatische Reinigungsanlagen konzipiert werden.\nStellen Sie uns auf die Probe! Lassen Sie sich von uns individuell beraten!\nAnfragen\nsind willkommen!\nKontaktdaten\nGeorg Render GmbH\nSÃ¶lterstraÃe 31\n32107 Bad Salzuflen\nTelefon:\n0 52 08. 28 696 60\nTelefax:\n0 52 08. 28 696 65\nWeitere Infos\nGerne beraten wir Sie Ã¼ber unsere Reinigungsanlagen in einem persÃ¶nlichen GesprÃ¤ch.\nPersÃ¶nliche Beratung\nHier kÃ¶nnen Sie  eine Anfrage platzieren oder  Infomaterial zu unseren Reinigungsanlagen anfordern.\nKontakt / Anfrage"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Georg Render GmbH",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 5,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Strato",
+        "vendor": "Strato AG",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DigiCert",
+        "vendor": "DigiCert, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Georg Render GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 09:02"
+}

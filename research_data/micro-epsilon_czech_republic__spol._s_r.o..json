@@ -1,0 +1,72 @@
+{
+  "company_key": "micro-epsilon czech republic, spol. s r.o.",
+  "company_name": "MICRO-EPSILON Czech Republic, spol. s r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "MICRO-EPSILON Czech Republic, spol. s r.o.",
+    "opportunity_score": 22,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.6,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.6,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "42406960",
+    "official_name": "MICRO-EPSILON Czech Republic, spol. s r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "25530",
+      "47",
+      "26510",
+      "46900",
+      "952",
+      "00",
+      "25620",
+      "00",
+      "25620",
+      "25720",
+      "26510",
+      "46900",
+      "47",
+      "952"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Na Libuši 891, 39165 Bechyně, Bechyně, Na Libuši, 39165",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "MICRO-EPSILON Czech Republic, spol. s r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:33"
+}

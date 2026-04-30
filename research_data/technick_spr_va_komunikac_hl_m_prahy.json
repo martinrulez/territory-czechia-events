@@ -1,0 +1,71 @@
+{
+  "company_key": "technick_spr_va_komunikac_hl_m_prahy",
+  "company_name": "Technická správa komunikací hl. m. Prahy",
+  "domain": "",
+  "events": "BIM DAY 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MARCEL HOMOLKA",
+        "firstName": "MARCEL",
+        "lastName": "HOMOLKA",
+        "jobTitle": "Vice-Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "FILIP HÁJEK",
+        "firstName": "FILIP",
+        "lastName": "HÁJEK",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PETR KOŽÍŠEK",
+        "firstName": "PETR",
+        "lastName": "KOŽÍŠEK",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JOSEF RICHTR",
+        "firstName": "JOSEF",
+        "lastName": "RICHTR",
+        "jobTitle": "Vice-Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MARTIN PÍPA",
+        "firstName": "MARTIN",
+        "lastName": "PÍPA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:06"
+}

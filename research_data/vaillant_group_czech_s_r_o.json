@@ -1,0 +1,91 @@
+{
+  "company_key": "vaillant_group_czech_s_r_o",
+  "company_name": "Vaillant Group Czech s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JIŘÍ MICHAL",
+        "firstName": "JIŘÍ",
+        "lastName": "MICHAL",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "LIBOR HRABAČKA",
+        "firstName": "LIBOR",
+        "lastName": "HRABAČKA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "Norbert Kolodziej",
+        "firstName": "Norbert",
+        "lastName": "Kolodziej",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PETR STOKLASA",
+        "firstName": "PETR",
+        "lastName": "STOKLASA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ANDREAS MEIER",
+        "firstName": "ANDREAS",
+        "lastName": "MEIER",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:33",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.myvaillantpro.cz",
+    "homepage": {
+      "title": "myVaillant Pro Česká republika",
+      "description": "Stránka pro partnery Vaillant Česká republika",
+      "text_excerpt": "myVaillant Pro Česká republika\nMenu\nPortál pro obchodní partnery myVaillant Pro\nVaillant. Váš spolehlivý partner pro vytápění a přípravu teplé vody.\nJako obchodní partner společnosti Vaillant jste nedílnou součástí našeho podnikání! Aby byla naše vzájemná spolupráce co nejpohodlnější, nabízíme vám řadu nástrojů pro projektování, montáž a servisní služby.\nPřihlášení\nRegistrace\nJste již partnerem společnosti Vaillant?\nV případě, že jste již naším partnerem, využijte níže uvedené linky pro vstup na servisní stránky a věrnostní klub.\nServisní stránky\nVstup na Servisní stránky pro autorizované partnery a projektanty\nVstoupit\nKlub Vaillant\nVstup do věrnostního klubu Vaillant pro montážní firmy\nVstoupit\nStaňte se naším partnerem - partnerem značky Vaillant\nJako partner společnosti Vaillant získáte prémiový přístup k nástrojům pro plánování, montáž i servis topných systémů. Poskytneme Vám exkluzivní informace, rady a návody. Jako partner společnosti Vaillant můžete těžit z našich dlouholetých zkušeností v oblasti vytápění, chlazení a větrání s využitím obnovitelných zdrojů energie. Využijte benefitů jako je rychlý přístup k eshopu náhradních dílů, věrnostnímu programu a nabídce školení. Nenechte si ujít příležitost k rozvoji svého podnikání. Staňte se partnerem značky Vaillant!\nVíce informací"
+    },
+    "about": {
+      "url": "https://www.myvaillantpro.cz/o-nas",
+      "text": "myVaillant Pro Česká republika\nMenu\n404 - Stránka nenalezena\nZdá se, že tato stránka byla smazána bez náhrady. Pokud hledáte konkrétní informace a nemůžete je najít na jiné stránce, kontaktujte nás prosím.\nZpět na myVaillant Pro"
+    },
+    "products": {
+      "url": "https://www.myvaillantpro.cz/produkty",
+      "text": "myVaillant Pro Česká republika\nMenu\n404 - Stránka nenalezena\nZdá se, že tato stránka byla smazána bez náhrady. Pokud hledáte konkrétní informace a nemůžete je najít na jiné stránce, kontaktujte nás prosím.\nZpět na myVaillant Pro"
+    },
+    "contact_page": {
+      "url": "https://www.myvaillantpro.cz/kontakt",
+      "text": "myVaillant Pro Česká republika\nMenu\n404 - Stránka nenalezena\nZdá se, že tato stránka byla smazána bez náhrady. Pokud hledáte konkrétní informace a nemůžete je najít na jiné stránce, kontaktujte nás prosím.\nZpět na myVaillant Pro"
+    }
+  }
+}

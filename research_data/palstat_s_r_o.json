@@ -1,0 +1,161 @@
+{
+  "company_key": "palstat_s_r_o",
+  "company_name": "PALSTAT s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "PALSTAT s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 17,
+    "all_technologies": [
+      {
+        "product": "Silktide",
+        "vendor": "Silktide Ltd",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Nium",
+        "vendor": "Nium Pte. Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Apple (common)",
+        "vendor": "Apple Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Play Badges",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MAREK MERGL",
+        "firstName": "MAREK",
+        "lastName": "MERGL",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MICHAELA PAČÁKOVÁ",
+        "firstName": "MICHAELA",
+        "lastName": "PAČÁKOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:39:48",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.palstat.cz",
+    "homepage": {
+      "title": "Kvalita a Jakost, PalstatCAQ",
+      "description": "✅ Systém řízení kvality ✅, management kvality PALSTAT CAQ norem IATF, VDA",
+      "text_excerpt": "Kvalita a Jakost, PalstatCAQ\nJakost a kvalita, čeština\nQuality management, English\nPalstat\nCAQ\nsystém řízení kvality\nŘÍZENÍ KVALITY\nDLE POŽADAVKŮ NOREM PRO JAKOST\nISO9001, IATF 16949, VDA, AIAG, AQAP2110, ISO/IWA 1\nZajistíme snadné plnění požadavků zákazníků a norem v oblasti řízení kvality.\nPROPOJENÍ ERP\nSYNCHRONIZACE DAT\nPropojení do řady běžně používaných ERP systémů pro snadnou synchronizaci klíčových dat.\nDatabáze dílů, kontaktů, pracovníků, zakázek, atd.\nMONITOROVÁNÍ\nSBĚR A VYHODNOCENÍ DAT\nSběr naměřených dat z měřidel a měřicích strojů, jejich vyhodnocení krátkodobé i dlouhodobé způsobilosti.\nSPC, Vstupní a výstupní kontrola, Mezioperační kontrola, Statistické přejímky.\nREPORTING\nDESKTOP - WEB - EMAIL\nMožnost úpravy výstupů a tvorby vlastních reportů dostupných na různých koncových zařízeních.\nVyužijte podrobných možností notifikací na nastavitelné události.\nSCHÉMA SYSTÉMU\nZJISTĚTE JAKÉ MÁTE MOŽNOSTI\nUcelený přehled celého balíku pro jakost a kvalitu PALSTAT CAQ.\nS rozšířením CAQserver získáte možnost přistupovat k datům pomocí API.\nKALIBRACE MĚŘIDEL\nZJEDNODUŠENÍ A DIGITALIZACE PROCESU\nPalstatCAQ umožňuje efektivní propojení Vaší evidence měřidel s externí kalibrační laboratoří.\nZjednodušení procesu externí kalibrace od přípravy k odeslání až po zanesení informací o kalibraci.\nNOVINKY\nMOŽNÁ ŘEŠENÍ A NASAZENÍ\nNOVÁ VERZE 2026.01.000\nNovinkou této verze je přesun většiny konfiguračních nastavení do modulu Správa systému. Poprvé je také možné využít funkce překladů textů založené na AI a nechybí řada dalších vylepšení a oprav.\nNová verze 2025.02.000\nNová verze umožňuje uživatelům snadno editovat emailové adresy reportů a notifikací. Novinkami jsou také rozdělení nářadí podle výdejen, zadávání geometrických tolerancí i lícovací soustavy do SPC v textové podobě a řada dalších změn..\nNová verze 2025.01.000\nAktualizace obsahuje možnost připojení sestav z modulu Reporting přímo do tiskových sestav některých modulů. Novinkou jsou i širší možnosti notifikací a další vylepšení. Tato verze vyžaduje SQL server 2012 nebo vyšší..\ndalší novinky ››\nŠKOLENÍ\nZÚČASTNĚTE SE PRAVIDELNÝCH ŠKOLENÍ\nNová školení pro Vás připravujeme.\nRegistrovaní zákazníci budou informování emailem ihned při otevření nového školení.\nočekávejte:\nMetrologie\nTiskové sestavy\nProcesy a dokumentace\nMSA - Analýza měřicích systémů\nukázat školení ››\nZÁKAZNICKÝ PORTÁL\nVZDÁLENÁ POMOC\nAKTUALIZACE - 2026.01.001\nSYSTÉM ŘÍZENÍ KVALITY\nIMPLEMENTACE NOREM ČSN EN ISO9001, IATF 16949, VDA\nPalstat CAQ umožňuje vybudovat efektivní\nsystém řízení kvality\nve společnostech všech velikostí a zaměření. Modulární design zajišťuje snadné naplnění vybraných požadavků zákazníků i norem v oblasti\nřízení kvality\nmetrologie\núdržby\na dalších.\nSystém je určen pro implementaci norem ČSN EN\nISO 9001\n, požadavků automobilového průmyslu\nIATF 16949\nharmonizováno s\nVDA\n, potravinářství\nHACCP\n, zdravotnictví ISO/IWA 1, vojenského průmyslu\nAQAP 2110\nEMS ISO 14001\nSpolečnost PALSTAT s.r.o. působí v oblasti řízení kvality již o"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

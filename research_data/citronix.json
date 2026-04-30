@@ -1,0 +1,291 @@
+{
+  "company_key": "citronix",
+  "company_name": "CITRONIX",
+  "domain": "www.citronix.com",
+  "domain_url": "https://www.citronix.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "CITRONIX",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "3",
+    "current_acv_eur": "1500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2027-02-23",
+    "days_to_renewal": "306",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Entry",
+    "industry_segment": "Construction Services",
+    "zi_done": true,
+    "employee_count": 24,
+    "revenue": 16269,
+    "zi_company_name": "Citronix",
+    "zi_domain": "www.citronix.com",
+    "zi_city": "Arlington",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.citronix.com",
+    "homepage": {
+      "title": "Homepage | Citronix",
+      "description": "Citronix designs and manufactures a comprehensive range of continuous ink jet printers.",
+      "text_excerpt": "Homepage | Citronix\nWorld Class Supplier of CIJ Technology\nCitronix products are sold and supported across the globe through a network of factory authorized and trained distributors.\nContact Us\nInks for Nearly Every Application\nCitronix inks offer excellent adhesion on a variety of different substrates with quick dry times to suit most applications.\nView Ink Range\nAdvanced Coding and Marking Technology\nCitronix printers use the latest technology to print reliably at high speed with excellent print quality.\nSolutions\nSimple, Capable, Reliable and Value\nCitronix uses world class CIJ technology designed and manufactured in the USA.\nTechnology\nDesigned for the Customer\nCitronix printers are renowned for their intuitive, customizable, easy to use interface.\nView Printers\nContinuous Inkjet Printers\nOur ci5000 Series small character printers and inks are ideal for high volume, direct to product and primary packaging applications. These robust printers are great for harsh environments and difficult to print on substrates.\nPrinters\nInk Range\nTechnology\nSolutions\nThermal Inkjet Printers\nOur ct2000 Series Hi-Res printers and inks are great for applications that require crisp barcodes and images. This versatile range can print on porous and non-porous substrates up to 200mm high and with a throw distance up to 12mm.\nPrinters\nInk Range\nTechnology\nSolutions\nHigh Speed\nPrint onto glass bottles at high speed, with confidence, using our HS50 printers.\nIndustrial Parts\nConfident coding with inks that adhere to nearly any surface.\nCable\nMultiple colors, good adhesion and meter marking will meet your wire & cable needs.\nPipe Extrusion\nPrint onto PVC and other extruded materials at high temperature.\nPET Water Bottles\nPrint onto plastic bottles at high speed, with confidence, using our HS50 printers\nYogurt Tubs\nCold fill applications with thin layers of moisture, such as yogurt tubs, can be printed on with confidence.\nChocolate Packaging\nWith a range of low odor, low taint inks, you can confidently code without worrying about tarnishing the chocoloate.\nMicrowave soups\nRetort resistant inks work well for process food applications hat require heating or microwaving.\nCitronix is a world class manufacturer of high-speed industrial printers that are suitable for printing onto nearly any material in any application. Our products help\nKeep your production line running through exceptional reliability and performance.\nReduce waste and cost by printing directly onto products and packaging, without the need for keeping an inventory of high cost pre-printed labels.\nProvide consumers with important product information.\nManage supply chains with product traceability information such as batch codes and serial numbers.\nMeet an ever-growing list of regulatory requirements for product safety and traceability.\nSimple\nOur industry leading graphical user interface has been carefully designed with customers and support in mind.\nCapable\nOur feature rich printers solves your coding and marki"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "CITRONIX",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 28,
+    "all_technologies": [
+      {
+        "product": "Circuit",
+        "vendor": "Circuit Routing Limited",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "GoDaddy Email Hosting",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Piwik PRO Consent Manager",
+        "vendor": "Piwik PRO Sp. z o.o.",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cookie Consent",
+        "vendor": "Silktide Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Craft CMS",
+        "vendor": "Pixel & Tonic , Inc.",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Perl",
+        "vendor": "The Perl Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Baidu Ibsuyn API",
+        "vendor": "Baidu, Inc.",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "GoDaddy SSL Certificates",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "able",
+        "vendor": "Able",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Sucuri Website Security",
+        "vendor": "Sucuri Inc.",
+        "category": "Web Application Firewalls",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Website Translator",
+        "vendor": "Google LLC",
+        "category": "Translation",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "CITRONIX",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Robert",
+        "last_name": "van der Most",
+        "title": "Managing Director",
+        "email": "rvandermost@citronix.com",
+        "phone": "",
+        "company": "Citronix",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 99.0
+      },
+      {
+        "first_name": "Michael",
+        "last_name": "Embree",
+        "title": "Director, Engineering",
+        "email": "",
+        "phone": "",
+        "company": "Citronix",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 75.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 15:07",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

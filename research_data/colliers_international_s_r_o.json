@@ -1,0 +1,51 @@
+{
+  "company_key": "colliers_international_s_r_o",
+  "company_name": "Colliers International, s.r.o.",
+  "domain": "",
+  "events": "Czech Green Building Council Members",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "BOŘIVOJ CARDA",
+        "firstName": "BOŘIVOJ",
+        "lastName": "CARDA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ONDŘEJ SLAVÍK",
+        "firstName": "ONDŘEJ",
+        "lastName": "SLAVÍK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "KATARÍNA BRYDONE",
+        "firstName": "KATARÍNA",
+        "lastName": "BRYDONE",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:07:12"
+}

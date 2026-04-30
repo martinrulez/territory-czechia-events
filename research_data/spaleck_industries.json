@@ -1,0 +1,89 @@
+{
+  "company_key": "spaleck industries",
+  "company_name": "SPALECK Industries",
+  "domain": "www.spaleck-industries.fr",
+  "domain_url": "https://www.spaleck-industries.fr",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SPALECK Industries",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "AutoCAD LT | Fusion | Inventor",
+    "total_seats": "7",
+    "current_acv_eur": "8500.0",
+    "potential_acv_eur": "28200.0",
+    "nearest_renewal": "2027-01-15",
+    "days_to_renewal": "267",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "1C Pro s.r.o | Arkance Systems CZ s.r.o.",
+    "maturity_label": "Multi-Product",
+    "industry_segment": "Industrial Machinery",
+    "ml_domain": "www.secoindustries.cz",
+    "zi_done": true,
+    "employee_count": 339,
+    "revenue": 12731,
+    "zi_company_name": "Spaleck INDUSTRIES",
+    "zi_domain": "www.spaleck-industries.fr",
+    "zi_city": "",
+    "zi_country": "",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.spaleck-industries.fr",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "SPALECK Industries",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 14:52",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "inventor",
+        "civil 3d",
+        "navisworks"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "company_key": "kromer",
+  "company_name": "Kromer",
+  "domain": "www.kromerco.com",
+  "domain_url": "https://www.kromerco.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Kromer",
+    "opportunity_score": 33,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.65,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.65,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "01678825",
+    "official_name": "Petr Krőmer",
+    "legal_form": "101",
+    "nace_codes": [
+      "43320",
+      "G",
+      "43320",
+      "G"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Ivana Sekaniny 1794/5, Poruba, 70800 Ostrava, Ostrava, Ivana Sekaniny, 70800",
+    "is_client": true,
+    "current_products": "AutoCAD",
+    "total_seats": "3",
+    "current_acv_eur": "6600.0",
+    "potential_acv_eur": "10400.0",
+    "nearest_renewal": "2026-12-04",
+    "days_to_renewal": "225",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Add Revit + Civil 3D + Navisworks for full BIM workflow",
+    "all_upsells": "AEC Collection; PDMC; Forma",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Engineering Service Providers",
+    "zi_done": true,
+    "employee_count": 17,
+    "revenue": 3549,
+    "zi_company_name": "Kromer",
+    "zi_domain": "www.kromerco.com",
+    "zi_city": "Long Lake",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.kromerco.com",
+    "homepage": {
+      "title": "Kromer Company | Athletic Field Maintenance Equipment  | 2415 West Industrial Boulevard, Long Lake, MN, USA",
+      "description": "Kromer Company has athletic field maintenance equipment that is the total solution for your grooming, painting, and  marking needs.",
+      "text_excerpt": "Kromer Company | Athletic Field Maintenance Equipment  | 2415 West Industrial Boulevard, Long Lake, MN, USA\ntop of page\nREVOLUTIONARY X-TRACTOR™\nOne Pass Paint Removal Extraction System\nNew at Kromer\nSpecifications >\nX-Tractor\nOne Pass Paint Removal Extraction System\nKromer Company is excited to highlight The X-Tractor™, the only all-in-one paint removal system.\nOur newest tractor easily & efficiently extracts paint, lines, logos, end zones,  and numbers. The X-Tractor™ designed with revolutionary one pass paint removal extraction technology to save you precious time. Additionally, it still leads the way in appearance grooming and decompacting.\nKromer is here for all your synthetic turf grooming and painting removal requirements.\nCall for more information, references, video: (763) 443-0431\nCHECK OUT THE NEW GPS ATTACHMENT\nGPS guided line marking for Pro™ & DaVinci™ models\nLiterature >\nX-TRACTOR™\nSynthetic Field Paint Removal Extraction\nAll-in-One machine\nPaint removal extractor\nLine removal extractor\nLogos, end zones, & number removal extractor\nAppearance grooming & decompacting\nCHAMELEON™\nSynthetic Field\nMaintenance:\nScrubbing synthetic turf\nLine remover\nLogo remover\nGrooming & decompacting\nSpraying chemicals, disinfectants or water\nOriginal line remover scrubber built in 2000\nPRO\nPainting, Grooming and Field Maintenance:\nLip remover\nPainting\nGrass edger\nDust or chemical control\nAdd any attachments for natural & synthetic field maintenance\nGPS painting\nDAVINCI™\nGrass Painting:\nSoccer arm extension\nHash line marker\nRetractable hose reel\nWideliner\nGPS painting\nKromer Athletic Field Maintenance Equipment\nEquipment >\nWe have Kromer Athletic Field Maintenance Equipment for all bud\ngets:\nContact Kromer\nfor a premium discount on existing\nequipment\ntrade ins and upgrades.\nCall today to order\nKromer parts\nproducts\n, and\nattachments\nFeaturing:\n3-POINT HITCH GROOMER\nOur standard 3-Point mount attaches easily to ATV's, tractors, and utility vehicles equipped with 3-Point lift systems.\nEquipped for grooming and leveling baseball and softball infield material.\nAvailable in three sizes:\nA100: 42” Field Harrow, 42” Leveling Blade, 56” Broom\nA200: 60” Field Harrow, 60” Leveling Blade, 74” Broom\nA300: 87” Field Harrow, 87” Leveling Blade, 99” Broom\nContact Kromer\nSubmit\nThanks for submitting!\nSolicitations of any kind will be deleted and blocked!\nbottom of page"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Kromer",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 23,
+    "all_technologies": [
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cascade",
+        "vendor": "Cascade Human Resources Ltd",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "SeatGeek",
+        "vendor": "SeatGeek, Inc",
+        "category": "Ticketing Systems",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "MPZMail",
+        "vendor": "MPZMail LTD",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SellerDeck",
+        "vendor": "Sellerdeck Ltd",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Voracio",
+        "vendor": "Chameleon Digital Media",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Empetus",
+        "vendor": "Empetus Limited",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Engage ATS",
+        "vendor": "Engage ATS",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Eploy",
+        "vendor": "ITS Software Systems Ltd",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Varnish",
+        "vendor": "Varnish Software AB",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Wix",
+        "vendor": "Wix.com, Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Amazon Route 53",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon Web Hosting",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "123 Reg Email Hosting",
+        "vendor": "123 Reg Ltd.",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Symphony",
+        "vendor": "Symphony Event Management Software",
+        "category": "Event Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "GlobalSign",
+        "vendor": "GMO Registry, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Kromer",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Ronn",
+        "last_name": "Ponath",
+        "title": "Owner",
+        "email": "",
+        "phone": "",
+        "company": "Kromer",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 84.0
+      },
+      {
+        "first_name": "Mick",
+        "last_name": "Harman",
+        "title": "Supervisor",
+        "email": "",
+        "phone": "",
+        "company": "Kromer",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 77.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 08:41",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "autocad",
+        "revit",
+        "civil 3d",
+        "navisworks",
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

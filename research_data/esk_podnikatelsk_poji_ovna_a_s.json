@@ -1,0 +1,61 @@
+{
+  "company_key": "esk_podnikatelsk_poji_ovna_a_s",
+  "company_name": "Česká podnikatelská pojišťovna, a.s.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "EVA POLÁCHOVÁ",
+        "firstName": "EVA",
+        "lastName": "POLÁCHOVÁ",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PAVEL WIESNER",
+        "firstName": "PAVEL",
+        "lastName": "WIESNER",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "NICOLAS MUCHERL",
+        "firstName": "NICOLAS",
+        "lastName": "MUCHERL",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "PETR ŽABA",
+        "firstName": "PETR",
+        "lastName": "ŽABA",
+        "jobTitle": "Vice-Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:24"
+}

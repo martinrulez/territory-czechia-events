@@ -1,0 +1,260 @@
+{
+  "company_key": "cimsystem s.r.l.",
+  "company_name": "CIMsystem s.r.l.",
+  "domain": "www.cimsystem.com",
+  "domain_url": "https://www.cimsystem.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "CIMsystem s.r.l.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 124,
+    "revenue": 5416,
+    "zi_company_name": "Cimsystem",
+    "zi_domain": "www.cimsystem.com",
+    "zi_city": "Louisville",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.cimsystem.com",
+    "homepage": {
+      "title": "CIMsystem - CIMsystem",
+      "description": "",
+      "text_excerpt": "CIMsystem - CIMsystem\nCAD/CAM software solutions\nWe realize the most innovative\nCAD/CAM\nsoftware for\ndental\nand\nindustrial\nmanufacturing.\nExplore\nDENTAL\nExplore\nINDUSTRIAL\nCIMsystem Dental\nAs one of the worldwide known leader in CAD/CAM software solutions development and commercialization for dental manufacturing, we create cutting-edge software to digitally manage the entire dental manufacturing workflow.\nIndeed, we offer solutions for milling, finishing and 3D printing for any type of dental restoration.\nOur customers are dental laboratories, milling centers and clinics as well as machines builders who provide final users with the best performing innovative asset.\nKnow more about our CAD/CAM software solutions for dental manufacturing!\nExplore\nDENTAL\nCIMsystem Industrial\nWe also develop\nCAD/CAM solutions\nfor the\nindustrial manufacturing\nbusiness\nHere again, we provide a wide and innovative range of software for 3D CAD and CAM systems, Reverse Engineering solutions, data transmission, numerous plug-ins for Rhinoceros and products specifically designed for the Industrial manufacturing business sector.\nOn top of that, we are international Rhinoceros 3D CAD reseller!\nKnow more about our CAD/CAM software solution for industrial manufacturing!\nExplore\nINDUSTRIAL\nAbout CIMsystem\nCIMsystem is a leading CAD/CAM software developer in industrial and dental manufacturing as well as in 3D printing applications.\nThe Company was founded in Italy in 1999 with the ultimate goal of providing innovating software developed in line with market evolution and customers’ needs.\nABOUT\nCIMSYSTEM\nFind out our solutions\nDental CAD/CAM\nMillBox\nIntuitive Dental CAM software for milling any type of material and element\nPyramis\nThe easiest software for managing 3D printing\nMake&Mill\nMillBox add-on module with additive and subtractive technology\nSUM3D Dental\nDental CAM software with advanced functions\nIndustrial CAD/CAM\nRhinoNC\nCAM 3D software integrated in Rhinoceros for CNC machines and robots\nPyramis\nThe easiest software for managing 3D printing\nRhinoceros\nOfficial resellers of the most popular free-form 3D modelling CAD software\nSUM3D\n3D CAM software for CNC machine tools and robots\nRhino Plugins\nSeries of plugins perfectly integrated into Rhinoceros\nDo you have any questions? Are you interested in our products?\nCONTACT US\nDENTAL\nCONTACT US\nINDUSTRIAL\n$0.00\nLogin\nUsername or email\nPassword\nInserisci una risposta in cifre:\n8 − 5 =\nRemember me\nLogin\nLost your password?"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "CIMsystem s.r.l.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 29,
+    "all_technologies": [
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Woo Themes",
+        "vendor": "WooCommerce",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "iubenda",
+        "vendor": "iubenda s.r.l",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Remarketing",
+        "vendor": "Google LLC",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Windows Server",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "CIMsystem s.r.l.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Matthew",
+        "last_name": "Landrigan",
+        "title": "Technical Director, & Pacific Region (South, East, Asia)",
+        "email": "",
+        "phone": "",
+        "company": "Cimsystem",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 18:43"
+}

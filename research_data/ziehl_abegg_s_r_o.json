@@ -1,0 +1,67 @@
+{
+  "company_key": "ziehl_abegg_s_r_o",
+  "company_name": "Ziehl-Abegg s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "Ziehl-Abegg s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 3,
+    "all_technologies": [
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Petra Burianová",
+        "firstName": "Petra",
+        "lastName": "Burianová",
+        "jobTitle": "Manager, Back Office & Marketing",
+        "email": "petra.burianova@ziehl-abegg.cz",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:03",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ziehl-abegg.cz",
+    "homepage": {
+      "title": "Ziehl-Abegg AG | Fans & Drives",
+      "description": "",
+      "text_excerpt": "Ziehl-Abegg AG | Fans & Drives\nWenn Ihr Browser keine Weiterleitung unterstützt, klicken Sie bitte\nhier\nIf your Browser doesnt redirect you, please click\nhere\nPokud vás vá vyhledávac nepresmeroval, prosím kliknete\nzde"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

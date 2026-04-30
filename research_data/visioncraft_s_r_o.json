@@ -1,0 +1,61 @@
+{
+  "company_key": "visioncraft_s_r_o",
+  "company_name": "VisionCraft s.r.o.",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026, Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "DAVID TUČ",
+        "firstName": "DAVID",
+        "lastName": "TUČ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MICHAL PROCHÁZKA",
+        "firstName": "MICHAL",
+        "lastName": "PROCHÁZKA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ROMAN VALLA",
+        "firstName": "ROMAN",
+        "lastName": "VALLA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ROBERT PINKAS",
+        "firstName": "ROBERT",
+        "lastName": "PINKAS",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:34"
+}

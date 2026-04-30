@@ -1,0 +1,82 @@
+{
+  "company_key": "3d expres s.r.o.",
+  "company_name": "3D EXPRES s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "FOR ARCH 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "3D EXPRES s.r.o.",
+    "opportunity_score": 18,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.42,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.42,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "29118701",
+    "official_name": "3D EXPRES s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "38",
+      "82100",
+      "43120",
+      "52",
+      "G",
+      "73110",
+      "855",
+      "77220",
+      "68200",
+      "81230",
+      "461",
+      "74990",
+      "38",
+      "43120",
+      "461",
+      "52",
+      "6820",
+      "73110",
+      "7490",
+      "77290",
+      "81290",
+      "82110",
+      "855",
+      "G"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Vyšehradská 1349/2, Nové Město, 12800 Praha 2, Praha, Vyšehradská, 12800",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "3D EXPRES s.r.o.",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:56"
+}

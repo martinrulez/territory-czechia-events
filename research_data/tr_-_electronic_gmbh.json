@@ -1,0 +1,90 @@
+{
+  "company_key": "tr - electronic gmbh",
+  "company_name": "TR - Electronic GmbH",
+  "domain": "www.trelectronic.co.th",
+  "domain_url": "https://www.trelectronic.co.th",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "TR - Electronic GmbH",
+    "opportunity_score": 24,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "is_client": true,
+    "current_products": "Fusion",
+    "total_seats": "3",
+    "current_acv_eur": "1800.0",
+    "potential_acv_eur": "8200.0",
+    "nearest_renewal": "2026-06-21",
+    "days_to_renewal": "59",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Full D&M bundle if they need Inventor + AutoCAD Mechanical too",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Fusion Sim Ext",
+    "maturity_label": "Foundation",
+    "industry_segment": "Industrial Machinery",
+    "ml_domain": "www.fencee.cz",
+    "zi_done": true,
+    "employee_count": 73,
+    "revenue": 7143,
+    "zi_company_name": "T&R Electronic",
+    "zi_domain": "www.trelectronic.co.th",
+    "zi_city": "Sattahip",
+    "zi_country": "Thailand",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.trelectronic.co.th",
+    "homepage": {
+      "title": "หน้าแรก Hello",
+      "description": "Encoder, TR, PLC, Beckhoff, PC",
+      "text_excerpt": "หน้าแรก Hello\nHeaderLogo\nบริษัท ที แอนด์ อาร์ อิเลคโทรนิคส์ (ประเทศไทย) จำกัด\nT&R Electronic (Thailand) Co.,Ltd.\nAutomation System Since 2533 (1990)\nAutomation System\nSince 2533 (1990)\nไทย\nEnglish\nหน้าแรก\nเกี่ยวกับเรา\nผลิตภัณฑ์\nสนับสนุน / ดาวน์โหลด\nข่าวสาร\nติดต่อเรา\n(สำนักงานใหญ่) บริษัท ที แอนด์ อาร์ อิเลคโทรนิคส์ (ประเทศไทย) จำกัด\ntelephone 68132\nT&R Electronic : +66(0) 81-945-2814\nSale/Support : +66 (0) 92-697-7711\nSale/Support : +66(0) 83-015-8594\nบัญชี : +66(0) 87-148-9559\nบัญชี : +66(0) 88-923-3961\nที่อยู่\n120/62 หมู่ 8 ตำบลบางเสร่,อำเภอสัตหีบ,\nจังหวัดชลบุรี  20250.\ntrthailand@trelectronic.co.th\nFacebook\nติดตามได้ที่\nFACEBOOK\nTR Electronic\nBeckhoff\nWeb Link\nWEB LINK:\nBECKHOFF\nIPC\nI/O\nMotion\nAtomation\nTR Encoder\nIncremental Encoder\nAbsolute Encoder\nLaser Distance\nLinear Encoder\nDi-soric Sensors\nHeyiSensors\nTerms and Condtions\nData protection policy\nPrivacy Policy\nCopyright\nCopyright ©\nTR Electronic\nAll Right Reserved. Hosted and Developed by\nHosting-Group\n. Powered by\nexPub.Net"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "TR - Electronic GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Clyde",
+        "last_name": "Purse",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "company": "T&R Electronic",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 77.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 08:54"
+}

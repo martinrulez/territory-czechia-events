@@ -1,0 +1,127 @@
+{
+  "company_key": "deublin italiana",
+  "company_name": "DEUBLIN ITALIANA",
+  "domain": "www.deublin.it",
+  "domain_url": "https://www.deublin.it",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "DEUBLIN ITALIANA",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 66,
+    "revenue": 12883,
+    "zi_company_name": "Deublin Italiana",
+    "zi_domain": "www.deublin.it",
+    "zi_city": "Bazzano",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.deublin.it",
+    "homepage": {
+      "title": "Deublin",
+      "description": "Deublin - Global leader in rotary unions and electrical slip rings, delivering high-performance solutions for your industry’s toughest motion and fluid transfer needs.",
+      "text_excerpt": "Deublin\nEngineered Solutions for Rotary Applications\nfind a rotary union\nIndustries\nDeublin rotary unions and electrical slip rings are used by all kinds of industrial machinery and manufacturing processes.\nMachine Tools\nMachine Tool Solutions for Faster Feed Rates and Greater Reliability\nLearn More\nEnergy from different sources\nDeublin delivers advanced solutions that power both renewable energy systems and oil and gas applications. Combining optimized technologies for environmental sustainability with rugged designs built for maximum reliability, our products perform consistently even in the most demanding conditions – ensuring efficiency, durability, and dependable energy production across all sectors.\nLearn More\nSemiconductor\nSemiconductor wafer fabrication businesses depend on Deublin's industry-specific expertise to provide custom engineered Rotary Unions and electrical slip rings.\nLearn More\nPaper and Printing\nDeublin provides advanced rotary unions designed for the demanding requirements of the paper, printing, and packaging industries. From efficient, high-performance solutions for paper and corrugating to long-lasting rotary unions for printing and packaging applications, our technology ensures superior quality, reliability, and productivity.\nLearn More\nMaterials Production & Processing\nLearn More\nOffroad\nLearn More\nFood and Medical\nReliable rotary unions and slip rings for food and medical manufacturing applications.\nLearn More\nWhy We're Different\nDeublin offers different sealing technologies to handle virtually any combination of media, rotating speed, and pressure. Find the best solution for your needs.\nPop-Off® Sealing Technology\nDeublin's unrivaled Pop-Off® technology seals metalworking fluids, including MQL, up to 2000 psi but separates the seals when fluid pressure is turned off, thereby eliminating seal wear due to dry running.\nLearn More\nAutoSense® Sealing Technology\nDeublin's patented AutoSense® technology is unique in sealing both conventional coolant as well as unlubricated air with no risk of premature seal damage from dry running.\nLearn more\nSpindleShield® Technology\nDeublin's patented SpindleShield® technology signals the machine that spindle contamination is imminent, avoiding costly downtime.\nLearn More\nHow We Can Help\nGrow your productivity with Deublin products, service kits, and technical support.\nInstallation\nField Repair\nCustom Solutions\nDistributor Locator\nInstallation\nFind the right guide to help you properly install your new rotary union.\nResource Library\nField Repair\nRebuild your end-of-life union with genuine Deublin service kits.\nContact us\nCustom Solutions\nCan't find a exactly what you want? Deublin can custom engineer a solution based on your specific requirements.\nContact us\nDistributor Locator\nFind a distributor in your area\nfind out\nWho we are\nLearn more about Deublin's 80 years of experience and global network.\nCareers\nJoin the Deublin team today!\nNews and Blog\nStay up-to-date on the latest news and upd"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "DEUBLIN ITALIANA",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 9,
+    "all_technologies": [
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "iubenda",
+        "vendor": "iubenda s.r.l",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Ads",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Adobe Flash",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "DEUBLIN ITALIANA",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 18:39"
+}

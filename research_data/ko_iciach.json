@@ -1,0 +1,31 @@
+{
+  "company_key": "ko_iciach",
+  "company_name": "Košiciach",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Gabriel Kovác",
+        "firstName": "Gabriel",
+        "lastName": "Kovác",
+        "jobTitle": "",
+        "email": "kovac@uvm.sk",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:10:32"
+}

@@ -1,0 +1,170 @@
+{
+  "company_key": "infocube s.r.o.",
+  "company_name": "INFOCUBE s.r.o.",
+  "domain": "www.infocube.sk",
+  "domain_url": "https://www.infocube.sk",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "INFOCUBE s.r.o.",
+    "opportunity_score": 23,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "M&E",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.65,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.65,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "26223856",
+    "official_name": "INFOCUBE s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "58",
+      "731",
+      "731",
+      "58"
+    ],
+    "ares_segments": [
+      "M&E"
+    ],
+    "ares_primary_segment": "M&E",
+    "ares_address": "Křivého 541/7, Královo Pole, 61200 Brno, Brno, Křivého, 61200",
+    "zi_done": true,
+    "employee_count": 17,
+    "revenue": 2796,
+    "zi_company_name": "Infocube sro",
+    "zi_domain": "www.infocube.sk",
+    "zi_city": "",
+    "zi_country": "Slovakia",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.infocube.sk",
+    "homepage": {
+      "title": "",
+      "description": "",
+      "text_excerpt": "Vytvárame dobré BI aplikácie\nna báze technológií SAP a open source\nDOBRÁ BI APLIKÁCIA\nDobrá BI aplikácia\nNašim poslaním je vytvárať dobré BI aplikácie na báze technológií SAP a open source. Čo presne si pod tým predstavujeme? Pre dobrú aplikáciu sú podľa nás kľúčové tieto vlastnosti:\nplné pokrytie informačných požiadaviek\nrobustnosť\nvýkonnosť\nflexibilita\ndizajn\nintegrovanosť\nbezpečnosť\nautomatizácia\nvytvorená s vášňou\nplné pokrytie informačných požiadaviek\nPoužíva váš biznis-tím vlastné indikátory merania úspešnosti predajcov, výkonnosti logistických procesov, mieru chorobnosti zamestnancov alebo poruchovosť vybavenia? Alebo potrebujete operatívne reporty zobrazujúce dáta z viacerých transakčných systémov? Nech sú požiadavky na informácie z vášho BI systému akékoľvek, ich uspokojenie je pri návrhu aplikácie vrcholnou prioritou. Nehľadáme dôvody, prečo sa to nedá, ale riešenie, ktorým to ide.\nrobustnosť\nNa ceste dát zo zdrojových systémov k užívateľovi BI aplikácie môže nastať mnoho neočakávaných situácií – výpadky systémov, sieťových komponentov, nekonzistencie v dátach, zlyhanie ľudského faktora atď. Pri návrhu aplikácie sa od počiatočných fáz zaoberáme analýzou a minimalizáciou týchto rizík. Vieme, že kľúčom k robustnosti systému je čistá architektúra a eliminácia vzájomných závislostí jednotlivých komponentov. Pri robustnom systéme nemusíte mať obavu, že drobná chyba v nepodstatných dátach spôsobí výpadok celej oblasti reportingu a zároveň máte istotu, že po oprave chyby sa systém sám uvedie do konzistentného stavu.\nvýkonnosť\nVýkonnosť aplikácie je absolútne kľúčová pre akceptáciu BI aplikácie užívateľom. Preto sú pre nás otázky výkonnosti v centre pozornosti pri všetkých rozhodnutiach o architektúre a jednotlivých detailoch. Aj keď dnešné technológie in-memory databáz odpustia nejeden hriech, my sme si zásady optimalizácie a dátovej hygieny priniesli ešte z čias, kedy záležalo na každom detaile. Naučili sme sa navrhnúť optimálny dátový model, pripravený na budúci rast objemu dát. V modeloch využívame overené metódy sémantického particioningu a riadenia životného cyklu dát.\nV srdci biznis logiky používame moderné programovacie techniky a prístupy, optimalizovaný prístup k dátam a push-down logiky do in-memory databázovej vrstvy. Spolu s aplikáciou vieme poskytnúť nástroje na meranie a monitoring výkonnosti v reálnom čase.\nflexibilita\nNajväčšia časť celkových nákladov BI-aplikácie (TCO) nepripadá na jej vývoj, ale je generovaná až v čase prevádzky, údržby a jej postupnými úpravami. Po úvodnom nasadení do prevádzky prináša život zmeny na dennej báze – nových užívateľov s novými požiadavkami, zmeny v biznis prostredí či v legislatíve. Aplikácia preto nesmie byť čiernou skrinkou, ale otvoreným systémom s dobre zdokumentovanými časťami. Jednotlivé komponenty navrhujeme tak, aby sa v čo najväčšej miere dali znovu použiť v inom kontexte – iných aplikáciách či procesoch. Už v rámci úvodného návrhu analyzujeme, ktoré časti biznis logiky budú pravdepodo"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.infocube.sk/services",
+      "text": "Služby |\nplné pokrytie informačných požiadaviek\nrobustnosť\nvýkonnosť\nflexibilita\ndizajn\nintegrovanosť\nbezpečnosť\nautomatizácia\nvytvorená s vášňou\nplné pokrytie informačných požiadaviek\nPoužíva váš biznis-tím vlastné indikátory merania úspešnosti predajcov, výkonnosti logistických procesov, mieru chorobnosti zamestnancov alebo poruchovosť vybavenia? Alebo potrebujete operatívne reporty zobrazujúce dáta z viacerých transakčných systémov? Nech sú požiadavky na informácie z vášho BI systému akékoľvek, ich uspokojenie je pri návrhu aplikácie vrcholnou prioritou. Nehľadáme dôvody, prečo sa to nedá, ale riešenie, ktorým to ide.\nrobustnosť\nNa ceste dát zo zdrojových systémov k užívateľovi BI aplikácie môže nastať mnoho neočakávaných situácií – výpadky systémov, sieťových komponentov, nekonzistencie v dátach, zlyhanie ľudského faktora atď. Pri návrhu aplikácie sa od počiatočných fáz zaoberáme analýzou a minimalizáciou týchto rizík. Vieme, že kľúčom k robustnosti systému je čistá architektúra a eliminácia vzájomných závislostí jednotlivých komponentov. Pri robustnom systéme nemusíte mať obavu, že drobná chyba v nepodstatných dátach spôsobí výpadok celej oblasti reportingu a zároveň máte istotu, že po oprave chyby sa systém sám uvedie do konzistentného stavu.\nvýkonnosť\nVýkonnosť aplikácie je absolútne kľúčová pre akceptáciu BI aplikácie užívateľom. Preto sú pre nás otázky výkonnosti v centre pozornosti pri všetkých rozhodnutiach o architektúre a jednotlivých detailoch. Aj keď dnešné technológie in-memory databáz odpustia nejeden hriech, my sme si zásady optimalizácie a dátovej hygieny priniesli ešte z čias, kedy záležalo na každom detaile. Naučili sme sa navrhnúť optimálny dátový model, pripravený na budúci rast objemu dát. V modeloch využívame overené metódy sémantického particioningu a riadenia životného cyklu dát.\nV srdci biznis logiky používame moderné programovacie techniky a prístupy, optimalizovaný prístup k dátam a push-down logiky do in-memory databázovej vrstvy. Spolu s aplikáciou vieme poskytnúť nástroje na meranie a monitoring výkonnosti v reálnom čase.\nflexibilita\nNajväčšia časť celkových nákladov BI-aplikácie (TCO) nepripadá na jej vývoj, ale je generovaná až v čase prevádzky, údržby a jej postupnými úpravami. Po úvodnom nasadení do prevádzky prináša život zmeny na dennej báze – nových užívateľov s novými požiadavkami, zmeny v biznis prostredí či v legislatíve. Aplikácia preto nesmie byť čiernou skrinkou, ale otvoreným systémom s dobre zdokumentovanými časťami. Jednotlivé komponenty navrhujeme tak, aby sa v čo najväčšej miere dali znovu použiť v inom kontexte – iných aplikáciách či procesoch. Už v rámci úvodného návrhu analyzujeme, ktoré časti biznis logiky budú pravdepodobne podliehať zmenám a do aplikácie zabudujeme možnosti ich customizácie. Avšak najdôležitejším faktorom pre budúcu udržateľnosť aplikácie ste vy – náš zákazník, vaši administrátori a užívatelia. Preto sa vašich ľudí snažíme zapojiť do spolurozhodovania od úvodnej analýzy až "
+    },
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "INFOCUBE s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 13,
+    "all_technologies": [
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "INFOCUBE s.r.o.",
+    "segment": "M&E",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 15:22"
+}

@@ -1,0 +1,133 @@
+{
+  "company_key": "roboauto_s_r_o",
+  "company_name": "Roboauto s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "Roboauto s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 13,
+    "all_technologies": [
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "PyTorch",
+        "vendor": "PyTorch",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "OpenCV",
+        "vendor": "OpenCV team",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Linux",
+        "vendor": "Linux Kernel Organization",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CMake",
+        "vendor": "Kitware Inc.",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Python",
+        "vendor": "Python Software Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "C++",
+        "vendor": "Standard C++ Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "NumPy",
+        "vendor": "NumPy developers",
+        "category": "Advanced Analytics and Data Science",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google (common)",
+        "vendor": "Google LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "JAKUB JŮZA",
+        "firstName": "JAKUB",
+        "lastName": "JŮZA",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:40:48",
+  "website_data": {
+    "success": true,
+    "domain": "https://roboauto.tech",
+    "homepage": {
+      "title": "Roboauto",
+      "description": "",
+      "text_excerpt": "Roboauto\nContact us\nTomorrow's Technologies Together\nSoftware partner for Hardware innovations.\nSoftware Development for Innovative Leaders\nTeleoperation\nDrive anything from anywhere.\nRead more\nCustom Development\nTailor-made solutions in C++ and Python.\nRead more\nAnti-collision system\nProtect your people and vehicles.\nRead more\nAutonomy\nMake anything driverless.\nRead more\nSensing & Perception\nSensing the world through software.\nRead more\nWe are ready to start from scratch or join your existing team.\nGet in touch\nprojects sucessfully delivered.\nhappy customers in 7 countries and counting.\nsoftware development experts.\nWe help you achieve your goals\nTo create flexible custom made solutions, we bring a well- established team of top-tier talent to the table.\nGrowing the Value ﻿via Customer Intimacy\nCreating close bonds and enduring partnerships with our customers are key to our approach.  We are not afraid to go the extra mile to achieve even better results for you.\nExpertise in Highly Competitive Fields\nWe specialize in high-tech and smart industries, navigating them with ease. Our repertoire includes cutting-edge software solutions tailor made to your needs.\nStrong Culture with Collective Knowledge\nWe use the combined knowledge of the whole company to deliver exceptional outcomes. Happy to share the know-how you've been missing on your innovative projects with you.\nMore about us\nWhat our customers say\n\"Our collaboration with Roboauto is invaluable to us. Their external experts provide top-notch support, significantly contributing to the success of our projects. They bring deep expertise and extensive experience, which are crucial for us. We greatly appreciate their professionalism, reliability, and ability to handle complex tasks efficiently. We are confident that their contributions will continue to be crucial to our future successes.\"\nPetr Hertl\nSenior Manager at Thermo Fisher Scientific\n\"The Roboauto team brought not only experience with modern technologies, but also new development methods, and a proactive approach and communication. Working with this company has made our product more powerful, more stable and our response to market demands faster.\"\nPetr Kellner\nChief Commercial Officer at Abbas\n\"We've been working with Roboauto from almost the very beginning. Together we have worked on a number of research projects and dealt with a number of challenges. Their approach is proactive. They are always looking for ways to deliver the solution they promised, but also go the extra mile.\"\nVeronika Valentová\nDirector of R&D and Knowledge Transfer at CDV\n\"Working with Roboauto has been an exceptional experience for us. Their expertise in developing teleoperation software, combined with their collaborative and friendly approach, has made them an invaluable partner. Together, we’ve successfully integrated their teleoperation technology into our vehicle systems and customer vehicles, creating seamless solutions.\"\nRakshith Kusumakar\nChief Technology Officer"
+    },
+    "about": {
+      "url": "https://roboauto.tech/about",
+      "text": "About us – Roboauto\nContact us\nHow it all started?\nsmall team, big ideas\nIn 2007, in the Czech-based software development company called\nArtin\n, a few people started to play with robots after work. They were so successful that they even won robotics competitions. After several years, this club grew so much that it became independent and in\nNovember 2017\na spin-off with the name\nRoboauto\nwas founded.\nFrom the beginning, Roboauto focused on the\ndevelopment and integration of technologies that are innovative\nand still very progressive. These technologies are offered to\nvarious industries\nsuch as mining, logistics, agriculture, aerospace, shipping, and others.\nHow it's going?\ntomorrow's technologies together\nSome things have stayed the same, but many have changed. We began with autonomous vehicles, but today, we do so much more!\nspecialize in software development for any hardware\n, with expertise in\nC++\nPython\n, and\nOur software runs on up to 20 different types of hardware across 9 industries, including RC models, cars, minibuses, delivery bots, trains, loaders, mining machines, security systems, semiconductors, and even microscopes. We’re passionate to work together on technologies that are shaping the future.\n„I like that\nour work pushes the boundaries of what’s known\nand what people think is possible.\nI really enjoy this because it\nattracts certain types of companies and people\n—those who are usually\ninteresting, curious, and genius-level smart\n. I find that our interactions are very open and our collaborations produce extraordinary results.“\nJakub Jůza,\nCEO\ngreat people and growing.\nsenior developers in C++ and Python.\nyears together.\nour strengths\nCustomer Intimacy\nDiving deep into our customers' industries, we go above and beyond to achieve outstanding results - on time and on budget.\nExpertise\nWe have many years of experience developing custom software solutions for highly competitive high-tech industries.\nFlexibility\nWe can quickly adapt our software to match any need, building on existing solutions without wasting time.\nFuture Technologies\nWe're confident working with future technologies turning today's challenges into tomorrow's solutions.\nMEET THE TEAM\nJakub Jůza\nCEO\nLinkedIn\n+420 775 352 504\nWrite me an E-mail\nJan Najvárek\nInvesting Co-founder\nLinkedIn\nTomáš Ondráček\nInvesting Co-founder\nLinkedIn\nOliver Held\nDelivery\nLinkedIn\n+420 605 594 432\nWrite me an E-mail\nAlice Drápal Audyová\nLinkedIn\n+420 778 088 434\nWrite me an E-mail\nJiří Kocman\nGTM lead\nWrite me an E-mail\nMilan Krčma\nSenior BDM\nLinkedIn\n+420 704 603 848\nWrite me an E-mail\nLucie Životská\nMarketing\nLinkedIn\n+420 704 886 662\nWrite me an E-mail"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://roboauto.tech/contact",
+      "text": "Contact – Roboauto\nContact us\nContact us\nor send us a gift...\nRoboauto s.r.o.\nIČ: 06629016 / DIČ: CZ06629016\n+420 775 352 504\ninfo@roboauto.tech\nAddress\nŠumavská 15\n602 00 Brno\nCzech Republic\nThe company is registered in the Register of Companies of the Regional Court in Brno, section C, entry 103290.\nSend us a message\n- Please select the option -\nCooperation\nCareer\nOther\nGDPR\nIsn’t the form enough? Feel free to use these contacts:\n+420 775 352 504\ninfo@roboauto.tech"
+    }
+  }
+}

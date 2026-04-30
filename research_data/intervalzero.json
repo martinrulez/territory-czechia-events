@@ -1,0 +1,302 @@
+{
+  "company_key": "intervalzero",
+  "company_name": "IntervalZero",
+  "domain": "www.intervalzero.com",
+  "domain_url": "https://www.intervalzero.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "IntervalZero",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 31,
+    "revenue": 6700,
+    "zi_company_name": "IntervalZero",
+    "zi_domain": "www.intervalzero.com",
+    "zi_city": "Waltham",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.intervalzero.com",
+    "homepage": {
+      "title": "PC-Based Real-Time Software for Industrial Control Systems",
+      "description": "RTX64 & MaxRT, PC-Based Real-Time Software for Industrial Control Systems",
+      "text_excerpt": "PC-Based Real-Time Software for Industrial Control Systems\nEnglish\nDeutsch\n简体中文\n繁體中文\nRequest Evaluation\nMaxRT wRTOS™ 1.0\nis now available!\nLearn More\nPC-Based Real-Time Software for Industrial Control Systems\nReal-time Software for PC-Based Industrial Control Systems\nTo prepare for the inevitable shift towards Cloud-connected and AI-enabled control systems, leading manufacturers are already adopting standard PC-based technologies. These technologies provide open, secure, IoT-ready, real-time development platforms, making them perfectly suited to meet the digital demands of Industry 4.0. IntervalZero’s real-time solutions are widely deployed in Industrial Automation, Defense, Automotive, Medical and many other markets.\nLearn More\nMaxRT, the new real-time solutions to address the next generation of Industrial Control Systems\nMaxRT introduces two distinct products to meet diverse deployment needs:\nMaxRT wRTOS™\n: The next generation of RTX64, delivering unparalleled real-time capabilities for Windows.\nMaxRT vRTOS\n: A real-time hypervisor solution compatible with MaxRT wRTOS\nthat can be deployed with a general-purpose operating system (GPOS) front-end like Windows or Linux, enhancing cybersecurity and flexibility.\nLearn More\nRTX64 Transforms Windows into the RTOS Platform for Building Industrial Control Systems\nIntervalZero’s RTX64 real-time software complements Windows for building next generation of Industrial Control Systems. Its symmetric multiprocessing (SMP) capabilities brings scalability to system designers and native 64 bits support complies with new market memory requirements. All Windows libraires, drivers and tools are available.\nRTX64 has been designed for embracing standards such as Windows, Visual Studio, TSN,  EtherCAT, OPC UA and more. It’s a guarantee for our customers to protect their investment and to be always ready to access to new technologies.\nLearn More\nStandards Protect the Machine Builder\nIntervalZero is committed to open standards and tools (Windows, Visual Studio, RTX64 RTOS, C++, EtherCAT,  TSN, OPC-UA)  which protects our customers’ investment and to IoT-readiness that ensure the machine builder can support any future cloud connectivity demands. The RTOS Platform serves as an integration environment. The modularity and customizability ease the burden of integrating multiple controllers.  Some forward-thinking machine builders are even consolidating multiple controllers onto a single PC.\nLearn More\nProduct links:\nMaxRT wRTOS\nMaxRT vRTOS\nRTX64\nRTX (32-bit)\nETS\nQuick links:\nCustomer Service\nOnline Product Help\nFAQs\nVideos\nCareers\nContact\n© IntervalZero 2026\nIntervalZero uses cookies to offer you a better browsing experience, analyze site traffic, and personalize content. See our Privacy Policy for more information. If you continue to use this website, you consent to the use of cookies by IntervalZero.\nPrivacy Policy"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "IntervalZero",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 36,
+    "all_technologies": [
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Network Solutions DNS",
+        "vendor": "Network Solutions, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Cloudflare Rocket Loader",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Jira Service Desk",
+        "vendor": "Atlassian",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Jira",
+        "vendor": "Atlassian",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Rackspace Email Hosting",
+        "vendor": "Rackspace US, Inc.",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "NetSuite",
+        "vendor": "Oracle Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Lead Forensics",
+        "vendor": "Lead Forensics",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gravity Forms",
+        "vendor": "Rocketgenius, Inc.",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare DNS",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.com",
+        "vendor": "Automattic Inc",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "WP Engine",
+        "vendor": "WPEngine, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google AdSense",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ClickDimensions",
+        "vendor": "Clickdimensions, LLC",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "IntervalZero",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Fabrice",
+        "last_name": "Boisset",
+        "title": "General Manager (EMEA)",
+        "email": "",
+        "phone": "",
+        "company": "IntervalZero",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 84.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 17:58"
+}

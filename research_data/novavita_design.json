@@ -1,0 +1,89 @@
+{
+  "company_key": "novavita design",
+  "company_name": "NOVAVITA DESIGN",
+  "domain": "",
+  "domain_url": "",
+  "events": "Designblok 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "NOVAVITA DESIGN",
+    "opportunity_score": 19,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.44,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.44,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "17211425",
+    "official_name": "NOVAVITA DESIGN s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "73110",
+      "71120",
+      "00",
+      "741",
+      "74200",
+      "7112",
+      "73110",
+      "74100",
+      "74200",
+      "00"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "třída Kpt. Jaroše 1936/19, Černá Pole, 60200 Brno, Brno, třída Kpt. Jaroše, 60200",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "IVANA LINDEROVÁ",
+        "firstName": "IVANA",
+        "lastName": "LINDEROVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DAGMAR ZVONÍČKOVÁ",
+        "firstName": "DAGMAR",
+        "lastName": "ZVONÍČKOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-23 15:49"
+}

@@ -1,0 +1,320 @@
+{
+  "company_key": "buildingsmart international",
+  "company_name": "buildingSMART International",
+  "domain": "www.buildingsmart.org",
+  "domain_url": "https://www.buildingsmart.org",
+  "events": "BIM DAY 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "buildingSMART International",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 16,
+    "revenue": 5369,
+    "zi_company_name": "buildingSMART International",
+    "zi_domain": "www.buildingsmart.org",
+    "zi_city": "Hemel Hempstead",
+    "zi_country": "United Kingdom",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.buildingsmart.org",
+    "homepage": {
+      "title": "buildingSMART International",
+      "description": "buildingSMART is the worldwide industry body driving the digital transformation of the built asset industry.",
+      "text_excerpt": "buildingSMART International\nSkip to content\nPorto Summit Event Review\nRead More\nFuture Events →\nbuildingSMART Standards and Services\nbuildingSMART Standards and Services\nDefine your exchange requirements and enhance interoperability\nService for sharing definitions for describing the built environment\nA set of standardized, digital descriptions of the built asset industry (ISO 16739)\nFree, online platform for validating IFC files\nStandard communication protocol for efficient issue management and coordination on BIM projects\nUser Case Management for documenting and managing BIM use cases\nAbout buildingSMART International\nAbout\nPurpose\nVision\nMission\nbuildingSMART is the worldwide industry body driving the digital transformation of the built asset industry. buildingSMART is committed to delivering improvement by the creation and adoption of open, international standards and solutions for infrastructure and buildings.\nLearn more\nExplore membership benefits\nA network of industry leaders\nDriving the digital transformation\nCreating standards and services\nImproving productivity and sustainability\nEngage with a global Community\nEducation\nStrategic projects\nDomains\nChapters\nEducation\nEmpower your future with buildingSMART International Professional Certification – the Global Standard in openBIM. Elevate your career with recognized expertise, gain international recognition, and join the forefront of the digital transformation in the built environment. Be in demand and stand out as a buildingSMART Certified Professional.\nLearn more\nFind a training provider\nStrategic projects\nStrategic Projects from buildingSMART International identify key areas of standards and services development that require funding and sponsorship in order to ensure the built environment can rely on open data standards and openBIM. These have been identified as part of the Strategic Roadmap and will ensure the industry can flourish as a result.\nLearn more\nBecome a Sponsor\nDomains\nDomains are open groups of industry specialists who collaborate to improve the built environment through the development of open solutions and standards. Domains focus on a specific area or context. Responding to demands from the industry regarding problems or opportunities to be addressed, domains initiate projects.\nLearn more\nChapters\nChapters are national membership organizations sharing the vision and goals of buildingSMART International. Chapters develop and promote the use of open data standards in their countries and support the local demand for openBIM.\nFind a Chapter\nExplore upcoming events\n2 events found.\nList of events in Photo View\nImplementers Assembly – Bagnoli Irpino, Italy\nSep\nImplementers Assembly – Bagnoli Irpino, Italy\nSeptember 9\nSeptember 10\nImplementers Assembly\nbuildingSMART International Summit – Tokyo 2026\nOct\nbuildingSMART International Summit – Tokyo 2026\nOctober 6\nOctober 8\nInternational Summit\nSubscribe to calendar\nGoogle Calendar\niCalendar\nOutlook 365\nOutlook Live\nExport .ics file\nE"
+    },
+    "about": {
+      "url": "https://www.buildingsmart.org/about",
+      "text": "About - buildingSMART International\nSkip to content\nAbout buildingSMART\nbuildingSMART is a global community of chapters, members, partners and sponsors led by the parent body, buildingSMART International. The buildingSMART community is committed to creating and developing open digital ways of working for built asset environment. buildingSMART standards help asset owners and the entire supply chain work more efficiently and collaboratively through the entire project and asset lifecycle.\nbuildingSMART is the worldwide authority driving the digital transformation of the built asset environment, through creation and adoption of open, international standards for infrastructure and buildings. buildingSMART provides the perfect opportunity to help industry visionaries transform the design, delivery and operation of tomorrow’s built assets. buildingSMART Is committed to driving change through the use of standards and the adoption of digital workflows.\nInternational open digital data-sharing standards are critical to this transformation, helping businesses – owners, architects, engineers, contractors and operators – become global industry leaders, while also mitigating risks, saving time, and reducing costs. buildingSMART is an open, neutral and international not-for-profit organisation.\nScroll To Top"
+    },
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "buildingSMART International",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 35,
+    "all_technologies": [
+      {
+        "product": "Cookieyes",
+        "vendor": "CookieYes",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "HubSpot Form Builder",
+        "vendor": "HubSpot, Inc",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cvent",
+        "vendor": "Cvent Inc.",
+        "category": "Event Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "QS/1",
+        "vendor": "RedSail Technologies, LLC",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Typeform",
+        "vendor": "Typeform S.L.",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Barracuda Email Security Gateway",
+        "vendor": "Barracuda Networks, Inc.",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Barracuda Networks",
+        "vendor": "Barracuda Networks, Inc.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Box",
+        "vendor": "Box, Inc.",
+        "category": "File Sharing",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "1&1 Hosting",
+        "vendor": "1&1 IONOS Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Clicky",
+        "vendor": "Roxr Software, Ltd",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "HubSpot",
+        "vendor": "HubSpot, Inc",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "buildingSMART International",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 2,
+    "contacts": [
+      {
+        "first_name": "Sue",
+        "last_name": "Chan",
+        "title": "Program Administrator & Certification Committee Professional",
+        "email": "sue.chan@buildingsmart.org",
+        "phone": "",
+        "company": "buildingSMART International",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 81.0
+      },
+      {
+        "first_name": "John",
+        "last_name": "Hammill",
+        "title": "Mark Baldwin BIM Consultant",
+        "email": "john.hammill@buildingsmart.org",
+        "phone": "",
+        "company": "buildingSMART International",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 78.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 3
+  },
+  "research_timestamp": "2026-04-23 16:05",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

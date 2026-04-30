@@ -1,0 +1,166 @@
+{
+  "company_key": "ninerocks games",
+  "company_name": "Ninerocks Games",
+  "domain": "www.ninerocksgames.com",
+  "domain_url": "https://www.ninerocksgames.com",
+  "events": "Game Access Conference '26",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Ninerocks Games",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 29,
+    "revenue": 3098,
+    "zi_company_name": "Nine Rocks Games",
+    "zi_domain": "www.ninerocksgames.com",
+    "zi_city": "Bratislava",
+    "zi_country": "Slovakia",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ninerocksgames.com",
+    "homepage": {
+      "title": "Nine Rocks Games",
+      "description": "Next-gen hunting game with vast open-world environments in the US and Europe, realistic firearms, hunting gear, and dozens of animals with realistic behavior.",
+      "text_excerpt": "Nine Rocks Games\nApril\t22, 2026\nPatch for the update 1.31 - Fitness bug fix\nRead More\nApril\t14, 2026\nPatch for build 0.0.1\nWay of the Hunter 2 receives a new patch (build version 0.0.1.188484) with fixes for frozen animal groups and other issues ahead of the first major update\nApril\t8, 2026\nCommunity feedback round #1\nCommunity feedback round is live until April 14 - share your thoughts on Turkeys and Mule deer.\nApril\t1, 2026\nThe Road to 1.0 for Way of the Hunter 2\nFrom new maps to multiplayer and gear — here’s what’s coming to Way of the Hunter 2 during Early Access.\nMarch\t31, 2026\nPatch for build 0.0.1\nPatch 0.0.1 is now live with fixes and improvements, and we’re also kicking off our first community feedback round.\nAll News\nBy using this website, you agree to use of cookies. We use cookies to provide you with a great experience and to help our website run efficiently.\nRead More\nI Agree\nDismiss"
+    },
+    "about": {
+      "url": "https://www.ninerocksgames.com/o-nas",
+      "text": "Nine Rocks Games\n404\nOops, this document is late to the party. Please, go back to the\nhomepage\nand check with his colleagues.\nBy using this website, you agree to use of cookies. We use cookies to provide you with a great experience and to help our website run efficiently.\nRead More\nI Agree\nDismiss"
+    },
+    "products": {
+      "url": "https://www.ninerocksgames.com/produkty",
+      "text": "undefined | Nine Rocks Games\nLoading…\nBy using this website, you agree to use of cookies. We use cookies to provide you with a great experience and to help our website run efficiently.\nRead More\nI Agree\nDismiss"
+    },
+    "contact_page": {
+      "url": "https://www.ninerocksgames.com/kontakt",
+      "text": "Nine Rocks Games\n404\nOops, this document is late to the party. Please, go back to the\nhomepage\nand check with his colleagues.\nBy using this website, you agree to use of cookies. We use cookies to provide you with a great experience and to help our website run efficiently.\nRead More\nI Agree\nDismiss"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Ninerocks Games",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 14,
+    "all_technologies": [
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Caronet",
+        "vendor": "Caronet",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Jira",
+        "vendor": "Atlassian",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Contentful",
+        "vendor": "Contentful GmbH",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Community SMS",
+        "vendor": "Community.com, Inc",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Atlassian",
+        "vendor": "Atlassian",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "PointDNS",
+        "vendor": "Cogneto.io",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Ninerocks Games",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 16:27"
+}

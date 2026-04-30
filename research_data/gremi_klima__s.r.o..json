@@ -1,0 +1,77 @@
+{
+  "company_key": "gremi klima, s.r.o.",
+  "company_name": "GreMi KLIMA, s.r.o.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "GreMi KLIMA, s.r.o.",
+    "opportunity_score": 27,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.84,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.84,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "07535694",
+    "official_name": "Odštěpný závod GreMi KLIMA, s.r.o.",
+    "legal_form": "421",
+    "nace_codes": [
+      "95310",
+      "711",
+      "33200",
+      "00",
+      "25530",
+      "331",
+      "4322",
+      "256",
+      "41000",
+      "00",
+      "2562",
+      "257",
+      "331",
+      "332",
+      "412",
+      "4322",
+      "452",
+      "711"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "J. A. Komenského 1386, 39901 Milevsko, Milevsko, J. A. Komenského, 39901",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "GreMi KLIMA, s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 14:33"
+}

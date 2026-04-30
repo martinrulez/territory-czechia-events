@@ -1,0 +1,81 @@
+{
+  "company_key": "schÜtz gmbh & co. kgaa",
+  "company_name": "SCHÜTZ GmbH & Co. KGaA",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SCHÜTZ GmbH & Co. KGaA",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "SCHÜTZ GmbH & Co. KGaA",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "John",
+        "last_name": "Forkin",
+        "title": "General Manager",
+        "email": "",
+        "phone": "",
+        "company": "Schütz",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Yogesh",
+        "last_name": "Shukla",
+        "title": "General Manager",
+        "email": "yogesh.shukla@schuetz.net",
+        "phone": "+91 87796 83016",
+        "company": "Schütz",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 95.0
+      },
+      {
+        "first_name": "Gianluigi",
+        "last_name": "Gualandris",
+        "title": "General Manager",
+        "email": "",
+        "phone": "",
+        "company": "Schütz",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 87.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 14:37"
+}

@@ -1,0 +1,71 @@
+{
+  "company_key": "r_o",
+  "company_name": "r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Slade Opheikens",
+        "firstName": "Slade",
+        "lastName": "Opheikens",
+        "jobTitle": "President",
+        "email": "sladeo@randoco.com",
+        "phone": "(801) 337-6324",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Steven Higgins",
+        "firstName": "Steven",
+        "lastName": "Higgins",
+        "jobTitle": "President",
+        "email": "shiggins@romfg.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Natalie Allen",
+        "firstName": "Natalie",
+        "lastName": "Allen",
+        "jobTitle": "President",
+        "email": "nataliea@randoco.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Bradley Thinnes",
+        "firstName": "Bradley",
+        "lastName": "Thinnes",
+        "jobTitle": "Chief Executive Officer",
+        "email": "brad_thinnes@whitesell.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Raymond Tom",
+        "firstName": "Raymond",
+        "lastName": "Tom",
+        "jobTitle": "Chief Operating Officer",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:16"
+}

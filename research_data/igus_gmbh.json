@@ -1,0 +1,386 @@
+{
+  "company_key": "igus gmbh",
+  "company_name": "igus GmbH",
+  "domain": "www.igus.com",
+  "domain_url": "https://www.igus.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "igus GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 4600,
+    "revenue": 1446806,
+    "zi_company_name": "igus",
+    "zi_domain": "www.igus.com",
+    "zi_city": "Koeln",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.igus.com",
+    "homepage": {
+      "title": "Cable carriers, polymer bearings, flexible cable, & linear slides",
+      "description": "Choose from a variety of plastic components, such as plain & linear bearings, cable carriers, continuous-flex cables, and automation products.",
+      "text_excerpt": "Cable carriers, polymer bearings, flexible cable, & linear slides\nHigh-Performance Polymer Solutions & Technologies\nReduce your downtime, increase service life & save cost for moving applications\ne-chain® Plastic Cable Carriers\ndrylin® Linear Bearings & Slides\niglide® Plastic Bearings & Bushings\nGantries, 7th Axis, Delta & Robot Arms\nchainflex® Flexible Cables & Hoses\ndrylin® Linear Actuators\nigubal® Self-Aligning Bearings\n3D Printing Service & Materials\ntriflex® Multi-Axis Carriers for Robotics\ndryspin® Lead Screws & Nuts\niglide® PRT Slewing Rings\nxiros® Ball Bearings & Rollers\nreadychain® Assembled Carriers\ndrylin® Electric Motors & Controllers\nreadycable® Cable Assemblies\nBrowse all Products\nResources\nCAD Library\nBrowse the CAD Library\nCatalogs\nBrowse all Catalogs\nConfigurators\nBrowse all Configurators\nEngineer's Toolbox\nBrowse the Engineer's Toolbox\nNews\ne-skin flat wins BI Award\nLearn More\nRobotics Marketplace\nBrowse RBTX\nACME In-House Production\nLearn More\nUpgrade During Shutdown\nLearn More\nServices\nCustom Parts Services\nLearn More\nInstallation & Inspection\nLearn More\nDigital Services\nLearn More\nYoung Engineers Support\nLearn More\nIndustries\nAutomation and Robotics\nCleanroom\nCranes\nFood and Packaging\nHeavy Duty\nMarine\nMedical Technology\nBrowse all Industries"
+    },
+    "about": {
+      "url": "https://www.igus.com/about-us",
+      "text": "About igus® | igus®\nAbout igus®\nCompany Overview\nigus SE & Co. KG\n, founded by Günter Blase on October 15, 1964, in a double garage in Cologne, Germany, develops and produces motion plastics. Initially a supplier of complex technical polymer components, igus introduced reinforced plastic cable carriers and injection-molded polymer bearings as core products by 1983 under the leadership of Frank Blase. These self-lubricating, high-performance polymers improve technology and reduce costs wherever things move, making igus the worldwide market leader in energy supplies, highly flexible cables, plain and linear bearings, and lead screw technology made of tribo-polymers.\nThe family-run company, based in Cologne, Germany, is represented in 35 countries and employs 4,600 people worldwide. In 2023, igus generated a turnover of €1.136 billion. Research in the industry's largest test laboratories constantly yields innovations and increased user security. With 234,000 parts available from stock and online service life calculations, igus has expanded by creating internal startups, such as ball bearings, robot drives, 3D printing, the\nRBTX platform\nfor Low-Cost Robotics, and intelligent \"smart plastics\" for Industry 4.0.\nNotably, the company invests significantly in environmental initiatives, including the \"chainge\" program for recycling used cable carriers and participating in an enterprise that produces oil from plastic waste. Today, igus is recognized for its innovative, functional, and cost-effective polymer solutions.\nMission Statement:\nImprove all types of motion with motion plastics while maintaining a carbon-neutral footprint and being the easiest company to work with.\nigus SE & Co. K\n- Global Headquarters\nFounded in 1964\nHeadquartered in Cologne, Germany\nLocations in 35 countries and partners in another 80 countries\n4,600+ employees worldwide\nigus® Inc. North American Headquarters\nFounded in 1985\nHeadquartered in Rumford, Rhode Island\n500+ employees in North America\nigus North America by the Numbers\n189,000 ft\ncorporate headquarters and distribution facility\n100,000 ft\ninjection molding facility\n55,000 ft\nlow-cost robotics campus\n8,100 ft\nenjoyneering center\nComplete inventory of over 28,000 different igus components\nISO 9001:2015 certified\nCorporate Culture\nOur solar system is at the heart of our culture. No, we're not talking about the planetary system here. The igus solar system is an organizational chart that reflects our thoughts and actions. In the middle is the customer, who is as important to us as the sun is to the earth, which provides light, heat and energy — just as the customer gives us wishes, incentives, money.\nOur colleagues and teams live and create around the customer, who take up their requirements and find the right solutions to their problems, often innovations. The success of our people then comes from the success of our customers. As a company, it is our job to provide our colleagues with the means and atmosphere in which they enjoy working.\nLearn More"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.igus.com/contact",
+      "text": "Contact our experts\nContact Us\nLooking to request a quote instead?  Click the button below.\nRequest a quote"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "igus GmbH",
+    "autodesk_products": [
+      "Autodesk AutoCAD"
+    ],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "Assemble",
+      "Autodesk",
+      "InVision",
+      "Mathematica"
+    ],
+    "total_technologies": 142,
+    "all_technologies": [
+      {
+        "product": "SAP Concur",
+        "vendor": "SAP SE",
+        "category": "Travel and Expense Management",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Salesforce Marketing Cloud",
+        "vendor": "Salesforce, Inc.",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Playwright",
+        "vendor": "Playwright",
+        "category": "Application Security Testing",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "ArgoCD",
+        "vendor": "ArgoCD",
+        "category": "Deployment",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Power BI",
+        "vendor": "Microsoft Corporation",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PostgreSQL",
+        "vendor": "The PostgreSQL Global Development Group",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Claude",
+        "vendor": "Anthropic PBC",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Avalara",
+        "vendor": "Avalara, Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Assemble",
+        "vendor": "Autodesk, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Circuit",
+        "vendor": "Circuit Routing Limited",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Grin",
+        "vendor": "Grin Technologies Inc",
+        "category": "Advocacy Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Persona",
+        "vendor": "Persona Identities Inc",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Google Search Console",
+        "vendor": "Google LLC",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Compose",
+        "vendor": "Casetext, Inc",
+        "category": "Legal Solutions",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Harness",
+        "vendor": "Harness Inc.",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Amazon",
+        "vendor": "Amazon.com, Inc.",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Lean Manufacturing",
+        "vendor": "Gemba Academy LLC",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WhatsApp",
+        "vendor": "WhatsApp",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Optio",
+        "vendor": "Bottomline Technologies (de), Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "MicroServices",
+        "vendor": "MicroServices",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Mathematica",
+        "vendor": "Wolfram",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Kanban",
+        "vendor": "",
+        "category": "Project Management",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "iSales",
+        "vendor": "i-SmartSolutions",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Fortinet",
+        "vendor": "Fortinet, Inc.",
+        "category": "Threat Intelligence",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "NTENT Hosting",
+        "vendor": "NTENT Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Blitzen",
+        "vendor": "Blitzen",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Autodesk",
+        "vendor": "Autodesk, Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Adobe Creative Suite",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Zingfit",
+        "vendor": "ZINGFIT LLC",
+        "category": "Appointment Scheduling",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "macOS",
+        "vendor": "Apple Inc.",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "igus GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 18:02"
+}

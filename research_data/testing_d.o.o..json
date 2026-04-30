@@ -1,0 +1,77 @@
+{
+  "company_key": "testing d.o.o.",
+  "company_name": "TESTING d.o.o.",
+  "domain": "www.testing-mb.si",
+  "domain_url": "https://www.testing-mb.si",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "TESTING d.o.o.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 16,
+    "revenue": 5364,
+    "zi_company_name": "Testing doo",
+    "zi_domain": "www.testing-mb.si",
+    "zi_city": "Maribor",
+    "zi_country": "Slovenia",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.testing-mb.si",
+    "homepage": {
+      "title": "Testing d.o.o.   - Varno in strokovno",
+      "description": "Testing d.o.o., Varnost pri delu, varstvo pred poÅ¾arom, kontrolni pregledi, preizkus delovne opreme, teoretiÄna in praktiÄna usposabljanja, izjava o varnosti z oceno tveganja, izdelava matiÄnih in kontrolnih knjig.",
+      "text_excerpt": "Testing d.o.o.   - Varno in strokovno\nUpdate cookies preferences\nDomov\nO nas\nPodroÄja delovanja\nNekatere storitve\nKontakt\nUporabne povezave\nVARNO DELOVNO OKOLJE\nZDRAVI IN ZADOVOLJNI ZAPOSLENI\nUSPEÅ NO PODJETJE\nPrevious\nNext\nO nas\nTesting d.o.o. je\ndruÅ¾insko podjetje, ki je bilo ustanovljeno ter zaÄelo s poslovanjem daljnega leta 1989. V tistem Äasu smo bili med prvimi zasebniki na podroÄju varnosti in zdravja pri delu. Skozi vsa ta leta, smo se razvijali in Å¡irili poslovanje ter sledili vsem spremembam in novostim na podroÄjih varnosti in zdravja pri delu ter varstva pred poÅ¾arom. Prav zaradi dolgoletnih izkuÅ¡enj in stalnega strokovnega usposabljanja Vam lahko ponudimo kvalitetne storitve.\nNaÅ¡e prednosti so predvsem: predanost poslu in druÅ¾ini, prilagodljivost poslovnim partnerjem, osebno poznanstvo s poslovnimi partnerji, fleksibilnost glede delovnega Äasa in dela, razmiÅ¡ljanje na dolgi rok, stabilno delovno okolje in kultura, hitro sprejemanje odloÄitev, majhen kolektiv - poslediÄno nizki stroÅ¡ki dela in ugodne cene, zanesljivost in ponos.\nVEÄ KOT 35 LET IZKUÅ ENJ !\nSTROKOVNOST !\nKVALITETA !\nIZVEDBA V DOGOVORJENEM ÄASU\nDOSEGLJIVOST 24 ur / 7 dni\nPRILAGODLJIVOST in PODPORA STRANKAM !\nPodroÄja delovanja\nVar\nnost\npri delu\nBrezplaÄno svetovanje iz podroÄja varnosti pri delu pred in po inÅ¡pekcijskih pregledih.\nOpravljanje vseh nalog strokovnega delavca za varnost in zdravje pri delu na podlagi 29. Älena Zakona o varnosti in zdravju pri delu (Ur. list RS Å¡t. 43/11).\nPriprava in izvedba usposabljanja za varno delo iz podroÄja varnosti pri delu.\nTeoretiÄna in praktiÄna usposabljanja iz dodatnih znanj (upravljavci viliÄarjev, dviÅ¾nih koÅ¡ar / platform, teÅ¾ke gradbene mehanizacije, kamionskih hidravliÄnih nakladalnikov, s tal vodenih dvigal, itd.).\nIzvajanje prvih in obdobnih preiskav Å¡kodljivosti v delovnem okolju.\nIzvajanje prvih, obdobnih in kontrolnih pregledov in preizkusov delovne opreme (kovinsko obdelovalni, lesno obdelovalni, predelovalni, proizvodni, prehrambeni stroji / naprave / linije, viliÄarji, dviÅ¾ne koÅ¡are / platforme, teÅ¾ka gradbena mehanizacija, kamionski hidravliÄni nakladalniki, avtodvigala, s tal vodena dvigala, ter vsi ostali stroji / naprave na mehaniziran pogon.\nIzdelava strokovnih podlag za izjavo o varnosti z oceno tveganja ter revizije le teh.\nIzdelava matiÄnih in kontrolnih knjig vzdrÅ¾evanja (za dvigala, viliÄarje, hidravliÄne nakladalnike, gradbeno mehanizacija, avtomobilska servisna dvigala, dviÅ¾ne platforme, itd.).\nUrejanje dokumentacije (rednikov) za podroÄje varnosti pri delu.\nVarstvo\npred poÅ¾arom\nBrezplaÄno svetovanje iz podroÄja varstva pred poÅ¾arom pred in po inÅ¡pekcijskih pregledih.\nOpravljanje vseh nalog pooblaÅ¡Äene osebe za izvajanje ukrepov varstva pred poÅ¾arom na podlagi 11. Älena Pravilnika o usposabljanju in pooblastilih za izvajanje ukrepov varstva pred poÅ¾arom (Ur. list RS Å¡t. 32/11 in 61/11 â popr.).\nOrganiziranje in izvajanje usposabljanja iz podroÄja"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "TESTING d.o.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Aleks",
+        "last_name": "Čakš",
+        "title": "Development & Assembly Engineer",
+        "email": "",
+        "phone": "",
+        "company": "Testing doo",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 83.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 16:43"
+}

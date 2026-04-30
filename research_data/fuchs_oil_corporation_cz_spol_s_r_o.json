@@ -1,0 +1,48 @@
+{
+  "company_key": "fuchs_oil_corporation_cz_spol_s_r_o",
+  "company_name": "FUCHS OIL CORPORATION (CZ), spol. s r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PETRA VARGOVÁ",
+        "firstName": "PETRA",
+        "lastName": "VARGOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JOSEF JÍROVEC",
+        "firstName": "JOSEF",
+        "lastName": "JÍROVEC",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:09",
+  "website_data": {
+    "success": false,
+    "domain": "https://www.fuchs-oil.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

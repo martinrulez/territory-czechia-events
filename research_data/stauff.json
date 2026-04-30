@@ -1,0 +1,379 @@
+{
+  "company_key": "stauff",
+  "company_name": "Stauff",
+  "domain": "www.stauff.com",
+  "domain_url": "https://www.stauff.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Stauff",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 1500,
+    "revenue": 407357,
+    "zi_company_name": "STAUFF",
+    "zi_domain": "www.stauff.com",
+    "zi_city": "Werdohl",
+    "zi_country": "Germany",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.stauff.com",
+    "homepage": {
+      "title": "Premium manufacturer for hydraulics and fluid technology | STAUFF",
+      "description": "Get to know STAUFF! Order your hydraulic components today in our online shop or let us advise you.",
+      "text_excerpt": "Premium manufacturer for hydraulics and fluid technology | STAUFF\nWe have a STAUFF sales unit in your region.\nWould you like to visit stauff.co.uk to see local offers and services?\nNo, stay.\nYes, change.\nSTAUFF Solutions for Data Centre Infrastructure\nComprehensive solutions for fluid conveyance, fastening, connection and infrastructure in data centres\nLearn more\nHydraulic and Fluid Power Port-to-Port Solutions\nPremium Manufacturer of Original STAUFF Hydraulic and Fluid Power Components from own Design and Production, Ready-to-Install Pipe, Tube and Hose Assemblies and Value-Added Services\nSTAUFF Hydraulic Accessories\nSTAUFF Filtration Technology\nSTAUFF Valves\nSTAUFF Hose Connectors\nSTAUFF Quick Couplings\nSTAUFF Clamps\nSTAUFF Flanges\nSTAUFF Connect\nSTAUFF Test\nSTAUFF Diagtronics\nSTAUFF Hose Assemblies\nSTAUFF Manipulated Pipe and Tube Assemblies\nSTAUFF Hose\nComponents\nComprehensive product range with more than 50,000 standard components and numerous special solutions\nLearn more\nSystems\nCustom-designed and ready-to-install hydraulic pipe, tube and hose assemblies from port to port\nLearn more\nServices\nNumerous additional services that create added value for the customers\nLearn more\nSTAUFF in 90 Seconds\nBig Ideas Made Possible by Components from STAUFF\nYour Advantages with STAUFF\nQuality Manufacturer\nDevelopment and manufacturing in Germany\nPremium Offer\nProducts in uniformly high, coordinated quality\nProject Partner\nExperience and know-how from planning to implementation\nGlobal Network\nAvailability and service in all industrial regions\nNews from STAUFF\nLatest product news, business and company news as well as other general news from the STAUFF Group\nSTAUFF Solutions for Data Center Infrastructure\nNew application page on the use of selected STAUFF products in data centers\nProduct News\n15.04.2026\nOur Objective: Manageable Hydraulics\nInterview with Jörg Sturm in O+P Fluidtechnik\nPublished Articles\n12.04.2026\nWe have once again been certified as an Outstanding Training Company for 2026\nFor the 14th time in a row\nCompany News\n10.04.2026\nFurther News from STAUFF\nUpcoming Events\nMeet and experience STAUFF frequently at some of the world's most important industry trade fairs, exhibitions and other events\nOthers / Miscellaneous\nMon 20.04.2026\n-                         Thu 23.04.2026\nData Center World\nUnited States\nThe Top Destination for Innovation, Education, and Industry Networking\nLearn more\nAgricultural\nMon 27.04.2026\n-                         Fri 01.05.2026\nAgrishow\nBrazil\nAgrishow is a showcase of the newest trends and technology innovations to agribusiness.\nLearn more\nOthers / Miscellaneous\nMon 15.06.2026\n-                         Fri 19.06.2026\nEUROSATORY 2026\nFrance\nEUROSATORY brings together more than 100,000 professionals working with D&S and managing crisis situ...\nLearn more\nAgricultural\nForestry\nMaintenance\nThu 18.06.2026\n-                         Sun 21.06.2026\nRoyal Highland Show 2026\nUnited Kingdom\nOne of the UK's biggest and definitely Scot"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.stauff.com/kontakt",
+      "text": "Online-Kontaktformular | STAUFF\nWir haben eine STAUFF Vertriebseinheit in Ihrer Region.\nMöchten Sie stauff.co.uk besuchen, um lokale Angebote und Dienstleistungen zu sehen?\nNein, bleiben.\nJa, wechseln.\nOnline-Kontaktformular\nOnline-Kontaktformular\nPer Online-Kontaktformular können Sie schnell und einfach eine Nachricht an STAUFF übermitteln\nWeiteres aus dem Hilfe-Center\nSelf-Service\nWarenrücksendungen und Serviceanfragen oder mehr über den Shop in FAQs und Ratgebern - Ihr Online We...\nErfahren Sie mehr\nStandorte in Deutschland\nVollständige Kontaktdaten der STAUFF Unternehmensstandorte in Deutschland\nErfahren Sie mehr\nStandorte weltweit\nSTAUFF auf der ganzen Welt entdecken.\nErfahren Sie mehr\nLive-Chat\nKlären Sie Fragen gemeinsam mit einem qualifizierten und erfahrenen Chat-Agenten in Echtzeit\nJetzt Live-Chat starten\nEdit\nMenu\nClose\nReset\nCheck\nSpinner\nFilters\nCart\nChat"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Stauff",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [
+      "Assemble",
+      "InVision"
+    ],
+    "total_technologies": 55,
+    "all_technologies": [
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "ventiv",
+        "vendor": "Ventiv Technology Australia PTY Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Assemble",
+        "vendor": "Autodesk, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "P2 Energy Solutions",
+        "vendor": "P2 Energy Solutions",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "New Relic",
+        "vendor": "New Relic, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Gupy",
+        "vendor": "Gupy",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Teamwork",
+        "vendor": "Teamwork.com, Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Excel",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "CKEditor",
+        "vendor": "CKSource sp. z.o.o. sp.k.",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "eSSential",
+        "vendor": "eLogic Learning LLC",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Bing Universal Event Tracking",
+        "vendor": "Microsoft Corporation",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft Azure DNS",
+        "vendor": "Microsoft Corporation",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Sched",
+        "vendor": "SCHED LLC",
+        "category": "Event Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Packer",
+        "vendor": "HashiCorp, Inc.",
+        "category": "Containerization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "SAP ERP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Hosting",
+        "vendor": "Microsoft Corporation",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "PayPal",
+        "vendor": "PayPal Holdings, Inc.",
+        "category": "Payment Processing",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Amazon Web Hosting",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "GoDaddy SSL Certificates",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Bing Ads",
+        "vendor": "Microsoft Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Ideal",
+        "vendor": "O5 Systems Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Genero",
+        "vendor": "Four Js",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "accurate",
+        "vendor": "Accurate Background",
+        "category": "Pre-Employment Assessment",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "edito",
+        "vendor": "edito",
+        "category": "Web Content Management Systems",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "NTENT Hosting",
+        "vendor": "NTENT Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "SAP Basis",
+        "vendor": "SAP SE",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Azure",
+        "vendor": "Microsoft Corporation",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Nickelled",
+        "vendor": "Nickelled Ltd",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Fusebill",
+        "vendor": "Fusebill Inc.",
+        "category": "Recurring Billing",
+        "categoryParent": "Accounting and Finance"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Stauff",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 16:51"
+}

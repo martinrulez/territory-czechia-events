@@ -1,0 +1,31 @@
+{
+  "company_key": "gleeds_esk_republika",
+  "company_name": "GLEEDS ČESKÁ REPUBLIKA",
+  "domain": "",
+  "events": "BIM DAY 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "VLADIMÍR BÍLÝ",
+        "firstName": "VLADIMÍR",
+        "lastName": "BÍLÝ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:19"
+}

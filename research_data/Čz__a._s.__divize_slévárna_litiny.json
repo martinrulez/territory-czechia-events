@@ -1,0 +1,140 @@
+{
+  "company_key": "Čz, a. s., divize slévárna litiny",
+  "company_name": "ČZ, a. s., Divize Slévárna litiny",
+  "domain": "www.czas.cz",
+  "domain_url": "https://www.czas.cz",
+  "events": "Czech Foundry Association Members",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ČZ, a. s., Divize Slévárna litiny",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 16,
+    "revenue": 610,
+    "zi_company_name": "CZ",
+    "zi_domain": "www.czas.cz",
+    "zi_city": "Prague",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.czas.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "ČZ, a. s., Divize Slévárna litiny",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 2,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ČZ, a. s., Divize Slévárna litiny",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Nils",
+        "last_name": "Brejaart",
+        "title": "Managing Director CZ A. S. Division Turbo",
+        "email": "nbrejaart@czas.cz",
+        "phone": "+420 383 342 596",
+        "company": "CZ",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 99.0
+      },
+      {
+        "first_name": "Ing",
+        "last_name": "Papez",
+        "title": "Director, Commercial",
+        "email": "premysl.papez@czas.cz",
+        "phone": "+420 602 107 941",
+        "company": "CZ",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Richard",
+        "last_name": "Kriz",
+        "title": "Project Manager",
+        "email": "richard.kriz@czas.cz",
+        "phone": "+420 383 342 645",
+        "company": "CZ",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 94.0
+      },
+      {
+        "first_name": "Pavel",
+        "last_name": "Procházka",
+        "title": "Manager, Financial & Controlling Department",
+        "email": "pavel.prochazka@czas.cz",
+        "phone": "",
+        "company": "CZ",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Lukas",
+        "last_name": "Soukup",
+        "title": "Manager, Quality Department",
+        "email": "lukas.soukup@czas.cz",
+        "phone": "+420 383 342 667",
+        "company": "CZ",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 99.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 18:59"
+}

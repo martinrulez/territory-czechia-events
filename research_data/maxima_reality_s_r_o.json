@@ -1,0 +1,314 @@
+{
+  "company_key": "maxima_reality_s_r_o",
+  "company_name": "MAXIMA REALITY, s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": true,
+    "company": "MAXIMA REALITY, s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 41,
+    "all_technologies": [
+      {
+        "product": "Cookie Script",
+        "vendor": "Objectis Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Places",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "GreenSock",
+        "vendor": "GreenSock",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Funnelytics",
+        "vendor": "Funnelytics, Inc",
+        "category": "Marketing Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "jsDelivr",
+        "vendor": "ProspectOne Inc",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Embedly",
+        "vendor": "Embedly",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Pixel",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Facebook Signal",
+        "vendor": "Facebook, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Leaflet",
+        "vendor": "LeafletJS",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Facebook Workplace",
+        "vendor": "Facebook, Inc.",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Facebook Web Custom Audiences",
+        "vendor": "Facebook, Inc.",
+        "category": "Retargeting",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Facebook SDK",
+        "vendor": "Facebook, Inc.",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Smartsupp",
+        "vendor": "Smartsupp.com, s.r.o.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "HENDRIK MEYER",
+        "firstName": "HENDRIK",
+        "lastName": "MEYER",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "VLADIMÍR ZUZÁK",
+        "firstName": "VLADIMÍR",
+        "lastName": "ZUZÁK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:18:29",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.maxima.cz",
+    "homepage": {
+      "title": "MAXIMA REALITY",
+      "description": "Česká realitní kancelář. Prodej nemovitostí bez provize. Prodej realit v celé ČR. ✅ 26 let na trhu ✅ 60 000+ klientů 🧡",
+      "text_excerpt": "MAXIMA REALITY\nŠlo to jako po drátkách.\nByt prodali za skvělou cenu a všechno zařídili. Netrvalo to ani měsíc. Příště zase s Maximou.\nMarek Střihavka\nPraha 8, Kobylisy\nProdej bytu\nŠlo to jako po drátkách. Prodali do měsíce a všechno zařídili. Člověk neprodává nemovitost každý den a kdo to zažil ví, jak je to náročné. Kdybych někdy opakoval, určitě jen s Maximou. :-)\nMarek Střihavka\nPraha 8, Kobylisy - prodej bytu\nZískejte nejlepší možnou cenu za vaši nemovitost\nVyřešíme všechny\nprávní formality\nMáme vlastní právníky. Připravíme smlouvy, odstraníme vady, zajistíme vklad do katastru.\nPostarali se o kompletní právní stránku celé transakce. Jejich důslednost a preciznost byla obrovskou oporou. Hlídali všechny termíny, aby nedošlo k žádné chybě.\nPavlína Richterová\nPraha 6, Dejvice - prodej bytu\nBezplatně\noceníme\nvaši nemovitost\nZcela zdarma. Bez závazků\nPotřebovala jsem přesný odhad ceny domu. V Maximě tomu opravdu rozumí a věnovali se mi. Zkoušela jsem i online kalkulačky, ale výsledky nedávaly smysl.\nJaroslava Pokorná\nPraha 10, Záběhlice - prodej domu\nProdáme\nvaši nemovitost za nejvyšší možnou cenu\nŽádné háčky. Za nemovitost dostanete maximum.\nParáda. Byt se podařilo prodat za výbornou cenu. Cítil jsem plné nasazení makléře i právníka od začátku až do zdárného konce.\nKarel Strouhal\nPraha 5, Smíchov - prodej bytu\nZa měsíc a kousek máte prodáno\nKupce průměrně najdeme do 48 dní. Bez žádných starostí na vaší straně.\nKupovali jsme větší byt. Peníze z prodeje starého bytu jsme potřebovali včas. Paní makléřka nám celou transakci pomohla načasovat a my prodali včas za výbornou cenu.\nRadka Nývltová\nPraha 10, Malešice - prodej bytu\nUšetříte peníze na provizi, neplatíte ji\nNaši provizi vždy platí kupující nad rámec domluvené prodejní ceny.\nZa dům jsem dostal plnou částku. Provizi platil kupující nad rámec domluvené ceny. Navíc se podařilo prodat za víc, než byl můj původní požadavek.\nLukáš Pulkert\nMladá Boleslav - prodej domu\nZískejte nejlepší možnou cenu za vaši nemovitost\nVyřešíme všechny právní formality\nMáme vlastní právní oddělení. Připravíme všechny smlouvy, odstraníme právní vady a zajistíme vklad do katastru.\nNezávazně oceníme vaši nemovitost\nZcela zdarma. Bez závazků.\nProdáme vaši nemovitost za nejvyšší možnou cenu\nŽádné háčky a budoucí snižování cen. Co naceníme, to prodáme.\nZa měsíc a kousek máte prodáno\nKupce průměrně najdeme do 48 dní. Bez žádných starostí na vaší straně.\nUšetříte peníze na provizi\nNaši provizi vždy platí kupující nad rámec domluvené prodejní ceny.\nZasloužíte si péči nejlepších makléřů\nNaší náborovou certifikací projde průměrně jeden ze sta. O vaši nemovitost se postarají jen ti nejlepší. Funguje nám to už 26 let.\nPoznejte naše makléře\nZasloužíte si péči nejlepších makléřů\nNaší náborovou certifikací projde průměrně jeden ze sta. O vaši nemovitost se postarají jen ti nejlepší. Funguje nám to už 26 let.\nO nás\nPoslechněte si naše klienty\nZajímají mě další reference\nStěhování do většího\nManželé Hovorkovi\nStěhování do většího\nStěhování"
+    },
+    "about": {
+      "url": "https://www.maxima.cz/o-nas",
+      "text": "Otevíráme dveře k novým začátkům | MAXIMA REALITY\nZnáte nás z médií\nProdáváme a pronajímáme po celé České republice\nDěláme\nodhad ceny\nzdarma\nOdhadneme cenu vaši nemovitosti. Zdarma. Naše odhady na míru zohleduňují aktuální situaci na trhu.\nPotřebovala jsem přesný odhad ceny domu. V Maximě tomu opravdu rozumí a věnovali se mi. Zkoušela jsem i online kalkulačky, ale výsledky nedávaly smysl.\nJaroslava Pokorná\nPraha 10, Záběhlice - prodej bytu\nPostaráme se o\nprodej\nPostaráme se o vaši nemovitost i v oblasti prodeje. Navýšíme její cenu o 10-15 % a prodáme ji 2x rychleji.\nParáda. Byt se podařilo prodat za výbornou cenu. Cítil jsem plné nasazení makléře i právníka od začátku až do zdárného konce.\nKarel Strouhal\nPraha 5, Smíchov - prodej bytu\nNajdeme vám\nsprávné nájemníky\nVšechny nájemce předem prověřujeme. Váš majetek chrání smlouva o pronájmu a naši provizi platí nájemník.\nNejen, že našli skvělé nájemce, ale také připravili všechny smlouvy a další formality. Měl jsem to bez starostí.\nMichal Voříšek\nPraha 3 - pronájem bytu\nŠlo to jako po drátkách.\nByt prodali za skvělou cenu a všechno zařídili. Netrvalo to ani měsíc. Příště zase s Maximou.\nMarek Střihavka\nPraha 8, Kobylisy\nProdej bytu\nPoslechněte si naše klienty\nZajímají mě další reference\nStěhování do většího\nManželé Hovorkovi\nStěhování do většího\nStěhování do menšího\nmanželé Modří\nStěhování do menšího\nStěhování do většího\npan Slouka\nStěhování do většího\nStěhování do většího\nmanželé Kučabovi\nStěhování do většího\nVyrovnání po rozvodu\npaní Plesarová\nVyrovnání po rozvodu\nStěhování do většího\nmanželé Hovorkovi\nStěhování do většího\nVyrovnání po rozvodu\npaní Nyklová\nVyrovnání po rozvodu"
+    },
+    "products": {
+      "url": "https://www.maxima.cz/sluzby",
+      "text": "MAXIMA REALITY\nŠlo to jako po drátkách.\nByt prodali za skvělou cenu a všechno zařídili. Netrvalo to ani měsíc. Příště zase s Maximou.\nMarek Střihavka\nPraha 8, Kobylisy\nProdej bytu\nŠlo to jako po drátkách. Prodali do měsíce a všechno zařídili. Člověk neprodává nemovitost každý den a kdo to zažil ví, jak je to náročné. Kdybych někdy opakoval, určitě jen s Maximou. :-)\nMarek Střihavka\nPraha 8, Kobylisy - prodej bytu\nZískejte nejlepší možnou cenu za vaši nemovitost\nVyřešíme všechny\nprávní formality\nMáme vlastní právníky. Připravíme smlouvy, odstraníme vady, zajistíme vklad do katastru.\nPostarali se o kompletní právní stránku celé transakce. Jejich důslednost a preciznost byla obrovskou oporou. Hlídali všechny termíny, aby nedošlo k žádné chybě.\nPavlína Richterová\nPraha 6, Dejvice - prodej bytu\nBezplatně\noceníme\nvaši nemovitost\nZcela zdarma. Bez závazků\nPotřebovala jsem přesný odhad ceny domu. V Maximě tomu opravdu rozumí a věnovali se mi. Zkoušela jsem i online kalkulačky, ale výsledky nedávaly smysl.\nJaroslava Pokorná\nPraha 10, Záběhlice - prodej domu\nProdáme\nvaši nemovitost za nejvyšší možnou cenu\nŽádné háčky. Za nemovitost dostanete maximum.\nParáda. Byt se podařilo prodat za výbornou cenu. Cítil jsem plné nasazení makléře i právníka od začátku až do zdárného konce.\nKarel Strouhal\nPraha 5, Smíchov - prodej bytu\nZa měsíc a kousek máte prodáno\nKupce průměrně najdeme do 48 dní. Bez žádných starostí na vaší straně.\nKupovali jsme větší byt. Peníze z prodeje starého bytu jsme potřebovali včas. Paní makléřka nám celou transakci pomohla načasovat a my prodali včas za výbornou cenu.\nRadka Nývltová\nPraha 10, Malešice - prodej bytu\nUšetříte peníze na provizi, neplatíte ji\nNaši provizi vždy platí kupující nad rámec domluvené prodejní ceny.\nZa dům jsem dostal plnou částku. Provizi platil kupující nad rámec domluvené ceny. Navíc se podařilo prodat za víc, než byl můj původní požadavek.\nLukáš Pulkert\nMladá Boleslav - prodej domu\nZískejte nejlepší možnou cenu za vaši nemovitost\nVyřešíme všechny právní formality\nMáme vlastní právní oddělení. Připravíme všechny smlouvy, odstraníme právní vady a zajistíme vklad do katastru.\nNezávazně oceníme vaši nemovitost\nZcela zdarma. Bez závazků.\nProdáme vaši nemovitost za nejvyšší možnou cenu\nŽádné háčky a budoucí snižování cen. Co naceníme, to prodáme.\nZa měsíc a kousek máte prodáno\nKupce průměrně najdeme do 48 dní. Bez žádných starostí na vaší straně.\nUšetříte peníze na provizi\nNaši provizi vždy platí kupující nad rámec domluvené prodejní ceny.\nZasloužíte si péči nejlepších makléřů\nNaší náborovou certifikací projde průměrně jeden ze sta. O vaši nemovitost se postarají jen ti nejlepší. Funguje nám to už 26 let.\nPoznejte naše makléře\nZasloužíte si péči nejlepších makléřů\nNaší náborovou certifikací projde průměrně jeden ze sta. O vaši nemovitost se postarají jen ti nejlepší. Funguje nám to už 26 let.\nO nás\nPoslechněte si naše klienty\nZajímají mě další reference\nStěhování do většího\nManželé Hovorkovi\nStěhování do většího\nStěhování"
+    },
+    "contact_page": {
+      "url": "https://www.maxima.cz/kontakt",
+      "text": "Kontakt | MAXIMA REALITY\n800 111 555\nVolejte každý den\nod 9:00 do 18:00 hodin\ninfo@maxima.cz\nPokud potřebujete pomoc hned, zavolejte nám. Jinak nám klidně nechte email a my se vám co nejdříve ozveme.\nStavte se u nás\nMAXIMA REALITY s.r.o.\nRevoluční 655/1\nPraha 1 - Staré Město\n110 00\nMáme otevřeno\nPo-Čt od 8:30 do 18:00\nPátek od 8:30 do 17:00\nvstup z pasáže vedle OD Kotva, 3. patro\nKontaktujte naše realitní specialisty\nJsou připraveni vám pomoci\nMáme specialisty po celé ČR\nMAXIMA REALITY\nMAXIMA REALITY je česká realitní kancelář, která poskytuje kompletní služby při prodeji a pronájmu nemovitostí.\nZa 30 let své existence pomohla Maxima Reality více než 67 000 klientům. Jejím majitelem je od roku 2020 Vladimír Zuzák a EHS, pod jejich vedením se společnost profiluje jako realitní kancelář pro řešení životních situací. Maxima se dlouhodobě soustředí na vývoj inovativních služeb v oblasti prodeje a pronájmu nemovitostí, které zvedají úroveň českého realitního trhu.Zároveň klientům poskytuje výjimečně solidní zázemí, kde se každé nemovitosti věnuje profesionální tým sestavený z právníků, realitních a inzertních specialistů, designérů, grafiků a fotografů, finančních poradců a techniků.\nChci odhad tržní ceny zdarma\nodhad zpracujeme vždy zdarma\nzjistíme aktuální tržní cenu\nvoláme vám obratem\nZískat odhad zdarma\nChci prodat nemovitost\nprodáte 2x rychleji\nmůžeme navýšit prodejní cenu o 10 %\nnaši provizi platí kupující\nZačít s prodejem\nChci informace ze světa realit\nodpovědi na vaše nejčastější dotazy\nv realitách jsme od roku 1999\npraktické tipy pro prodej i pronájem\nNačerpat informace\nNechte nám na sebe kontakt\nZanechte nám své kontaktní údaje a my se vám co nejdříve ozveme a probereme vaši situaci. Nezávazně, zadarmo a přátelsky.\nJméno a příjmení\nTelefon\nE-mail\nZpráva\nChci získat nejzajímavější nabídky a novinky z realitního trhu.\nKliknutím na tlačítko „Odeslat referenci“ vyjadřuji souhlas se zpracováním Osobních údajů. Pravidla zpracování jsou k dispozici zde.\nDěkujeme! Vaše"
+    }
+  }
+}

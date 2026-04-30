@@ -1,0 +1,97 @@
+{
+  "company_key": "texim_s_r_o",
+  "company_name": "TEXIM s.r.o.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "TEXIM s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 3,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ZDENĚK CEJNAR",
+        "firstName": "ZDENĚK",
+        "lastName": "CEJNAR",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "RENATA CEJNAROVÁ",
+        "firstName": "RENATA",
+        "lastName": "CEJNAROVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ZDENĚK CEJNAR",
+        "firstName": "ZDENĚK",
+        "lastName": "CEJNAR",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JAN CEJNAR",
+        "firstName": "JAN",
+        "lastName": "CEJNAR",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:56",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.texim.cz",
+    "homepage": {
+      "title": "Texim - výroba těsnění, prodej zahradního nábytku",
+      "description": "Texim - výroba těsnění, prodej zahradního nábytku",
+      "text_excerpt": "Texim - výroba těsnění, prodej zahradního nábytku\nVáš dodavatel těsnění a zahradního nábytku...\nTexim - výroba těsnění, prodej zahradního nábytku\nE-SHOP\nVODO, TOPO, HOBBY\ntěsnění do oken a dveří\nzahradní hadice a program\nsprchové hlavice a hadice\nvodo - topo - hobby\nvstoupit\nZAHRADNÍ\nNÁBYTEK\nteakový nábytek\nnábytek z eukalyptu\nnábytek z akácie\nnábytek z umělého ratanu\nvstoupit\nVÝROBA\nTĚSNĚNÍ\nbezazbestové desky\nucpávkové šňůry\ntěsnící materiály\nzakázková výroba\nvstoupit\nPŮJČOVNA\nGRILŮ\n8 typů grilů\ngrily na kýtu, sele i kuřata\nmožnost půjčit i zahradní nábytek\nnutná rezervace předem\nvýhodné ceny\nvstoupit"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

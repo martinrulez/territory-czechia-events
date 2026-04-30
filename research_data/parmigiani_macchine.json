@@ -1,0 +1,215 @@
+{
+  "company_key": "parmigiani macchine",
+  "company_name": "PARMIGIANI MACCHINE",
+  "domain": "www.parmigiani.net",
+  "domain_url": "https://www.parmigiani.net",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "PARMIGIANI MACCHINE",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 17,
+    "revenue": 6190,
+    "zi_company_name": "Parmigiani Macchine",
+    "zi_domain": "www.parmigiani.net",
+    "zi_city": "Cremona",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.parmigiani.net",
+    "homepage": {
+      "title": "Parmigiani | Costruzione di macchine per la deformazione dei metalli a Cremona",
+      "description": "",
+      "text_excerpt": "Parmigiani | Costruzione di macchine per la deformazione dei metalli a Cremona\nSkip to main content\nFull Screen Video\nParmigiani:\nPlate Bending Rolls,\nSection Bending Machines,\nDishing and Flanging Machines\nParmigiani:\nPlate Bending Rolls,\nSection Bending Machines,\nDishing and Flanging Machines\nA CENTURY OF EXCELLENCE AND INNOVATION\nFor close to a century, Parmigiani has been the true fabricator’s choice, designing and manufacturing high-performance dishing and flanging equipment, plate rolls and section bending machines in Cremona, Italy.\nThree generations have worked through the decades for the best customer satisfaction, applying the most advanced manufacturing technology in order to improve our end-user quality and productivity.\nUNRIVALLED CNC CONTROLS\nThe NC and CNC controls developed by our in-house software engineers have no equal on the market. Parmigiani offers the widest CNC range to match every application and budget. From our entry-level DIGIMATIC® to our revolutionary STRADIVARI®, you control the entire machine with the touch of a finger.\nAccessible and easy to use regardless of the operator’s skill level.\nA CENTURY OF EXCELLENCE AND INNOVATION\nFor close to a century, Parmigiani has been the true fabricator’s choice, designing and manufacturing high-performance dishing and flanging equipment, plate rolls and section bending machines in Cremona, Italy.\nThree generations have worked through the decades for the best customer satisfaction, applying the most advanced manufacturing technology in order to improve our end-user quality and productivity.\nUNRIVALLED CNC CONTROLS\nThe NC and CNC controls developed by our in-house software engineers have no equal on the market. Parmigiani offers the widest CNC range to match every application and budget. From our entry-level DIGIMATIC® to our revolutionary STRADIVARI®, you control the entire machine with the touch of a finger.\nAccessible and easy to use regardless of the operator’s skill level.\nVBH\nAdvanced 4-roll Plate Bending Rolls\nPlate thickness from 1 up to 300 mm\nRolls length from 300 up to 8.000 mm\nThe VBH is the best machine for both cylindrical and conical bending.\nThe main features of our VBH rolls are the greater bottom roller pinching force — for short flat ends and optimum pre-bending\nand its higher drive torque (for single-pass process) to boost productivity.\nA winning combination for those looking for performance of the highest level.\nVBH\nAdvanced 4-roll Plate Bending Rolls\nPlate thickness from 1 up to 300 mm\nRolls length from 300 up to 8.000 mm\nThe VBH is the best machine for both cylindrical and conical bending.\nThe main features of our VBH rolls are the greater bottom roller pinching force — for short flat ends and optimum pre-bending\nand its higher drive torque (for single-pass process) to boost productivity.\nA winning combination for those looking for performance of the highest level.\nContact us\nDiscover more\nPCO\n3-roll Variable Axis Plate Bending Rolls\nPlate thickness from 6 u"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "PARMIGIANI MACCHINE",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 16,
+    "all_technologies": [
+      {
+        "product": "SCADA",
+        "vendor": "Inductive Automation, LLC",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "UIkit",
+        "vendor": "Uikit",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "RequireJS",
+        "vendor": "RequireJS",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Sophos Email Gateway",
+        "vendor": "Sophos Ltd",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Adobe Muse",
+        "vendor": "Adobe Inc.",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "PARMIGIANI MACCHINE",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Tomas",
+        "last_name": "Valenta",
+        "title": "Export Manager",
+        "email": "",
+        "phone": "",
+        "company": "Parmigiani Macchine",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Carlo",
+        "last_name": "Verni",
+        "title": "Responsabile Magazzino E Verniciatura",
+        "email": "",
+        "phone": "",
+        "company": "Parmigiani Macchine",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 82.0
+      },
+      {
+        "first_name": "Davide",
+        "last_name": "Ronda",
+        "title": "Pianificazione Di Produzione E Logistica",
+        "email": "",
+        "phone": "",
+        "company": "Parmigiani Macchine",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": true,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 17:12",
+  "tech_signals": {
+    "website_scan": {
+      "autodesk": [
+        "forma"
+      ],
+      "competitor": [],
+      "generic_cad": []
+    }
+  }
+}

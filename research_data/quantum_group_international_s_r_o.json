@@ -1,0 +1,41 @@
+{
+  "company_key": "quantum_group_international_s_r_o",
+  "company_name": "Quantum Group International, s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ALEŠ ZEMAN",
+        "firstName": "ALEŠ",
+        "lastName": "ZEMAN",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ANDREA ZEMANOVÁ",
+        "firstName": "ANDREA",
+        "lastName": "ZEMANOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:40:29"
+}

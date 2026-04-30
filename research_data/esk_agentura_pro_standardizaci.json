@@ -1,0 +1,30 @@
+{
+  "company_key": "esk_agentura_pro_standardizaci",
+  "company_name": "Česká agentura pro standardizaci",
+  "domain": "",
+  "events": "BIM DAY 2026",
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Petr Stiegler",
+        "firstName": "Petr",
+        "lastName": "Stiegler",
+        "jobTitle": "Vedoucí Atestačního Střediska",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:43:24"
+}

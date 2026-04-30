@@ -1,0 +1,51 @@
+{
+  "company_key": "easypark_czechia_s_r_o",
+  "company_name": "EasyPark Czechia s.r.o.",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "CAMERON DENIS CLAYTON",
+        "firstName": "CAMERON DENIS",
+        "lastName": "CLAYTON",
+        "jobTitle": "Předseda rady jednatelů, jednatel",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "CARL MARTIN SANDSTRÖM",
+        "firstName": "CARL MARTIN",
+        "lastName": "SANDSTRÖM",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "DANIEL UNGAR",
+        "firstName": "DANIEL",
+        "lastName": "UNGAR",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:08:43"
+}

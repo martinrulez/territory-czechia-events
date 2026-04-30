@@ -1,0 +1,51 @@
+{
+  "company_key": "spr_va_eleznic",
+  "company_name": "Správa železnic",
+  "domain": "",
+  "events": "BIM DAY 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "PAVEL FRITSCHE",
+        "firstName": "PAVEL",
+        "lastName": "FRITSCHE",
+        "jobTitle": "místopředseda ZO OSŽ",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "EVA MÝTINOVÁ",
+        "firstName": "EVA",
+        "lastName": "MÝTINOVÁ",
+        "jobTitle": "hospodářka ZO OSŽ",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MIROSLAV HAŠEK",
+        "firstName": "MIROSLAV",
+        "lastName": "HAŠEK",
+        "jobTitle": "Předseda",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:42"
+}

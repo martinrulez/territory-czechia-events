@@ -1,0 +1,192 @@
+{
+  "company_key": "gatum group",
+  "company_name": "Gatum Group",
+  "domain": "www.gatum.cz",
+  "domain_url": "https://www.gatum.cz",
+  "events": "URBIS Smart Cities 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Gatum Group",
+    "opportunity_score": 19,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "AEC",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.44,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.44,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "04153499",
+    "official_name": "Gatum Group s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "461",
+      "70200",
+      "82100",
+      "46900",
+      "68310",
+      "461",
+      "46900",
+      "68310",
+      "702",
+      "821"
+    ],
+    "ares_segments": [
+      "AEC"
+    ],
+    "ares_primary_segment": "AEC",
+    "ares_address": "Italská 2581/67, Vinohrady, 12000 Praha 2, Praha, Italská, 12000",
+    "zi_done": true,
+    "employee_count": 15,
+    "revenue": 975,
+    "zi_company_name": "Gatum",
+    "zi_domain": "www.gatum.cz",
+    "zi_city": "",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.gatum.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Gatum Group",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 7,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Gatum Group",
+    "segment": "AEC",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Pavel",
+        "last_name": "Kuka",
+        "title": "Manager, Digital Transformation, Security & Resilience",
+        "email": "pavel.kuka@gatum.cz",
+        "phone": "",
+        "company": "Gatum",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Barbora",
+        "last_name": "Ebringerova",
+        "title": "Consultant",
+        "email": "barbora.ebringerova@gatum.cz",
+        "phone": "",
+        "company": "Gatum",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Robin",
+        "last_name": "Havelka",
+        "title": "Junior Konzultant",
+        "email": "robin.havelka@gatum.cz",
+        "phone": "",
+        "company": "Gatum",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 94.0
+      },
+      {
+        "first_name": "Libor",
+        "last_name": "Koch",
+        "title": "ICT Enterprise Architekt",
+        "email": "",
+        "phone": "",
+        "company": "Gatum",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 92.0
+      },
+      {
+        "first_name": "Tomas",
+        "last_name": "Patocka",
+        "title": "Manazer",
+        "email": "tomas.patocka@gatum.cz",
+        "phone": "",
+        "company": "Gatum",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 92.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 15:49"
+}

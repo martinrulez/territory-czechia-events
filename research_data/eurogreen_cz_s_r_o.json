@@ -1,0 +1,61 @@
+{
+  "company_key": "eurogreen_cz_s_r_o",
+  "company_name": "Eurogreen CZ s.r.o.",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "TOMÁŠ ŠTĚPAŘ",
+        "firstName": "TOMÁŠ",
+        "lastName": "ŠTĚPAŘ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ONDŘEJ ŠAFRÁNEK",
+        "firstName": "ONDŘEJ",
+        "lastName": "ŠAFRÁNEK",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "FRANTIŠEK KOPECKÝ",
+        "firstName": "FRANTIŠEK",
+        "lastName": "KOPECKÝ",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JITKA EISMANN",
+        "firstName": "JITKA",
+        "lastName": "EISMANN",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:08:52"
+}

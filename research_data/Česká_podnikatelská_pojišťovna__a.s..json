@@ -1,0 +1,60 @@
+{
+  "company_key": "Česká podnikatelská pojišťovna, a.s.",
+  "company_name": "Česká podnikatelská pojišťovna, a.s.",
+  "domain": "",
+  "domain_url": "",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Česká podnikatelská pojišťovna, a.s.",
+    "opportunity_score": 12,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "63998530",
+    "official_name": "Česká podnikatelská pojišťovna, a.s., Vienna Insurance Group",
+    "legal_form": "121",
+    "nace_codes": [
+      "662",
+      "65120",
+      "65120",
+      "662"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Pobřežní 665/23, Karlín, 18600 Praha 8, Praha, Pobřežní, 18600",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "Česká podnikatelská pojišťovna, a.s.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 19:09"
+}

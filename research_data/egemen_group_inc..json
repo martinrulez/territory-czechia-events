@@ -1,0 +1,103 @@
+{
+  "company_key": "egemen group inc.",
+  "company_name": "EGEMEN GROUP Inc.",
+  "domain": "",
+  "domain_url": "",
+  "events": "",
+  "event_count": 1,
+  "lead_class": "",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "EGEMEN GROUP Inc.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    }
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "EGEMEN GROUP Inc.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 5,
+    "contacts": [
+      {
+        "first_name": "Ahmet",
+        "last_name": "Melikşah",
+        "title": "Control Engineer",
+        "email": "",
+        "phone": "",
+        "company": "Egemen Group",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 86.0
+      },
+      {
+        "first_name": "Can",
+        "last_name": "Karan",
+        "title": "Civil Engineer",
+        "email": "",
+        "phone": "",
+        "company": "Egemen Group",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 87.0
+      },
+      {
+        "first_name": "Sinan",
+        "last_name": "İzsüren",
+        "title": "Mechanical Engineer",
+        "email": "",
+        "phone": "",
+        "company": "Egemen Group",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Ibrahim",
+        "last_name": "Ilhani",
+        "title": "Technical Support Specialist",
+        "email": "",
+        "phone": "",
+        "company": "Egemen Group",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 88.0
+      },
+      {
+        "first_name": "Sümeyye",
+        "last_name": "Gürsoy",
+        "title": "Interior Designer",
+        "email": "",
+        "phone": "",
+        "company": "Egemen Group",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:37"
+}

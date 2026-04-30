@@ -1,0 +1,193 @@
+{
+  "company_key": "telematica italia srl",
+  "company_name": "TELEMATICA ITALIA SRL",
+  "domain": "www.telematicaitalia.it",
+  "domain_url": "https://www.telematicaitalia.it",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "TELEMATICA ITALIA SRL",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 84,
+    "revenue": 16141,
+    "zi_company_name": "Telematica Italia",
+    "zi_domain": "www.telematicaitalia.it",
+    "zi_city": "Terni",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.telematicaitalia.it",
+    "homepage": {
+      "title": "Telematica Italia - Agevolazioni alle imprese - servizi camerali - visure camerali - visure conservatoria - finanziamenti a fondo perduto - finanziamenti alle imprese - gare d'appalto - bandi di gara pubblici - bandi e gare d'appalto - aggiudicazioni gare d'appalto",
+      "description": "Telematica Italia è consulenza e informazione per le imprese. Banche dati professionali e servizi specialistici di consulenza aziendale, legale, finanziaria e fiscale",
+      "text_excerpt": "Telematica Italia - Agevolazioni alle imprese - servizi camerali - visure camerali - visure conservatoria - finanziamenti a fondo perduto - finanziamenti alle imprese - gare d'appalto - bandi di gara pubblici - bandi e gare d'appalto - aggiudicazioni gare d'appalto\nENG\n+39 0744.392201\nINVEST IN ITALY\nADVISORY & STRATEGIC CONSULTING\nTelematica Italia your ideal partner to EXPAND in Italy\nEnter\nUNA NAVE E' SEMPRE AL SICURO SULLA TERRA,\nMA NON E' PER QUELLO CHE E' STATA COSTRUITA\nALBERT EINSTEIN\nLA FORTUNA E' CIO' CHE CAPITA QUANDO\nLA PREPARAZIONE INCONTRA L'OPPORTUNITA'\nLEONARDO DA VINCI\nI DETTAGLI FANNO LA PERFEZIONE\nE LA PERFEZIONE NON E' UN DETTAGLIO\nLEONARDO DA VINCI\nInformazioni, banche dati, redazioni interne.\nSoftware proprietario per l’acquisizione, trasmissione, elaborazione e condivisione dei dati.\nSpecializzazione delle competenze e divisione delle risorse in team tematici complementari.\nCapillare presenza territoriale di sedi e consulenti ed efficaci processi di comunicazione a distanza.\nSONO QUESTI I FATTORI CHE, UNITI ALL’ESPERIENZA DI OLTRE UN VENTENNIO, CI CONSENTONO DI OFFRIRE AD OGNI IMPRESA UNA\nCONSULENZA SPECIALISTICA DI QUALITÀ.\nCreazione e sviluppo d'impresa\nMonitoriamo, analizziamo e gestiamo\nogni forma di contributo pubblico che possa\nagevolare gli investimenti delle imprese\nitaliane in beni materiali e immateriali o i loro\nprogetti di investimento per l'innovazione, il\nmiglioramento di prodotti e processi,\nl'acquisizione e il consolidamento di know how, il\ntrasferimento tecnologico, la transizione digitale,\nl'efficientamento energetico e l'ambiente, la\nformazione, l'internazionalizzazione.\nChi siamo\nI Nostri Numeri\nDa anni siamo stabilmente tra le\nprime cinque\nsocietà indipendenti del settore:\nOltre\n8 MLN\ndi fatturato (2023)\n6 SEDI OPERATIVE\n(Terni, Milano, Torino, Pisa, Napoli, Lecce)\n5 SEDI COMMERCIALI\n(Milano, Torino, Livorno, Napoli, Lecce\nPiù di\ndipendenti e oltre 100 addetti in totale\nOltre\n25.000\nconsulenze erogate (2.000 nel 2023)\nPiù di\n42.000\nnews pubblicate\nI nostri casi di successo\nB2B Partner Agevolazioni\nOggi nessun business può sopravvivere se distante dalle necessità di chi acquista prodotti/servizi.\nPer dare valore aggiunto al tuo prodotto, diventa nostro partner: con il tuo prodotto potrai offrire ai tuoi clienti anche i servizi di consulenza di Agevolazioni alle imprese.\nDiventa B2B Partner\nAnni di esperienza\nDipendenti e collaboratori\nClienti Attivi\nRichieste ricevute ed evase\nFINANZA AGEVOLATA\nPROGETTAZIONE EUROPEA\nPartecipazione alle iniziative promosse dall’Ue per sostenere lo sviluppo economico delle aziende.\nINDUSTRIA 4.0 E TRANSIZIONE 5.0\nAiuto alle attività imprenditoriali nella transizione per promuovere innovazione e competitività tecnologica.\nINTERNAZIONALIZZAZIONE\nAssistenza alle imprese che vogliono avviare rapporti commerciali con Paesi esteri o che già operano sui mercati internazionali.\nCREAZIONE E AVVIO D'IMPRESA\nGuida alle aziende nella fase iniziale, offrendo supporto per trasformare id"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "TELEMATICA ITALIA SRL",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 20,
+    "all_technologies": [
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Modernizr",
+        "vendor": "Modernizr",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ASP.NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Bullhorn",
+        "vendor": "Bullhorn, Inc",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Elasticsearch",
+        "vendor": "Elastic",
+        "category": "Enterprise Search",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Oracle",
+        "vendor": "Oracle Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "TELEMATICA ITALIA SRL",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 16:44"
+}

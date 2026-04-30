@@ -1,0 +1,62 @@
+{
+  "company_key": "pilana_group_a_s",
+  "company_name": "PILANA Group a.s.",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MARTIN SVOZIL",
+        "firstName": "MARTIN",
+        "lastName": "SVOZIL",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MICHAL ČUDRNÁK",
+        "firstName": "MICHAL",
+        "lastName": "ČUDRNÁK",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "MICHAEL POLSTER",
+        "firstName": "MICHAEL",
+        "lastName": "POLSTER",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:39:54",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.pilanasb.cz",
+    "homepage": {
+      "title": "Pilana e-shop B2B | Pilana Group",
+      "description": "",
+      "text_excerpt": "Pilana e-shop B2B | Pilana Group\nPILANA SB a.s\nJsme česká strojírenská firma se sídlem ve Zborovicích.\nVyrábíme pilové kotouče, pilové pásy a listy a těla pilových kotoučů.\nHomepage\nProdukty\nPilové kotouče na dřevo\nPilové kotouče na dřevo vyrábíme od ø80 mm do ø2000 mm a jsou dodávány vyrovnané, vytužené, rozvedené a naostřené.\nTěla pil pro výrobu pilových kotoučů\nTěla pilových kotoučů jsou polotovary určené pro finální výrobu řezných kotoučů na dřevo, kámen, stavební materiály, kov a ostatní. Námi vyráběná těla pilových kotoučů jsou určena pro osazení řeznými diamanty, segmenty nebo SK plátky (slinutými karbidy).\nPilové listy do rámových pil (Katry)\nPilové listy jsou určeny pro primární zpracování dřeva a  jsou vyráběny z materiálu 75Cr1 (DIN 1.2003) a 74NiCr2 (DIN 1.2703).\nMaximální rozměry pilového listu je 2100 mm délka a 180 mm šířka. Všechny strojní pilové listy jsou dodávány rovnané a vytužené.\nPilové pásy kmenové pro zpracování dřeva (šířka 80 mm - 260 mm)\nKmenové pilové pásy pro primární zpracování  dřeva  jso jsou vyráběny z materiálů 80NiCr11, C75, Böhler Strip a jiné.  Svařené pásy dodáváme v provedení se stelitovaným zubem nebo jen vyzubené. Samozřejmostí  je vyrovnání sváru a válcování pásu.\n###icon\n###message\nZavřít Popup"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

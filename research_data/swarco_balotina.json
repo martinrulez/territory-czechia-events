@@ -1,0 +1,410 @@
+{
+  "company_key": "swarco_balotina",
+  "company_name": "SWARCO - balotina",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": true,
+    "company": "SWARCO - balotina",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autodesk AutoCAD Mechanical",
+      "Autodesk Inventor",
+      "Autodesk Revit",
+      "Autodesk Vault",
+      "Vault Payment Solutions"
+    ],
+    "competitor_products": [
+      "Dassault Systemes"
+    ],
+    "cad_bim_other": [
+      "Autodesk",
+      "InVision"
+    ],
+    "total_technologies": 178,
+    "all_technologies": [
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Idexx Cornerstone",
+        "vendor": "IDEXX",
+        "category": "Medical Practice Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Operative",
+        "vendor": "SintecMedia Ltd.",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Privlege Access Management",
+        "vendor": "ARCON",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Route",
+        "vendor": "Route App Inc.",
+        "category": "Inventory and Order Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Como",
+        "vendor": "Como",
+        "category": "Loyalty and Gamification",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Cloudbees Jenkins",
+        "vendor": "Cloudbees, Inc",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Better",
+        "vendor": "Better Mobile Security Inc.",
+        "category": "Enterprise Mobility Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Spring Boot",
+        "vendor": "Pivotal Software, Inc.",
+        "category": "Other DevOps Software",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "SAP Business Planning and Consolidation (BPC)",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Protobuf",
+        "vendor": "Google LLC",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Jenkins",
+        "vendor": "Jenkins",
+        "category": "Continuous Integration",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Timesheets",
+        "vendor": "TimeClockOnline.com, Inc.",
+        "category": "Time Tracking",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft Dynamics 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft Dynamics GP",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Zemax",
+        "vendor": "Zemax",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Power BI",
+        "vendor": "Microsoft Corporation",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SAP Enterprise Performance Management",
+        "vendor": "SAP SE",
+        "category": "Corporate Performance Management",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Postman",
+        "vendor": "Postman, Inc.",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "React",
+        "vendor": "Meta Open Source",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Vault Payment Solutions",
+        "vendor": "Vault Payment Solutions Group Pty Ltd",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Knapp",
+        "vendor": "Knapp",
+        "category": "Warehouse Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Design Manager",
+        "vendor": "Design Manager",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Craft",
+        "vendor": "Craft.io Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "ventiv",
+        "vendor": "Ventiv Technology Australia PTY Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "cyber security",
+        "vendor": "Primenet Limited",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "EBI",
+        "vendor": "Employment Background Investigations, Inc",
+        "category": "Pre-Employment Assessment",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Persona",
+        "vendor": "Persona Identities Inc",
+        "category": "Identity and Access Management",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Welcome",
+        "vendor": "NewsCred",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Decipher",
+        "vendor": "Innovation Asset Group, Inc.",
+        "category": "Legal Solutions",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Compose",
+        "vendor": "Casetext, Inc",
+        "category": "Legal Solutions",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Xray",
+        "vendor": "Xpand IT",
+        "category": "Testing and QA",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Amazon",
+        "vendor": "Amazon.com, Inc.",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "ArgoCD",
+        "vendor": "ArgoCD",
+        "category": "Deployment",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Ideal",
+        "vendor": "O5 Systems Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "verloop",
+        "vendor": "Magiclane, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "TypeScript",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "TestRail",
+        "vendor": "Gurock",
+        "category": "Testing and QA",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "SelectLeaders",
+        "vendor": "SelectLeaders",
+        "category": "Job Boards",
+        "categoryParent": "Human Resources"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "Michael Schuch",
+        "firstName": "Michael",
+        "lastName": "Schuch",
+        "jobTitle": "Chief Executive Officer",
+        "email": "michael.schuch@swarco.com",
+        "phone": "+43 4352 2458770",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Carl McCollum",
+        "firstName": "Carl",
+        "lastName": "McCollum",
+        "jobTitle": "President & Division Vice President, Region America & RMS",
+        "email": "carl.mccollum@swarco.com",
+        "phone": "(760) 734-5017",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Luigi Giacalone",
+        "firstName": "Luigi",
+        "lastName": "Giacalone",
+        "jobTitle": "President of the Board and Managing Director",
+        "email": "luigi.giacalone@swarco.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Manuela Fürst",
+        "firstName": "Manuela",
+        "lastName": "Fürst",
+        "jobTitle": "Group Chief Financial Officer, Swarco Ag",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      },
+      {
+        "fullName": "Dan Antonescu",
+        "firstName": "Dan",
+        "lastName": "Antonescu",
+        "jobTitle": "Head Chief Technology Officer, Technology",
+        "email": "dan.antonescu@swarco.com",
+        "phone": "",
+        "linkedin": "",
+        "source": "zoominfo"
+      }
+    ],
+    "total_found": 5,
+    "sources_used": [
+      "zoominfo"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:41:26",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.swarco.com",
+    "homepage": {
+      "title": "SWARCO | The Better Way. Every Day.",
+      "description": "SWARCO is a globally active corporation with more than 50 years of experience. We offer a wide range of solutions, services and products in the areas of mobility management and road safety.",
+      "text_excerpt": "SWARCO | The Better Way. Every Day.\nSkip to main content\nSWARCO High Performance Markings\nPerformance you can see.\nPerformance you can trust.\nPerformance you can rely on!\nread more\nSWARCO Glass Beads\nSmall Beads. Great Effect.\nread more\nSAFER ROADS. GREENER FUTURE.\nANJA'S ADVENTURES VIDEO SERIES\nLOOK BEHIND MODERN MOBILITY\nwatch episodes\nSWARCO Bike Lane Markings\nThe safest way into the future.\ndiscover more\nThe Better Way.\nEvery Day.\nWHO WE ARE\nSWARCO\nThe Better Way. Every Day.\nSINCE 1969.\nYou encounter us every day on the roads of our planet. Our products, systems, services and turnkey solutions make travel safe and convenient for people on the move. In the spirit of SWARCO founder Manfred Swarovski we pride ourselves in being agile, innovative, reliable and trustworthy; and will not hesitate to go the extra mile for you.\nread more\nThe traffic technology group SWARCO – headquartered in Wattens near Innsbruck, Austria – has an international network of production facilities, offices, and partners across the globe. Together, we offer one of the most complete solution portfolios for road marking, signage, urban traffic management, parking, highway and tunnel management, public transport, and street lighting. We connect vehicles with the road infrastructure, help in setting up charging infrastructure to boost electro-mobility, and offer modular and holistic solutions that support tomorrow’s mobility and make our communities more livable.\nSWARCO’s 5,300 transportation experts look forward to collaborating with you\nto craft a solution to meet your individual requirements.\nWhat can we do for you today?\nWHAT WE DO\nOur Expertise\nWe offer Road Marking Systems, Intelligent Transportation Systems and Industrial\nSolutions. Browse below and discover the full portfolio.\nRoad Marking Systems\nSafely guiding the way for humans and machines.\nIntelligent Transportation Systems\nYour trusted partner for reliable mobility solutions.\nIndusferica\nFilter & filler beads as well as blasting media for industrial solutions.\nOur Road Marking Solutions\nLane Markings\nBike Lane Markings\nAirport Markings\nIndoor Markings\nPlayground and Schoolyard Markings\nRace Tracks\nRoad Repair & Reinstatement\nHigh Friction Surfacing\nParking\nConstruction Zone Markings\nKey Benefits for Our Customers\nImproved Safety\nBetter Traffic Flow\nTime Savings\nEnvironmental Benefits\nSWARCO completed Young Mobility Ambassadors Program AT & GER 2025/2026\nHow durable is SWARCOPLAST G601 in real traffic?\nPerformance, Well Beyond 12 Million Wheel Passes\nHOW TO tackle mobility challenges in Saudi Arabia\nWhy TOPAS Matters for Connected Journeys\nHow We Achieve Net Zero 2050\nSWARCO UK & Ireland has launched the PTC3 Controller Series\nSWARCO and INEO INFRACOM selected to equip 2,000 connected vehicles to improve road safety\nHow to expand lifetime of roads\nShare\nShare\nShare\nWant to know more?\nContact Us\nsfy39587stp30 20 21 22924\nsfy39587stp18"
+    },
+    "about": {
+      "url": "https://www.swarco.com/o-nas",
+      "text": "404 | SWARCO\nSkip to main content\nThe requested page could not be found.\nShare\nShare\nShare\nsfy39587stp18"
+    },
+    "products": {
+      "url": "https://www.swarco.com/produkty",
+      "text": "404 | SWARCO\nSkip to main content\nThe requested page could not be found.\nShare\nShare\nShare\nsfy39587stp18"
+    },
+    "contact_page": {
+      "url": "https://www.swarco.com/kontakt",
+      "text": "404 | SWARCO\nSkip to main content\nThe requested page could not be found.\nShare\nShare\nShare\nsfy39587stp18"
+    }
+  }
+}

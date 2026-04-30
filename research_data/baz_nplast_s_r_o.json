@@ -1,0 +1,51 @@
+{
+  "company_key": "baz_nplast_s_r_o",
+  "company_name": "BAZÉNPLAST s.r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "GUSTAVA VLČKOVÁ",
+        "firstName": "GUSTAVA",
+        "lastName": "VLČKOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ZBYNĚK HLUBUČEK",
+        "firstName": "ZBYNĚK",
+        "lastName": "HLUBUČEK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "GUSTAVA HLUBUČKOVÁ",
+        "firstName": "GUSTAVA",
+        "lastName": "HLUBUČKOVÁ",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 3,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:40"
+}

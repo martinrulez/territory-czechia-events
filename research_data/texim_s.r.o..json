@@ -1,0 +1,156 @@
+{
+  "company_key": "texim s.r.o.",
+  "company_name": "TEXIM s.r.o.",
+  "domain": "www.texim.cz",
+  "domain_url": "https://www.texim.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "TEXIM s.r.o.",
+    "opportunity_score": 33,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.65,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.65,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "42195900",
+    "official_name": "TEXIM s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "46900",
+      "22120",
+      "22190",
+      "46900"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Kladská 331/24, Slezské Předměstí, 50003 Hradec Králové, Hradec Králové, Kladská, 50003",
+    "is_client": true,
+    "current_products": "AutoCAD LT | Fusion",
+    "total_seats": "4",
+    "current_acv_eur": "2300.0",
+    "potential_acv_eur": "18800.0",
+    "nearest_renewal": "2026-12-05",
+    "days_to_renewal": "226",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Buildings",
+    "ml_domain": "www.elexim.net",
+    "zi_done": true,
+    "employee_count": 20,
+    "revenue": 6084,
+    "zi_company_name": "TEXIM sro",
+    "zi_domain": "www.texim.cz",
+    "zi_city": "Hradec Kralove",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.texim.cz",
+    "homepage": {
+      "title": "Texim - výroba těsnění, prodej zahradního nábytku",
+      "description": "Texim - výroba těsnění, prodej zahradního nábytku",
+      "text_excerpt": "Texim - výroba těsnění, prodej zahradního nábytku\nVáš dodavatel těsnění a zahradního nábytku...\nTexim - výroba těsnění, prodej zahradního nábytku\nE-SHOP\nVODO, TOPO, HOBBY\ntěsnění do oken a dveří\nzahradní hadice a program\nsprchové hlavice a hadice\nvodo - topo - hobby\nvstoupit\nZAHRADNÍ\nNÁBYTEK\nteakový nábytek\nnábytek z eukalyptu\nnábytek z akácie\nnábytek z umělého ratanu\nvstoupit\nVÝROBA\nTĚSNĚNÍ\nbezazbestové desky\nucpávkové šňůry\ntěsnící materiály\nzakázková výroba\nvstoupit\nPŮJČOVNA\nGRILŮ\n8 typů grilů\ngrily na kýtu, sele i kuřata\nmožnost půjčit i zahradní nábytek\nnutná rezervace předem\nvýhodné ceny\nvstoupit"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "TEXIM s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 3,
+    "all_technologies": [
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "TEXIM s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Zdenek",
+        "last_name": "Cejnar",
+        "title": "ŘEditel Divize Zahradní Nábytek",
+        "email": "",
+        "phone": "",
+        "company": "TEXIM sro",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      },
+      {
+        "first_name": "Jan",
+        "last_name": "Cejnar",
+        "title": "Vedoucí Technického Oddělení",
+        "email": "jancejnar@texim.cz",
+        "phone": "",
+        "company": "TEXIM sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Libor",
+        "last_name": "Pytlík",
+        "title": "Provozní Vedoucí",
+        "email": "lpytlik@texim.cz",
+        "phone": "",
+        "company": "TEXIM sro",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:39"
+}

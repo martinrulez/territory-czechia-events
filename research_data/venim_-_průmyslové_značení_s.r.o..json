@@ -1,0 +1,270 @@
+{
+  "company_key": "venim - průmyslové značení s.r.o.",
+  "company_name": "VENIM - průmyslové značení s.r.o.",
+  "domain": "www.venim.com",
+  "domain_url": "https://www.venim.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "VENIM - průmyslové značení s.r.o.",
+    "opportunity_score": 12,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.1,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.1,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "25369601",
+    "official_name": "VENIM - průmyslové značení s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "95310",
+      "471",
+      "649",
+      "77110",
+      "74",
+      "772",
+      "45200",
+      "471",
+      "649",
+      "74",
+      "77110",
+      "772"
+    ],
+    "ares_segments": [],
+    "ares_primary_segment": "unknown",
+    "ares_address": "Haškova 212, 78391 Uničov, Uničov, Haškova, 78391",
+    "zi_done": true,
+    "employee_count": 6,
+    "revenue": 3872,
+    "zi_company_name": "VENIM",
+    "zi_domain": "www.venim.com",
+    "zi_city": "Beverly Hills",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.venim.com",
+    "homepage": {
+      "title": "VENIM - Custom Denim Jackets – VENIM®",
+      "description": "Customize a VENIM® denim jacket online with distinctive metallic finishes such as holographic, gold or silver. Luxury denim craftsmanship made sustainably in the USA. Jean jackets for all genders in washed black, classic black, light wash, off-white and indigo. Customizable jean jackets in shorter or longer lengths.",
+      "text_excerpt": "VENIM - Custom Denim Jackets – VENIM®\nSkip to content\nShop all denim jackets\narrow_right\nATELIER\nShop one-of-a-kind denim jackets\narrow_right\nPLANTAE\nShop the all new Plantae Collection\narrow_right\n\"It's time that the essential denim jacket took a more streetwear-leaning approach. VENIM's customizable denim jackets are statement-making (without screaming).\"\n\"As if the foiled detail wasn't enough to get psyched about, the made-in-Cali label creates all of its jackets from deadstock fabrics, meaning it skips the entire fiber-growing process.\"\n\"The practicality of a utilitarian denim jacket complements the wow factor of the hand-applied foil designs, Together, a style home run.\"\n\"Impeccable craftsmanship, ethical manufacturing, and unapologetically individualistic designs.\"\n“The denim jacket’s inherently customizable design results in a wardrobe staple that transcends temporal changes and is as much of an essential today as it has been over the past decades.\"\nMADE. NOT MANUFACTURED.\nWhy VENIM\narrow_right\nChoosing a selection results in a full page refresh.\nPress the space key then arrow keys to make a selection."
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.venim.com/products",
+      "text": "Collections – VENIM®\nSkip to content\nCollections\n.JUNKMAIL™\nATELIER\nBASIC JACKETS\nBEST SELLERS\nBLACK JACKETS\nEVERYTHING ELSE\nFOIL JACKETS\nGender Pronoun Face Masks\nHome page\nHOODIES\nINDIGO JACKETS\nJACKETS\nLABOR DAY WEEKEND SALE\nLOUNGEWEAR\nPLANTAE COLLECTION\nReflective Face Masks\nSHOP ALL\nSHOP DENIM JACKETS\nSHOP GOLD HOLOGRAPHIC DENIM JACKETS\nSUMMER SALE: 40% OFF INDIGO AND VINTAGE WASH\nT-SHIRTS\nTHE LONGER JACKETS\nTHE SHORTER JACKETS\nUN-DYED JACKETS\nVINTAGE WASH JACKETS\nChoosing a selection results in a full page refresh.\nPress the space key then arrow keys to make a selection."
+    },
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "VENIM - průmyslové značení s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 29,
+    "all_technologies": [
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Evidon",
+        "vendor": "Evidon, Inc.",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Gorgias",
+        "vendor": "Gorgias Inc.",
+        "category": "Help Desk",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "YourAddChoices",
+        "vendor": "Digital Advertising Alliance",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Pinterest for Business",
+        "vendor": "Pinterest, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "ShareASale",
+        "vendor": "ShareASale.com, Inc.",
+        "category": "Affiliate Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Yotpo",
+        "vendor": "Yotpo Inc",
+        "category": "Online Review Management",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "PayPal",
+        "vendor": "PayPal Holdings, Inc.",
+        "category": "Payment Processing",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Stripe",
+        "vendor": "Stripe, Inc.",
+        "category": "Payment Processing",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Klaviyo",
+        "vendor": "Klaviyo Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare Website Optimization",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Web Accelerators",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Shopify",
+        "vendor": "Shopify Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Analytics Event Tracking",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "GraphQL",
+        "vendor": "The GraphQL Foundation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Network Advertising Initiative Opt Out",
+        "vendor": "Network Advertising Initiative (NAI)",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "GoDaddy DNS",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Leaflet",
+        "vendor": "LeafletJS",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "ReCharge",
+        "vendor": "Bootstrap Heroes LLC",
+        "category": "Recurring Billing",
+        "categoryParent": "Accounting and Finance"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "VENIM - průmyslové značení s.r.o.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 19:10"
+}

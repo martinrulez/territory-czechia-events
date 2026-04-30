@@ -1,0 +1,31 @@
+{
+  "company_key": "a_t_r_i_u_m_s_r_o",
+  "company_name": "A T R I U M , s. r. o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MILAN KADNÁR",
+        "firstName": "MILAN",
+        "lastName": "KADNÁR",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:09"
+}

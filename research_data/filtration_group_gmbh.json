@@ -1,0 +1,429 @@
+{
+  "company_key": "filtration group gmbh",
+  "company_name": "Filtration Group GmbH",
+  "domain": "www.filtrationgroup.com",
+  "domain_url": "https://www.filtrationgroup.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Filtration Group GmbH",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 7208,
+    "revenue": 1350000,
+    "zi_company_name": "Filtration Group",
+    "zi_domain": "www.filtrationgroup.com",
+    "zi_city": "Austin",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.filtrationgroup.com",
+    "homepage": {
+      "title": "Home - Filtration Group",
+      "description": "We’re on a Mission We are a global market-leading provider of mission-critical filtration solutions designed to enable advanced healthcare capabilities, provide clean air and facilitate productivity.",
+      "text_excerpt": "Home - Filtration Group\nFiltration Group to Join Parker-Hannifin Corporation,\nRead Full Story\nTOGETHER WE ARE MAKING THE WORLD SAFER, HEALTHIER AND MORE PRODUCTIVE\nOUR IMPACT\nWe’re on a Mission\nWe are a global market-leading provider of mission-critical filtration solutions designed to enable advanced healthcare capabilities, provide clean air and facilitate productivity.\nWe’re Entrepreneurs\nOur global workforce is united by a culture that sets us apart – an entrepreneurial culture centered on trust, in which our leaders exhibit a bias for action.\nTrust\nWe say what we do and we do what we say. We meet our commitments and we are committed to operating with ethics and integrity.\nBias For Action\nWe control outcomes through our actions. We are bold and ambitious, and we inject speed and velocity into everything we do.\nEntrepreneurial\nWe all embrace an owner’s mindset. We are creative and unwilling to accept that there is not a better way.\nGlobal Presence.\nEndless Capabilities\nEntrepreneurial businesses, united by a common culture and a mission to make the world safer, healthier and more productive. Our goal is to solve important challenges by providing filtration solutions across a broad spectrum of applications and end-markets, including life sciences, indoor air quality and industrial technologies.\nOur Businesses"
+    },
+    "about": {
+      "url": "https://www.filtrationgroup.com/about-us",
+      "text": "About Us - Filtration Group\nFiltration Group to Join Parker-Hannifin Corporation,\nRead Full Story\nBUILDING SOMETHING\nTRULY REMARKABLE.\nFiltration Group is on a mission to make the world safer, healthier and more productive by providing mission-critical filtration solutions that are designed to enable advanced healthcare capabilities, provide clean air, and drive productivity\nWatch Video\nOur Culture\nTrust\nWe say what we do and we do what we say. We meet our commitments and we are committed to operating with ethics and integrity.\nBias For Action\nWe control outcomes through our actions. We are bold and ambitious, and we inject speed and velocity into everything we do.\nEntrepreneurial\nWe have an owner’s mindset. We will focus on what’s best for our customers and our people over the longterm. We are creative and unwilling to accept that there is not a better way.\nInclusion and Belonging\nAt Filtration Group, you belong. At Filtration Group, our strength lies in our differences. Our business is stronger and can make the world safer, healthier and more productive when we create an equitable, inclusive culture that encourages our authentic selves. Our actions cultivate a global workplace that is truly diverse, enabling us to continue to build a remarkable future.\nOur Mission\nTogether, we are making the world safer, healthier and more productive.\nPartnership with Dublin Airport leads to successful aviation fuel infrastructure expansion project\nRead Full Story\nPuraShield Protects Students and Teachers Returning to the Classroom\nRead Full Story\nRural Water Supplies with Difficult Sources\nRead Full Story\nThe Sistine Chapel relies on Purafil to preserve its artwork for future generations\nRead Full Story\nPurafil eliminates odors for Delta Air Lines travelers and staff\nRead Full Story\nOur Filters Help Protect Employees and the Environment\nRead Full Story\nFiltration Group Leadership\nA team of entrepreneurial leaders, on a mission to build a truly remarkable company and make the world safer, healthier and more productive.\nMeet Our Leadership Team\nCareers At Filtration Group\nWe are engineers, scientists, designers, inventors and problem solvers. We are community leaders, moms and dads, athletes, artists, dancers, musicians and so much more. Above all, we are committed to our mission. We care about our environment and one another. We are motivated to make our world safer, healthier and more productive.\nJoin Our Team\nCode of Conduct & Ethics\nOur Business Code of Conduct and Ethics is the cornerstone of our collective journey to being remarkable! We are committed to conducting business in accordance with the highest ethical standards. Maintaining these standards has never been more important than in today’s competitive and rapidly changing global business climate, and we are committed to ensuring that our company consistently demonstrates a reputation for integrity.\nOur Business Code of Conduct and Ethics applies worldwide to all employees of Filtration Group Corporation, inclusive of Filtration Group controlled affiliates/subsidiaries, as well as all suppliers, contractors and temporary employees.\nCode of Conduct – EN\nCode of Conduct – DE\nCode of Conduct – CN\nCode of Conduct – SP\nCode of Conduct – JP\nGlobal Presence.\nEndless Capabilities\nEntrepreneurial businesses, united by a common culture and a mission to make the world safer, healthier and more productive. Our goal is to solve important challenges by providing filtration solutions across a broad spectrum of applications and end-markets, including life sciences, indoor air quality and industrial technologies.\nOur Businesses"
+    },
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Filtration Group GmbH",
+    "autodesk_products": [
+      "Autodesk AutoCAD",
+      "Autodesk Inventor",
+      "Autodesk Vault"
+    ],
+    "competitor_products": [
+      "Dassault Systemes",
+      "PTC Creo (Pro/ENGINEER)",
+      "Solidworks"
+    ],
+    "cad_bim_other": [
+      "Assemble",
+      "Autodesk",
+      "Cache Control",
+      "InVision",
+      "Mathematica",
+      "Sigma",
+      "Studio 5000"
+    ],
+    "total_technologies": 300,
+    "all_technologies": [
+      {
+        "product": "SAP",
+        "vendor": "SAP SE",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Keyence",
+        "vendor": "Keyence Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Route",
+        "vendor": "Route App Inc.",
+        "category": "Inventory and Order Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Core",
+        "vendor": "BQE Software Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Ideal",
+        "vendor": "O5 Systems Inc.",
+        "category": "Other Human Resources Software",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Directly",
+        "vendor": "Directly Software, Inc.",
+        "category": "Customer Self-Service",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Adobe Creative Suite",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Events Manager",
+        "vendor": "NetWebLogic",
+        "category": "Event Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Soda",
+        "vendor": "Soda Data NV",
+        "category": "Data Quality Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "React",
+        "vendor": "Meta Open Source",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Branch",
+        "vendor": "Branch",
+        "category": "Payroll Management and Benefits Administration",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Remote",
+        "vendor": "Remote Technology, Inc",
+        "category": "Human Resource Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Udemy",
+        "vendor": "Udemy, Inc.",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Expresshr",
+        "vendor": "expressHR",
+        "category": "Recruitment Marketing",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Simon",
+        "vendor": "Institutional Capital Network, Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Craft",
+        "vendor": "Craft.io Ltd.",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "ventiv",
+        "vendor": "Ventiv Technology Australia PTY Ltd",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Dynamics Business Central",
+        "vendor": "Microsoft Corporation",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "P4",
+        "vendor": "The P4 Language Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "DIS",
+        "vendor": "Dealer Information Systems Corporation",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Claims Systems",
+        "vendor": "Cognizant Technology Solutions Corporation",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "Sunday",
+        "vendor": "Sunday",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "LinkedIn",
+        "vendor": "LinkedIn Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "8x8 Contact Center",
+        "vendor": "8x8, Inc.",
+        "category": "Contact Center Solutions",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Productiv",
+        "vendor": "Productiv, Inc",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "CIM",
+        "vendor": "F24 AG",
+        "category": "Other Operations Software",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Demand Planning",
+        "vendor": "Blue Yonder Group, Inc",
+        "category": "Supply Chain Management",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Assemble",
+        "vendor": "Autodesk, Inc.",
+        "category": "Construction Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Mode",
+        "vendor": "Mode Analytics, Inc.",
+        "category": "Business Intelligence",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Resolve",
+        "vendor": "Resolve Systems",
+        "category": "Build Automation",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Compose",
+        "vendor": "Casetext, Inc",
+        "category": "Legal Solutions",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Planful",
+        "vendor": "Planful, Inc.",
+        "category": "Other Accounting and Finance Software",
+        "categoryParent": "Accounting and Finance"
+      },
+      {
+        "product": "code 3",
+        "vendor": "Squarespace, Inc.",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "ABI",
+        "vendor": "Advanced Business Integrators, Inc.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Oracle",
+        "vendor": "Oracle Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Lean Manufacturing",
+        "vendor": "Gemba Academy LLC",
+        "category": "Education Management",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WPML",
+        "vendor": "OnTheGoSystems Limited",
+        "category": "Translation",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "XML Web Services",
+        "vendor": "",
+        "category": "Other Programming Software",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Verifi",
+        "vendor": "Verifi",
+        "category": "Other Vertical Industries Software",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Visual Basic .NET",
+        "vendor": "Microsoft Corporation",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "UseProof",
+        "vendor": "Proof Technologies",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Tubular",
+        "vendor": "Tubular Labs, Inc.",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "SuperFish",
+        "vendor": "SuperFish",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Studio 5000",
+        "vendor": "Rockwell Automation Inc.",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "SQL",
+        "vendor": "International Organization for Standardization",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Filtration Group GmbH",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Deborah",
+        "last_name": "Weitzman",
+        "title": "Board Member",
+        "email": "deborah.weitzman@filtrationgroup.com",
+        "phone": "",
+        "company": "Filtration Group",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Scott",
+        "last_name": "Wald",
+        "title": "Board Member",
+        "email": "scott.wald@filtrationgroup.com",
+        "phone": "",
+        "company": "Filtration Group",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 76.0
+      },
+      {
+        "first_name": "Larry",
+        "last_name": "Gies",
+        "title": "Board Member",
+        "email": "lgies@filtrationgroup.com",
+        "phone": "",
+        "company": "Filtration Group",
+        "country": "",
+        "has_email": true,
+        "has_phone": false,
+        "accuracy_score": 75.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 18:25"
+}

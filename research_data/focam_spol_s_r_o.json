@@ -1,0 +1,59 @@
+{
+  "company_key": "focam_spol_s_r_o",
+  "company_name": "Focam spol. s r. o.",
+  "domain": "www.focam.cz",
+  "events": "Czech Foundry Association Members",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MIROSLAV HERZÁN",
+        "firstName": "MIROSLAV",
+        "lastName": "HERZÁN",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ZDENĚK HERZÁN",
+        "firstName": "ZDENĚK",
+        "lastName": "HERZÁN",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 2,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:09:13",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.focam.cz",
+    "homepage": {
+      "title": "FOCAM spol. s.r.o. | Focam s.r.o",
+      "description": "FOCAM spol. s.r.o.",
+      "text_excerpt": "FOCAM spol. s.r.o. | Focam s.r.o\nFOCAM spol. s r.o.\nbyla založena v roce 1991 při privatizaci MŽ a.s. Olomouc, bylo tak navázáno na 40letou slévárenskou tradici. Během existence firmy došlo k významným investicím do technologie tavení, formování a tepelného zpracování.\nFOCAM se zaměřuje na malo a středně sériovou výrobu odlitků (prototypy, náběhy výroby, náhradní díly)\nze slitin železa litých do samo-tuhnoucí formovací směsi (AlpHaset).\nVýrobní sortiment je ve výjimečných případech doplněn o odlitky ze\nslitin hliníku a mědi\n, které jsou lité do pískových forem a kokil.\nSpeciální výroba odlitků - Rapid prototyping\nVýroba prototypových a středně sériových odlitků z litin a ocelí\nVýroba odlitků ze slitin Al a Cu\nVýrobní program\nFOCAM\nvyrábí odlitky z několika druhů ocelí a litin. Níže je uvedeno spektrum odlévaných materiálů včetně příkladů referenčních odlitků, které byly realizovány.\nOceli\nLitiny\nSlitiny Al a Cu\nNaše služby\nFOCAM\nje schopen poskytnout následující služby spojené s vlastní výrobou odlitků.  Moderní technologie Rapid Prototyping a vývoj nových výrobků jsou významným prvkem slévárny.\nTepelné zpracování\nZkoušení a atestace\nRapid prototyping\nPočítačová simulace\n/div>"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.focam.cz/sluzby",
+      "text": "Služby | Focam s.r.o"
+    },
+    "contact_page": {
+      "url": "https://www.focam.cz/kontakt",
+      "text": "Kontakt | Focam s.r.o\nFocam spol. s r.o.\nŘepčínská 35/86,\n772 00 Olomouc\nČeská Republika\nIdentifikační číslo: 43962696\nUID: CZ43962696\nEmail:\nJak se k nám dostanete\nMapa příjezdu ke skladu\nLenka Johnová\nŘeditelka společnosti\nTel.:\n+420 737 801 845\nEmail:\njohnova@focam.cz\nIng. Jiří Herzán\nTechnologie, vývoj, výrobní kooperace\nTel.:\n+420 737 639 783\nEmail:\njiri.herzan@focam.cz\nIng. Jaroslav Zwyrtek\nNákup, OTK, metalurgie, atesty\nTel.:\n+420 605 732 170\nEmail:\nzwyrtek@focam.cz\nVáclav Outrata\nVýroba, expedice\nTel.:\n+420 739 468 189\nEmail:\nfocam@focam.cz\nIng. Zdeněk Herzán\nJednatel\nTel.:\n+420 603 522 236\nEmail:\nzeniku@email.cz\nKONTAKTNÍ FORMULÁŘ\nJméno a přijmení\nTelefon\nE-mail\nFirma\nSem Vepište požadavek nebo dotaz\nSouhlasím s\npodmínkami zpracování osobních údajů.\nPole označená\njsou povinná\nODESLAT DOTAZ / POŽADAVEK"
+    }
+  }
+}

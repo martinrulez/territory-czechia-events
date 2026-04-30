@@ -1,0 +1,328 @@
+{
+  "company_key": "gasparini spa",
+  "company_name": "Gasparini Spa",
+  "domain": "www.gasparini-spa.com",
+  "domain_url": "https://www.gasparini-spa.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Gasparini Spa",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 74,
+    "revenue": 18638,
+    "zi_company_name": "Gasparini SpA",
+    "zi_domain": "www.gasparini-spa.com",
+    "zi_city": "Mirano",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.gasparini-spa.com",
+    "homepage": {
+      "title": "Macchine Profilatrici per Lamiera: l'Eccellenza di GASPARINI S.p.a.",
+      "description": "Gasparini S.p.A. è leader nella produzione di macchine profilatrici per lamiera nei settori logistica, costruzioni, energia e automotive.",
+      "text_excerpt": "Macchine Profilatrici per Lamiera: l'Eccellenza di GASPARINI S.p.a.\nLinee di profilatura altamente personalizzate con tecnologie all’avanguardia\nProgettiamo e creiamo impianti di profilatura con tecnologie e processi integrati, creando soluzioni complete e su misura per ogni esigenza produttiva.\nScopri le applicazioni\nProfilatura della lamiera: impianti su misura all’avanguardia\nProgettiamo e produciamo\nlinee di profilatura\ne sistemi automatizzati per la\nlavorazione della lamiera\n, offrendo soluzioni altamente personalizzate che migliorano le performance produttive della tua azienda.\nLe nostre\nprofilatrici\ne le tecnologie integrate nel processo consentono di ottenere profili di elevata qualità e precisione, in settori come\nlogistica\ncostruzioni\nenergia,\ndistribuzione elettrica\nautomotive\nPartendo da un’analisi dettagliata delle richieste, sviluppiamo\nimpianti di profilatura\ne soluzioni integrate coerenti con le esigenze di design del profilo e le necessità produttive. Grazie all’esperienza dei nostri ingegneri e tecnici altamente qualificati, realizziamo\nprofili complessi\ncon\ntolleranze molto strette\n, ottimizzando le prestazioni della linea.\nApprofondisci\nLogistica\nVedi tutti gli impianti\nCostruzioni\nVedi tutti gli impianti\nEnergia\nVedi tutti gli impianti\nAutomotive\nVedi tutti gli impianti\nAltre applicazioni\nVedi tutti gli impianti\nAutomazione per la massima efficienza produttiva\nIntegrando tecnologie avanzate e sistemi di automazione ad alte prestazioni, realizziamo\nimpianti di profilatura automatizzati\nche offrono\nefficienza\nflessibilità\nversatilità\n. I nostri sistemi rispondono in modo efficace alle richieste di un mercato in continua evoluzione.\nRiduciamo i tempi di setup grazie al sistema di controllo gestito dal\nSoftware Gasparini\n, migliorando la sicurezza e l’efficienza dell’impianto. I nostri macchinari sono progettati per essere\nperformanti\ne allo stesso tempo\nuser-friendly\n, con operatori autonomi nella gestione della linea, supportati da\ntraining mirati\nassistenza tecnica globale\nScegliere Gasparini significa affidarsi a un partner capace di progettare e integrare tecnologie ausiliarie nelle linee di profilatura, sviluppando soluzioni complete che includono:\npunzonatura\nclinciatura\nsistemi di taglio\ncurvatura\nunità di saldatura\nmanipolazione\nimpilaggio\nimballaggio\n. Ogni impianto è pensato come una\nsoluzione chiavi in mano\nApprofondisci\nProcessi industriali integrati\nLeggi di più\nProfilatura convenzionale\nLeggi di più\nProfilatura a cassette intercambiabili\nLeggi di più\nProfilatura TWIN\nLeggi di più\nProfilatura REVOLVER\nLeggi di più\nCalandre\nLeggi di più\nTecnologie di processo\nLeggi di più\nLinee di piegatura\nLeggi di più\nTecnologie integrate nelle linee di profilatura\nProgettiamo\nimpianti di profilatura\ncapaci di trasformare la materia prima in prodotto finito, grazie all’integrazione di\nautomazioni e tecnologie di processo\n. Tra queste, la\npunzonatura\nè una delle lavorazioni più richieste per la produzione di\nprofili strutturali\nnell"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.gasparini-spa.com/kontakt",
+      "text": "Contatti - GASPARINI S.p.a.\nContatti\nHome\nContatti\nGASPARINI S.p.A.\nViale Venezia, 27\n30035 Mirano Venezia ITALY\nTel.:\n+39 041 5790111\nE-mail:\ninfo@gasparini-spa.com\nlinkedin\nyoutube\nAssistenza post vendita\nLavora con noi\nRichiedi informazioni\nPer ogni informazione o richiesta contatta Gasparini S.p.A\nSi prega di lasciare vuoto questo campo."
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Gasparini Spa",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 42,
+    "all_technologies": [
+      {
+        "product": "Yoast",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Network Solutions DNS",
+        "vendor": "Network Solutions, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Yoast SEO",
+        "vendor": "Yoast BV",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Yandex Metrica Webvisor",
+        "vendor": "Yandex LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Hotjar",
+        "vendor": "Hotjar Ltd.",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "reCAPTCHA v2.0",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap v3.1.1",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Yandex Metrica",
+        "vendor": "Yandex LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "HubSpot",
+        "vendor": "HubSpot, Inc",
+        "category": "Marketing Automation",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "LinkedIn Ads",
+        "vendor": "LinkedIn Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "HubSpot Marketing Free",
+        "vendor": "HubSpot, Inc",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Gasparini Spa",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 18:17"
+}

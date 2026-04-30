@@ -1,0 +1,221 @@
+{
+  "company_key": "cyark",
+  "company_name": "CyArk",
+  "domain": "www.cyark.org",
+  "domain_url": "https://www.cyark.org",
+  "events": "3DISE Conference 2026",
+  "event_count": 1,
+  "lead_class": null,
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "CyArk",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 20,
+    "revenue": 1075,
+    "zi_company_name": "CyArk",
+    "zi_domain": "www.cyark.org",
+    "zi_city": "Oakland",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.cyark.org",
+    "homepage": {
+      "title": "CyArk",
+      "description": "CyArk is unlocking the power of 3D technology to make the world’s cultural heritage accessible to new audiences and future generations.",
+      "text_excerpt": "CyArk\nOur Mission\nWe are unlocking the power of 3D technology to make the world’s cultural heritage accessible to new audiences and future generations\nHeritage Documentation\nWe create accurate and photo-realistic digital twins to assist in the management, conservation and celebration of cultural heritage\nStorytelling\nWe help reach and engage new audiences with place-based stories that celebrate our cultural heritage\nTraining and Capacity Building\nWe are equipping the next generation of stewards with the tools and methods for the documentation and interpretation of cultural heritage\nOur Mission\nLearn About CyArk\nLatest From Social"
+    },
+    "about": {
+      "url": "https://www.cyark.org/about",
+      "text": "Mission | Unlocking the Power of 3D Technology for Cultural Heritage\nOur Mission\nCyArk is unlocking the power of 3D technology to make the world's cultural heritage accessible to new audiences and future generations.\nExpanding Access to Cultural Heritage for New Audiences\nEveryone\ndeserves\nopportunity\nto engage\nmeaningfully\nwith\ncultural heritage,\nregardless of\ngeography, background,\nresources.\nLeveraging\nphotorealistic\n3D models,\nimmersive\ntechnologies, and a\nunique approach\nspatial\nstorytelling, we can\nreach and\nengage audiences\nwith\npowerful stories\nsites, monuments,\nand their connected\ncommunities.\nTogether with partners, we create:\nWeb and Mobile Experiences\nSharing cultural heritage stories through immersive, interactive platforms that are accessible worldwide on our Tapestry platform.\nMuseum Installations\nEnriching traditional exhibitions by integrating dynamic, 3D storytelling experiences that captivate and educate museum visitors.\nOpen Access to Digital Data\nEmpowering researchers, educators, and creators by providing free access to high-quality digital heritage datasets for further study and creative re-use.\nImpact Stories\nBringing Heritage to Life at the Museum of Science Boston\nLearn More\nExpanding Access to the Story of the USS Utah\nLearn More\nPreserving Cultural Heritage for Future Generations\nRecognizing that cultural heritage\nfaces\nunprecedented\nthreats\nfrom\nclimate change, conflict,\nand\nrapid urbanization,\nCyArk has created a documentation methodology to produce\nphotorealistic\nand\naccurate digital twins\nof sites that can be used for\nrecordation\nand\nanalysis.\nThrough detailed\ndocumentation, training,\nand\narchiving,\nwe secure the\nlegacy of humanity’s shared past:\nDigital Twins for Conservation\nProducing precise, high-resolution 3D replicas to guide restoration projects, inform disaster response, and facilitate ongoing site management.\nCapacity Building\nEquipping heritage practitioners worldwide with the necessary skills and technologies to document, protect, and sustain their own cultural heritage.\nDigital Records for Posterity\nCapturing accurate digital snapshots of heritage sites as enduring records before they are irreversibly impacted or lost to climate change, conflict, or urban development.\nImpact Stories\nSafeguarding Cultural Heritage in Ukraine Through Training and Technology\nLearn More\nBuilding Rapid Response Capacity for Heritage Protection in Bangladesh\nLearn More\nIMPACT BY THE NUMBERS\nOur work\nseeks\nto have\nimpact\nacross a number of areas, from\nbuilding digital documentation skills\nand\ncapacity\nmaking\nthe\nresulting data usable, accessible\nand\nreaching new audiences.\nCreating Equitable Access to Cultural Heritage\nOur work seeks to expand access to cultural heritage through virtual experiences that reduce the geographic and financial barriers to visiting these places and learning their stories.\n100+\nExperiences Created\n2,500,000+\nVirtual Visitors\nBuilding Capacity in the Cultural Heritage Sector\nVirtual and in-person workshops build both hard and soft skills that support the local management and protection of cultural heritage and have broad applicability and value in numerous career paths.\n2,000+\nPeople Trained\nMaking Data Open and Reusable\nOur work supports the broad re-use of 3D cultural heritage datasets for education, research and non-commercial purposes through the OpenHeritage3D project.\n300\nDatasets published\n10,000+\nDatasets downloaded\nOUR HISTORY\nCyArk\nwas founded in 2003 by\nBen Kacyra\n, an early pioneer in the development and commercialization of LiDAR technology and the founder of Cyra Technologies.\nOver the past two decades, as technology for capturing and preserving cultural heritage has rapidly advanced, CyArk's mission has evolved accordingly.\nInitially focused on developing methods for the capture and archival of heritage sites, we now emphasize unlocking the full potential of 3D data as a powerful medium for storytelling and as a vital resource supporting physical conservation efforts"
+    },
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "CyArk",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 22,
+    "all_technologies": [
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Domains",
+        "vendor": "Google LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Cloud Platform",
+        "vendor": "Google LLC",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Gmail",
+        "vendor": "Google LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "JQuery 1.11.1",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Cloud DNS",
+        "vendor": "Google LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Snapwidget",
+        "vendor": "SnapWidget (Pty) Ltd",
+        "category": "Widgets",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft Hosting",
+        "vendor": "Microsoft Corporation",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Ads",
+        "vendor": "Google LLC",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "GoDaddy SSL Certificates",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "MailChimp",
+        "vendor": "Intuit, Inc.",
+        "category": "Email Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Google Analytics Experiments",
+        "vendor": "Google LLC",
+        "category": "A/B Testing",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft Azure",
+        "vendor": "Microsoft Corporation",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "CyArk",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Ben",
+        "last_name": "Kacyra",
+        "title": "Founder",
+        "email": "ben.kacyra@cyark.org",
+        "phone": "",
+        "company": "CyArk",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 94.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 4
+  },
+  "research_timestamp": "2026-04-23 19:07"
+}

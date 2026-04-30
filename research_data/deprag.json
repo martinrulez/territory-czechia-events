@@ -1,0 +1,78 @@
+{
+  "company_key": "deprag",
+  "company_name": "Deprag",
+  "domain": "",
+  "domain_url": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Deprag",
+    "opportunity_score": 26,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.82,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.82,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ico": "00169668",
+    "official_name": "DEPRAG CZ a.s.",
+    "legal_form": "121",
+    "nace_codes": [
+      "255",
+      "25",
+      "256",
+      "28240",
+      "46900",
+      "71200",
+      "25530",
+      "72",
+      "25",
+      "256",
+      "25620",
+      "257",
+      "28240",
+      "46900",
+      "71209",
+      "72"
+    ],
+    "ares_segments": [
+      "D&M",
+      "AEC"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "T. G. Masaryka 113, 50781 Lázně Bělohrad, Lázně Bělohrad, T. G. Masaryka, 50781",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {},
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Deprag",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 5
+  },
+  "research_timestamp": "2026-04-23 14:35"
+}

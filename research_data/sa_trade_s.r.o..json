@@ -1,0 +1,157 @@
+{
+  "company_key": "sa trade s.r.o.",
+  "company_name": "SA Trade s.r.o.",
+  "domain": "www.satrade.cz",
+  "domain_url": "https://www.satrade.cz",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SA Trade s.r.o.",
+    "opportunity_score": 29,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.44,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.44,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "28779428",
+    "official_name": "SA Trade s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "461",
+      "G",
+      "33200",
+      "52100",
+      "772",
+      "33200",
+      "461",
+      "52100",
+      "772",
+      "G"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Vyšehradská 1349/2, Nové Město, 12800 Praha 2, Praha, Vyšehradská, 12800",
+    "is_client": true,
+    "current_products": "AutoCAD LT",
+    "total_seats": "1",
+    "current_acv_eur": "500.0",
+    "potential_acv_eur": "9400.0",
+    "nearest_renewal": "2026-12-03",
+    "days_to_renewal": "224",
+    "top_upsell": "AEC Collection",
+    "top_upsell_reason": "Bundle with Revit, Civil 3D, Navisworks for full AEC workflow",
+    "all_upsells": "AEC Collection; PDMC; AutoCAD (full)",
+    "maturity_label": "Entry",
+    "industry_segment": "Engineering Service Providers",
+    "ml_domain": "www.edstrade.cz",
+    "zi_done": true,
+    "employee_count": 11,
+    "revenue": 1918,
+    "zi_company_name": "SA Trade",
+    "zi_domain": "www.satrade.cz",
+    "zi_city": "",
+    "zi_country": "Czech Republic",
+    "zi_industry": "",
+    "zi_sub_industry": "",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.satrade.cz",
+    "homepage": {
+      "title": "SA Trade, s.r.o.",
+      "description": "",
+      "text_excerpt": "SA Trade, s.r.o.\nÃvod\nO firmÄ\nZnaÄky\nServis\nAutorizovanÃ­ prodejci\nkariera\nKontakt\nOSTATNÃ\nZNAÄKY\nMenu\nÃvod\nO firmÄ\nISO\nZnaÄky\nServis\nAutorizovanÃ­ prodejci\nKontakt\nÃvod\nSoustruh s pohyblivÃ½m frÃ©zovacÃ­m zaÅÃ­zenÃ­m a digitÃ¡lnÃ­m odmÄÅovÃ¡nÃ­m PROMA SKF-750MD\nVe videu najdete detailnÃ­ popis stroje a ukÃ¡zky prÃ¡ce:\nVÃ­ce »\nAKCE snadnÃ¡ prÃ¡ce se dÅevem\nDÅevoobrÃ¡bÄcÃ­ stroje do malÃ½ch i velkÃ½ch dÃ­len. Slevy aÅ¾ 35%. EXTRA vÃ½hodnÃ© sety strojÅ¯:\nVÃ­ce »\nProduktovÃ© video UniverzÃ¡lnÃ­ho soustruhu PROMA SPA-510P/400\nVe videu najdete detailnÃ­ popis stroje a ukÃ¡zky prÃ¡ce:\nVÃ­ce »\nProduktovÃ© video FormÃ¡tovacÃ­ pila PROMA PKS-254\nVe videu najdete detailnÃ­ popis stroje a ukÃ¡zky prÃ¡ce:\nVÃ­ce »\nAktuÃ¡lnÃ­ katalog 2025-2026\nVyÅ¾Ã¡dejte si produktovÃ½ katalog 2025-2026.\nNOVINKY v katalogu:\nVÃ­ce »\nstrÃ¡nka\n...\nMapa strÃ¡nek\nSpisovÃ¡ znaÄka\nTisk\n© 2010-2026 SA Trade s.r.o."
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.satrade.cz/kontakt",
+      "text": "Kontakty - SA Trade, s.r.o.\nÃvod\nO firmÄ\nZnaÄky\nServis\nAutorizovanÃ­ prodejci\nkariera\nKontakt\nOSTATNÃ\nZNAÄKY\nMenu\nÃvod\nO firmÄ\nISO\nZnaÄky\nServis\nAutorizovanÃ­ prodejci\nKontakt\nKontakty\nKontakty\nVÃ­ce »\nSpisovÃ¡ znaÄka\nSA Trade s.r.o. (spoleÄnost s ruÄenÃ­m omezenÃ½m)\nse sÃ­dlem v Praze 2, VyÅ¡ehradskÃ¡ 1349/2; PSÄ 128 00\nVÃ­ce »\nMapa strÃ¡nek\nSpisovÃ¡ znaÄka\nTisk\n© 2010-2026 SA Trade s.r.o."
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "SA Trade s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 8,
+    "all_technologies": [
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Lightbox",
+        "vendor": "Lokesh Dhakar",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Active 24",
+        "vendor": "Active 24",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": false,
+    "company_name": "SA Trade s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 0,
+    "contacts": [],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:58"
+}

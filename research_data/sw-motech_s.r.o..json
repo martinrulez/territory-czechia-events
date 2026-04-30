@@ -1,0 +1,180 @@
+{
+  "company_key": "sw-motech s.r.o.",
+  "company_name": "SW-MOTECH s.r.o.",
+  "domain": "www.ts-tech.cz",
+  "domain_url": "https://www.ts-tech.cz",
+  "events": "HK CR Brno Chamber Members",
+  "event_count": 1,
+  "lead_class": "whitespace",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "SW-MOTECH s.r.o.",
+    "opportunity_score": 29,
+    "estimated_deal_eur": 4200,
+    "primary_segment": "D&M",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.47,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.47,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.5
+    },
+    "ares_done": true,
+    "ico": "26253411",
+    "official_name": "SW-MOTECH s.r.o.",
+    "legal_form": "112",
+    "nace_codes": [
+      "25620",
+      "461",
+      "G",
+      "74",
+      "25720",
+      "461",
+      "74",
+      "G"
+    ],
+    "ares_segments": [
+      "D&M"
+    ],
+    "ares_primary_segment": "D&M",
+    "ares_address": "Hrušovanská 404, 66701 Vojkovice, Vojkovice, Hrušovanská, 66701",
+    "is_client": true,
+    "current_products": "Inventor",
+    "total_seats": "1",
+    "current_acv_eur": "2800.0",
+    "potential_acv_eur": "9000.0",
+    "nearest_renewal": "2027-02-11",
+    "days_to_renewal": "294",
+    "top_upsell": "PDMC",
+    "top_upsell_reason": "Bundle with AutoCAD Mechanical, Vault, Fusion for full D&M workflow",
+    "all_upsells": "PDMC; Fusion Mfg Ext; Vault",
+    "reseller": "ADEON CZ, s.r.o.",
+    "maturity_label": "Foundation",
+    "industry_segment": "Other Manufacturing",
+    "ml_domain": "www.ts-tech.cz",
+    "zi_done": true,
+    "zi_error": "No company found",
+    "kurzy_done": true,
+    "or_done": true,
+    "leadership_change": false
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ts-tech.cz",
+    "homepage": {
+      "title": "TS-tech | Zabýváme se žárovým stříkáním, poskytujeme komplexní nabídku technologií a materiálů.",
+      "description": "",
+      "text_excerpt": "TS-tech | Zabýváme se žárovým stříkáním, poskytujeme komplexní nabídku technologií a materiálů.\nTS-tech spol s.r.o.\nZabýváme se žárovým stříkáním\nPoskytujeme komplexní nabídku technologií a materiálů.\nO firmě\nŽárové nástřiky\nOprava a inovace\nNové vlastnosti pro nový rozměr.\nVíce informací\nHřídel v místě uložení ložiska a náboje\nHřídel v místě kluzného uložení\nLožiskové domky\nPístnice, písty\nUcpávkové hřídele, ucpávkové pouzdra\nNapínací, vodící kladky, bubny, drátotahy\nPracovní válce, podávací, napínací, lepící\nDopravníkové šneky, míchadla\nOběžná kola čerpadel, turbíny\nObrábění\nTS-tech\n, spol. s r. o.\nse zabývá\nžárovým stříkáním\n, poskytuje komplexní nabídku technologií a materiálů. Řeší problémy s rychlým opotřebením strojních součástí v opravárenství i prvovýrobě.\n2003—2023\n20 let\nTS - tech, spol. s r.o.\nDíky začlenění do\nsdružení GTS\n(Gemeinschaft Thermisches Spritzen) má přístup k nejnovějším poznatkům z této oblasti.\nSpolečnost TS-tech je také\ndodavatelem přídavných materiálů pro žárové stříkání a svařování\nNa českém a slovenském trhu\nzastupuje Společnost Wall Colmonoy\n, která vyrábí prášky ze samotavitelných slitin a odlitky z niklových a kobaltových slitin.\nZaručuje\nvysokou kvalitu odvedené práce\n, která je postavena na základech spolupráce s předními zahraničními společnostmi v tomto oboru a výborném technickém potenciálu, kterým disponujeme.\nUkázky realizací žárového stříkání\nVíce o žárovém stříkání\nKontaktujte nás\nPotřebujete se poradit nebo rovnou poptáváte naše služby?\nPoptávka\nKontakty\nPříklad povlakové součásti"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {
+      "url": "https://www.ts-tech.cz/kontakt",
+      "text": "Kontakt | TS-tech\nKontaktní informace\nTS - tech, spol. s r.o.\nTS – tech, spol. s r.o.\nSpecialisté na žárové nástřiky\nNová provozovna\nPrůmyslová zóna\nSudoměřice 556\n696 66\nmapa →\n+420\n518 345 222\n+420\n603 452 527\ninfo@ts-tech.cz\nkontaktní formulář →\nObchodní údaje\nTS – tech, spol. s r.o.\nč. p. 556\n696 66 Sudoměřice\nIČO:\n26901048\nDIČ: CZ26901048\n2003—2023\n20 let\nTS - tech, spol. s r.o.\nRadek Škodík\njednatel\nradek.skodik@ts-tech.cz\nPavel Daněček\nvedoucí provozu\n+420\n725 802 708\npavel.danecek@ts-tech.cz\nDana Palenčiárová\nobchodní referentka\n+420\n603 452 527\ninfo@ts-tech.cz\nNapište nám, rádi odpovíme\nVaše jméno a příjmení\nTelefon\nE-mail\nZpráva\nOdeslat"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "SW-MOTECH s.r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 11,
+    "all_technologies": [
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "RequireJS",
+        "vendor": "RequireJS",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Adobe Muse",
+        "vendor": "Adobe Inc.",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "SW-MOTECH s.r.o.",
+    "segment": "D&M",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Pavel",
+        "last_name": "Daněček",
+        "title": "",
+        "email": "pavel.danecek@ts-tech.cz",
+        "phone": "",
+        "company": "TS - tech, spol.s",
+        "country": "Czech Republic",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 89.0
+      }
+    ],
+    "from_cache": false
+  },
+  "research_timestamp": "2026-04-23 12:57"
+}

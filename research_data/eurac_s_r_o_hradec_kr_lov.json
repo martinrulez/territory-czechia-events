@@ -1,0 +1,39 @@
+{
+  "company_key": "eurac_s_r_o_hradec_kr_lov",
+  "company_name": "EURAC s.r.o. Hradec Králové",
+  "domain": "www.matfoundrygroup.cz",
+  "events": "Czech Foundry Association Members",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "THOMAS KROSNAR",
+        "firstName": "THOMAS",
+        "lastName": "KROSNAR",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:08:43",
+  "website_data": {
+    "success": false,
+    "domain": "https://www.matfoundrygroup.cz",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}

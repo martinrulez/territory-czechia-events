@@ -1,0 +1,61 @@
+{
+  "company_key": "prima_power_central_europe_sp_z_o_o_organiza_n_slo_ka",
+  "company_name": "Prima Power Central Europe Sp. Z.o.o., organizační složka",
+  "domain": "",
+  "events": "Digital Factory 2.0 / MSV 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MARCO VANNI",
+        "firstName": "MARCO",
+        "lastName": "VANNI",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "ALESSANDRO DEVITA",
+        "firstName": "ALESSANDRO",
+        "lastName": "DEVITA",
+        "jobTitle": "Board Member",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "JOHANNES PFLUGER",
+        "firstName": "JOHANNES",
+        "lastName": "PFLUGER",
+        "jobTitle": "Chairman of the Board",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      },
+      {
+        "fullName": "FRANTIŠEK RINGER",
+        "firstName": "FRANTIŠEK",
+        "lastName": "RINGER",
+        "jobTitle": "Statutory Body",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 4,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:40:23"
+}

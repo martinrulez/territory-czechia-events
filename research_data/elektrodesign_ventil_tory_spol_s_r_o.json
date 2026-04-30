@@ -1,0 +1,178 @@
+{
+  "company_key": "elektrodesign_ventil_tory_spol_s_r_o",
+  "company_name": "ELEKTRODESIGN ventilátory spol. s r.o.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": true,
+    "company": "ELEKTRODESIGN ventilátory spol. s r.o.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 21,
+    "all_technologies": [
+      {
+        "product": "Nette",
+        "vendor": "Nette",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Adobe Typekit",
+        "vendor": "Adobe Inc.",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Leaflet",
+        "vendor": "LeafletJS",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Proofpoint",
+        "vendor": "Proofpoint, Inc.",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "nginx",
+        "vendor": "nginx.org by Nginx, Inc.",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "GlobalSign",
+        "vendor": "GMO Registry, Inc.",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Smartsupp",
+        "vendor": "Smartsupp.com, s.r.o.",
+        "category": "Live Chats",
+        "categoryParent": "Customer Service"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "MICHAL MALÍK",
+        "firstName": "MICHAL",
+        "lastName": "MALÍK",
+        "jobTitle": "Managing Director (Jednatel)",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:08:34",
+  "website_data": {
+    "success": true,
+    "domain": "https://www.elektrodesign.cz",
+    "homepage": {
+      "title": "Elektrodesign",
+      "description": "",
+      "text_excerpt": "Elektrodesign\nVyhledávání podle textu\nVyhledávání podle parametrů\nKategorie\nVentilátory\nPřívodní jednotky\nVzduchotechnické jednotky\nDveřní clony\nDigestoře\nPodkategorie\n– Vše –\nMalé axiální ventilátory\nMalé radiální ventilátory\nVentilátory do kruhového potrubí\nVentilátory do čtyřhranného potrubí\nAxiální ventilátory\nStřešní ventilátory\nPožární ventilátory\nNevýbušné ventilátory\nKyselinovzdorné ventilátory\nSpeciální ventilátory\nPrůmyslové ventilátory\nProudové ventilátory\nMaximální průtok vzduchu [m³/h]\nTolerance [%]\n: -5 - 5\nExterní statický tlak [Pa]\nTolerance [%]\n: -5 - 5\nTyp ventilátoru\n– Vše –\naxiální<i class='cnt'>2057</i>\nradiální<i class='cnt'>1660</i>\ndiagonální<i class='cnt'>118</i>\nradiální proudový<i class='cnt'>8</i>\naxiální proudový<i class='cnt'>40</i>\nNapájení [V]\n12<i class='cnt'>10</i>\n230<i class='cnt'>1165</i>\n230/400<i class='cnt'>897</i>\n400<i class='cnt'>1808</i>\n400/690<i class='cnt'>264</i>\nKrytí\nIPX0<i class='cnt'>7</i>\nIPX2<i class='cnt'>9</i>\nIPX4<i class='cnt'>60</i>\nIPX5<i class='cnt'>29</i>\nIP20<i class='cnt'>4</i>\nIP40<i class='cnt'>2</i>\nIP44<i class='cnt'>444</i>\nIP45<i class='cnt'>79</i>\nIP54<i class='cnt'>215</i>\nIP55<i class='cnt'>2900</i>\nIP56<i class='cnt'>1</i>\nIP57<i class='cnt'>9</i>\nIP65<i class='cnt'>169</i>\nTyp motoru\n– Vše –\nAC<i class='cnt'>3603</i>\nEC<i class='cnt'>348</i>\nMaximální teplota vzdušniny [°C]\n40<i class='cnt'>534</i>\n45<i class='cnt'>8</i>\n50<i class='cnt'>23</i>\n55<i class='cnt'>1</i>\n60<i class='cnt'>124</i>\n65<i class='cnt'>1</i>\n70<i class='cnt'>168</i>\n75<i class='cnt'>3</i>\n80<i class='cnt'>8</i>\n100<i class='cnt'>5</i>\n110<i class='cnt'>14</i>\n120<i class='cnt'>133</i>\n150<i class='cnt'>35</i>\n180<i class='cnt'>2</i>\n200<i class='cnt'>19</i>\n300<i class='cnt'>24</i>\n400<i class='cnt'>43</i>\n450<i class='cnt'>106</i>\nŘešení pro profesionály\nVětrání\nkomerčních\nobjektů\nKancelářské budovy\nMenší komerční objekty\nVětrání\nrezidenčních\nobjektů\nBytové domy\nRodinné domy\nVětrání\nubytovacích\nzařízení\nHotely a penziony\nApartmánové objekty\nVětrání\nškolských\nzařízení\nŠkolská  zařízení\nGastro provozy\nAktuality\n08.04.2026\nVýprodej\nVýprodej vybraných položek za výhodné ceny\nDovolujeme si upozornit na možnost zakoupení vybraných produktů za VÝPRODEJOVÉ CENY!\nDozvědět se více\n12.03.2026\nObchodní sdělení\nZvýšené standardy účinnosti ventilátorů v roce 2026\nPřechod z nařízení EU 327/2011 na nařízení EU 2024/1834.\nDozvědět se více\n22.09.2025\nObchodní sdělení\nNová služba – Pick Up Service (PCS)\nV rámci zkvalitnění našich služeb zavádíme novou službu Pick Up Service (PCS).\nDozvědět se více\n01.09.2025\nOcenění\nOcenění zlatou medailí EcoVadis\nEcoVadis udělil společnosti Soler & Palau zlatou medaili EcoVadis.\nDozvědět se více\nVšechny aktuality\nNepřehlédněte\nVzduchotechnické jednotky DUOVENT\nVzduchotechnické jednotky DUOVENT představují flexibilní řešení pro komerční aplikace s průtokem vzduchu až 14 500 m³/h. Jsou dostupné v kompaktním i modulárním provedení, s možností volby mezi deskovým rekuperačním a rotačním "
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.elektrodesign.cz/services",
+      "text": "Elektrodesign\nVyhledávání podle textu\nVyhledávání podle parametrů\nKategorie\nVentilátory\nPřívodní jednotky\nVzduchotechnické jednotky\nDveřní clony\nDigestoře\nPodkategorie\n– Vše –\nMalé axiální ventilátory\nMalé radiální ventilátory\nVentilátory do kruhového potrubí\nVentilátory do čtyřhranného potrubí\nAxiální ventilátory\nStřešní ventilátory\nPožární ventilátory\nNevýbušné ventilátory\nKyselinovzdorné ventilátory\nSpeciální ventilátory\nPrůmyslové ventilátory\nProudové ventilátory\nMaximální průtok vzduchu [m³/h]\nTolerance [%]\n: -5 - 5\nExterní statický tlak [Pa]\nTolerance [%]\n: -5 - 5\nTyp ventilátoru\n– Vše –\naxiální<i class='cnt'>2057</i>\nradiální<i class='cnt'>1660</i>\ndiagonální<i class='cnt'>118</i>\nradiální proudový<i class='cnt'>8</i>\naxiální proudový<i class='cnt'>40</i>\nNapájení [V]\n12<i class='cnt'>10</i>\n230<i class='cnt'>1165</i>\n230/400<i class='cnt'>897</i>\n400<i class='cnt'>1808</i>\n400/690<i class='cnt'>264</i>\nKrytí\nIPX0<i class='cnt'>7</i>\nIPX2<i class='cnt'>9</i>\nIPX4<i class='cnt'>60</i>\nIPX5<i class='cnt'>29</i>\nIP20<i class='cnt'>4</i>\nIP40<i class='cnt'>2</i>\nIP44<i class='cnt'>444</i>\nIP45<i class='cnt'>79</i>\nIP54<i class='cnt'>215</i>\nIP55<i class='cnt'>2900</i>\nIP56<i class='cnt'>1</i>\nIP57<i class='cnt'>9</i>\nIP65<i class='cnt'>169</i>\nTyp motoru\n– Vše –\nAC<i class='cnt'>3603</i>\nEC<i class='cnt'>348</i>\nMaximální teplota vzdušniny [°C]\n40<i class='cnt'>534</i>\n45<i class='cnt'>8</i>\n50<i class='cnt'>23</i>\n55<i class='cnt'>1</i>\n60<i class='cnt'>124</i>\n65<i class='cnt'>1</i>\n70<i class='cnt'>168</i>\n75<i class='cnt'>3</i>\n80<i class='cnt'>8</i>\n100<i class='cnt'>5</i>\n110<i class='cnt'>14</i>\n120<i class='cnt'>133</i>\n150<i class='cnt'>35</i>\n180<i class='cnt'>2</i>\n200<i class='cnt'>19</i>\n300<i class='cnt'>24</i>\n400<i class='cnt'>43</i>\n450<i class='cnt'>106</i>\nÚvod\nSlužby\nKontaktujte nás\nVaše jméno\nVáš e-mail\nVáš telefon\nVaše zpráva"
+    },
+    "contact_page": {}
+  }
+}

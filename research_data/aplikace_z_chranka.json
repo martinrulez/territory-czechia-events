@@ -1,0 +1,31 @@
+{
+  "company_key": "aplikace_z_chranka",
+  "company_name": "Aplikace Záchranka",
+  "domain": "",
+  "events": "URBIS Smart Cities 2026",
+  "technographics": {
+    "success": false,
+    "error": "No company found",
+    "from_cache": true
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "FILIP MALEŇÁK",
+        "firstName": "FILIP",
+        "lastName": "MALEŇÁK",
+        "jobTitle": "ředitel",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:06:34"
+}

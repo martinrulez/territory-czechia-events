@@ -1,0 +1,111 @@
+{
+  "company_key": "ministry of regional development",
+  "company_name": "Ministry of Regional Development",
+  "domain": "www.minregionbud.gov.ua",
+  "domain_url": "https://www.minregionbud.gov.ua",
+  "events": "URBIS Smart Cities 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Ministry of Regional Development",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 27,
+    "revenue": 9088,
+    "zi_company_name": "Ministry of Regional Development",
+    "zi_domain": "www.minregionbud.gov.ua",
+    "zi_city": "",
+    "zi_country": "Ukraine",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": false,
+    "domain": "https://www.minregionbud.gov.ua",
+    "homepage": {},
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Ministry of Regional Development",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 4,
+    "contacts": [
+      {
+        "first_name": "Yildiray",
+        "last_name": "Bayram",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Ministry of Regional Development",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 84.0
+      },
+      {
+        "first_name": "Agnes",
+        "last_name": "Blijer",
+        "title": "Chief Administrative Officer",
+        "email": "",
+        "phone": "",
+        "company": "Ministry of Regional Development",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 86.0
+      },
+      {
+        "first_name": "Martin",
+        "last_name": "Danek",
+        "title": "Unit Department of Building Regulations Head of Technical",
+        "email": "",
+        "phone": "",
+        "company": "Ministry of Regional Development",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Monika",
+        "last_name": "Jurczyk",
+        "title": "Head of Unit",
+        "email": "",
+        "phone": "",
+        "company": "Ministry of Regional Development",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 91.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 1
+  },
+  "research_timestamp": "2026-04-23 17:33"
+}

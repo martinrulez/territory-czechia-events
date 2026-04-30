@@ -1,0 +1,272 @@
+{
+  "company_key": "czech chamber of architects (cka)",
+  "company_name": "Czech Chamber of Architects (CKA)",
+  "domain": "www.ckallc.com",
+  "domain_url": "https://www.ckallc.com",
+  "events": "Digi/BIM Day CKA 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Czech Chamber of Architects (CKA)",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 99,
+    "revenue": 22422,
+    "zi_company_name": "Cka",
+    "zi_domain": "www.ckallc.com",
+    "zi_city": "Sterling",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ckallc.com",
+    "homepage": {
+      "title": "CKA, LLC - Information Technology, Network Solutions",
+      "description": "Transferring Knowledge to Solutions",
+      "text_excerpt": "CKA, LLC - Information Technology, Network Solutions\nISO 9001:2015 Certified\nHome\nSolutions\nProgram Management Office\nCybersecurity\nFinancial Management\nApplication Development\nIT Operations/Sustainment\nEmerging Technologies\nVehicles\nIT Schedule 70\nITES-3S\nDIA SITE III\nSeaPort-E\nNews\nCareers\nAbout Us\nContact\nWelcome to CKA, LLC\nWelcome to CKA, LLC\nWelcome to CKA, LLC\nWelcome to CKA, LLC\nContact Us\nWelcome to CKA, LLC\nWelcome to CKA, LLC\nWelcome to CKA, LLC\nWelcome to CKA, LLC\nContact Us\nOur Solutions\nWho we serve\nWho we are\nMore About Us\nNews\nCareers\nContact\nCKA, LLC\n702 Russell Ave STE 305, Gaithersburg MD 20877\n(240) 753-8282\nCopyright © 2023 CKA, LLC - All Rights Reserved.\nISO 9001:2015 Certified"
+    },
+    "about": {
+      "url": "https://www.ckallc.com/about-us",
+      "text": "About Us\nISO 9001:2015 Certified\nHome\nSolutions\nProgram Management Office\nCybersecurity\nFinancial Management\nApplication Development\nIT Operations/Sustainment\nEmerging Technologies\nVehicles\nIT Schedule 70\nITES-3S\nDIA SITE III\nSeaPort-E\nNews\nCareers\nAbout Us\nContact\nAbout Us\nCKA, LLC is a Minority owned  Small Business Joint Venture headquartered in Gaithersburg, Maryland.  We deliver enterprise solutions for Data Center Operations, Data Center Management, Critical Infrastructure, Cyber Security, Enterprise Service Desk, Cloud Computing, Big Data, and IT Strategic Planning for the Federal and Commercial sectors. CKA is committed to adhering to the highest standards of quality and integrity for our customers.\nMission and Core Values\nCKA's mission is to meet our customers' goals through an adherence to sound business ethics, integrity, and quality throughout all of our professional practices. Our vision is to provide our clients with the best, most innovative solutions to meet their business needs. Forming strategic alliances with other companies enables us to provide specialized support to our Customers. In doing this, we focus on understanding of our Customer's mission, business and technical requirements. We collaborate with our Customers throughout the life cycle of the project to ensure success.\nNews\nCareers\nContact\nCKA, LLC\n702 Russell Ave STE 305, Gaithersburg MD 20877\n(240) 753-8282\nCopyright © 2023 CKA, LLC - All Rights Reserved.\nISO 9001:2015 Certified"
+    },
+    "products": {},
+    "contact_page": {
+      "url": "https://www.ckallc.com/contact",
+      "text": "Contact\nISO 9001:2015 Certified\nHome\nSolutions\nProgram Management Office\nCybersecurity\nFinancial Management\nApplication Development\nIT Operations/Sustainment\nEmerging Technologies\nVehicles\nIT Schedule 70\nITES-3S\nDIA SITE III\nSeaPort-E\nNews\nCareers\nAbout Us\nContact\nContact us\ncontact us. We would love to hear from you.\nBetter yet, come see us in person!\nWe love our customers, so feel free to visit during normal business hours.\nCKA, LLC\n702 Russell Avenue, STE 305 Gaithersburg, Maryland 20877, United States\n(240) 753-8282\nDrop us a line!\nDrop us a line!\nName\nEmail*\nThis site is protected by reCAPTCHA and the Google\nPrivacy Policy\nand\nTerms of Service\napply.\nSend\nCancel\nDrop us a line!\nGet directions\nNews\nCareers\nContact\nCKA, LLC\n702 Russell Ave STE 305, Gaithersburg MD 20877\n(240) 753-8282\nCopyright © 2023 CKA, LLC - All Rights Reserved.\nISO 9001:2015 Certified"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "Czech Chamber of Architects (CKA)",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 26,
+    "all_technologies": [
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Windows Server 2003",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft SQL Server 2008",
+        "vendor": "Microsoft Corporation",
+        "category": "Server Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "Microsoft Outlook",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Communication and Collaboration Software",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Linux",
+        "vendor": "Linux Kernel Organization",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "GoDaddy Email Hosting",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft 365",
+        "vendor": "Microsoft Corporation",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "BMC Remedy",
+        "vendor": "BMC Software, Inc.",
+        "category": "IT Service Management",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Brocade",
+        "vendor": "Broadcom Inc.",
+        "category": "Network Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "Citrix Cloud",
+        "vendor": "Citrix Systems, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Unix",
+        "vendor": "The Open Group",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "VMware",
+        "vendor": "Broadcom Inc.",
+        "category": "Platforms as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Exchange Online",
+        "vendor": "Microsoft Corporation",
+        "category": "Email Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon Web Hosting",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "GoDaddy SSL Certificates",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "SSL Certificates",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Microsoft SharePoint",
+        "vendor": "Microsoft Corporation",
+        "category": "Team Collaboration",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "GoDaddy DNS",
+        "vendor": "GoDaddy Operating Company, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Microsoft Windows Server 2008",
+        "vendor": "Microsoft Corporation",
+        "category": "Operating Systems",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "HP OpenView",
+        "vendor": "HP Development Company, L.P",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Apache",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Adobe Creative Suite",
+        "vendor": "Adobe Inc.",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Adobe",
+        "vendor": "Adobe Inc.",
+        "category": "Other Data Management Software",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "VMware vSphere",
+        "vendor": "VMware, Inc",
+        "category": "Virtualization",
+        "categoryParent": "DevOps"
+      },
+      {
+        "product": "Microsoft SQL Server",
+        "vendor": "Microsoft Corporation",
+        "category": "Databases",
+        "categoryParent": "Data Management"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Czech Chamber of Architects (CKA)",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Song",
+        "last_name": "Yunfeng",
+        "title": "Chief Executive Officer",
+        "email": "",
+        "phone": "",
+        "company": "Cka",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 85.0
+      },
+      {
+        "first_name": "Carina",
+        "last_name": "Ruiz",
+        "title": "Co-Founder",
+        "email": "",
+        "phone": "",
+        "company": "Cka",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      },
+      {
+        "first_name": "Lloyd",
+        "last_name": "Farmer",
+        "title": "Senior Vice President",
+        "email": "lloyd.farmer@ckallc.com",
+        "phone": "(443) 378-5850",
+        "company": "Cka",
+        "country": "",
+        "has_email": true,
+        "has_phone": true,
+        "accuracy_score": 98.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 18:40"
+}

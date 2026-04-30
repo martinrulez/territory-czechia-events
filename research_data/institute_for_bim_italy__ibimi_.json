@@ -1,0 +1,316 @@
+{
+  "company_key": "institute for bim italy (ibimi)",
+  "company_name": "Institute for BIM Italy (IBIMI)",
+  "domain": "www.ibimi.it",
+  "domain_url": "https://www.ibimi.it",
+  "events": "BIM DAY 2026",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "Institute for BIM Italy (IBIMI)",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 14,
+    "revenue": 1619,
+    "zi_company_name": "Ibimi",
+    "zi_domain": "www.ibimi.it",
+    "zi_city": "Rome",
+    "zi_country": "Italy",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.ibimi.it",
+    "homepage": {
+      "title": "IBIMI – diventa un professionista del BIM",
+      "description": "",
+      "text_excerpt": "IBIMI – diventa un professionista del BIM\nIscritta nell’Elenco delle Associazioni Professionali del Ministero delle Imprese e del Made in Italy – MIMIT\nDiventa un\nprofessionista\ndel BIM\nSegui la Roadmap\nCONSAPEVOLEZZA\nFORMAZIONE\nESPERIENZA\nCERTIFICAZIONE\nDiventa un professionista del BIM\nSEGUI LA ROADMAP\nDiventa un\nprofessionista\ndel BIM\nCONSAPEVOLEZZA\nFORMAZIONE\nESPERIENZA\nCERTIFICAZIONE\nCONSAPEVOLEZZA\nTEST DI AUTOVALUTAZIONE\nVuoi assumere la proprietà dell’approccio BIM e guidare l’innovazione nella tua professione? Prima di iniziare un percorso di formazione BIM, è fondamentale\ncapire quali conoscenze e competenze possiedi già e quali devi ancora sviluppare\nper adottare in modo efficace la metodologia BIM.\nIBIMI ti aiuta a valutare il tuo livello di preparazione e a individuare il percorso formativo più adatto per crescere come professionista BIM. Sei pronto al cambiamento ma non sai da dove cominciare? Ti accompagniamo passo dopo passo verso la piena padronanza del BIM.\nFORMAZIONE\nLa conoscenza e l’implementazione della metodologia BIM richiedono competenze specifiche e formazione mirata. IBIMI guida i professionisti verso\npercorsi formativi e Organismi di Formazione certificati che offrono contenuti di alta qualità,\nin linea con le migliori pratiche internazionali, coprendo tutti gli aspetti della digitalizzazione nel settore delle costruzioni.\nScopri gli Organismi di Formazione riconosciuti da IBIMI e scegli il percorso BIM più adatto alle tue esigenze professionali.\nCORSI DI FORMAZIONE\nESPERIENZA\nOggi il BIM non riguarda solo gli edifici, ma anche infrastrutture e territori. Committenti, project manager, imprese edili, operatori e asset manager collaborano utilizzando il BIM per gestire progetti complessi in modo più efficiente.\nAcquisisci nuove commesse o trova lavoro nelle principali realtà del settore edile.\nCarica il tuo CV sul primo portale italiano interamente dedicato al mondo BIM\ne valorizza le tue competenze professionali.\nPORTALE LAVORO\nCERTIFICAZIONE\nCon IBIMI puoi valorizzare le tue competenze ed esperienze nel settore BIM ottenendo certificazioni professionali ACCREDIA secondo la norma UNI 11337/7.\nIBIMI offre inoltre anche altri riconoscimenti:\nAttestato di Qualità e di Qualificazione Professionale\nai sensi della legge 4/2013, e la qualifica\nFondamenti\n, riconosciuta a livello internazionale da buildingSMART International, che aggiunge valore globale al tuo profilo professionale.\nScopri come ottenere le certificazioni e valorizzare il tuo percorso BIM.\nSCOPRI DI PIU'\nNews ed Eventi\nNews\nEventi\nOltre il BIM, verso il futuro: AI, Digital Twin e standard aperti protagonisti del record di presenze alla 9° Conferenza IBIMI\nNews\nEventi\n“be smart, be open”: la 9° Conferenza Nazionale IBIMI buildingSMART Italia\nNews\nEventi\nTorna il bimOPENtour: prima tappa a Novara il 1° aprile\nNews\nEventi\nB-CAD 2026: il Presidente Nissim al MIMIT in qualità di Ambassador\nNews\nBlog\nDalla Presidenza\nopenBIM, gare pubbliche e concorrenza: cosa dice dav"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  },
+  "technographics": {
+    "success": true,
+    "company": "Institute for BIM Italy (IBIMI)",
+    "autodesk_products": [],
+    "competitor_products": [
+      "Vectorworks"
+    ],
+    "cad_bim_other": [],
+    "total_technologies": 38,
+    "all_technologies": [
+      {
+        "product": "Aruba SpA",
+        "vendor": "Aruba S.p.A.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Woo Themes",
+        "vendor": "WooCommerce",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Vectorworks",
+        "vendor": "Vectorworks",
+        "category": "Computer Aided Design",
+        "categoryParent": "Vertical Industries"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Twitter for Websites",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Underscore.js",
+        "vendor": "Underscore.js",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery Migrate",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "jQuery UI",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "MediaElement.js",
+        "vendor": "Mediaelement.Js",
+        "category": "Other Audio, Video, Graphics Software",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "iubenda",
+        "vendor": "iubenda s.r.l",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "HPE Aruba Networks",
+        "vendor": "Hewlett Packard Enterprise Development LP",
+        "category": "Network Hardware",
+        "categoryParent": "Hardware"
+      },
+      {
+        "product": "Google Forms",
+        "vendor": "Google LLC",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Mapbox GL JS API",
+        "vendor": "Mapbox Inc",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Facebook Like Button",
+        "vendor": "Facebook, Inc.",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Bootstrap",
+        "vendor": "Twitter, Inc.",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CAPTCHA (common)",
+        "vendor": "",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Tweet Button",
+        "vendor": "Twitter, Inc.",
+        "category": "Social Sharing",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "PHP",
+        "vendor": "PHP Group",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "reCAPTCHA",
+        "vendor": "Google LLC",
+        "category": "CAPTCHA",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "WooCommerce",
+        "vendor": "Automattic Inc",
+        "category": "E-Commerce Platforms",
+        "categoryParent": "E-Commerce"
+      },
+      {
+        "product": "Apache HTTP Server",
+        "vendor": "The Apache Software Foundation",
+        "category": "Web and Application Servers",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Gravity Forms",
+        "vendor": "Rocketgenius, Inc.",
+        "category": "Online Form Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Workspace",
+        "vendor": "Google LLC",
+        "category": "Office Suites",
+        "categoryParent": "Communication and Collaboration"
+      },
+      {
+        "product": "Google Tag Manager",
+        "vendor": "Google LLC",
+        "category": "Tag Management",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Vimeo",
+        "vendor": "Vimeo, Inc.",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "YouTube",
+        "vendor": "Google LLC",
+        "category": "Online Video Platforms",
+        "categoryParent": "Audio, Video, Graphics"
+      },
+      {
+        "product": "Google Font API",
+        "vendor": "Google LLC",
+        "category": "Web Fonts",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Cloudflare CDN",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "WordPress.org",
+        "vendor": "Automattic Inc",
+        "category": "Website Builders",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Aruba Hosting",
+        "vendor": "Aruba S.p.A.",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "Institute for BIM Italy (IBIMI)",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 1,
+    "contacts": [
+      {
+        "first_name": "Ibim",
+        "last_name": "Atlacomulco",
+        "title": "Coordinador De Recursos Humanos",
+        "email": "",
+        "phone": "",
+        "company": "Ibimi",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 16:04"
+}

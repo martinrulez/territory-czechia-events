@@ -1,0 +1,416 @@
+{
+  "company_key": "accuride international ltd.",
+  "company_name": "ACCURIDE International Ltd.",
+  "domain": "www.accuride.com",
+  "domain_url": "https://www.accuride.com",
+  "events": "MSV 2025 Full Exhibitor List",
+  "event_count": 1,
+  "lead_class": "new_market",
+  "matched_account_id": null,
+  "enrichment": {
+    "company_name": "ACCURIDE International Ltd.",
+    "opportunity_score": 14,
+    "estimated_deal_eur": 2200,
+    "primary_segment": "unknown",
+    "size_tier": "small",
+    "timing_signals": [],
+    "fit_score": 0.2,
+    "component_scores": {
+      "size": 0.3,
+      "revenue": 0.2,
+      "nace_fit": 0.2,
+      "event_relevance": 0.25,
+      "signals": 0.0,
+      "client_bonus": 0.0
+    },
+    "ares_done": true,
+    "ares_error": "Not found in ARES",
+    "zi_done": true,
+    "employee_count": 115,
+    "revenue": 13502,
+    "zi_company_name": "Accuride International",
+    "zi_domain": "www.accuride.com",
+    "zi_city": "Santa Fe Springs",
+    "zi_country": "United States",
+    "zi_industry": "",
+    "zi_sub_industry": ""
+  },
+  "website_data": {
+    "success": true,
+    "domain": "https://www.accuride.com",
+    "homepage": {
+      "title": "",
+      "description": "",
+      "text_excerpt": "Accuride\ncustomer service\n888-491-7112\nFacebook\nTwitter\nInstagram\nWe Design & Manufacture Innovative Movement Solutions\nAPPLIANCES\nAUTOMATION & MACHINERY\nAUTOMOTIVE/ EV INTERIORS\nCOMMERCIAL KITCHENS\nCLOUD/AI SERVER\nContact our Solutions Specialist\n888-491-7112\nCUSTOM OEM SOLUTIONS\nLEARN MORE\nLATEST BLOGS\nREAD MORE\nCASE STUDIES\nREAD MORE"
+    },
+    "about": {},
+    "products": {
+      "url": "https://www.accuride.com/products",
+      "text": "Learn More About Accuride Products | Quality, Variety & Dependability\nAccuride\ncustomer service\n888-491-7112\nFacebook\nTwitter\nInstagram\nProducts\nExplore the variety of movement solutions and accessories we offer to propel your project forward and enhance your application’s design.\nTo narrow down your search, you can choose a category below.\nDrawer slides\nAccuride specializes in the global manufacturing of high-quality, custom drawer slides. From light-duty to heavy- and even super-duty, you are guaranteed to find a movement solution that not only complements but also elevates your design.\nLight, Medium and Heavy Duty Slides\nLEARN MORE\nLIGHT DUTY\nFor lighter applications, our light-duty sliding solutions bring better performance and reliability to any application with a maximum load rating of 140 lbs.\nLearn More\nMEDIUM DUTY\nKnown around the world for their versatility, our medium-duty drawer slides bear loads from 140 lbs. - 170 lbs.\nLearn More\nHEAVY DUTY\nDesigned for more robust applications, our heavy-duty drawer slides are built to withstand loads ranging from 170 lbs. - 600 lbs.\nLearn More\nSUPER HEAVY DUTY\nBuilt to withstand the toughest environments, our super heavy-duty drawer slides have load ratings over 600 lbs.\nLearn More\nSPECIALTY SLIDES\nFor more distinct and exclusive applications, we wield our engineering expertise to create movement solutions that transcend conventional drawer slides and workstations. Two-Way Travel, Linear Track Systems, Flipper & Pocket door Slides, Media Access, Keyboard Systems, Tilt-Track System, Pocket & Bayonet and Corrosion-Resistant Slides.\nLearn More\nELECTRONIC ENCLOSURE SLIDES\nWe offer many sliding solutions for 1U to 8U chassis. Our solutions include narrow side-space, over-travel (for easier access), locking mechanisms, disconnects, and adjustable bracket mounting.\nLearn More\nACCESS CONTROL\nOur access control products are designated for commercial drawer and door applications. Accuride’s access control systems are easy to use, install, and program--built to last even in the most demanding commercial environments.\nLearn More\nACCESSORIES\nBrowse some of Accuride’s additional accessories to give your application that extra push towards perfection.\nLearn More\nSTORE\nFeel ready to start browsing and adding Accuride products to your shopping cart? Visit our online store, try our trusty Slide Selector tool, search through our distribution partners, or check out our OEM custom program to find the movement solution that brings your application one step closer to completion.\nShop More"
+    },
+    "contact_page": {
+      "url": "https://www.accuride.com/contact",
+      "text": "Contact\nAccuride\n12311 Shoemaker Avenue\nSanta Fe Springs\nCalifornia\n90670\nUnited States\n888-491-7112"
+    }
+  },
+  "technographics": {
+    "success": true,
+    "company": "ACCURIDE International Ltd.",
+    "autodesk_products": [],
+    "competitor_products": [],
+    "cad_bim_other": [],
+    "total_technologies": 70,
+    "all_technologies": [
+      {
+        "product": "Zendesk",
+        "vendor": "Zendesk, Inc.",
+        "category": "Other Customer Service Software",
+        "categoryParent": "Customer Service"
+      },
+      {
+        "product": "IFS",
+        "vendor": "IFS Americas, Inc.",
+        "category": "Enterprise Resource Planning",
+        "categoryParent": "Operations"
+      },
+      {
+        "product": "Silktide",
+        "vendor": "Silktide Ltd",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Bing Ads",
+        "vendor": "Microsoft Corporation",
+        "category": "Advertising Networks",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "DoubleClick Conversion",
+        "vendor": "Google LLC",
+        "category": "Other Advertising Software",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "SLI Systems",
+        "vendor": "S.L.I. Systems, Inc.",
+        "category": "Site Search",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "DoubleClick",
+        "vendor": "Google LLC",
+        "category": "Ad Exchanges",
+        "categoryParent": "Advertising"
+      },
+      {
+        "product": "Microsoft",
+        "vendor": "Microsoft Corporation",
+        "category": "Other Intelligence and Analytics Software",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Prove (formerly Payfone)",
+        "vendor": "Prove",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Quali",
+        "vendor": "QualiSystems Ltd.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Cloudflare",
+        "vendor": "Cloudflare, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Amazon AWS",
+        "vendor": "Amazon.com, Inc.",
+        "category": "Infrastructures as a Service",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Siteimprove",
+        "vendor": "Siteimprove A/S",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Newsle",
+        "vendor": "LinkedIn Corporation",
+        "category": "Machine Learning",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "New Relic",
+        "vendor": "New Relic, Inc.",
+        "category": "Other IT Infrastructure Software",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Network Solutions DNS",
+        "vendor": "Network Solutions, LLC",
+        "category": "Domain Name Services",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "LinkedIn Insight Tag",
+        "vendor": "LinkedIn Corporation",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "HTML",
+        "vendor": "WHATWG",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Hygraph",
+        "vendor": "Hygraph",
+        "category": "Enterprise Content Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "Google Hosted Libraries",
+        "vendor": "Google LLC",
+        "category": "Content Delivery Networks",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Google API",
+        "vendor": "Google LLC",
+        "category": "API Management",
+        "categoryParent": "Data Management"
+      },
+      {
+        "product": "CSS",
+        "vendor": "World Wide Web Consortium",
+        "category": "Programming Languages",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "NTENT Hosting",
+        "vendor": "NTENT Inc",
+        "category": "Web Hosting",
+        "categoryParent": "IT Infrastructure"
+      },
+      {
+        "product": "Twitter Cards",
+        "vendor": "Twitter, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "jQuery",
+        "vendor": "The jQuery Foundation Inc",
+        "category": "Frameworks and Libraries",
+        "categoryParent": "Programming"
+      },
+      {
+        "product": "Ahrefs",
+        "vendor": "Ahrefs Pte. Ltd.",
+        "category": "Search Marketing",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Discover",
+        "vendor": "DFS Services LLC",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Google Global Site Tag",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Siteimprove Analytics",
+        "vendor": "Siteimprove A/S",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Bing Universal Event Tracking",
+        "vendor": "Microsoft Corporation",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "Barracuda Email Security Gateway",
+        "vendor": "Barracuda Networks, Inc.",
+        "category": "Email Security",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "LinkedIn Recruiter",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Font Awesome",
+        "vendor": "Fonticons, Inc.",
+        "category": "Other Web Tools and Plugins",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "MailMunch",
+        "vendor": "MailMunch",
+        "category": "Lead Generation",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Cookie Consent",
+        "vendor": "Silktide Ltd",
+        "category": "Consent Management",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "LinkedIn Sales Navigator",
+        "vendor": "LinkedIn Corporation",
+        "category": "Sales Intelligence",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Pinterest for Business",
+        "vendor": "Pinterest, Inc.",
+        "category": "Other Marketing Software",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "Connectifier",
+        "vendor": "LinkedIn Corporation",
+        "category": "Applicant Tracking Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Microsoft (common)",
+        "vendor": "Microsoft Corporation",
+        "category": "Miscellaneous",
+        "categoryParent": "Miscellaneous"
+      },
+      {
+        "product": "Barracuda Networks",
+        "vendor": "Barracuda Networks, Inc.",
+        "category": "Other Security Software",
+        "categoryParent": "Security"
+      },
+      {
+        "product": "Lynda Business",
+        "vendor": "LinkedIn Corporation",
+        "category": "Corporate Learning Management Systems",
+        "categoryParent": "Human Resources"
+      },
+      {
+        "product": "Google Maps API (free)",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "CallRail",
+        "vendor": "CallRail Inc.",
+        "category": "Call Tracking",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "LinkedIn Login",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Linkedin JavaScript SDK",
+        "vendor": "LinkedIn Corporation",
+        "category": "Social Login",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Google Maps API",
+        "vendor": "Google LLC",
+        "category": "Mapping and GIS",
+        "categoryParent": "Web Tools and Plugins"
+      },
+      {
+        "product": "Yotpo",
+        "vendor": "Yotpo Inc",
+        "category": "Online Review Management",
+        "categoryParent": "Marketing"
+      },
+      {
+        "product": "SugarCRM",
+        "vendor": "SugarCRM Inc.",
+        "category": "Customer Relationship Management",
+        "categoryParent": "Sales"
+      },
+      {
+        "product": "Google Universal Analytics",
+        "vendor": "Google LLC",
+        "category": "Web Analytics",
+        "categoryParent": "Intelligence and Analytics"
+      },
+      {
+        "product": "PayPal",
+        "vendor": "PayPal Holdings, Inc.",
+        "category": "Payment Processing",
+        "categoryParent": "E-Commerce"
+      }
+    ],
+    "from_cache": false
+  },
+  "contacts": {
+    "success": true,
+    "company_name": "ACCURIDE International Ltd.",
+    "segment": "unknown",
+    "country": "Czech Republic",
+    "contacts_found": 3,
+    "contacts": [
+      {
+        "first_name": "Laurent",
+        "last_name": "Trémolière",
+        "title": "Chief Operating Officer & Managing Director",
+        "email": "",
+        "phone": "",
+        "company": "Accuride International",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 78.0
+      },
+      {
+        "first_name": "Larry",
+        "last_name": "Campbell",
+        "title": "Senior Vice President-Finance-Chief Financial Officer",
+        "email": "",
+        "phone": "",
+        "company": "Accuride International",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 81.0
+      },
+      {
+        "first_name": "Laurent",
+        "last_name": "Tremolieres",
+        "title": "Chief Operating Officer and Geschäftsführer",
+        "email": "",
+        "phone": "",
+        "company": "Accuride International",
+        "country": "Czech Republic",
+        "has_email": false,
+        "has_phone": false,
+        "accuracy_score": 90.0
+      }
+    ],
+    "from_cache": false,
+    "contacts_cleaned": true,
+    "removed_non_czech": 2
+  },
+  "research_timestamp": "2026-04-23 18:57"
+}

@@ -1,0 +1,42 @@
+{
+  "company_key": "teco_a_s",
+  "company_name": "Teco a.s.",
+  "domain": "",
+  "events": "FOR ARCH 2026",
+  "technographics": {
+    "success": false,
+    "error": "No technographics found"
+  },
+  "contacts": {
+    "success": true,
+    "contacts": [
+      {
+        "fullName": "ROBERT MATULÍK",
+        "firstName": "ROBERT",
+        "lastName": "MATULÍK",
+        "jobTitle": "člen správní rady",
+        "email": "",
+        "phone": "",
+        "linkedin": "",
+        "source": "ares_vr"
+      }
+    ],
+    "total_found": 1,
+    "sources_used": [
+      "ares_vr"
+    ]
+  },
+  "research_timestamp": "2026-04-24 17:42:10",
+  "website_data": {
+    "success": true,
+    "domain": "https://catalog.tecomat.cz",
+    "homepage": {
+      "title": "Úvod / Teco Catalog",
+      "description": "Kompletní nabídka a přehled produktů",
+      "text_excerpt": "Úvod / Teco Catalog\nTeco Catalog\nTecomat.cz\nHlavní web s informacemi o společnosti a produktech\nTeco Catalog / B2B\nKompletní přehled produktů a B2B e-shop\nTeco Wiki\nZnalostní báze plná článků, návodů a video tutoriálů\nTeco Support\nNarazili jste na problém? Poradíme vám\nTeco Catalog\nKompletní nabídka a přehled produktů\nZvolit kategorii\nPLC Tecomat TC800\nTC800 - Centrální moduly\nTC800 - Centrální moduly, příslušenství\nTC800 - Komunikační moduly\nTC800 - Rozšiřující moduly vstupů a výstupů\nTC800 - Příslušenství k rozšiřujícím modulům\nTC800 - Napájecí moduly\nTC800 - Rámy PLC\nPLC Tecomat TC700\nTC700 - Centrální moduly\nTC700 - Příslušenství k centrálním modulům\nTC700 - Rozšiřující moduly vstupů a výstupů\nTC700 - Příslušenství k rozšiřujícím modulům\nTC700 - Polohovací a čítačové moduly\nTC700 - Komunikační moduly\nTC700 - Napájecí moduly\nTC700 - Rámy PLC\nTC700 - Příslušenství k rámům PLC\nPLC Tecomat Foxtrot\nFoxtrot 2 - Základní moduly\nFoxtrot 2 - Příslušenství k základním modulům\nFoxtrot 2 - Open Frame, základní a rozšiřující moduly\nFoxtrot - Rozšiřující moduly vstupů a výstupů (TCL2)\nFoxtrot - Příslušenství k rozšiřovacím modulům\nFoxtrot - Komunikační moduly (TCL2)\nFoxtrot - Napájecí moduly\nFoxtrot 1 - Základní moduly\nFoxtrot 1 - Příslušenství k základním modulům\nFoxtrot 1 - OEM základní moduly\nCFox - CIB sběrnicové moduly\nCFox - Systémové moduly CIB\nCFox - Moduly na DIN lištu\nCFox - Vestavné moduly\nCFox - Exteriérové moduly, IP54/65\nCFox - Interiérové moduly\nCFox - CIB nástěnné ovladače a sensory\nCFox - Teco, dotykové ovladače\nCFox - Dotykové ovladače C-WS-0001R\nCFox - Dotykové ovladače řady C-ID-0011R\nCFox - Dotykové ovladače řady C-ID-0111R\nCFox - Touch@Glass, přístroje\nCFox - Touch@Glass, Krycí skla\nCFox - LOGUS, Kryty a přístroje\nCFox - LOGUS, Rámečky\nCFox - DECENTE, Kryty a přístroje\nCFox - DECENTE, Rámečky\nCFox - ELEGANT, Kryty a přístroje\nCFox - ELEGANT, Rámečky\nCFox - Time, Kryty a přístroje\nCFox - Time, Rámečky\nRFox2 - bezdrátová radiová síť\nRFox2 - Systémové moduly\nRFox2 - Antény 868 MHz\nRFox2 - Moduly na DIN lištu\nRFox2 - Vestavné moduly\nRFox2 - Interiérové moduly\nKomunikační moduly\nKomunikace - Ethernet\nKomunikace - Sériové porty\nDispleje, operátorské panely\nHMI - Grafické dotykové panely\nHMI - Alfanumerické panely\nČidla, měřiče, komunikátory\nTeplota - Vnitřní senzory, na kabelu\nTeplota - Venkovní sensory, IP54/65\nTeplota - Příslušenství k senzorům\nElektroměry\nElektroměry - Příslušenství\nVodoměry, plynoměry, tlakoměry, ventily\nHladina, zaplavení\nMeteo\nNámraza, déšť, rosení, sluneční radiace\nPříslušenství systémové instalace\nPříslušenství - Vytápění\nPříslušenství - Zabezpečení, požár, přístup\nSmart City, Doplňkové produkty\nSignalizační zařízení pro nevidomé\nTEO - Teco Energy Optimizer\nSW: Mosaic - IEC 61131-3\nMosaic - Programování PLC\nMosaic - Aplikační profily\nMosaic - Knihovny funkčních bloků\nMosaic - Příručky SW\nSW: SCADA Reliance 5\nReliance 5 - Design\nReliance 5 - Control\nReliance 5 - Control Server\nReliance 5 - View\nReliance 5 - Combi Pac"
+    },
+    "about": {},
+    "products": {},
+    "contact_page": {}
+  }
+}
