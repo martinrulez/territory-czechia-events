@@ -1838,7 +1838,22 @@ with tab_contacts:
             email = email_match.group(1).rstrip(";,")
             name = email.split("@")[0].replace(".", " ").title()
             _add_ct(name, "Purchaser (CRM)", email, "", "", ad["company_name"], "CRM")
+
+    # Build matched_account_id lookup for client filtering
+    _matched_lookup = {}
+    for row in conn_ct.execute(
+        "SELECT DISTINCT company_name, matched_account_id FROM event_companies "
+        "WHERE matched_account_id IS NOT NULL AND matched_account_id != ''"
+    ).fetchall():
+        rd = dict(row)
+        _matched_lookup[rd["company_name"].lower().strip()] = rd["matched_account_id"]
     conn_ct.close()
+
+    # Filter contacts to show only the active user's client companies
+    all_contacts_list = [
+        ct for ct in all_contacts_list
+        if is_user_client(ct.get("Company", ""), _matched_lookup.get(ct.get("Company", "").lower().strip()))
+    ]
 
     # Score all contacts (lightweight: no per-company DB lookups for the table)
     for ct in all_contacts_list:
@@ -2078,7 +2093,22 @@ with tab_outreach:
             parts = name.split(None, 1)
             _add_out_contact(name, parts[0] if parts else "", parts[1] if len(parts) > 1 else "",
                             "Purchaser (CRM)", email, "", ad["company_name"], "", "CRM")
+
+    # Build matched_account_id lookup for client filtering
+    _out_matched = {}
+    for row in conn_out.execute(
+        "SELECT DISTINCT company_name, matched_account_id FROM event_companies "
+        "WHERE matched_account_id IS NOT NULL AND matched_account_id != ''"
+    ).fetchall():
+        rd = dict(row)
+        _out_matched[rd["company_name"].lower().strip()] = rd["matched_account_id"]
     conn_out.close()
+
+    # Filter to active user's client companies only
+    outreach_contacts = [
+        ct for ct in outreach_contacts
+        if is_user_client(ct.get("company", ""), _out_matched.get(ct.get("company", "").lower().strip()))
+    ]
 
     outreach_contacts.sort(key=lambda x: (x["company"].lower(), x["name"].lower()))
 
